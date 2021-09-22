@@ -148,6 +148,7 @@
                                 <li>Combinación de 4 GE / SFP y 2 x 10G SFP +</li>                
                                 <li>Energía AC / DC</li>
                                 <li>Capacidad de conmutación de hasta 108 Gbps </li>
+                                <p> Prueba </p>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
