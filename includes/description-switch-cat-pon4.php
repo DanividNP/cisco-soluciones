@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco Catalyst PON 1-puerto ONT</h3>
+                <h3 class="title-border">Cisco Catalyst PON 4-puertos ONT</h3>
                 <h5>Facilite la actualización de su red óptica pasiva (PON)</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-pon-1.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/switches/cat-pon-4.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst PON 1-port GPON ONT Switch, PoE+</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst PON 4-port GPON ONT Switch, PoE+</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CGP-ONT-1P<br>
-                                        </p>
+                                    <p align='justify'>#CGP-ONT-4P<br>
+                                        <strong>Precio Lista: $411.69</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -189,14 +189,14 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CGP- ONT-1P</th>
+                                            <th colspan="2" style="text-align: center">CGP-ONT-4P</th>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Configuraciones</th>
                                         </tr>
                                         <tr>
                                             <td>Los enlaces descendentes totalizan puertos de cobre 10/100/1000 PoE + </td>
-                                            <td>1 PoE + </td>
+                                            <td>4 PoE+</td>
                                         </tr>
                                         <tr>
                                             <td>Puerto PON de configuración de enlace ascendente </td>
@@ -216,7 +216,7 @@
                                         </tr>
                                         <tr>
                                             <td>Administrador de archivos USB tipo A</td>
-                                            <td>N / A</td>
+                                            <td>1 USB tipo A </td>
                                         </tr>
                                         <tr>
                                             <td>FANS</td>
@@ -227,11 +227,11 @@
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación</td>
-                                            <td>5,75 Gbps</td>
+                                            <td>11,75 Gbps </td>
                                         </tr>
                                         <tr>
                                             <td>Tasa de reenvío</td>
-                                            <td>5.2 Mpps</td>
+                                            <td>9,6 Mpps</td>
                                         </tr>
                                         <tr>
                                             <td>Número total de direcciones MAC </td>
@@ -239,11 +239,11 @@
                                         </tr>
                                         <tr>
                                             <td>Número total de tablas de enrutamiento IPv4</td>
-                                            <td>N / A</td>
+                                            <td>8 rutas estáticas</td>
                                         </tr>
                                         <tr>
                                             <td>Número total de tabla ARP </td>
-                                            <td>N / A</td>
+                                            <td>1K</td>
                                         </tr>
                                         <tr>
                                             <td>T-CONT / Gemport </td>
@@ -275,29 +275,29 @@
                                         </tr>
                                         <tr>
                                             <td>DRAMA </td>
-                                            <td>32 MB de memoria DDR3</td>
+                                            <td>256 MB de memoria DDR3</td>
                                         </tr>
                                         <tr>
                                             <td>Destello </td>
-                                            <td>16 MB</td>
+                                            <td>128 MB</td>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Dimensiones </th>
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (Al x An x Pr) </td>
-                                            <td>1,5 x 4,1 x 7,5 pulgadas<br/>(3,8 x 10,5 x 19,0 cm) </td>
+                                            <td>1,7 x 9,4 x 5,7 pulgadas<br> (4,4 x 24,0 x 14,5 cm) </td>
                                         </tr>
                                         <tr>
                                             <td>Peso </td>
-                                            <td>1,9 libras (0,84 kg)</td>
+                                            <td>2,8 libras (1,25 kg) </td>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Rangos ambientales </th>
                                         </tr>
                                         <tr>
                                             <td>Tiempo medio entre fallos (horas) </td>
-                                            <td>830,000 </td>
+                                            <td>450,000 </td>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Conectores</th>

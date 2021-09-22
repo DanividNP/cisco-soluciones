@@ -10,7 +10,7 @@
         </div> <!-- Title row end -->
         <div class="row">
                 <div class="tab-content">
-                        <center><img class="img-responsive" src="images/switches/CGP-OLT-Series.png" alt=""></center>
+                        <center><img class="img-responsive" src="images/switches/cat-pon-series.png" alt=""></center>
                         <p align="justify">Con características de nivel empresarial, como redundancia de enlace ascendente y de alimentación, alimentación a través de Ethernet 
                             (PoE +) y operaciones simples y de bajo costo, la serie Cisco Catalyst PON le brinda lo que necesita hoy, en una solución GPON simple, segura y rentable. </p>
 

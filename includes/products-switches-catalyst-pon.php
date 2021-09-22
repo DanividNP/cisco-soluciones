@@ -10,7 +10,7 @@
                     <figure class="effect-oscar">
                         <img src="images/switches/CGP-ONT-1P.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="description-switch-cat-pon1.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="switch-cat-pon1.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/CGP-ONT-4P.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href=""><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-pon4.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -51,7 +51,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/CGP-ONT4PV.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href=""><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-pon4-pvcoc.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -72,7 +72,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/CGP-ONT4PVC.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href=""><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-pon4-pvco.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -93,7 +93,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/CGP-ONT4TVCW.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href=""><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-pon4-tvwc.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -114,7 +114,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/CGP-OLT-8T.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href=""><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-pon8.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -136,7 +136,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/CGP-OLT-16T.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href=""><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-pon16.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>

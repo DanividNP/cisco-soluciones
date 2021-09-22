@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco Catalyst PON 1-puerto ONT</h3>
+                <h3 class="title-border">Switch de 8 puertos Cisco Catalyst PON </h3>
                 <h5>Facilite la actualización de su red óptica pasiva (PON)</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-pon-1.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/switches/cat-pon-8.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst PON 1-port GPON ONT Switch, PoE+</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst PON 8-port GPON OLT Switch, 4 GE Combo ports (Copper RJ45 + SFP optical), 2 10GE SFP+</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CGP-ONT-1P<br>
-                                        </p>
+                                    <p align='justify'>#CGP-OLT-8T <br>
+                                        <strong>Precio Lista: $11,115.00</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -189,115 +189,141 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CGP- ONT-1P</th>
+                                            <th colspan="2" style="text-align: center">CGP-OLT-8T</th>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Configuraciones</th>
                                         </tr>
                                         <tr>
-                                            <td>Los enlaces descendentes totalizan puertos de cobre 10/100/1000 PoE + </td>
-                                            <td>1 PoE + </td>
+                                            <td>Puertos PON totales de enlaces descendentes </td>
+                                            <td>8 puertos GPON</td>
                                         </tr>
                                         <tr>
-                                            <td>Puerto PON de configuración de enlace ascendente </td>
-                                            <td>1 GPON (receptáculo SC / APC) </td>
+                                            <td>Configuración de enlaces ascendentes GE Ethernet </td>
+                                            <td>4 puertos Gigabit Combo (cobre RJ45 + SFP óptico) </td>
                                         </tr>
                                         <tr>
-                                            <td>POTS de voz </td>
-                                            <td>N / A </td>
+                                            <td>Configuración de enlace ascendente Ethernet 10G </td>
+                                            <td>2 SFP + </td>
                                         </tr>
                                         <tr>
-                                            <td>CATV coaxial </td>
-                                            <td>N / A</td>
+                                            <td>Consola de administración </td>
+                                            <td>Consola RJ45, OOB GE, Alarma RJ45 </td>
                                         </tr>
                                         <tr>
-                                            <td>Wifi </td>
-                                            <td>N / A</td>
+                                            <td>Fuente de alimentación de CA primaria predeterminada </td>
+                                            <td>PWR-OLT8-80WAC </td>
                                         </tr>
                                         <tr>
-                                            <td>Administrador de archivos USB tipo A</td>
-                                            <td>N / A</td>
+                                            <td>Fuente de alimentación secundaria opcional </td>
+                                            <td>PWR-OLT8-80WAC o PWR-OLT8-72WDC </td>
                                         </tr>
                                         <tr>
                                             <td>FANS</td>
-                                            <td>sin ventilador </td>
+                                            <td>modular</td>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Rendimiento y escalabilidad </th>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación</td>
-                                            <td>5,75 Gbps</td>
+                                            <td>78 Gbps </td>
                                         </tr>
                                         <tr>
                                             <td>Tasa de reenvío</td>
-                                            <td>5.2 Mpps</td>
+                                            <td>65 Mpps </td>
                                         </tr>
                                         <tr>
                                             <td>Número total de direcciones MAC </td>
-                                            <td>2k </td>
+                                            <td> 	32k </td>
                                         </tr>
                                         <tr>
                                             <td>Número total de tablas de enrutamiento IPv4</td>
-                                            <td>N / A</td>
+                                            <td>2k </td>
                                         </tr>
                                         <tr>
                                             <td>Número total de tabla ARP </td>
-                                            <td>N / A</td>
+                                            <td> 8k</td>
                                         </tr>
                                         <tr>
-                                            <td>T-CONT / Gemport </td>
-                                            <td>8/32 </td>
+                                            <td>ID de VLAN</td>
+                                            <td> 4k </td>
                                         </tr>
                                         <tr>
-                                            <td>Velocidad de transmision</td>
-                                            <td>DS: 2,488 Gbps<br/>EE. UU .: 1,244 Gbps</td>
+                                            <td>T-CONT de cada puerto PON </td>
+                                            <td>768 </td>
                                         </tr>
                                         <tr>
-                                            <td>Entradas de escala de QoS</td>
-                                            <td>8 colas de prioridad</td>
+                                            <td>Gemport de cada puerto PON </td>
+                                            <td>3,072 </td>
                                         </tr>
                                         <tr>
-                                            <td>Entradas de filtro de IP / puerto </td>
-                                            <td>20 </td>
+                                            <td>rango ONT de distancia lógica  </td>
+                                            <td> 	60km </td>
                                         </tr>
                                         <tr>
-                                            <td>Entradas de filtro de Mac </td>
-                                            <td>20 </td>
+                                            <td>rango ONT de Distancia física  </td>
+                                            <td>20km </td>
                                         </tr>
                                         <tr>
-                                            <td>Entradas de bloqueo de URL </td>
-                                            <td>8 </td>
+                                            <td>Relación de divisor </td>
+                                            <td>1:64 recomendado<br>Hasta 1: 128 </td>
                                         </tr>
                                         <tr>
-                                            <td>Tramas gigantes</td>
-                                            <td>1,500 bytes </td>
+                                            <td>Modo de protección de red </td>
+                                            <td> 	Tipo B </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Autenticación ONT </td>
+                                            <td>Modo SN<br>
+                                                Modo de contraseña<br>
+                                                Modo de contraseña SN +<br>
+                                                Modo LOID<br>
+                                                Modo de contraseña LOID + LOID </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Entradas de escala de QoS </td>
+                                            <td>SP, WRR, SP + WRR, cos-map, dscp-map Cola: 8 </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Entradas de escala ACL </td>
+                                            <td>2K </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tramas gigantes </td>
+                                            <td>9,220 bytes </td>
                                         </tr>
                                         <tr>
                                             <td>DRAMA </td>
-                                            <td>32 MB de memoria DDR3</td>
+                                            <td>Conmutador DDR3 de 1 GB<br>
+                                                PON CPU-256 MB DDR3<br>
+                                                PON ICF0- 512 MB DDR3 </td>
                                         </tr>
                                         <tr>
                                             <td>Destello </td>
-                                            <td>16 MB</td>
+                                            <td>32 MB </td>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Dimensiones </th>
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (Al x An x Pr) </td>
-                                            <td>1,5 x 4,1 x 7,5 pulgadas<br/>(3,8 x 10,5 x 19,0 cm) </td>
+                                            <td>1,7 x 17,3 x 10,8 pulgadas <br> (4,4 x 44,0 x 27,5 cm)  </td>
                                         </tr>
                                         <tr>
                                             <td>Peso </td>
-                                            <td>1,9 libras (0,84 kg)</td>
+                                            <td>9,9 libras (4,5 kg) </td>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Rangos ambientales </th>
                                         </tr>
                                         <tr>
+                                            <td>Ruido acústico </td>
+                                            <td> LpA: 45,6 dB máx. Con fuente de alimentación de CA </td>
+                                        </tr>
+                                        <tr>
                                             <td>Tiempo medio entre fallos (horas) </td>
-                                            <td>830,000 </td>
+                                            <td>340,000</td>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Conectores</th>
@@ -451,169 +477,69 @@
                                     <br><br>
                                     <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="3" rowspan="2">ONT</th>
-                                            <th colspan="10">P medido (W) </th>
+                                            <th colspan="3" rowspan="2">OLT</th>
+                                            <th colspan="7">P medido (W) </th>
                                         </tr>
                                         <tr>
-                                            <th colspan="4">Medio tráfico portuario </th>
-                                            <th colspan="4">Tráfico portuario completo </th>
+                                            <th colspan="3">Medio tráfico portuario </th>
+                                            <th colspan="3">Tráfico portuario completo </th>
                                             <th>No hay enlace</th>
-                                            <th>Prueba de PoE (sin tráfico) </th>
                                         </tr>
                                         <tr>
                                             <td>SKU </td>
                                             <td>FEP </td>
                                             <td>Aporte</td>
-                                            <td>0,01% EEE </td>
-                                            <td>10%</td>
-                                            <td>50%</td>
-                                            <td>100%</td>
-                                            <td>0,01% EEE </td>
-                                            <td>10%</td>
-                                            <td>50%</td>
-                                            <td>100% </td>
-                                            <td>-</td>
+                                            <td>100 Millones</td>
+                                            <td>500 M</td>
+                                            <td>1 G</td>
+                                            <td>100 Millones</td>
+                                            <td>500 M</td>
+                                            <td>1 G</td>
                                             <td>-</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan ="2">CGP-ONT-1P</td>
-                                            <td rowspan ="2">36W</td>
+                                            <td rowspan ="2">CGP-OLT-8T </td>
+                                            <td rowspan ="2">80W </td>
                                             <td>220VAC </td>
-                                            <td>n / A </td>
-                                            <td>n / A </td>
-                                            <td>n / A </td>
-                                            <td>n / A </td>
-                                            <td>3.01</td>
-                                            <td>3.12</td>
-                                            <td>3.15</td>
-                                            <td>3.21</td>
-                                            <td>2.61</td>
-                                            <td>33.8</td>
+                                            <td>43.9 </td>
+                                            <td>43.9 </td>
+                                            <td>44.1</td>
+                                            <td>51 </td>
+                                            <td>51.3</td>
+                                            <td>51.8 </td>
+                                            <td>37.0 </td>
                                         </tr>
                                         <tr>                                        
                                             <td>110VAC</td>
-                                            <td>n / A </td>
-                                            <td>n / A </td>
-                                            <td>n / A </td>
-                                            <td>n / A </td>
-                                            <td>2.82 </td>
-                                            <td>2.91 </td>
-                                            <td>2.95</td>
-                                            <td>2.98</td>
-                                            <td>2.23</td>
-                                            <td>33.6 </td>
+                                            <td>44.6</td>
+                                            <td>44.7 </td>
+                                            <td>44.9 </td>
+                                            <td>51.4 </td>
+                                            <td>51.9 </td>
+                                            <td>52.2 </td>
+                                            <td>36.5</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan ="2">CGP-ONT-4P</td>
-                                            <td rowspan ="2">72W</td>
+                                            <td rowspan ="2">CGP-OLT-16T </td>
+                                            <td rowspan ="2">100W </td>
                                             <td>220VAC </td>
-                                            <td>5.78 </td>
-                                            <td>6.73 </td>
-                                            <td>6.82</td>
-                                            <td>6.86 </td>
-                                            <td>6.43</td>
-                                            <td>7.55</td>
-                                            <td>7.68 </td>
-                                            <td>7.72</td>
-                                            <td>5.21 </td>
-                                            <td>70.2</td>
+                                            <td>52.7 </td>
+                                            <td>53.2 </td>
+                                            <td>54.1</td>
+                                            <td>64.9 </td>
+                                            <td>65.6</td>
+                                            <td>66.6 </td>
+                                            <td>40.3 </td>
                                         </tr>
                                         <tr>                                        
                                             <td>110VAC</td>
-                                            <td>5.73 </td>
-                                            <td>6.76 </td>
-                                            <td>6.81</td>
-                                            <td>6.92</td>
-                                            <td>6.57 </td>
-                                            <td>7.53 </td>
-                                            <td>7.58</td>
-                                            <td>7.63 </td>
-                                            <td>5.42 </td>
-                                            <td>69.8 </td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan ="2">CGP-ONT-4PV</td>
-                                            <td rowspan ="2">72W</td>
-                                            <td>220VAC </td>
-                                            <td>5.81</td>
-                                            <td>7.73  </td>
-                                            <td>7.88 </td>
-                                            <td>7.92</td>
-                                            <td>6.53 </td>
-                                            <td>8.62</td>
-                                            <td>8.72</td>
-                                            <td>8.76</td>
-                                            <td>5.23</td>
-                                            <td>70.4</td>
-                                        </tr>
-                                        <tr>                                        
-                                            <td>110VAC</td>
-                                            <td>5.83  </td>
-                                            <td>7.72 </td>
-                                            <td>7.83</td>
-                                            <td>7.91</td>
-                                            <td>6.48</td>
-                                            <td>8.58</td>
-                                            <td>8.67</td>
-                                            <td>8.71</td>
-                                            <td>5.44 </td>
-                                            <td>70.0</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan ="2">CGP-ONT-4PVC</td>
-                                            <td rowspan ="2">72W</td>
-                                            <td>220VAC </td>
-                                            <td>5.88 </td>
-                                            <td>7.82 </td>
-                                            <td>7.95 </td>
-                                            <td>7.97 </td>
-                                            <td>6.57 </td>
-                                            <td>8.65</td>
-                                            <td>8.73</td>
-                                            <td>8.81</td>
-                                            <td>5.25</td>
-                                            <td>70.5</td>
-                                        </tr>
-                                        <tr>                                        
-                                            <td>110VAC</td>
-                                            <td>5.89 </td>
-                                            <td>7.75 </td>
-                                            <td>7.88</td>
-                                            <td>7.92</td>
-                                            <td>6.49 </td>
-                                            <td>8.62</td>
-                                            <td>8.70</td>
-                                            <td>8.71</td>
-                                            <td>5.46</td>
-                                            <td>70.4</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan ="2">CGP-ONT-4TVCW</td>
-                                            <td rowspan ="2">18W</td>
-                                            <td>220VAC </td>
-                                            <td>5.40 </td>
-                                            <td>7.51 </td>
-                                            <td>7.57</td>
-                                            <td>7.63</td>
-                                            <td>5.99</td>
-                                            <td>8.22</td>
-                                            <td>8.32</td>
-                                            <td>8.36</td>
-                                            <td>4.68 </td>
-                                            <td>n / A </td>
-                                        </tr>
-                                        <tr>                                        
-                                            <td>110VAC</td>
-                                            <td>5.18 </td>
-                                            <td>7.11</td>
-                                            <td>7.39 </td>
-                                            <td>7.41</td>
-                                            <td>5.92 </td>
-                                            <td>8.11</td>
-                                            <td>8.25</td>
-                                            <td>8.28 </td>
-                                            <td>4.54</td>
-                                            <td>n / A </td>
+                                            <td>53.2</td>
+                                            <td>53.6 </td>
+                                            <td>54.3 </td>
+                                            <td>66.0 </td>
+                                            <td>66.7 </td>
+                                            <td>67.8 </td>
+                                            <td>40.5</td>
                                         </tr>
                                     </table>
 
