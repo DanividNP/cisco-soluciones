@@ -106,7 +106,7 @@
 										
 		                            <li class="submenu"><a>Catalyst Micro Series - New<i class="fa fa-angle-down"></i></a></li>
 
-									<li class="submenu"><a>Catalyst Digital Building Series - New<i class="fa fa-angle-down"></i></a></li>
+									<li class="submenu"><a href="switches-catalyst-digital.php">Catalyst Digital Building Series - New<i class="fa fa-angle-down"></i></a></li>
 									
 		                            <li class="submenu"><a>Catalyst 1000 Series<i class="fa fa-angle-down"></i></a>
 										<ul class="uno">

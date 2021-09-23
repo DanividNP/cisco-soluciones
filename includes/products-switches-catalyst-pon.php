@@ -144,7 +144,7 @@
                         
                         <h3 align="center">Cisco Catalyst PON 16-port Switch</h3><br>
                             <ul>
-                                <li>Opciones de 8 puertos</li>
+                                <li>Opciones de 16 puertos</li>
                                 <li>Combinación de 4 GE / SFP y 2 x 10G SFP +</li>                
                                 <li>Energía AC / DC</li>
                                 <li>Capacidad de conmutación de hasta 108 Gbps </li>
