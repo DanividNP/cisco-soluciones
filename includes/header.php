@@ -104,25 +104,16 @@
 								<ul>
 		                            <li class="submenu"><a href="switches-catalyst-pon.php">Catalyst PON Series - New</a></li>	
 										
-		                            <li class="submenu"><a>Catalyst Micro Series - New<i class="fa fa-angle-down"></i></a></li>
+		                            <li class="submenu"><a href="switches-catalyst-micro.php">Catalyst Micro Series - New<i class="fa fa-angle-down"></i></a></li>
 
 									<li class="submenu"><a href="switches-catalyst-digital.php">Catalyst Digital Building Series - New<i class="fa fa-angle-down"></i></a></li>
 									
 		                            <li class="submenu"><a>Catalyst 1000 Series<i class="fa fa-angle-down"></i></a>
-										<ul class="uno">
-											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
+										<ul class="smil">
+											<li><a href="switch-cat-1000-8p.php">Catalyst 1000 Series 8-Port Switch</a></li>
+											<li><a href="switch-cat-1000-16p.php">Catalyst 1000 Series 16-Port Switch</a></li>
+											<li><a href="switch-cat-1000-24p.php">Catalyst 1000 Series 24-Port Switch</a></li>
+											<li><a href="switch-cat-1000-48p.php">Catalyst 1000 Series 48-Port Switch</a></li>
 										</ul>
 									</li>
 									<li class="submenu"><a>Catalyst 9000 Series<i class="fa fa-angle-down"></i></a>
