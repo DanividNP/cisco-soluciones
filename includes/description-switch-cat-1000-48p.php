@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Switch de 24 puertos Cisco Catalyst 1000 Series </h3>
+                <h3 class="title-border">Switch de 48 puertos Cisco Catalyst 1000 Series </h3>
                 <h5>Switches de capa 2 de clase empresarial Gigabit Ethernet y Fast Ethernet </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-1000-24p.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/switches/cat-1000-48p.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,78 +20,85 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 1000-24T-4G-L - Switch - managed - 24 x 10/100/1000 + 4 x Gigabit SFP (uplink) - rack-mountable</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 1000-48T-4G-L - Switch - managed - 48 x 10/100/1000 
+                                        + 4 x Gigabit SFP (uplink) - rack-mountable</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1000-24T-4G-L<br>
-                                        <strong>Precio: $1,276.35</strong></p>
+                                    <p align='justify'>#C1000-48T-4G-L<br>
+                                        <strong>Precio: $2,110.50</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 1000-24T-4X-L - Switch - managed - 24 x 10/100/1000 + 4 x 10 Gigabit SFP+ (uplink) - rack-mountable</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 1000-48P-4X-L - Switch - managed - 24 x 10/100/1000 
+                                        (PoE+) + 24 x 10/100/1000 + 4 x 10 Gigabit SFP+ (uplink) - rack-mountable - PoE+ (370 W)</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1000-24T-4X-L<br>
-                                        <strong>Precio: $2,787.87</strong></p>
+                                    <p align='justify'>#C1000-48P-4X-L<br>
+                                        <strong>Precio: $5,125.50</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco C1000-24PP-4G-L Catalyst 1000 Series Switch 24x 10/100/1000 Ethernet Poe+ Ports And 195w Poe Budget, 4x 1g SFP Uplinks</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 1000-48PP-4G-L - Switch - Managed - 12 X 10/100/1000 
+                                        (PoE+) + 36 X 10/100/1000 + 4 X Gigabit SFP (uplink) - Rack-mountable - PoE+ (370 W)</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1000-24PP-4G-L<br>
-                                        <strong>Precio: $1,495.00</strong></p>
+                                    <p align='justify'>#C1000-48PP-4G-L<br>
+                                        <strong>Precio: $2,478.00</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 1000-24FP-4G-L - Switch - managed - 24 x 10/100/1000 (PoE+) + 4 x Gigabit SFP (uplink) - rack-mountable - PoE+ (370 W)</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 1000-48FP-4G-L - Switch - managed - 48 x 10/100/1000 
+                                        (PoE+) + 4 x Gigabit SFP (uplink) - rack-mountable - PoE+ (740 W)</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1000-24FP-4G-L<br>
-                                        <strong>Precio:  $3,371.78</strong></p>
+                                    <p align='justify'>#C1000-48FP-4G-L<br>
+                                        <strong>Precio: $6,959.63</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 1000-24P-4G-L - Switch - managed - 24 x 10/100/1000 (PoE+) + 4 x Gigabit SFP (uplink) - rack-mountable - PoE+ (195 W)</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 1000-48P-4G-L - Switch - managed - 24 x 10/100/1000 
+                                        (PoE+) + 24 x 10/100/1000 + 4 x Gigabit SFP (uplink) - rack-mountable - PoE+ (370 W)</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1000-24P-4G-L<br>
-                                        <strong>Precio: $2,130.60</strong></p>
+                                    <p align='justify'>#C1000-48P-4G-L<br>
+                                        <strong>Precio: $3,376.80</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 1000-24P-4X-L - Switch - managed - 13 x 10/100/1000 (PoE+) + 11 x 10/100/1000 + 4 x 10 Gigabit SFP+ (uplink) - rack-mountable - PoE+ (195 W)</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 1000-48T-4X-L - Switch - managed - 48 x 10/100/1000 
+                                        + 4 x 10 Gigabit SFP+ (uplink) - rack-mountable</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1000-24P-4X-L<br>
-                                        <strong>Precio: $3,085.35</strong></p>
+                                    <p align='justify'>#C1000-48T-4X-L<br>
+                                        <strong>Precio: $4,100.40</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 1000-24FP-4X-L - Switch - managed - 24 x 10/100/1000 (PoE+) + 4 x 10 Gigabit SFP+ (uplink) - rack-mountable - PoE+ (370 W)</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 1000-48FP-4X-L - Switch - managed - 48 x 10/100/1000 
+                                        (PoE+) + 4 x 10 Gigabit SFP+ (uplink) - rack-mountable - PoE+ (740 W)</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1000-24FP-4X-L<br>
-                                        <strong>Precio: $4,849.13</strong></p>
+                                    <p align='justify'>#C1000-48FP-4X-L<br>
+                                        <strong>Precio: $8,436.98</strong></p>
                                 </div>
 			                  </div>
 			                </div>
@@ -109,78 +116,85 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement - 8x5 - response time: NBD - for P/N: C1000-24T-4G-L</strong></p>
+                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement 
+                                        - 8x5 - response time: NBD - for P/N: C1000-48T-4G-L</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CON-SNT-C1024TGL<br>
-                                        <strong>Precio: $91.70</strong></p>
+                                    <p align='justify'>#CON-SNT-C10T48GL<br>
+                                        <strong>Precio: $152.17</strong></p>
                                 </div>
 								<div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement - 8x5 - response time: NBD - for P/N: C1000-24FP-4G-L</strong></p>
+                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement 
+                                        - 8x5 - response time: NBD - for P/N: C1000-48PP-4G-L</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CON-SNT-C10024GF<br>
-                                        <strong>Precio: $243.87</strong></p>
-                                </div>
-								<div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement - 8x5 - response time: NBD - for P/N: C1000-24P-4G-L</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CON-SNT-C10244LP<br>
-                                        <strong>Precio:  $154.18</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement - 8x5 - response time: NBD - for P/N: C1000-24PP-4G-L</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CON-SNT-C10P0024<br>
+                                    <p align='justify'>#CON-SNT-C10P48GL<br>
                                         </p>
                                 </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+								<div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement - 8x5 - response time: NBD - for P/N: C1000-24T-4X-L</strong></p>
+                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement 
+                                        - 8x5 - response time: NBD - for P/N: C1000-48FP-4G-L</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CON-SNT-C10024XL<br>
-                                        <strong>Precio: $201.55</strong></p>
+                                    <p align='justify'>#CON-SNT-C1048LGF<br>
+                                        <strong>Precio:  $502.86</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement - 8x5 - response time: NBD - for P/N: C1000-24P-4X-L</strong></p>
+                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement 
+                                        - 8x5 - response time: NBD - for P/N: C1000-48P-4G-L</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CON-SNT-C10X0L24<br>
-                                        <strong>Precio: $222.71</strong></p>
+                                    <p align='justify'>#CON-SNT-C10048GL<br>
+                                        <strong>Precio: $243.87</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement - 8x5 - response time: NBD - for P/N: C1000-24FP-4X-L</strong></p>
+                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement 
+                                        - 8x5 - response time: NBD - for P/N: C1000-48T-4X-L</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CON-SNT-C10X4L24<br>
-                                        <strong>Precio: $349.68</strong></p>
+                                    <p align='justify'>#CON-SNT-C10048TL<br>
+                                        <strong>Precio: $296.27</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement 
+                                        - 8x5 - response time: NBD - for P/N: C1000-48P-4X-L</strong></p>
+                                	</div>
+
+                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#CON-SNT-C10048XL<br>
+                                        <strong>Precio:  $369.84</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Cisco Smart Net Total Care - Extended service agreement - replacement 
+                                        - 8x5 - response time: NBD - for P/N: C1000-48FP-4X-L</strong></p>
+                                	</div>
+
+                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#CON-SNT-C1048X4L<br>
+                                        <strong>Precio: $608.67</strong></p>
                                 </div>
 			                  </div>
 			                </div>
@@ -305,7 +319,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">Modelos de 16 puertos </th>
+                                            <th colspan="2" style="text-align: center">Modelos de 48 puertos (enlaces ascendentes 1 / 10G) </th>
                                         </tr>
                                         <tr>
                                             <th colspan="2" style="text-align: center">Puertos de consola</th>
@@ -342,27 +356,27 @@
                                         </tr>
                                         <tr>
                                             <td>Reenvío de ancho de banda</td>
-                                            <td>FE: 6.4 Gbps<br>
+                                            <td>FE: 8,8 Gbps <br>
 
-                                                1G: 28 Gbps<br>
+                                                1G: 52 Gbps<br>
 
-                                                10G: 64 Gbps</td>
+                                                10G: 88Gpbs</td>
                                         </tr>
                                         <tr>
                                             <td>Cambio de ancho de banda</td>
-                                            <td>FE: 12.8 Gbps<br>
+                                            <td>FE: 17,6 Gbps<br>
 
-                                                1G: 56 Gbps<br>
+                                                1G: 104 Gbps<br>
 
-                                                10G: 128 Gbps</td>
+                                                10G: 176 Gbps</td>
                                         </tr> 
                                         <tr>
                                             <td>Tasa de reenvío (Paquetes L3 de 64 bytes) </td>
-                                            <td>FE: 9.52 Mpps<br>
+                                            <td>FE: 13,09 Mpps<br>
 
-                                                1G: 41.67 Mpps<br>
+                                                1G: 77,38 Mpps<br>
 
-                                                10G: 95.23 Mpps</td>
+                                                10G: 130,94 Mpps</td>
                                         </tr>
                                         <tr>
                                             <td>Direcciones MAC </td>
