@@ -105,7 +105,9 @@
                                 <ul>
                                     <li class="submenu"><a href="switches-catalyst-pon.php">Catalyst PON Series - New</a></li>	
 
-									<li class="submenu"><a href="switches-catalyst-digital.php">Catalyst Digital Building Series - New<i class="fa fa-angle-down"></i></a></li>
+									<li class="submenu"><a href="switches-catalyst-micro.php">Catalyst Micro Series - New</a></li>	
+
+									<li class="submenu"><a href="switches-catalyst-digital.php">Catalyst Digital Building Series - New</i></a></li>
 									
 		                            <li class="submenu"><a>Catalyst 1000 Series<i class="fa fa-angle-down"></i></a>
 										<ul class="smil">

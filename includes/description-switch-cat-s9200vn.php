@@ -282,22 +282,124 @@
                             
                             <div class="tab-pane" id="tab2">
                                 <h3>Especificaciones Catalyst 9200 Series: </h3>
-                                <h5><strong>Cambiar modelos y configuraciones</strong></h5>
+                                <h4><strong>Cambiar modelos y configuraciones</strong></h4>
                                 <br>
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th></th>
-                                            <th></th>
-                                            <th></th>
-                                            <th></th>
-                                            <th></th>
-                                            <th></th>
+                                            <th>Modelos </th>
+                                            <th>Fuente de FRU alimentación </th>
+                                            <th>Ventiladores FRU </th>
+                                            <th>Enlaces ascendentes modulares </th>
+                                            <th>apilamiento Soporte de ancho de banda de </th>
+                                            <th>Soporte SD-Access 1 </th>
+                                        </tr>
+                                        <tr>
+                                            <th>Modelos modulares de enlace ascendente
+                                                (SKU de VN mejoradas de C9200) </th>
+                                            <td>si</td>
+                                            <td>si</td>
+                                            <td>si</td>
+                                            <td>160 Gbps </td>
+                                            <td>Sí (32 redes virtuales) </td>
+                                        </tr>
+                                        <tr>
+                                            <th>Modelos modulares de enlace ascendente (SKU C9200)
+                                                y modelos de enlace ascendente modular de varios gigas </th>
+                                            <td>si</td>
+                                            <td>si</td>
+                                            <td>si</td>
+                                            <td>160 Gbps </td>
+                                            <td>Sí (4 redes virtuales) </td>
+                                        </tr>
+                                        <tr>
+                                            <th>Modelos de enlace ascendente fijo (SKU C9200L) </th>
+                                            <td>si</td>
+                                            <td>no</td>
+                                            <td>no</td>
+                                            <td>80 Gbps</td>
+                                            <td>Limitado (1 virtual red ) </td>
                                         </tr>
                                 </table>
 
+                                <h4><strong>Especificaciones de configuración de conmutador individual </strong></h4>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
-                                        
+                                        <tr>
+                                            <th>Modelo de interruptor</th>
+                                            <th>Los enlaces descendentes totalizan puertos de cobre 10/100/1000 o PoE + </th>
+                                            <th>Configuración de enlace ascendente </th>
+                                            <th>Fuente de alimentación de CA primaria predeterminada </th>
+                                            <th>Ventiladores</th>
+                                        </tr>
+                                        <tr>
+                                            <th colspan="5">Modelos modulares de enlace ascendente</th>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-24T </td>
+                                            <td>24 puertos de datos </td>
+                                            <td>Opciones de enlace ascendente modular </td>
+                                            <td>PWR-C6-125WAC </td>
+                                            <td>FRU redundante</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-24P</td>
+                                            <td>24 puertos PoE + completo</td>
+                                            <td>Opciones de enlace ascendente modular</td>
+                                            <td>PWR-C6-600WAC </td>
+                                            <td>FRU redundante </td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-24PB </td>
+                                            <td>24 puertos PoE + completo </td>
+                                            <td>Opciones de enlace ascendente modular </td>
+                                            <td>PWR-C6-600WAC </td>
+                                            <td>FRU redundante </td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-24PXG </td>
+                                            <td>24 puertos PoE + completo (8 puertos mGig hasta 10G, 16 puertos hasta 1G) </td>
+                                            <td>Opciones de enlace ascendente modular </td>
+                                            <td>PWR-C6-600WAC </td>
+                                            <td>FRU redundante </td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-48T </td>
+                                            <td>48 puertos de datos </td>
+                                            <td>Opciones de enlace ascendente modular</td>
+                                            <td>PWR-C6-125WAC </td>
+                                            <td>FRU redundante</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-48P </td>
+                                            <td>48 puertos PoE + completo</td>
+                                            <td>Opciones de enlace ascendente modular</td>
+                                            <td>PWR-C6-1KWAC </td>
+                                            <td>FRU redundante</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-48PL</td>
+                                            <td>48 puertos PoE + parcial </td>
+                                            <td>Opciones de enlace ascendente modular</td>
+                                            <td>PWR-C6-600WAC</td>
+                                            <td>FRU redundante</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-48PB</td>
+                                            <td>48 puertos PoE + completo </td>
+                                            <td>Opciones de enlace ascendente modular </td>
+                                            <td>PWR-C6-1KWAC </td>
+                                            <td>FRU redundante</td>
+                                        </tr>
+                                        <tr>
+                                            <td>C9200-48PXG </td>
+                                            <td>48 puertos PoE + completo (8 puertos mGig hasta 10G, 40 puertos hasta 1G)</td>
+                                            <td>Opciones de enlace ascendente modular </td>
+                                            <td>PWR-C6-1KWAC </td>
+                                            <td>FRU redundante</td>
+                                        </tr>
+                                        <tr>
+                                            <th colspan="5"></th>
+                                        </tr>
                                 </table>
 
                             </div>
