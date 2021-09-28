@@ -3,12 +3,12 @@
         <div class="row">
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h2 class="title">Catalyst 9200 Series Switches</h2>
+                <h2 class="title">Switches multigigabit de la serie Catalyst 9200</h2>
             </div>
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/switches/C9200-VN.png" width="216" heigth="360" alt="">
+                        <img src="images/switches/C9200-VN.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="switch-cat-s9200vn.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
@@ -27,19 +27,19 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/switches/CGP-ONT-4P.png" alt="">
+                        <img src="images/switches/C9200-modular.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon4.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9200mg.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Cisco Catalyst PON 4-port ONT</h3><br>
+                        <h3 align="center">Switches multigigabit Catalyst 9200 y 9200L</h3><br>
                             <ul>
-                                <li>4 x 10/100 / 1000BASE-T datos </li>
-                                <li>PoE + con un presupuesto de energía de hasta 60 W</li>
-                                <li>USB and PON interfaces</li>
+                                <li>Ancho de banda de ampliamiento de hasta 160 Gbps </li>
+                                <li>8 o 12 puertos multigigabit hasta 10G</li>
+                                
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -48,19 +48,20 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/switches/CGP-ONT4PV.png" alt="">
+                        <img src="images/switches/C9200-modular.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon4-pvcoc.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9200mu.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Cisco Catalyst PON 4-port PoE, Voice, CATV ONT</h3><br>
+                        <h3 align="center">Switches Catalyst 9200 (enlace ascendente modular)</h3><br>
                             <ul>
-                                <li>4 puertos de datos 1G, 2 puertos POTS </li>
-                                <li>PoE + con un presupuesto de energía de hasta 60 W</li>
-                                <li>USB and PON interfaces</li>
+                                <li>Ancho de banda de ampliamiento de hasta 160 Gbps </li>
+                                <li>Módulos de red intercambiables con 4 x 1G, 4 x 1 /10G,
+                                    2 x 25G o 2 x 40G enlaces ascendentes
+                                </li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -69,19 +70,20 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/switches/CGP-ONT4PVC.png" alt="">
+                        <img src="images/switches/C9200-fixed.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon4-pvco.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9200fu.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Cisco Catalyst PON 4-port PoE, Voice, CATV ONT</h3><br>
+                        <h3 align="center">Switches Catalyst 9200L (enlace ascendente fijo)</h3><br>
                             <ul>
-                                <li>4 puertos de datos 1G, 2 puertos POT, CATV </li>
-                                <li>PoE + con un presupuesto de energía de hasta 60 W</li>
-                                <li>USB and PON interfaces</li>
+                                <li>Ancho de banda de ampliamiento de hasta 80 Gbps </li>
+                                <li>Módulos de red intercambiables con 4 x 1G, 4 x 1 /10G,
+                                    2 x 25G o 2 x 40G enlaces ascendentes</li>
+                               
                             </ul>
                     </div>					
                 </div><!--/ grid end -->

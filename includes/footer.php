@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<div class="footer-logo">
-						<img src="images/CISCO_blanco.png" alt="logo">
+						<center><img src="images/CISCO_blanco.png" class="img-responsive" alt="logo"></center>
 					</div>
 					<div class="gap-20"></div>
 					<ul class="social-icon dark unstyled">

@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Switches de la serie Catalyst 9200 (VN mejorado) </h3>
+                <h3 class="title-border">Switches de enlace ascendente modular de la serie Catalyst 9200 </h3>
                 <h5>Mejore el rendimiento de la red y simplifique las operaciones de TI </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s9200vn.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/switches/cat-s9200mu.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -21,22 +21,22 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 9200 (enhanced VN) - 24 Port</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 9200 Series Modular Uplink Switch - 24 Port</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C9200-24-VN<br>
+                                    <p align='justify'>#C9200-modular-24<br>
                                         </p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 9200 (enhanced VN) - 48 Port</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 9200 Series Modular Uplink Switch - 48 Port</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C9200-48-VN<br>
+                                    <p align='justify'>#C9200-modular-48<br>
                                         </p>
                                 </div>
 			                </div>

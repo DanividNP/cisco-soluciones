@@ -78,10 +78,10 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Cisco Catalyst PON 4-port PoE, Voice, CATV ONT</h3><br>
+                        <h3 align="center">Catalyst PON 4-port PoE, Voice, CATV ONT</h3><br>
                             <ul>
                                 <li>4 puertos de datos 1G, 2 puertos POT, CATV </li>
-                                <li>PoE + con un presupuesto de energía de hasta 60 W</li>
+                                <li>PoE + energía de hasta 60 W</li>
                                 <li>USB and PON interfaces</li>
                             </ul>
                     </div>					
@@ -101,7 +101,7 @@
                         
                         <h3 align="center">Cisco Catalyst PON 4-port PoE, voice, CATV, Wi-Fi ONT</h3><br>
                             <ul>
-                                <li>4 puertos de datos 1G, 2 puertos POTS, CATV, Wi-Fi</li>
+                                <li>4 puertos de 1G, 2 puertos POTS, CATV, Wi-Fi</li>
                                 <li>Interfaces USB y PON </li>
                                 
                             </ul>
