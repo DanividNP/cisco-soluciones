@@ -105,6 +105,7 @@
                                 <ul>
                                     <li class="submenu"><a href="switches-catalyst-pon.php">Catalyst PON Series - New</a></li>	
 
+<<<<<<< Updated upstream
 									<li class="submenu"><a href="switches-catalyst-micro.php">Catalyst Micro Series - New</a></li>	
 
 									<li class="submenu"><a href="switches-catalyst-digital.php">Catalyst Digital Building Series - New</i></a></li>
@@ -191,133 +192,29 @@
 		                            <li class="submenu"><a href="switches_catalyst_micro.php">Catalyst Micro Series - New</a></li>
 
                                     <li class="submenu"><a href="switches-catalyst-micro.php">Catalyst Micro Series - New<i class="fa fa-angle-down"></i></a></li>
+=======
+                                    <li class="submenu"><a href="switches-catalyst-digital.php">Catalyst Digital Building Series - New<i class="fa fa-angle-down"></i></a></li>
+>>>>>>> Stashed changes
 
-
-									<li class="submenu"><a>Catalyst Digital Building Series - New<i class="fa fa-angle-down"></i></a></li>
-									
-		                            <li class="submenu"><a>Catalyst 1000 Series<i class="fa fa-angle-down"></i></a>
-										<ul class="uno">
-											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
-										</ul>
-									</li>
-									<li class="submenu"><a>Catalyst 9000 Series<i class="fa fa-angle-down"></i></a>
-										<ul class="r1">
-											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
-										</ul>
-									</li>
-									<li class="submenu"><a>Small Business Switches<i class="fa fa-angle-down"></i></a>
-										<ul class="r2">
-											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
-										</ul>
-									</li>
-									<li class="submenu"><a>Data Center Switches<i class="fa fa-angle-down"></i></a>
-										<ul class="r3">
-											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-											<li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
-										</ul>
-									</li>
-									<li class="submenu"><a>Legacy Switches<i class="fa fa-angle-down"></i></a>
-										<ul class="r4">
-											<li><a href="firewalls-asa-5505.php">Cisco ASA-5505 Base/<br>Security plus</a></li>
-											<li><a href="firewalls-asa-5510.php">Cisco ASA 5510 Base/<br>Security Plus</a></li>
-											<li><a href="firewalls-asa-5520.php">Cisco ASA 5520</a></li>
-											<li><a href="firewalls-asa-5540.php">Cisco ASA 5540</a></li>
-											<li><a href="firewalls-asa-5550.php">Cisco ASA 5550</a></li>
-										</ul>
-									
-									</li>
-		                            <li class="submenu"><a>Cisco Switching Accessories<i class="fa fa-angle-down"></i></a>
-										<ul class="r5">
-											<li><a href="firewalls-asa-ssl.php">SSL/IPsec VPN</a></li>
-											<li><a href="firewalls-asa-sm10.php">Cisco ASA AIP SSM-10</a></li>
-											<li><a href="firewalls-asa-sm20.php">Cisco ASA AIP SSM-20</a></li>
-											<li><a href="firewalls-asa-sm40.php">Cisco ASA AIP SSM-40</a></li>
-										</ul>
-									</li>
-		                        </ul>
-	                    	</div>
-						</li>
-
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Routers<i class="fa fa-angle-down"></i></a>
-                            <div class="dropdown-menu">
-                                <ul>
-                                    <li class="submenu"><a>Router para pequeñas empresas<i class="fa fa-angle-down"></i></a>
-									<ul class="r1">
-                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-                                            <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-                                        </ul></li>	
-
-                                    <li class="submenu"><a>Plataforma de sucursales<i class="fa fa-angle-down"></i></a>
-									<ul class="r2">
-                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-                                            <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
-                                        </ul></li>
-
-                                    <li class="submenu"><a>Plataforma Edge<i class="fa fa-angle-down"></i></a>
-									<ul class="r3">
+                                    <li class="submenu"><a>Catalyst 1000 Series<i class="fa fa-angle-down"></i></a>
+                                        <ul class="smil">
+                                            <li><a href="switch-cat-1000-8p.php">Catalyst 1000 Series 8-Port Switch</a></li>
+                                            <li><a href="switch-cat-1000-16p.php">Catalyst 1000 Series 16-Port Switch</a></li>
+                                            <li><a href="switch-cat-1000-24p.php">Catalyst 1000 Series 24-Port Switch</a></li>
+                                            <li><a href="switch-cat-1000-48p.php">Catalyst 1000 Series 48-Port Switch</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu"><a>Catalyst 9000 Series<i class="fa fa-angle-down"></i></a>
+                                        <ul class="snueve">
+                                            <li><a href="switches-cat-s9200.php">Catalyst 9200 Series Switches</a></li>
+                                            <li><a href="switches-cat-s9300.php">Catalyst 9300 Series Switches</a></li>
+                                            <li><a href="switches-cat-s9400.php">Catalyst 9400 Series Switches</a></li>
+                                            <li><a href="switches-cat-s9500.php">Catalyst 9500 Series Switches</a></li>
+                                            <li><a href="switches-cat-s9600.php">Catalyst 9600 Series Switches</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu"><a>Small Business Switches<i class="fa fa-angle-down"></i></a>
+                                        <ul class="uno">
                                             <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
                                             <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
@@ -332,10 +229,9 @@
                                             <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
                                         </ul>
-									</li>
-
-                                    <li class="submenu"><a>Administración de redes<i class="fa fa-angle-down"></i></a>
-                                        <ul class="r4">
+                                    </li>
+                                    <li class="submenu"><a>Data Center Switches<i class="fa fa-angle-down"></i></a>
+                                        <ul class="uno">
                                             <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
                                             <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
@@ -349,6 +245,165 @@
                                             <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu"><a>Legacy Switches<i class="fa fa-angle-down"></i></a>
+                                        <ul class="tres">
+                                            <li><a href="firewalls-asa-5505.php">Cisco ASA-5505 Base/<br>Security plus</a></li>
+                                            <li><a href="firewalls-asa-5510.php">Cisco ASA 5510 Base/<br>Security Plus</a></li>
+                                            <li><a href="firewalls-asa-5520.php">Cisco ASA 5520</a></li>
+                                            <li><a href="firewalls-asa-5540.php">Cisco ASA 5540</a></li>
+                                            <li><a href="firewalls-asa-5550.php">Cisco ASA 5550</a></li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="submenu"><a>Cisco Switching Accessories<i class="fa fa-angle-down"></i></a>
+                                        <ul class="cuatro">
+                                            <li><a href="firewalls-asa-ssl.php">SSL/IPsec VPN</a></li>
+                                            <li><a href="firewalls-asa-sm10.php">Cisco ASA AIP SSM-10</a></li>
+                                            <li><a href="firewalls-asa-sm20.php">Cisco ASA AIP SSM-20</a></li>
+                                            <li><a href="firewalls-asa-sm40.php">Cisco ASA AIP SSM-40</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wireless<i class="fa fa-angle-down"></i></a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li class="submenu"><a href="switches_catalyst_pon.php">Catalyst PON Series - New</a></li>	
+
+                                    <li class="submenu"><a href="switches_catalyst_micro.php">Catalyst Micro Series - New</a></li>
+
+                                    <li class="submenu"><a href="switches-catalyst-micro.php">Catalyst Micro Series - New<i class="fa fa-angle-down"></i></a></li>
+
+
+                                    <li class="submenu"><a>Catalyst Digital Building Series - New<i class="fa fa-angle-down"></i></a></li>
+
+                                    <li class="submenu"><a>Catalyst 1000 Series<i class="fa fa-angle-down"></i></a>
+                                        <ul class="uno">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
+                                            <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu"><a>Catalyst 9000 Series<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r1">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
+                                            <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu"><a>Small Business Switches<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r2">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
+                                            <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu"><a>Data Center Switches<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r3">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
+                                            <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu"><a>Legacy Switches<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r4">
+                                            <li><a href="firewalls-asa-5505.php">Cisco ASA-5505 Base/<br>Security plus</a></li>
+                                            <li><a href="firewalls-asa-5510.php">Cisco ASA 5510 Base/<br>Security Plus</a></li>
+                                            <li><a href="firewalls-asa-5520.php">Cisco ASA 5520</a></li>
+                                            <li><a href="firewalls-asa-5540.php">Cisco ASA 5540</a></li>
+                                            <li><a href="firewalls-asa-5550.php">Cisco ASA 5550</a></li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="submenu"><a>Cisco Switching Accessories<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r5">
+                                            <li><a href="firewalls-asa-ssl.php">SSL/IPsec VPN</a></li>
+                                            <li><a href="firewalls-asa-sm10.php">Cisco ASA AIP SSM-10</a></li>
+                                            <li><a href="firewalls-asa-sm20.php">Cisco ASA AIP SSM-20</a></li>
+                                            <li><a href="firewalls-asa-sm40.php">Cisco ASA AIP SSM-40</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Routers<i class="fa fa-angle-down"></i></a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li class="submenu"><a>Router para pequeñas empresas<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r1">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">Routers cableado con VPN</a></li>
+                                            <li><a href="firewalls-asa-5506h-wfp.php">Routers inalambrico con VPN</a></li>
+                                        </ul></li>	
+
+                                    <li class="submenu"><a>Plataforma de sucursales<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r2">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">Serie ASR 1000</a></li>
+                                            <li><a href="firewalls-asa-5506h-wfp.php">Cisco ISR serie 1000</a></li>
+                                            <li><a href="firewalls-asa-5508x-wfp.php">Cisco ISR serie 4000</a></li>
+                                            <li><a href="firewalls-asa-5512x-wfp.php">Serie ISR 800</a></li>
+                                            <li><a href="firewalls-asa-5515x-wfp.php">Serie ISR 1100</a></li>
+                                            <li><a href="firewalls-asa-5516x-wfp.php">Serie ISR 1900</a></li>
+                                            <li><a href="firewalls-asa-5525x-wfp.php">Serie ISR 2900</a></li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="submenu"><a>Plataforma Edge<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r3">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">Serie Catalyst 8200</a></li>
+                                            <li><a href="firewalls-asa-5506x-wfp.php">Serie Catalyst 8300</a></li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="submenu"><a>Administración de redes<i class="fa fa-angle-down"></i></a>
+                                        <ul class="r4">
+                                            <li><a href="firewalls-asa-5506x-wfp.php">Profesional de configuración</a></li>
                                         </ul>
                                     </li>
                                 </ul>
