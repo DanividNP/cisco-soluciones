@@ -971,9 +971,39 @@ ul.snueve{
 
 
 
+/* Submenu switch */
 
 
-
+ul.r1{ 
+	position: absolute;
+	width:135%;
+	right: 100%;
+	list-style: none;
+	padding: 0 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	top: 210px;
+	background: #fff;
+    background-color: rgba(255, 255, 255, 0.918);
+	background-color: rgba(255, 255, 255, 0.918);
+	box-shadow: 0 2px .09px rgba(0, 0, 0, 0.364);
+}
+ul.r2{ 
+	position: absolute;
+	width:135%;
+	right: 100%;
+	list-style: none;
+	padding: 0 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	top: 260px;
+	background: #fff;
+    background-color: rgba(255, 255, 255, 0.918);
+	background-color: rgba(255, 255, 255, 0.918);
+	box-shadow: 0 2px .09px rgba(0, 0, 0, 0.364);
+}
 
 
 

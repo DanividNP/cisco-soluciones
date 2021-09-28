@@ -308,7 +308,7 @@
 										</ul>
 									</li>
 									<li class="submenu"><a>Catalyst 9000 Series<i class="fa fa-angle-down"></i></a>
-										<ul class="uno">
+										<ul class="r1">
 											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
 											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
 											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
@@ -325,7 +325,7 @@
 										</ul>
 									</li>
 									<li class="submenu"><a>Small Business Switches<i class="fa fa-angle-down"></i></a>
-										<ul class="uno">
+										<ul class="r2">
 											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
 											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
 											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
@@ -342,7 +342,7 @@
 										</ul>
 									</li>
 									<li class="submenu"><a>Data Center Switches<i class="fa fa-angle-down"></i></a>
-										<ul class="uno">
+										<ul class="r3">
 											<li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
 											<li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
 											<li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
@@ -359,7 +359,7 @@
 										</ul>
 									</li>
 									<li class="submenu"><a>Legacy Switches<i class="fa fa-angle-down"></i></a>
-										<ul class="tres">
+										<ul class="r4">
 											<li><a href="firewalls-asa-5505.php">Cisco ASA-5505 Base/<br>Security plus</a></li>
 											<li><a href="firewalls-asa-5510.php">Cisco ASA 5510 Base/<br>Security Plus</a></li>
 											<li><a href="firewalls-asa-5520.php">Cisco ASA 5520</a></li>
@@ -369,7 +369,7 @@
 									
 									</li>
 		                            <li class="submenu"><a>Cisco Switching Accessories<i class="fa fa-angle-down"></i></a>
-										<ul class="cuatro">
+										<ul class="r5">
 											<li><a href="firewalls-asa-ssl.php">SSL/IPsec VPN</a></li>
 											<li><a href="firewalls-asa-sm10.php">Cisco ASA AIP SSM-10</a></li>
 											<li><a href="firewalls-asa-sm20.php">Cisco ASA AIP SSM-20</a></li>

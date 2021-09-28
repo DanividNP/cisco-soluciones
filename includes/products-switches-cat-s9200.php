@@ -8,18 +8,17 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/switches/CGP-ONT-1P.png" alt="">
+                        <img src="images/switches/C9200-VN.png" width="216" heigth="360" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon1.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="switch-cat-s9200vn.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Cisco Catalyst PON 1-port ONT</h3><br>
+                        <h3 align="center">Switches de la serie Catalyst 9200 (VN mejorado) </h3><br>
                             <ul>
-                                <li>1 x 10/100/1000Base-T</li>
-                                <li>Diseño sin ventilador </li>
-                                <li>Administrado con CLI o Catalyst PON Manager </li>
+                                <li>Ancho de banda de ampliamiento de 160 Gbps</li>
+                                <li>Soporte para 32 redes virtuales</li>                               
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
