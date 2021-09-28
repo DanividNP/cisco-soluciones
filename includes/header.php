@@ -295,13 +295,6 @@
                                             <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
                                         </ul></li>	
 
                                     <li class="submenu"><a>Plataforma de sucursales<i class="fa fa-angle-down"></i></a>
