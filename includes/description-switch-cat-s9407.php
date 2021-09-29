@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Catalyst 9400 Series Switches chasis de 10 ranuras </h3>
-                <h5>Chasis de gama alta con 10 ranuras para tarjetas de línea disponibles</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s9410.png" alt=""></center>
+                <h3 class="title-border">Catalyst 9400 Series Switches chasis de 7 ranuras </h3>
+                <h5>Chasis de gama alta con 7 ranuras para tarjetas de línea disponibles</h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s9407.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -21,12 +21,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 9400 Series 10 slot chassis</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 9400 Series 7 slot chassis</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C9410R<br>
-                                        <strong>Precio: $8,200.80</strong></p>
+                                    <p align='justify'>#C9407R<br>
+                                        <strong>Precio: $5,125.50</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -270,10 +270,10 @@
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </div><br><br><br><br><br><br>
 
-                                <h4><strong>Catalyst 9400 Series de 10 ranuras</strong> <img class="img-responsive" src="images/switches/C9410.png" align="right"></h4>                               
+                                <h4><strong>Catalyst 9400 Series de 7 ranuras</strong> <img class="img-responsive" src="images/switches/C9407.png" align="right"></h4>                               
                                 <ul>
                                     <li>90W UPOE + en cada puerto de acceso </li>
-                                    <li>384 puertos y 480 Gbps por ranura </li>
+                                    <li>240 puertos y 480 Gbps por ranura </li>
                                     <li>Segmentación segura con SD-Access</li>
                                     <li>Alta disponibilidad de última generación con redundancia de alimentación N + N / N + 1 </li>
                                     <li>Garantía limitada de por vida mejorada (E-LLW)</li>
@@ -330,23 +330,23 @@
                                 <h4><strong>Especificaciones Catalyst 9400 Series: </strong></h4>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2">C9410R</th>
+                                            <th colspan="2">C9407R</th>
                                                                 
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (Al x An x Pr)</td>
-                                            <td>22,61 x 17,30 x 16,30 pulg. <br>
-                                            (57,43 x 43,94 x 41,40 cm)</td>
+                                            <td>17,41 x 17,30 x 16,30 pulg.<br>
+                                                (44,22 x 43,94 x 41,40 cm) </td>
                                             
                                         </tr>
                                         <tr>
                                             <td>Unidades de rack (RU) </td>
-                                            <td>13 RU </td>
+                                            <td>10 RU </td>
                                             
                                         </tr>
                                         <tr>
                                             <td> Peso del chasis (con bandeja de ventilador) </td>
-                                            <td> 65,0 libras (29,48 kg) </td>
+                                            <td>63,0 libras (28,58 kg) </td>
                                          
                                         </tr>
                                         <tr>
@@ -360,32 +360,32 @@
                                         </tr>
                                         <tr>
                                             <td>Puertos 10/100 / 1000BASE-T Gigabit (RJ-45) </td>
-                                            <td>384</td>
+                                            <td>240 </td>
                                           
                                         </tr>
                                         <tr>
                                             <td>10/100 / 1000BASE-T Gigabit Ethernet con puertos POE + </td>
-                                            <td>384</td>
+                                            <td>240 </td>
                                            
                                         </tr>
                                         <tr>
                                             <td>Ethernet Gigabit conmutada 10/100 / 1000BASE-T con puertos UPOE </td>
-                                            <td>384</td>
+                                            <td>240 </td>
                                             
                                         </tr>
                                         <tr>
                                             <td>Puertos conmutados de 10 Gigabit Ethernet </td>
-                                            <td>192</td>
+                                            <td>120  </td>
                                            
                                         </tr>
                                         <tr>
                                             <td>Puertos Cisco Multigigabit Ethernet (con UPOE) </td>
-                                            <td>192</td>
+                                            <td>120 </td>
                                          
                                         </tr>
                                         <tr>
                                             <td>Puertos conmutados 1 Gigabit Ethernet </td>
-                                            <td>384</td>
+                                            <td>240 </td>
      
                                         </tr>             
                                 </table>

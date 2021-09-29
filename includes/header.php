@@ -127,20 +127,16 @@
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Small Business Switches<i class="fa fa-angle-down"></i></a>
-                                        <ul class="uno">
-                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
-                                            <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5515x-wfp.php">ASA-5515-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5516x-wfp.php">ASA-5516-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5525x-wfp.php">ASA-5525-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5545x-wfp.php">ASA-5545-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5555x-wfp.php">ASA-5555-X w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp10-wfp.php">ASA-5585-X-SSP10 w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp20-wfp.php">ASA-5585-X-SSP20  w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp40-wfp.php">ASA-5585-X-SSP40  w/FirePower</a></li>
-                                            <li><a href="firewalls-asa-5585x-ssp60-wfp.php">ASA-5585-X-SSP60  w/FirePower</a></li>
+                                        <ul class="Ssmall">
+                                            <li><a href="">110 Series Unmanaged Switches</a></li>
+                                            <li><a href="">200 Series Smart Switches</a></li>
+                                            <li><a href="">220 Series Smart Plus Switches</a></li>
+                                            <li><a href="">250 Series Smart Plus Switches</a></li>
+                                            <li><a href="">300 Series Managed Switches</a></li>
+                                            <li><a href="">350 Series Managed Switches</a></li>
+                                            <li><a href="">350x Series Stackable Managed Switches</a></li>
+                                            <li><a href="">500 Series Stackable Managed Switches</a></li>
+                                            <li><a href="">500x Series Stackable Managed Switches</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Data Center Switches<i class="fa fa-angle-down"></i></a>

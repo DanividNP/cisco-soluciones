@@ -968,7 +968,21 @@ ul.snueve{
 	background-color: rgba(255, 255, 255, 0.918);
 	box-shadow: 0 2px .09px rgba(0, 0, 0, 0.364);
 }
-
+ul.Ssmall{ 
+	position: absolute;
+	width:135%;
+	left: 100%;
+	list-style: none;
+	padding: 0 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	top: 260px;
+	background: #fff;
+    background-color: rgba(255, 255, 255, 0.918);
+	background-color: rgba(255, 255, 255, 0.918);
+	box-shadow: 0 2px .09px rgba(0, 0, 0, 0.364);
+}
 
 
 /* Submenu switch */
