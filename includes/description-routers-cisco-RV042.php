@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco RV042 Dual WAN VPN Router</h3>
+                <h3 class="title-border">Router Cisco RV042 Dual WAN VPN</h3>
                 <h5>Conectividad redundante, altamente segura y probada</h5>
                 <center> <img class="img-responsive" src="images/switches/cat-pon-1.png" alt=""></center>
 
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Enrutador VPN Fast Ethernet de 4 puertos Cisco RV042-WAN dual</strong></p>
+                                    <p align='justify'><strong>Cisco RV042 4-port Fast Ethernet VPN Router-Dual WAN</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                                     <p align='justify'>#RV042<br>
-                                        <strong>Precio Lista: $280.80</strong>
+                                        <strong>Precio: $280.80</strong>
                                     </p>
                                 </div>
                             </div>

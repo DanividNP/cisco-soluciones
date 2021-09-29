@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco RV130 VPN Router</h3>
-                <h5>Funciones de clase empresarial en un enrutador asequible</h5>
+                <h3 class="title-border">Router Cisco RV042G Dual Gigabit WAN VPN</h3>
+                <h5>Conectividad altamente segura y confiable para la red de pequeñas empresas</h5>
                 <center> <img class="img-responsive" src="images/switches/cat-pon-1.png" alt=""></center>
 
-<!--                / Panel Inicio 
+                <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -20,53 +20,47 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Enrutador VPN Fast Ethernet de 4 puertos Cisco RV042-WAN dual</strong></p>
+                                    <p align='justify'><strong>Dual Gigabit WAN VPN Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#RV042<br>
-                                        <strong>Precio Lista: $280.80</strong>
+                                    <p align='justify'>#RV042G-K9-NA<br>
+                                        <strong>Precio: $356.00</strong>
                                     </p>
                                 </div>
                             </div>
                         </div>
-                    </div>/ Panel 1 end
-                </div>  -->
+                    </div><!--/ Panel 1 end-->
+                </div>  
 
                 <div class="gap-40"></div>
                 <div class="widget widget-tab">
                     <ul class="nav nav-tabs">
                         <li class="active"><a href="#tab1" data-toggle="tab">Descripción</a></li>
-                        <li><a href="#tab4" data-toggle="tab">Características</a></li>
+                        <li><a href="#tab4" data-toggle="tab">Distribución</a></li>
                         <li><a href="#tab2" data-toggle="tab">Especificaciones</a></li>
                         <li><a href="#tab3" data-toggle="tab">Documentación</a></li>
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
                             <h2>Visión general:</h2>
-                            <p align="justify">El router VPN Cisco RV130 es un dispositivo asequible y fácil de usar que combina conectividad de red de alto rendimiento para varias oficinas y empleados remotos con funciones esenciales de clase empresarial. Estos incluyen Gigabit Ethernet, calidad de servicio, compatibilidad con IPv6 y seguridad avanzada, las características que necesita para construir con éxito la red de su pequeña empresa.</p>
-                            <h3>Funciones y capacidades</h3>
-                            <p align="justify">Obtenga las funciones que necesita para construir con éxito su red de pequeñas empresas. El RV130 incluye:</p>
+                            <p align="justify">El router VPN WAN de doble gigabit Cisco® RV042G ofrece conectividad confiable, de alto rendimiento y muy segura, a Internet, otras oficinas y empleados que trabajan de forma remota, desde el corazón de la red de su pequeña empresa. Este enrutador probado proporciona el rendimiento y la seguridad que necesita para ayudar a que sus empleados y su empresa sigan siendo productivos.</p>
+                            <p align="justify">El Cisco RV042G permite dos conexiones, ya sea a un solo proveedor de servicios, con equilibrio de carga para mejorar el rendimiento, o a diferentes proveedores para respaldar la continuidad del negocio. Las capacidades de red privada virtual (VPN) de alta capacidad permiten que varias oficinas y decenas de empleados accedan a la información que necesitan desde cualquier lugar, con la misma seguridad que si estuvieran trabajando en su oficina principal.</p>
+                            <p align="justify">Para proteger aún más su red y sus datos, Cisco RV042G incluye funciones de seguridad de clase empresarial y filtrado web opcional basado en la nube. La configuración es muy sencilla, utilizando un administrador de dispositivos intuitivo basado en navegador y asistentes de configuración.</p>
+                            <h3>Características</h3>
                             <ul>
-                                <li>Conmutador Gigabit Ethernet de 4 puertos integrado</li>
-                                <li>Conmutación por error USB 3G / 4G</li>
-                                <li>VPN de seguridad IP (IPsec) para un acceso remoto flexible</li>
-                                <li>Soporte para redes virtuales separadas y acceso inalámbrico para invitados</li>
-                                <li>Administrador de dispositivos intuitivo basado en navegador</li>
+                                <li>Puertos WAN duales Gigabit Ethernet para equilibrio de carga y / o continuidad empresarial</li>
+                                <li>Conmutador Gigabit Ethernet integrado de 4 puertos</li>
+                                <li>Seguridad sólida: firewall de inspección de paquetes de estado (SPI) y cifrado de hardware comprobados</li>
+                                <li>Capacidades de VPN de seguridad IP (IPsec) de alta capacidad y alto rendimiento</li>
+                                <li>Asistentes de configuración y administrador de dispositivos intuitivos basados ​​en navegador</li>
                             </ul>
-
-                            <p align="justify">El RV130 es fácil de implementar y configurar, y viene con una garantía limitada de por vida.</p>
 
                         </div>
 
                         <div class="tab-pane" id="tab4">
-                            <h2>Características y Beneficios:</h2>
-                            <ul>
-                                <li>first</li>
-                                <li>second</li>
-                                <li>third</li>
-                            </ul>
-
+                            <h2>Distribución:</h2>
+                            <center> <img class="img-responsive" src="images/routers/RV042G-deploy.jpg" alt=""></center>
 
                         </div>
 
@@ -93,7 +87,7 @@
                                         <ul>
                                             <li>802.3, 802.3u</li>
                                             <li>IPv4 (RFC 791)</li>
-                                            <li>Protocolo de información de enrutamiento (RIP) v1 (RFC 1058) y v2 (RFC 1723)</li>
+                                            <li>IPv6 (RFC 2460)</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -107,6 +101,7 @@
                                             <li>Protocolo de túnel punto a punto (PPTP)</li>
                                             <li>Puente transparente</li>
                                             <li>Relé de DNS, DNS dinámico (DynDNS, 3322)</li>
+                                            <li>IPv6</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -115,7 +110,7 @@
                                     <td>
                                         <ul>
                                             <li>Estático</li>
-                                            <li>RIP v1 y v2</li>
+                                            <li>Protocolo de información de enrutamiento (RIP) v1, v2 y RIP para IPv6 (RIPng)</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -164,12 +159,12 @@
                                     <td>Bloqueo de URL estático o bloqueo de palabras clave</td>
                                 </tr>
                                 <tr>
-                                    <td>Filtrado web</td>
-                                    <td>Servicio de seguridad opcional basado en la nube Cisco ProtectLink Web</td>
-                                </tr>
-                                <tr>
                                     <td>Gestión segura</td>
                                     <td>HTTPS, nombre de usuario / contraseña, complejidad de la contraseña</td>
+                                </tr>
+                                <tr>
+                                    <td>VLAN</td>
+                                    <td>VLAN basadas en puertos</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">VPN</th>
@@ -200,11 +195,11 @@
                                 </tr>
                                 <tr>
                                     <td>Paso de VPN</td>
-                                    <td>PPTP, L2TP, IPsec</td>
+                                    <td>PPTP, protocolo de túnel de capa 2 (L2TP), IPsec</td>
                                 </tr>
                                 <tr>
                                     <td>VPN avanzada</td>
-                                    <td>Detección de pares muertos (DPD), IKE, DNS dividido</td>
+                                    <td>Detección de pares muertos (DPD), intercambio de claves de Internet (IKE), DNS dividido, respaldo de VPN</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Calidad de servicio (QoS)</th>
@@ -230,11 +225,11 @@
                                 </tr>
                                 <tr>
                                     <td>Rendimiento de NAT</td>
-                                    <td>100 Mbps</td>
+                                    <td>800 Mbps</td>
                                 </tr>
                                 <tr>
                                     <td>Rendimiento de VPN IPsec</td>
-                                    <td>59 Mbps</td>
+                                    <td>95 Mbps</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Configuración</th>
@@ -258,6 +253,10 @@
                                     <td>Capacidad de actualización</td>
                                     <td>Firmware actualizable a través del navegador web, archivo de configuración importado / exportado</td>
                                 </tr>
+                                <tr>
+                                    <td>Migración</td>
+                                    <td>Utilidad de migración disponible para convertir el archivo de configuración RV042 en un archivo de configuración RV042G</td>
+                                </tr>
                             </table>
                             <br><br>
                             <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
@@ -270,7 +269,7 @@
                                 </tr>
                                 <tr>
                                     <td>Puertos</td>
-                                    <td>4 puertos 10/100 RJ-45, 1 puerto de Internet 10/100 RJ-45, 1 puerto de Internet / DMZ 10/100 RJ-45</td>
+                                    <td>4 puertos 10/100/1000 RJ-45, 1 puerto de Internet 10/100/1000 RJ-45, 1 puerto de Internet / DMZ 10/100/1000 RJ-45</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Fuente de alimentación</td>
@@ -278,7 +277,7 @@
                                 </tr>
                                 <tr>
                                     <td>Certificación</td>
-                                    <td>FCC clase B, CE clase B, cUL, Anatel, MEPS, CCC, PSB, CB, C-tick, KCC</td>
+                                    <td>FCC Clase B, CE Clase B, UL, cUL, CB</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Temperatura de funcionamiento</td>
@@ -302,8 +301,8 @@
                         <div class="tab-pane" id="tab3">
                             <h2>Documentación:</h2>
                             <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                            Descargue la <a href="datasheets/RV042.pdf" target="_blank">
-                                hoja de datos de Cisco RV042</a> (.PDF)
+                            Descargue la <a href="datasheets/RV042G.pdf" target="_blank">
+                                hoja de datos del enrutador VPN WAN de doble gigabit Cisco RV042G</a>(.PDF)
 
                         </div>
                     </div><!-- End default tabs -->

@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/RV042G-md.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon4.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-RV042G.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -50,7 +50,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/RV130-md.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon4-pvcoc.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-RV130.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>

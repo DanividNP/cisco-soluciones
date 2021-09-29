@@ -18,7 +18,7 @@
         <?php include("includes/banner-cisco-routers.php") ?>
         <!--/ Slider end -->
   
-        <?php include("includes/description-routers-cisco-RV130.php") ?>
+        <?php include("includes/description-routers-cisco-RV042G.php") ?>
        
 <!--        <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->
