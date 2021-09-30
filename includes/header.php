@@ -123,12 +123,12 @@
                                             <li><a href="switches-cat-s9300.php">Catalyst 9300 Series Switches</a></li>
                                             <li><a href="switches-cat-s9400.php">Catalyst 9400 Series Switches</a></li>
                                             <li><a href="switches-cat-s9500.php">Catalyst 9500 Series Switches</a></li>
-                                            <li><a href="switches-cat-s9600.php">Catalyst 9600 Series Switches</a></li>
+                                            <li><a href="switch-cat-s9600.php">Catalyst 9600 Series Switches</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Small Business Switches<i class="fa fa-angle-down"></i></a>
                                         <ul class="Ssmall">
-                                            <li><a href="">110 Series Unmanaged Switches</a></li>
+                                            <li><a href="switches-cat-s110.php">110 Series Unmanaged Switches</a></li>
                                             <li><a href="">200 Series Smart Switches</a></li>
                                             <li><a href="">220 Series Smart Plus Switches</a></li>
                                             <li><a href="">250 Series Smart Plus Switches</a></li>

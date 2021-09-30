@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
     <head>
 
@@ -17,11 +17,10 @@
         <!-- Slider start -->
         <?php include("includes/banner-cisco-switches.php") ?>
         <!--/ Slider end -->
-        <?php include("includes/cisco-switches-cat-s9000.php") ?>
   
-        <?php include("includes/products-switches-cat-s9500.php") ?>
+        <?php include("includes/description-switch-cat-s9500-32c.php") ?>
        
-<!--        <div class="gap-60"></div>
+<!--    <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->
         <!-- Footer start -->
         <?php include("includes/footer.php") ?>

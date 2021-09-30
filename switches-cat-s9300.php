@@ -17,7 +17,7 @@
         <!-- Slider start -->
         <?php include("includes/banner-cisco-switches.php") ?>
         <!--/ Slider end -->
-        <?php include("includes/cisco-swtiches-cat-s9000.php") ?>
+        <?php include("includes/cisco-switches-cat-s9000.php") ?>
   
         <?php include("includes/products-switches-cat-s9300.php") ?>
        
