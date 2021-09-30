@@ -10,7 +10,7 @@
                     <figure class="effect-oscar">
                         <img src="images/switches/c9500-12Q.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9404.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="switch-cat-s9500-12q.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
@@ -29,7 +29,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/c9500-16X.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9407.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9500-16x.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -48,7 +48,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/c9500-24Q.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9410.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9500-24q.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -67,13 +67,13 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/c9500-24Y4C.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9407.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9500-24y.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Switches Catalyst 94500-24Y4C</h3><br>
+                        <h3 align="center">Switches Catalyst 9500-24Y4C</h3><br>
                             <ul>
                                 <li>Switch de alto rendimiento con 24x1/10/25 G-Ethernet + 4x40/100G Uplink</li>
                             </ul>
@@ -86,7 +86,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/c9500-32QC.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9410.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9500-32q.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -105,7 +105,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/c9500-32C.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9407.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9500-32c.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -124,7 +124,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/c9500-40X.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9410.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9500-40x.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -143,7 +143,7 @@
                 <figure class="effect-oscar">
                         <img src="images/switches/c9500-48Y4C.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9410.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="switch-cat-s9500-48y.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
