@@ -10,7 +10,7 @@
         </div> <!-- Title row end -->
         <div class="row">
             <div class="tab-content">
-                <center><img class="img-responsive" src="images/switches/cat-pon-series.png" alt=""></center>
+                <center><img class="img-responsive" src="images/routers/Cisco Small Business RV Series Routers.png" alt=""></center>
             </div><!-- tab content -->
         </div><!-- Content row end -->
     </div><!-- Container end -->

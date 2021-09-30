@@ -4,7 +4,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h3 class="title-border">Cisco RV130 VPN Router</h3>
                 <h5>Funciones de clase empresarial en un enrutador asequible</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-pon-1.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco RV130 VPN Router.png" alt=""></center>
 
 <!--                / Panel Inicio 
                 <div class="panel-group" id="accordionA">
@@ -43,7 +43,7 @@
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
-                            <h2>Visión general:</h2>
+                            <h2>Descripción general:</h2>
                             <p align="justify">El router VPN Cisco RV130 es un dispositivo asequible y fácil de usar que combina conectividad de red de alto rendimiento para varias oficinas y empleados remotos con funciones esenciales de clase empresarial. Estos incluyen Gigabit Ethernet, calidad de servicio, compatibilidad con IPv6 y seguridad avanzada, las características que necesita para construir con éxito la red de su pequeña empresa.</p>
                             <h3>Funciones y capacidades</h3>
                             <p align="justify">Obtenga las funciones que necesita para construir con éxito su red de pequeñas empresas. El RV130 incluye:</p>
@@ -62,17 +62,26 @@
                         <div class="tab-pane" id="tab4">
                             <h2>Características y Beneficios:</h2>
                             <ul>
-                                <li>first</li>
-                                <li>second</li>
-                                <li>third</li>
+                                <li>Puertos Gigabit Ethernet de alto rendimiento, que permiten transferencias de archivos grandes y múltiples usuarios</li>
+                                <li>Puerto USB para conmutación por error de módem 3G / 4G o conectividad primaria alternativa</li>
+                                <li>La VPN de sitio a sitio de seguridad IP (IPsec) ayuda a habilitar la conectividad segura para empleados remotos y varias oficinas</li>
+                                <li>Seguridad sólida: firewall de inspección de paquetes de estado (SPI) y cifrado de hardware comprobados</li>
+                                <li>Fácil de configurar y usar con configuración basada en asistente</li>
                             </ul>
+                            <p align="justify">A medida que las aplicaciones comerciales se vuelven más poderosas y complejas, también aumentan las demandas en su red. Para mantenerse productivo y mantenerse en contacto con clientes, socios comerciales y colegas, sus empleados necesitan conectividad confiable y de alto rendimiento, dentro y fuera de la oficina.
+                                <br><br>El enrutador VPN Cisco RV130 ofrece conectividad de banda ancha altamente segura y acceso remoto para varias oficinas y trabajadores remotos. Diseñado específicamente para pequeñas empresas, ofrece una combinación completa de características de clase empresarial y facilidad de uso en una solución asequible.
+                                <br><br>El Cisco RV130 cuenta con un conmutador administrado Gigabit Ethernet de 4 puertos integrado que le permite conectar dispositivos de red y transferir archivos y datos a alta velocidad. Las funciones de calidad de servicio inteligente (QoS) le permiten priorizar el tráfico de red para mantener las aplicaciones de red críticas, como voz y video, funcionando al máximo.
+                                <br><br>Para ayudarlo a conectar usuarios remotos u oficinas adicionales, Cisco RV130 ofrece encriptación y autenticación de clase empresarial, incluida la compatibilidad con conexiones de cliente VPN IPsec y Protocolo de túnel punto a punto (PPTP) y túneles VPN puerta a puerta IPsec. El RV130 también cuenta con un puerto USB para conmutación por error de banda ancha 3G / 4G o para usos alternativos se puede utilizar para conectividad primaria.
+                                <br><br>Fácil de configurar y usar nada más sacarlo de la caja, el enrutador presenta una configuración simple basada en un asistente para que pueda comenzar a usarlo en minutos.
+                                <br><br>Con el enrutador VPN Cisco RV130, puede aprovechar el rendimiento, la seguridad y la confiabilidad de clase empresarial, a un precio que su pequeña empresa puede pagar.
+                            </p>
 
 
                         </div>
 
                         <div class="tab-pane" id="tab2">
                             <h3>Especificaciones:</h3>
-                            <center> <img class="img-responsive" src="images/routers/RV042-back.jpg" alt=""></center>
+                            <center> <img class="img-responsive" src="images/routers/RV130-rear.jpg" alt=""></center>
                             
                             <br>
 
@@ -81,160 +90,211 @@
                                     <th colspan="2" style="text-align: center">CGP- ONT-1P</th>
                                 </tr>-->
                                 <tr>
-                                    <th colspan="2" style="text-align: center">Especificaciones del producto</th>
+                                    <th colspan="2" style="text-align: center">Especificaciones de Cisco RV130</th>
                                 </tr>
                                 <tr>
-                                    <td>WAN dual</td>
-                                    <td>Configurable para respaldo de Smartlink o balanceo de carga</td>
+                                    <th style="text-align: center">Especificaciones</th>
+                                    <th style="text-align: center">Descripción</th>
                                 </tr>
                                 <tr>
                                     <td>Estándares</td>
-                                    <td>
-                                        <ul>
-                                            <li>802.3, 802.3u</li>
-                                            <li>IPv4 (RFC 791)</li>
-                                            <li>Protocolo de información de enrutamiento (RIP) v1 (RFC 1058) y v2 (RFC 1723)</li>
-                                        </ul>
-                                    </td>
+                                    <td>IEEE, 802.3, 802.3u, 802.1D, 802.1p, 802.1w (Rapid Spanning Tree), 802.1Q (VLAN), IPv4 (RFC 791), IPv6 (RFC 2460), Protocolo de información de enrutamiento (RIP) v1 (RFC 1058) , RIP v2 (RFC 1723)</td>
+                                </tr>
+                                <tr>
+                                    <td>Puertos</td>
+                                    <td>LAN, WAN, USB</td>
+                                </tr>
+                                <tr>
+                                    <td>Switch</td>
+                                    <td>Botón de encendido (activar / desactivar)</td>
+                                </tr>
+                                <tr>
+                                    <td>Botones</td>
+                                    <td>Reiniciar</td>
+                                </tr>
+                                <tr>
+                                    <td>Tipo de cableado</td>
+                                    <td>Categoría 5e o mejor</td>
+                                </tr>
+                                <tr>
+                                    <td>LED</td>
+                                    <td>Energía, VPN, USB, WAN, LAN (puertos 1-4)</td>
+                                </tr>
+                                <tr>
+                                    <td>Sistema operativo</td>
+                                    <td>Linux</td>
+                                </tr>
+                                <tr>
+                                    <th colspan="2" style="text-align: center">Red</th>
                                 </tr>
                                 <tr>
                                     <td>Protocolos de red</td>
                                     <td>
-                                        <ul>
-                                            <li>Servidor de Protocolo de configuración dinámica de host (DHCP), cliente DHCP, agente de retransmisión DHCP</li>
-                                            <li>IP estática</li>
+                                        <ul class="listas">
+                                            <li>Servidor de protocolo de configuración dinámica de host (DHCP)</li>
                                             <li>Protocolo punto a punto sobre Ethernet (PPPoE)</li>
                                             <li>Protocolo de túnel punto a punto (PPTP)</li>
-                                            <li>Puente transparente</li>
-                                            <li>Relé de DNS, DNS dinámico (DynDNS, 3322)</li>
+                                            <li>Protocolo de túnel de capa 2 (L2TP)</li>
+                                            <li>Proxy DNS</li>
+                                            <li>Agente de retransmisión DHCP</li>
+                                            <li>Proxy IGMP y reenvío de multidifusión</li>
+                                            <li>Protocolo de árbol de expansión rápida (RSTP)</li>
+                                            <li>Sistema de nombres de dominio dinámico (TZO, DynDNS, 3322.org, NOIP)</li>
+                                            <li>Traducción de direcciones de red (NAT), traducción de direcciones de puertos (PAT)</li>
+                                            <li>NAT uno a uno</li>
+                                            <li>Gestión portuaria</li>
+                                            <li>Duplicación de puertos</li>
+                                            <li>DMZ configurable por software a cualquier dirección IP de LAN</li>
+                                            <li>Gateways de capa de aplicación (ALG) del Protocolo de inicio de sesión (SIP)</li>
                                         </ul>
                                     </td>
+                                </tr>
+                                <tr>
+                                    <td>LAN</td>
+                                    <td>Cuatro (4) puertos LAN Gigabit de 10/100/1000 Mbps con conmutador administrado</td>
+                                </tr>
+                                <tr>
+                                    <td>WAN</td>
+                                    <td>Un (1) puerto WAN Gigabit de 10/100/1000 Mbps</td>
                                 </tr>
                                 <tr>
                                     <td>Protocolos de enrutamiento</td>
                                     <td>
-                                        <ul>
-                                            <li>Estático</li>
+                                        <ul class="listas">
+                                            <li>Enrutamiento estatico</li>
+                                            <li>Enrutamiento dinámico</li>
                                             <li>RIP v1 y v2</li>
+                                            <li>Enrutamiento entre VLAN</li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Traducción de direcciones de red (NAT)</td>
+                                    <td>Protocolo de traducción de direcciones de red (NAT)</td>
+                                    <td>Traducción de dirección de puerto (PAT), traducción de puerto de dirección de red (NAPT)</td>
+                                </tr>
+                                <tr>
+                                    <td>Soporte VLAN</td>
+                                    <td>VLAN basadas en puertos y etiquetas 802.1Q</td>
+                                </tr>
+                                <tr>
+                                    <td>Cantidad de VLAN</td>
+                                    <td>5 VLAN activas (rango 3-4096)</td>
+                                </tr>
+                                <tr>
+                                    <td>Pv6</td>
                                     <td>
-                                        <ul>
-                                            <li>Traducción de dirección de puerto (PAT)</li>
-                                            <li>Traducción de puerto de dirección de red (NAPT), NAT transversal, NAT uno a uno</li>
+                                        <ul class="listas">
+                                            <li>IPv4 e IPv6 de doble pila</li>
+                                            <li>Túneles 6to4</li>
+                                            <li>Configuración automática de direcciones sin estado</li>
+                                            <li>Servidor DHCPv6 para clientes IPv6 en LAN</li>
+                                            <li>Cliente DHCPv6 para conectividad WAN</li>
+                                            <li>Protocolo de mensajes de control de Internet (ICMP) v6</li>
+                                            <li>Enrutamiento IPv6 estático</li>
+                                            <li>Enrutamiento dinámico IPv6 con RIPng</li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Enlace de protocolo</td>
-                                    <td>Los protocolos se pueden vincular a un puerto WAN específico para el equilibrio de carga</td>
+                                    <td>Borde de red (DMZ)</td>
+                                    <td>Software configurable a cualquier dirección IP de LAN</td>
                                 </tr>
                                 <tr>
-                                    <td>Borde de la red (DMZ)</td>
-                                    <td>Puerto DMZ, host DMZ</td>
+                                    <td>Capa 2</td>
+                                    <td>VLAN basadas en 802.1Q, 4 VLAN activas</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Seguridad</th>
                                 </tr>
                                 <tr>
                                     <td>Firewall</td>
-                                    <td>SPI, denegación de servicio (DoS), ping de la muerte, inundación SYN, ataque terrestre, suplantación de IP, alerta de correo electrónico para ataques de piratas informáticos</td>
+                                    <td align="justify">Firewall de inspección de paquetes de estado (SPI), reenvío y activación de puertos, prevención de denegación de servicio (DoS), ataques DMZ DoS basados ​​en software prevenidos:
+                                        <ul class="listas">
+                                            <li>SYN Flood</li>
+                                            <li>Echo Storm</li>
+                                            <li>Inundación ICMP</li>
+                                            <li>Inundación UDP</li>
+                                            <li>Inundación de TCP</li>
+                                        </ul>
+                                        Bloquear Java, Cookies, ActiveX, HTTP Proxy
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <td>Reglas de acceso</td>
-                                    <td>Hasta 50 entradas</td>
-                                </tr>
-                                <tr>
-                                    <td>Reenvío de puertos</td>
-                                    <td>Hasta 30 entradas</td>
-                                </tr>
-                                <tr>
-                                    <td>Activación de puerto</td>
-                                    <td>Hasta 30 entradas</td>
-                                </tr>
-                                <tr>
-                                    <td>Bloqueo</td>
-                                    <td>Java, cookies, ActiveX, proxy HTTP</td>
+                                    <td>Control de acceso</td>
+                                    <td>Listas de control de acceso IP</td>
                                 </tr>
                                 <tr>
                                     <td>Filtrado de contenido</td>
                                     <td>Bloqueo de URL estático o bloqueo de palabras clave</td>
                                 </tr>
                                 <tr>
-                                    <td>Filtrado web</td>
-                                    <td>Servicio de seguridad opcional basado en la nube Cisco ProtectLink Web</td>
+                                    <td>Gestión segura</td>
+                                    <td>HTTPS, complejidad de nombre de usuario / contraseña</td>
                                 </tr>
                                 <tr>
-                                    <td>Gestión segura</td>
-                                    <td>HTTPS, nombre de usuario / contraseña, complejidad de la contraseña</td>
+                                    <td>Privilegios de usuario</td>
+                                    <td>2 niveles de acceso: administrador e invitado</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">VPN</th>
                                 </tr>
                                 <tr>
-                                    <td>IPsec</td>
-                                    <td>50 túneles de sitio a sitio IPsec para conectividad de sucursales</td>
+                                    <td>VPN IPsec de puerta de enlace a puerta de enlace</td>
+                                    <td>10 túneles IPsec puerta a puerta</td>
                                 </tr>
                                 <tr>
-                                    <td>QuickVPN</td>
-                                    <td>50 túneles QuickVPN para acceso remoto de clientes</td>
+                                    <td>VPN IPsec de cliente a puerta de enlace</td>
+                                    <td>10 túneles IPsec de cliente a puerta de enlace utilizando el cliente VPN TheGreenBow y ShrewSoft</td>
                                 </tr>
                                 <tr>
-                                    <td>PPTP</td>
-                                    <td>5 túneles PPTP para acceso remoto</td>
+                                    <td>VPN PPTP</td>
+                                    <td>10 túneles PPTP para acceso de clientes remotos</td>
                                 </tr>
                                 <tr>
                                     <td>Cifrado</td>
-                                    <td>Estándar de cifrado de datos (DES), Estándar de cifrado de datos triple (3DES) y Estándar de cifrado avanzado (AES); AES-128, AES-192, AES-256</td>
+                                    <td>Estándar de cifrado de datos triple (3DES), estándar de cifrado avanzado (AES)</td>
                                 </tr>
                                 <tr>
                                     <td>Autenticación</td>
-                                    <td>Autenticación MD5 / SHA1</td>
+                                    <td>MD5 / SHA1</td>
                                 </tr>
                                 <tr>
-                                    <td>Cruce de IPsec NAT</td>
-                                    <td>Compatible con túneles de puerta de enlace a puerta de enlace y de cliente a puerta de enlace</td>
+                                    <td>VPN pass-through</td>
+                                    <td>IPsec/PPTP/Layer 2 Tunneling Protocol (L2TP) pass-through</td>
                                 </tr>
                                 <tr>
-                                    <td>Paso de VPN</td>
-                                    <td>PPTP, L2TP, IPsec</td>
+                                    <th colspan="2" style="text-align: center">Calidad de servicio</th>
                                 </tr>
                                 <tr>
-                                    <td>VPN avanzada</td>
-                                    <td>Detección de pares muertos (DPD), IKE, DNS dividido</td>
+                                    <td>QoS</td>
+                                    <td>
+                                        <ul class="listas">
+                                            <li>Prioridad basada en el puerto 802.1p en el puerto LAN, prioridad basada en la aplicación en el puerto WAN</li>
+                                            <li>3 colas</li>
+                                            <li>Soporte de puntos de código de servicios diferenciados (DSCP)</li>
+                                            <li>Clase de servicio (CoS)</li>
+                                            <li>Gestión de ancho de banda para priorización de servicios</li>
+                                        </ul>
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <th colspan="2" style="text-align: center">Calidad de servicio (QoS)</th>
+                                    <td>Soporte Jumbo Frame</td>
+                                    <td>Admite Jumbo Frame en puertos Gigabit, al menos 1536B</td>
                                 </tr>
-                                <tr>
-                                    <td>Tipos de priorización</td>
-                                    <td>Prioridad basada en aplicaciones en el puerto WAN</td>
-                                </tr>
-                                <tr>
-                                    <td>QoS basada en servicios</td>
-                                    <td>Admite control de velocidad o prioridad</td>
-                                </tr>
-                                <tr>
-                                    <td>Control de clasificación</td>
-                                    <td>El ancho de banda ascendente / descendente se puede configurar por servicio</td>
-                                </tr>
-                                <tr>
-                                    <td>Prioridad</td>
-                                    <td>Cada servicio se puede asignar a uno de los 3 niveles de prioridad</td>
-                                </tr>
-                                <tr>
+                                 <tr>
                                     <th colspan="2" style="text-align: center">Rendimiento</th>
                                 </tr>
                                 <tr>
-                                    <td>Rendimiento de NAT</td>
-                                    <td>100 Mbps</td>
+                                    <td>Rendimiento NAT</td>
+                                    <td>800 Mbps</td>
                                 </tr>
                                 <tr>
-                                    <td>Rendimiento de VPN IPsec</td>
-                                    <td>59 Mbps</td>
+                                    <td>Sesiones concurrentes</td>
+                                    <td>12 000</td>
+                                </tr>
+                                <tr>
+                                    <td>Rendimiento de VPN IPsec (3DES / AES)</td>
+                                    <td>50 Mbps</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Configuración</th>
@@ -247,38 +307,39 @@
                                     <th colspan="2" style="text-align: center">Gestión</th>
                                 </tr>
                                 <tr>
-                                    <td>Protocolos de manejo</td>
-                                    <td>Navegador web, Protocolo simple de administración de redes (SNMP) v1 y v2c, Bonjour</td>
+                                    <td>Protocolos de gestión</td>
+                                    <td>Navegador web, Protocolo simple de administración de redes (SNMP) v3, Bonjour, Universal Plug and Play (UPnP)</td>
                                 </tr>
                                 <tr>
                                     <td>El registro de eventos</td>
-                                    <td>Syslog, alertas por correo electrónico, monitor de estado del túnel VPN</td>
+                                    <td>Alertas locales, syslog, por correo electrónico</td>
+                                </tr>
+                                <tr>
+                                    <td>Diagnóstico de red</td>
+                                    <td>Búsqueda de ping, traceroute y DNS</td>
                                 </tr>
                                 <tr>
                                     <td>Capacidad de actualización</td>
                                     <td>Firmware actualizable a través del navegador web, archivo de configuración importado / exportado</td>
                                 </tr>
-                            </table>
-                            <br><br>
-                            <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                 <tr>
-                                    <th colspan="2">Especificaciones del Sistema</th>
-                                </tr>
-                                <tr>
-                                    <td>Dimensiones del producto (An x Al x Pr)</td>
-                                    <td>5,12 pulg. X 1,52 pulg. X 7,87 pulg. 130 mm x 38,5 mm x 200 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>Puertos</td>
-                                    <td>4 puertos 10/100 RJ-45, 1 puerto de Internet 10/100 RJ-45, 1 puerto de Internet / DMZ 10/100 RJ-45</td>
+                                    <td>Hora del sistema</td>
+                                    <td>Admite NTP, horario de verano, entrada manual</td>
                                 </tr>
                                 <tr>                                        
-                                    <td>Fuente de alimentación</td>
-                                    <td>12V 1A</td>
+                                    <td>Idiomas</td>
+                                    <td>GUI admite inglés, francés, italiano, alemán y español</td>
                                 </tr>
                                 <tr>
-                                    <td>Certificación</td>
-                                    <td>FCC clase B, CE clase B, cUL, Anatel, MEPS, CCC, PSB, CB, C-tick, KCC</td>
+                                    <th colspan="2" style="text-align: center">Ambiental</th>
+                                </tr>
+                                <tr>
+                                    <td>Poder</td>
+                                    <td>12V 2A</td>
+                                </tr>
+                                <tr>
+                                    <td>Certificaciones</td>
+                                    <td>FCC clase B, CE, IC</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Temperatura de funcionamiento</td>
@@ -286,7 +347,7 @@
                                 </tr>
                                 <tr>                                        
                                     <td>Temperatura de almacenamiento</td>
-                                    <td>0 ° a 70 ° C (32 ° a 158 ° F)</td>
+                                    <td>-20 ° a 70 ° C (-4 ° a 158 ° F)</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Humedad de funcionamiento</td>
@@ -302,8 +363,8 @@
                         <div class="tab-pane" id="tab3">
                             <h2>Documentación:</h2>
                             <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                            Descargue la <a href="datasheets/RV042.pdf" target="_blank">
-                                hoja de datos de Cisco RV042</a> (.PDF)
+                            Descargue la <a href="datasheets/RV130.pdf" target="_blank">
+                                hoja de datos de Router Cisco RV130 VPN</a> (.PDF)
 
                         </div>
                     </div><!-- End default tabs -->

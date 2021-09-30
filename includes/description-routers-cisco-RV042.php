@@ -4,7 +4,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h3 class="title-border">Router Cisco RV042 Dual WAN VPN</h3>
                 <h5>Conectividad redundante, altamente segura y probada</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-pon-1.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco RV042 Dual WAN VPN Router.png" alt=""></center>
 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -43,7 +43,7 @@
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
-                            <h2>Visión general:</h2>
+                            <h2>Descripción general:</h2>
                             <p align="justify">El router VPN Cisco® RV042 Dual WAN ofrece conectividad confiable, de alto rendimiento y muy segura, a Internet, otras oficinas y empleados que trabajan de forma remota, desde el corazón de la red de su pequeña empresa. Este enrutador probado proporciona el rendimiento y la seguridad que necesita para ayudar a que sus empleados y su empresa sigan siendo productivos.</p>
                             <p align="justify">El Cisco RV042 permite dos conexiones, ya sea a un solo proveedor de servicios, con equilibrio de carga para mejorar el rendimiento, o a diferentes proveedores para respaldar la continuidad del negocio. Las capacidades de red privada virtual (VPN) de alta capacidad permiten que varias oficinas y decenas de empleados accedan a la información que necesitan desde cualquier lugar, con la misma seguridad que si estuvieran trabajando en su oficina principal.</p>
                             <p align="justify">Para proteger aún más su red y sus datos, Cisco RV042 incluye funciones de seguridad de clase empresarial y filtrado web opcional basado en la nube. La configuración es muy sencilla, utilizando un administrador de dispositivos intuitivo basado en navegador y asistentes de configuración.</p>
@@ -85,7 +85,7 @@
                                 <tr>
                                     <td>Estándares</td>
                                     <td>
-                                        <ul>
+                                        <ul class="listas">
                                             <li>802.3, 802.3u</li>
                                             <li>IPv4 (RFC 791)</li>
                                             <li>Protocolo de información de enrutamiento (RIP) v1 (RFC 1058) y v2 (RFC 1723)</li>
@@ -95,7 +95,7 @@
                                 <tr>
                                     <td>Protocolos de red</td>
                                     <td>
-                                        <ul>
+                                        <ul class="listas">
                                             <li>Servidor de Protocolo de configuración dinámica de host (DHCP), cliente DHCP, agente de retransmisión DHCP</li>
                                             <li>IP estática</li>
                                             <li>Protocolo punto a punto sobre Ethernet (PPPoE)</li>
@@ -108,7 +108,7 @@
                                 <tr>
                                     <td>Protocolos de enrutamiento</td>
                                     <td>
-                                        <ul>
+                                        <ul class="listas">
                                             <li>Estático</li>
                                             <li>RIP v1 y v2</li>
                                         </ul>
@@ -117,7 +117,7 @@
                                 <tr>
                                     <td>Traducción de direcciones de red (NAT)</td>
                                     <td>
-                                        <ul>
+                                        <ul class="listas">
                                             <li>Traducción de dirección de puerto (PAT)</li>
                                             <li>Traducción de puerto de dirección de red (NAPT), NAT transversal, NAT uno a uno</li>
                                         </ul>
@@ -194,7 +194,7 @@
                                     <td>Compatible con túneles de puerta de enlace a puerta de enlace y de cliente a puerta de enlace</td>
                                 </tr>
                                 <tr>
-                                    <td>Paso de VPN</td>
+                                    <td>VPN pass-through</td>
                                     <td>PPTP, L2TP, IPsec</td>
                                 </tr>
                                 <tr>

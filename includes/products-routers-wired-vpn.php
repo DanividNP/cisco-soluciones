@@ -71,7 +71,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/RV260P-md.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon4-pvco.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-RV260P.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
