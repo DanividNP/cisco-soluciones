@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 heading text-center">
                 <span class="icon-pentagon wow bounceIn"><i class="fa fa-server"></i></span>
-                <h2 class="title2">Switches no administrados Cisco Small Business serie 110
+                <h2 class="title2">Switches Cisco Small Business serie 110<br>
                     <span class="title-desc">Asequibilidad y rendimiento</span>
                 </h2>
             </div>
@@ -23,7 +23,7 @@
 				<div class="col-md-12">
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".2s">
 						<div class="service-content text-center">
-                        <a><img src="images/iconos/security.png" alt=""></a>
+                        <a><img src="images/iconos/visibility.png" alt=""></a>
 							<h3>Sencillez </h3>
 							<p>Plug-and-play sin necesidad de conocimientos técnicos o soporte de TI. </p>
 						</div>
@@ -31,7 +31,7 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".5s" >
 						<div class="service-content text-center">
-                        <a><img src="images/iconos/deployment.png" alt=""></a>
+                        <a><img src="images/iconos/Affordability.png" alt=""></a>
 							<h3>Asequibilidad </h3>
 							<p>Interruptores de nivel de entrada a precios asequibles para pequeñas empresas. </p>
 						</div>
@@ -40,7 +40,7 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".8s">
 						<div class="service-content text-center">
-						<a><img src="images/iconos/Power.png"></a> 
+						<a><img src="images/iconos/Performance.png"></a> 
 							<h3>Rendimiento </h3>
 							<p>Gigabit Ethernet e inteligencia de calidad de servicio (QoS) integrada para optimizar 
                                 los servicios sensibles al retraso y mejorar el rendimiento general de la red. </p>
@@ -49,7 +49,7 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.1s">
 						<div class="service-content text-center">
-                        <a><img src="images/iconos/management.png"></a>
+                        <a><img src="images/iconos/Efficiency.png"></a>
 							<h3>Eficiencia </h3>
 							<p>Admite el estándar Energy Efficient Ethernet (IEEE 802.3az), que optimiza el uso de 
                                 energía para ahorrar energía sin comprometer el rendimiento. </p>
