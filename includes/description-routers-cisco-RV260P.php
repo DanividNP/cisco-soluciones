@@ -390,7 +390,7 @@
                             <h2>Documentación:</h2>
                             <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
                             Descargue la <a href="datasheets/RV260.pdf" target="_blank">
-                                hoja de datos de Router Cisco RV260, RV260P, and RV260W VPN</a> (.PDF)
+                                hoja de datos de Router Cisco RV260, RV260P y RV260W VPN</a> (.PDF)
 
                         </div>
                     </div><!-- End default tabs -->

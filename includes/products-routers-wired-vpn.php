@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h2><span class="title-desc">Enrutadores con cable Cisco con VPN</span></h2>
+                <h2><span class="title-desc">Routers Cisco con cable y VPN</span></h2>
             </div>
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
@@ -15,7 +15,7 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN con WAN dual Cisco RV042</h3><br>
+                        <h3 align="center">Router Cisco RV042 Dual WAN VPN</h3><br>
                             <ul>
                                 <li>Puertos WAN Fast Ethernet duales de 10/100 Mbps para equilibrio de carga y / o continuidad empresarial</li>
                                 <li>Seguridad sólida: firewall comprobado de inspección de paquetes de estado (SPI) y cifrado de hardware</li>
@@ -36,7 +36,7 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN WAN de doble gigabit Cisco RV042G</h3><br>
+                        <h3 align="center">Router Cisco RV042G Dual Gigabit WAN VPN</h3><br>
                             <ul>
                                 <li>Puertos WAN duales Gigabit Ethernet para equilibrio de carga y / o continuidad empresarial</li>
                                 <li>Capacidades de VPN de seguridad IP (IPsec) de alta capacidad y alto rendimiento</li>
@@ -56,7 +56,7 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN Cisco RV130</h3><br>
+                        <h3 align="center">Router Cisco RV130 VPN</h3><br>
                             <ul>
                                 <li>Conmutador Gigabit Ethernet de 4 puertos integrado</li>
                                 <li>Conmutación por error USB 3G / 4G</li>
@@ -77,7 +77,7 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN Cisco RV260P con PoE</h3><br>
+                        <h3 align="center">Router Cisco RV260P VPN con PoE</h3><br>
                             <ul>
                                 <li>8 puertos Gigabit Ethernet con 4 puertos de PoE y un presupuesto de energía de 60W</li>
                                 <li>Puertos WAN de combinación flexible SFP / RJ-45</li>
@@ -92,13 +92,13 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/RV340-md.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon4-tvwc.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-RV340.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN Gigabit WAN dual Cisco RV340</h3><br>
+                        <h3 align="center">Router Cisco RV340 Dual WAN Gigabit VPN</h3><br>
                             <ul>
                                 <li>2 puertos WAN (RJ-45) para equilibrio de carga y resistencia</li>
                                 <li>4 puertos LAN para conectividad de alto rendimiento</li>
@@ -114,13 +114,13 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/RV345-md.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-pon8.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-RV345.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN Gigabit WAN dual Cisco RV345</h3><br>
+                        <h3 align="center">Router Cisco RV345 Dual WAN Gigabit VPN</h3><br>
                             <ul>
                                 <li>2 puertos WAN (RJ-45) para equilibrio de carga y resistencia</li>
                                 <li>16 puertos LAN para conectividad de alto rendimiento</li>
