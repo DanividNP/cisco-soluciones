@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router Cisco RV260P VPN con PoE</h3>
-                <h5>Conectividad por cable con 8 puertos Gigabit Ethernet y 4 puertos de PoE y un presupuesto de energía de 60W</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco RV260P VPN Router with PoE.png" alt=""></center>
+                <h3 class="title-border">Router RV260W Wireless-AC VPN</h3>
+                <h5>3x3 802.11ac Wave 2 Inalámbrico y un conmutador con ocho puertos Gigabit Ethernet</h5>
+                <center> <img class="img-responsive" src="images/routers/Cisco RV260W Wireless-AC VPN Router.png" alt=""></center>
 
 <!--                / Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Router RV260P VPN</strong></p>
+                                    <p align='justify'><strong>Router RV260W Wireless-AC VPN</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#RV260P-K9-NA<br>
-                                        <strong>Precio Lista: $540.69</strong>
+                                    <p align='justify'>#RV260W-A-K9-NA<br>
+                                        <strong>Precio Lista: $580.89</strong>
                                     </p>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                                 </tr>
                                 <tr>
                                     <td>LAN Ethernet</td>
-                                    <td>8 puertos RJ-45 Gigabit Ethernet<br>4 puertos PoE con un presupuesto de energía de 60 W</td>
+                                    <td>8 puertos Gigabit Ethernet RJ-45</td>
                                 </tr>
                                 <tr>
                                     <td>Puerto de consola</td>
@@ -120,7 +120,7 @@
                                 </tr>
                                 <tr>
                                     <td>Tipo de cableado</td>
-                                    <td>Categoría 5e o mejor</td>
+                                    <td>Categoría 5 o mejor</td>
                                 </tr>
                                 <tr>
                                     <td>LED</td>
@@ -148,6 +148,10 @@
                                 <tr>
                                     <td>WAN</td>
                                     <td>Cliente de Protocolo de configuración dinámica de host (DHCP), IP estática, Protocolo punto a punto sobre Ethernet (PPPoE), PPTP, Protocolo de túnel de capa 2 (L2TP)</td>
+                                </tr>
+                                <tr>
+                                    <td>WLAN</td>
+                                    <td>3x3 802.11ac Wave 2</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Seguridad</th>
@@ -238,7 +242,7 @@
                                 </tr>
                                 <tr>
                                     <td>VPN pass-through</td>
-                                    <td>IPsec, PPTP, and L2TP pass-through</td>
+                                    <td>IPsec, PPTP y L2TP pass-through</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Calidad de servicio  (QoS)</th>
@@ -310,7 +314,7 @@
                                 </tr>
                                 <tr>
                                     <td>Poder</td>
-                                    <td>54 V CC / 1,67 A</td>
+                                    <td>12VDC / 2.5A</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Temperatura de funcionamiento</td>
@@ -333,11 +337,11 @@
                                 </tr>
                                 <tr>
                                     <td>Dimensión / peso del dispositivo</td>
-                                    <td>Dimensiones L x An x Al: 279,4x170x38,5 mm<br>Peso: 1260 g</td>
+                                    <td>Dimensiones L x An x Al: 279,4x170x38,5 mm<br>Peso: 1360 g</td>
                                 </tr>
                                  <tr>                                        
                                     <td>Dimensiones / peso de una caja</td>
-                                    <td>Dimensiones L x An x Al: 261x453x106 mm<br>Peso: 2,72 kg</td>
+                                    <td>Dimensiones L x An x Al: 388x271x126 mm<br>Peso: 2,18 kg</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Certificaciones</th>

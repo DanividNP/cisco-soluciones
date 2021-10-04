@@ -10,7 +10,7 @@
                     <figure class="effect-oscar">
                         <img src="images/routers/RV132W-sm.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-RV042.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="routers-cisco-RV132W.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/RV260W-sm.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-RV042G.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-RV260W.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>

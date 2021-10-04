@@ -287,8 +287,8 @@
                                 <ul>
                                     <li class="submenu"><a>Router para pequeñas empresas<i class="fa fa-angle-down"></i></a>
                                         <ul class="r1">
-                                            <li><a href="routers-wired-vpn.php">Routers cableado con VPN</a></li>
-                                            <li><a href="firewalls-asa-5506h-wfp.php">Routers inalambrico con VPN</a></li>
+                                            <li><a href="routers-wired-vpn.php">Routers cableados con VPN</a></li>
+                                            <li><a href="routers-wireless-vpn.php">Routers inalambricos con VPN</a></li>
                                         </ul></li>	
 
                                     <li class="submenu"><a>Plataforma de sucursales<i class="fa fa-angle-down"></i></a>

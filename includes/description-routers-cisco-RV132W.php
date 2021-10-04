@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router Cisco RV130 VPN</h3>
-                <h5>Funciones de clase empresarial en un enrutador asequible</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco RV130 VPN Router.png" alt=""></center>
+                <h3 class="title-border">Router Cisco RV132W ADSL2 + Wireless-N VPN</h3>
+                <h5>ADSL2 + Conectividad para pequeñas empresas</h5>
+                <center> <img class="img-responsive" src="images/routers/Cisco RV132W ADSL2+ Wireless-N VPN Router.png" alt=""></center>
 
-<!--                / Panel Inicio 
+<!--                / Panel Inicio -->
                 <div class="panel-group" id="accordionA">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -20,42 +20,45 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Enrutador VPN Fast Ethernet de 4 puertos Cisco RV042-WAN dual</strong></p>
+                                    <p align='justify'><strong>RV132W Wireless-N VPN</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#RV042<br>
-                                        <strong>Precio Lista: $280.80</strong>
+                                    <p align='justify'>#RV132W-A-K9-NA<br>
+                                        <strong>Precio Lista: $181.54</strong>
                                     </p>
                                 </div>
                             </div>
                         </div>
-                    </div>/ Panel 1 end
-                </div>  -->
+                    </div> <!--/ Panel 1 end-->
+                </div>  
 
                 <div class="gap-40"></div>
                 <div class="widget widget-tab">
                     <ul class="nav nav-tabs">
                         <li class="active"><a href="#tab1" data-toggle="tab">Descripción</a></li>
-                        <li><a href="#tab4" data-toggle="tab">Características</a></li>
+                        <!--<li><a href="#tab4" data-toggle="tab">Características</a></li>-->
                         <li><a href="#tab2" data-toggle="tab">Especificaciones</a></li>
                         <li><a href="#tab3" data-toggle="tab">Documentación</a></li>
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
                             <h2>Descripción general:</h2>
-                            <p align="justify">El router VPN Cisco RV130 es un dispositivo asequible y fácil de usar que combina conectividad de red de alto rendimiento para varias oficinas y empleados remotos con funciones esenciales de clase empresarial. Estos incluyen Gigabit Ethernet, calidad de servicio, compatibilidad con IPv6 y seguridad avanzada, las características que necesita para construir con éxito la red de su pequeña empresa.</p>
-                            <h3>Funciones y capacidades</h3>
-                            <p align="justify">Obtenga las funciones que necesita para construir con éxito su red de pequeñas empresas. El RV130 incluye:</p>
+                            <p align="justify">El router VPN Cisco RV132W Wireless-N ADSL2 + es fácil de usar, configurar e implementar. Este enrutador flexible ofrece un gran rendimiento y es adecuado para oficinas pequeñas o en el hogar (SOHO) e implementaciones más pequeñas.<br><br>Este modelo de red en una caja ofrece un proceso de implementación rápido que solo toma unos minutos para configurar usando una interfaz de usuario basada en web.</p>
+                            <p><strong>Características:</strong></p>
                             <ul>
-                                <li>Conmutador Gigabit Ethernet de 4 puertos integrado</li>
-                                <li>Conmutación por error USB 3G / 4G</li>
-                                <li>VPN de seguridad IP (IPsec) para un acceso remoto flexible</li>
-                                <li>Soporte para redes virtuales separadas y acceso inalámbrico para invitados</li>
-                                <li>Administrador de dispositivos intuitivo basado en navegador</li>
+                                <li>Seguridad VPN</li>
+                                <li>Conmutador Fast Ethernet integrado de tres puertos</li>
+                                <li>Línea de abonado digital asimétrica 2 más conectividad (ADSL2 +)</li>
+                                <li>WAN Fast Ethernet</li>
+                                <li>USB 3G / 4G / LTE</li>
+                                <li>Garantia limitada de por vida</li>
+                                <li>Soporte líder en la industria</li>
+                                <li>Antenas internas</li>
+                                <li>Nuevo diseño elegante</li>
                             </ul>
 
-                            <p align="justify">El RV130 es fácil de implementar y configurar, y viene con una garantía limitada de por vida.</p>
+                            <p align="justify">El RV132W se puede utilizar para conectarse a una interfaz ADSL2 + o una interfaz WAN Ethernet normal. El modelo es compatible con la utilidad gratuita de descubrimiento de redes FindIT de Cisco Small Business, que permite el descubrimiento automático y descargas de software con un solo clic.</p>
 
                         </div>
 
@@ -81,8 +84,6 @@
 
                         <div class="tab-pane" id="tab2">
                             <h3>Especificaciones:</h3>
-                            <center> <img class="img-responsive" src="images/routers/RV130-rear.jpg" alt=""></center>
-                            
                             <br>
 
                             <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
@@ -90,27 +91,23 @@
                                     <th colspan="2" style="text-align: center">CGP- ONT-1P</th>
                                 </tr>-->
                                 <tr>
-                                    <th colspan="2" style="text-align: center">Especificaciones de Cisco RV130</th>
-                                </tr>
-                                <tr>
-                                    <th style="text-align: center">Especificaciones</th>
-                                    <th style="text-align: center">Descripción</th>
+                                    <th colspan="2" style="text-align: center">Especificaciones del producto</th>
                                 </tr>
                                 <tr>
                                     <td>Estándares</td>
-                                    <td>IEEE, 802.3, 802.3u, 802.1D, 802.1p, 802.1w (Rapid Spanning Tree), 802.1Q (VLAN), IPv4 (RFC 791), IPv6 (RFC 2460), Protocolo de información de enrutamiento (RIP) v1 (RFC 1058) , RIP v2 (RFC 1723)</td>
+                                    <td>IEEE 802.11n, 802.11g, 802.11b, 802.3, 802.3u, 802.1D, 802.1p, 802.1w (Rapid Spanning Tree), 802.1X (autenticación de seguridad), 802.1Q (VLAN), 802.11i (acceso protegido Wi-Fi Seguridad [WPA2]), 802.11e (QoS inalámbrica), IPv4 (RFC 791), IPv6 (RFC 2460), Protocolo de información de enrutamiento (RIP) v1 (RFC 1058), RIP v2 (RFC 1723)</td>
                                 </tr>
                                 <tr>
                                     <td>Puertos</td>
-                                    <td>LAN, WAN, USB</td>
+                                    <td>LAN, WAN, USB, consola</td>
                                 </tr>
                                 <tr>
                                     <td>Switch</td>
-                                    <td>Botón de encendido (activar / desactivar)</td>
+                                    <td>Botón de encendido (encendido, apagado)</td>
                                 </tr>
                                 <tr>
                                     <td>Botones</td>
-                                    <td>Reiniciar</td>
+                                    <td>Restablecer, Wi-Fi encendido, apagado</td>
                                 </tr>
                                 <tr>
                                     <td>Tipo de cableado</td>
@@ -118,7 +115,7 @@
                                 </tr>
                                 <tr>
                                     <td>LED</td>
-                                    <td>Energía, VPN, USB, WAN, LAN (puertos 1-4)</td>
+                                    <td>Alimentación, DSL o WAN, Internet, LAN (puertos 1-3), inalámbrico, VPN, USB</td>
                                 </tr>
                                 <tr>
                                     <td>Sistema operativo</td>
@@ -134,12 +131,11 @@
                                             <li>Servidor de protocolo de configuración dinámica de host (DHCP)</li>
                                             <li>Protocolo punto a punto sobre Ethernet (PPPoE)</li>
                                             <li>Protocolo de túnel punto a punto (PPTP)</li>
-                                            <li>Protocolo de túnel de capa 2 (L2TP)</li>
                                             <li>Proxy DNS</li>
                                             <li>Agente de retransmisión DHCP</li>
-                                            <li>Proxy IGMP y reenvío de multidifusión</li>
+                                            <li>Proxy del Protocolo de administración de grupos de Internet (IGMP) y reenvío de multidifusión</li>
                                             <li>Protocolo de árbol de expansión rápida (RSTP)</li>
-                                            <li>Sistema de nombres de dominio dinámico (TZO, DynDNS, 3322.org, NOIP)</li>
+                                            <li>Sistema de nombres de dominio dinámico (DynDNS, NOIP)</li>
                                             <li>Traducción de direcciones de red (NAT), traducción de direcciones de puertos (PAT)</li>
                                             <li>NAT uno a uno</li>
                                             <li>Gestión portuaria</li>
@@ -151,11 +147,15 @@
                                 </tr>
                                 <tr>
                                     <td>LAN</td>
-                                    <td>Cuatro (4) puertos LAN Gigabit de 10/100/1000 Mbps con conmutador administrado</td>
+                                    <td>3 puertos LAN de 10/100 Mbps con un conmutador administrado</td>
                                 </tr>
                                 <tr>
                                     <td>WAN</td>
-                                    <td>Un (1) puerto WAN Gigabit de 10/100/1000 Mbps</td>
+                                    <td>1 puerto FE WAN de 10/100 Mbps<br>1 ADSL2 +</td>
+                                </tr>
+                                <tr>
+                                    <td>WLAN</td>
+                                    <td>Punto de acceso inalámbrico 802.11n de alta velocidad incorporado</td>
                                 </tr>
                                 <tr>
                                     <td>Protocolos de enrutamiento</td>
@@ -169,8 +169,8 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Protocolo de traducción de direcciones de red (NAT)</td>
-                                    <td>Traducción de dirección de puerto (PAT), traducción de puerto de dirección de red (NAPT)</td>
+                                    <td>Traducción de direcciones de red (NAT)</td>
+                                    <td>Protocolo de traducción de direcciones de puerto (PAT), traducción de puertos de direcciones de red (NAPT)</td>
                                 </tr>
                                 <tr>
                                     <td>Soporte VLAN</td>
@@ -178,16 +178,16 @@
                                 </tr>
                                 <tr>
                                     <td>Cantidad de VLAN</td>
-                                    <td>5 VLAN activas (rango 3-4096)</td>
+                                    <td>6 VLAN activas (rango 2-4094)</td>
                                 </tr>
                                 <tr>
                                     <td>IPv6</td>
                                     <td>
                                         <ul class="listas">
                                             <li>IPv4 e IPv6 de doble pila</li>
-                                            <li>Túneles 6to4</li>
+                                            <li>6rd</li>
                                             <li>Configuración automática de direcciones sin estado</li>
-                                            <li>Servidor DHCPv6 para clientes IPv6 en LAN</li>
+                                            <li>Servidor DHCPv6 para clientes IPv6 en una LAN</li>
                                             <li>Cliente DHCPv6 para conectividad WAN</li>
                                             <li>Protocolo de mensajes de control de Internet (ICMP) v6</li>
                                             <li>Enrutamiento IPv6 estático</li>
@@ -197,11 +197,11 @@
                                 </tr>
                                 <tr>
                                     <td>Borde de red (DMZ)</td>
-                                    <td>Software configurable a cualquier dirección IP de LAN</td>
+                                    <td>Configurable por software a cualquier dirección IP de LAN</td>
                                 </tr>
                                 <tr>
                                     <td>Capa 2</td>
-                                    <td>VLAN basadas en 802.1Q, 4 VLAN activas</td>
+                                    <td>VLAN basadas en 802.1Q, 6 VLAN activas</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Seguridad</th>
@@ -215,13 +215,13 @@
                                             <li>ICMP Flood</li>
                                             <li>UDP Flood</li>
                                             <li>TCP Flood</li>
+                                            <li>Bloquear Java, Cookies, ActiveX, HTTP Proxy</li>
                                         </ul>
-                                        Bloquear Java, Cookies, ActiveX, HTTP Proxy
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Control de acceso</td>
-                                    <td>Listas de control de acceso IP</td>
+                                    <td>Listas de control de acceso IP; Control de acceso inalámbrico basado en MAC</td>
                                 </tr>
                                 <tr>
                                     <td>Filtrado de contenido</td>
@@ -229,86 +229,67 @@
                                 </tr>
                                 <tr>
                                     <td>Gestión segura</td>
-                                    <td>HTTPS, complejidad de nombre de usuario / contraseña</td>
+                                    <td>HTTPS, complejidad de nombre de usuario y contraseña</td>
                                 </tr>
                                 <tr>
                                     <td>Privilegios de usuario</td>
                                     <td>2 niveles de acceso: administrador e invitado</td>
                                 </tr>
                                 <tr>
-                                    <th colspan="2" style="text-align: center">VPN</th>
+                                    <th colspan="2" style="text-align: center">Calidad de servicio (QoS)</th>
                                 </tr>
                                 <tr>
-                                    <td>VPN IPsec de puerta de enlace a puerta de enlace</td>
-                                    <td>10 túneles IPsec puerta a puerta</td>
-                                </tr>
-                                <tr>
-                                    <td>VPN IPsec de cliente a puerta de enlace</td>
-                                    <td>10 túneles IPsec de cliente a puerta de enlace utilizando el cliente VPN TheGreenBow y ShrewSoft</td>
-                                </tr>
-                                <tr>
-                                    <td>VPN PPTP</td>
-                                    <td>10 túneles PPTP para acceso de clientes remotos</td>
-                                </tr>
-                                <tr>
-                                    <td>Cifrado</td>
-                                    <td>Estándar de cifrado de datos triple (3DES), estándar de cifrado avanzado (AES)</td>
-                                </tr>
-                                <tr>
-                                    <td>Autenticación</td>
-                                    <td>MD5 / SHA1</td>
-                                </tr>
-                                <tr>
-                                    <td>VPN pass-through</td>
-                                    <td>IPsec/PPTP/Layer 2 Tunneling Protocol (L2TP) pass-through</td>
-                                </tr>
-                                <tr>
-                                    <th colspan="2" style="text-align: center">Calidad de servicio</th>
-                                </tr>
-                                <tr>
-                                    <td>QoS</td>
+                                    <td>Calidad de servicio QoS</td>
                                     <td>
                                         <ul class="listas">
-                                            <li>Prioridad basada en el puerto 802.1p en el puerto LAN, prioridad basada en la aplicación en el puerto WAN</li>
-                                            <li>3 colas</li>
+                                            <li>Prioridad basada en puertos 802.1p en puertos LAN, prioridad basada en aplicaciones en puertos WAN</li>
+                                            <li>4 colas</li>
                                             <li>Soporte de puntos de código de servicios diferenciados (DSCP)</li>
                                             <li>Clase de servicio (CoS)</li>
                                             <li>Gestión de ancho de banda para priorización de servicios</li>
                                         </ul>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td>Soporte Jumbo Frame</td>
-                                    <td>Admite Jumbo Frame en puertos Gigabit, al menos 1536B</td>
-                                </tr>
                                  <tr>
                                     <th colspan="2" style="text-align: center">Rendimiento</th>
                                 </tr>
                                 <tr>
                                     <td>Rendimiento NAT</td>
-                                    <td>800 Mbps</td>
+                                    <td>75 Mbps (Ethernet WAN)</td>
                                 </tr>
                                 <tr>
                                     <td>Sesiones concurrentes</td>
-                                    <td>12 000</td>
+                                    <td>2000</td>
                                 </tr>
                                 <tr>
                                     <td>Rendimiento de VPN IPsec (3DES / AES)</td>
-                                    <td>50 Mbps</td>
+                                    <td>3 Mbps</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Configuración</th>
                                 </tr>
                                 <tr>
                                     <td>Interfaz de usuario web</td>
-                                    <td>Administrador de dispositivos simple basado en navegador (HTTP / HTTPS)</td>
+                                    <td>Configuración sencilla basada en navegador (HTTP, HTTPS)</td>
+                                </tr>
+                                <tr>
+                                    <td>Interfaz de línea de comandos (CLI)</td>
+                                    <td>Línea de comando usando SSH</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Gestión</th>
                                 </tr>
                                 <tr>
-                                    <td>Protocolos de gestión</td>
-                                    <td>Navegador web, Protocolo simple de administración de redes (SNMP) v3, Bonjour, Universal Plug and Play (UPnP)</td>
+                                    <td>Interfaz de usuario web</td>
+                                    <td>Configuración sencilla basada en navegador (HTTP, HTTPS)</td>
+                                </tr>
+                                <tr>
+                                    <td>CLI</td>
+                                    <td>Línea de comando usando SSH</td>
+                                </tr>
+                                <tr>
+                                    <td>Protocolos de manejo</td>
+                                    <td>Navegador web, Bonjour, Universal Plug and Play (UPnP)</td>
                                 </tr>
                                 <tr>
                                     <td>El registro de eventos</td>
@@ -316,11 +297,11 @@
                                 </tr>
                                 <tr>
                                     <td>Diagnóstico de red</td>
-                                    <td>Búsqueda de ping, traceroute y DNS</td>
+                                    <td>Ping, Traceroute, búsqueda de DNS y espejo de puerto</td>
                                 </tr>
                                 <tr>
                                     <td>Capacidad de actualización</td>
-                                    <td>Firmware actualizable a través del navegador web, archivo de configuración importado / exportado</td>
+                                    <td>Firmware actualizable a través de un navegador web, archivo de configuración importado o exportado</td>
                                 </tr>
                                 <tr>
                                     <td>Hora del sistema</td>
@@ -328,18 +309,77 @@
                                 </tr>
                                 <tr>                                        
                                     <td>Idiomas</td>
-                                    <td>GUI admite inglés, francés, italiano, alemán y español</td>
+                                    <td>GUI admite inglés</td>
+                                </tr>
+                                <tr>
+                                    <th colspan="2" style="text-align: center">Inalámbrico</th>
+                                </tr>
+                                <tr>
+                                    <td>Tipo de radio y modulación</td>
+                                    <td>802.11b: espectro ensanchado de secuencia directa (DSSS), 802.11g: multiplexación por división de frecuencia ortogonal (OFDM), 802.11n: OFDM</td>
+                                </tr>
+                                <tr>
+                                    <td>WLAN</td>
+                                    <td>Punto de acceso basado en el estándar IEEE 802.11n de 2,4 GHz con compatibilidad con 802.11b / g</td>
+                                </tr>
+                                <tr>
+                                    <td>Canales operativos</td>
+                                    <td>11 Norteamérica, 13 la mayor parte de Europa, selección automática de canales</td>
+                                </tr>
+                                <tr>
+                                    <td>Aislamiento inalambrico</td>
+                                    <td>Aislamiento inalámbrico entre clientes</td>
+                                </tr>
+                                <tr>
+                                    <td>Antenas internas</td>
+                                    <td>2</td>
+                                </tr>
+                                <tr>
+                                    <td>Ganancia de antena en dBi</td>
+                                    <td>3 dBi</td>
+                                </tr>
+                                <tr>
+                                    <td>Transmitir poder</td>
+                                    <td>802.11b: 17 dBm +/- 2,5 dBm; 802.11g: 15 dBm +/- 2,5 dBm; 802.11n: 15 dBm +/- 2,5 dBm</td>
+                                </tr>
+                                <tr>
+                                    <td>Sensibilidad del receptor</td>
+                                    <td>-85 dBm a 11 Mbps, -73 dBm a 54 Mbps, -68 dBm a mcs15, HT20, -65 dBm a mcs15, HT40</td>
+                                </tr>
+                                <tr>
+                                    <td>Frecuencia de radio</td>
+                                    <td>Banda única, funciona en 2,4 GHz</td>
+                                </tr>
+                                <tr>
+                                    <td>Clientes WLAN activos</td>
+                                    <td>Admite hasta 50 clientes simultáneos</td>
+                                </tr>
+                                <tr>
+                                    <td>Múltiples SSID</td>
+                                    <td>Admite múltiples identificadores de conjuntos de servicios (SSID), hasta 4 redes virtuales independientes</td>
+                                </tr>
+                                <tr>
+                                    <td>Mapa de VLAN inalámbrica</td>
+                                    <td>Admite asignación de SSID a VLAN con aislamiento de cliente inalámbrico</td>
+                                </tr>
+                                <tr>
+                                    <td>Seguridad WLAN</td>
+                                    <td>Privacidad equivalente por cable (WEP), WPA, WPA2-PSK, WPA2-ENT, 802.11i</td>
+                                </tr>
+                                <tr>
+                                    <td>Multimedia Wi-Fi (WMM)</td>
+                                    <td>Ahorro de energía WMM, WMM (WMM-PS)</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Ambiental</th>
                                 </tr>
                                 <tr>
                                     <td>Poder</td>
-                                    <td>12V 2A</td>
+                                    <td>12V 1A</td>
                                 </tr>
                                 <tr>
                                     <td>Certificaciones</td>
-                                    <td>FCC clase B, CE, IC</td>
+                                    <td>FCC, CE, IC, Wi-Fi</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Temperatura de funcionamiento</td>
@@ -353,18 +393,14 @@
                                     <td>Humedad de funcionamiento</td>
                                     <td>10% a 85% sin condensación</td>
                                 </tr>
-                                <tr>                                        
-                                    <td>Humedad de almacenamiento</td>
-                                    <td>5% a 90% sin condensación</td>
-                                </tr>
                             </table>
 
                         </div>
                         <div class="tab-pane" id="tab3">
                             <h2>Documentación:</h2>
                             <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                            Descargue la <a href="datasheets/RV130.pdf" target="_blank">
-                                hoja de datos de Router Cisco RV130 VPN</a> (.PDF)
+                            Descargue la <a href="datasheets/RV132W.pdf" target="_blank">
+                                hoja de datos de Router Cisco RV132W ADSL2+ Wireless-N VPN</a> (.PDF)
 
                         </div>
                     </div><!-- End default tabs -->
