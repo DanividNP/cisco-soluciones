@@ -293,7 +293,7 @@
 
                                     <li class="submenu"><a>Plataforma de sucursales<i class="fa fa-angle-down"></i></a>
                                         <ul class="r2">
-                                            <li><a href="firewalls-asa-5506x-wfp.php">Serie ASR 1000</a></li>
+                                            <li><a href="routers-ASR1000-series.php">Serie ASR 1000</a></li>
                                             <li><a href="firewalls-asa-5506h-wfp.php">Cisco ISR serie 1000</a></li>
                                             <li><a href="firewalls-asa-5508x-wfp.php">Cisco ISR serie 4000</a></li>
                                             <li><a href="firewalls-asa-5512x-wfp.php">Serie ISR 800</a></li>

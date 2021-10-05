@@ -25,7 +25,7 @@
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                                     <p align='justify'>#RV340W-A-K9-NA<br>
-                                        <strong>Precio Lista: $268.70</strong>
+                                        <strong>Precio Lista: $868.70</strong>
                                     </p>
                                 </div>
                             </div>
@@ -283,103 +283,225 @@
                                  <tr>
                                     <th colspan="2" style="text-align: center">Wireless</th>
                                 </tr>
-                                
-                                
-                                
-                                
-                                
-                                
-                                
                                 <tr>
-                                    <td>Cifrado</td>
-                                    <td>Estándar de cifrado de datos triple (3DES), estándar de cifrado avanzado (AES)</td>
+                                    <td>Estándares</td>
+                                    <td>IEEE 802.11ac, 802.11n, 802.11g, 802.11b, 802.11a, 802.1X (autenticación de seguridad), 802.1Q (VLAN), 802.11i (seguridad WPA2), 802.11e (QoS inalámbrica)</td>
                                 </tr>
                                 <tr>
-                                    <td>Autenticación</td>
-                                    <td>MD5 / SHA1</td>
+                                    <td>Antenas</td>
+                                    <td>4 antenas externas de paleta fija (RV340W)</td>
                                 </tr>
                                 <tr>
-                                    <td>VPN pass-through</td>
-                                    <td>IPsec/PPTP/Layer 2 Tunneling Protocol (L2TP) pass-through</td>
+                                    <td>802.1X supplicant</td>
+                                    <td>sí</td>
                                 </tr>
                                 <tr>
-                                    <th colspan="2" style="text-align: center">Calidad de servicio</th>
+                                    <td>Asignación de SSID a VLAN</td>
+                                    <td>sí</td>
+                                </tr>
+                                <tr>
+                                    <td>Selección automática de canales</td>
+                                    <td>sí</td>
+                                </tr>
+                                <tr>
+                                    <td>WPA / WPA2</td>
+                                    <td>Sí, incluida la autenticación empresaria</td>
+                                </tr>
+                                <tr>
+                                    <td>Control de acceso</td>
+                                    <td>Sí, filtrado MAC</td>
+                                </tr>
+                                <tr>
+                                    <td>Detección de puntos de acceso Rouge</td>
+                                    <td>No</td>
                                 </tr>
                                 <tr>
                                     <td>QoS</td>
-                                    <td>
+                                    <td>Multimedia Wi-Fi (WMM) con ahorro de energía automático no programado</td>
+                                </tr>
+                                 <tr>
+                                    <th colspan="2" style="text-align: center">Rendimiento inalámbrico</th>
+                                </tr>
+                                <tr>
+                                    <td>Rendimiento inalámbrico</td>
+                                    <td>Velocidad de datos PHY:
+                                        <br>2,4 GHz: 450 Mbps 964-QAM), 600 Mbps (256-QAM)
+                                        <br>5 GHz: 1,7 Gbps (256-QAM), 2,1 Gbps (1024-QAM)
+                                        <br>Total: Hasta 2,7 Gbps
+                                        <br>(rendimiento del mundo real variará)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Soporte de usuario recomendado</td>
+                                    <td>Hasta 50 usuarios a 2,4 GHz y 124 usuarios a 5 GHz simultáneamente</td>
+                                </tr>
+                                <tr>
+                                    <td>Portal cautivo para acceso de invitados</td>
+                                    <td>sí</td>
+                                </tr>
+                                <tr>
+                                    <th colspan="2" style="text-align: center">Parámetros inalámbricos</th>
+                                </tr>
+                                <tr>
+                                    <td>Frecuencia</td>
+                                    <td>Radios duales concurrentes (2.4 y 5 GHz)</td>
+                                </tr>
+                                <tr>
+                                    <td>WLAN</td>
+                                    <td>802.11n / ac
+                                        <br>4x4 MU-MIMO con 4 flujos parciales a 5GHz
+                                        <br>3x3 MIMO con 3 flujos espaciales a 2.4 GHz
+                                        <br>20 MHz, 40 MHz y 80 MHZ canales para 802.11ac
+                                        <br>20 MHz y canales de 40 MHz para 802.11n
+                                        <br>PHY velocidad de datos:
+                                        <br>2.4 GHz : 450 Mbps (64-QAM), 600 Mbps (256-QAM)
+                                        <br>5 GHz: 1,7 Gbps (256-QAM), 2,1 Gbps (1024-QAM)
+                                        <br>Total: hasta 2,7 Gbps
+                                        <br>802.11 Selección dinámica de frecuencia (DFS)
+                                        <br>MU-MIMO hasta 3 clientes simultáneamente
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Velocidades de datos admitidas</td>
+                                    <td>802.11 a / b / g:
                                         <ul class="listas">
-                                            <li>Prioridad basada en el puerto 802.1p en el puerto LAN, prioridad basada en la aplicación en el puerto WAN</li>
-                                            <li>3 colas</li>
-                                            <li>Soporte de puntos de código de servicios diferenciados (DSCP)</li>
-                                            <li>Clase de servicio (CoS)</li>
-                                            <li>Gestión de ancho de banda para priorización de servicios</li>
+                                            <li>54, 48, 36, 24, 18, 12, 9, 6, 11, 5.5, 2 y 1 Mbps</li>
+                                            <li>802.11n: de 6,5 a 450 Mbps
+                                                <ul class="listas">
+                                                    <li>Ancho de banda de 20 MHz: MCS 0-15 para velocidades de datos admitidas</li>
+                                                    <li>Ancho de banda de 40 MHz: MCS 0-15 para velocidades de datos admitidas</li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                        802.11ac:
+                                        <ul class="listas">
+                                            <li>6.5 Mbps a 1.7 Gbps
+                                                <ul class="listas">
+                                                    <li>Ancho de banda de 20 MHz: MCS 0-9 para velocidades de datos admitidas</li>
+                                                    <li>Ancho de banda de 40 MHz: MCS 0-9 para velocidades de datos admitidas</li>
+                                                    <li>Ancho de banda de 80 MHz: MCS 0-9 para velocidades de datos admitidas</li>
+                                                </ul>
+                                            </li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Soporte Jumbo Frame</td>
-                                    <td>Admite Jumbo Frame en puertos Gigabit, al menos 1536B</td>
-                                </tr>
-                                 <tr>
-                                    <th colspan="2" style="text-align: center">Rendimiento</th>
-                                </tr>
-                                <tr>
-                                    <td>Rendimiento NAT</td>
-                                    <td>800 Mbps</td>
-                                </tr>
-                                <tr>
-                                    <td>Sesiones concurrentes</td>
-                                    <td>12 000</td>
-                                </tr>
-                                <tr>
-                                    <td>Rendimiento de VPN IPsec (3DES / AES)</td>
-                                    <td>50 Mbps</td>
-                                </tr>
-                                <tr>
-                                    <th colspan="2" style="text-align: center">Configuración</th>
-                                </tr>
-                                <tr>
-                                    <td>Interfaz de usuario web</td>
-                                    <td>Administrador de dispositivos simple basado en navegador (HTTP / HTTPS)</td>
-                                </tr>
-                                <tr>
-                                    <th colspan="2" style="text-align: center">Gestión</th>
+                                    <td>Banda de frecuencia y canales operativos</td>
+                                    <td>A (un dominio regulatorio):
+                                        <ul class="listas">
+                                            <li>2412 a ~ 2462 MHz: 11 canales</li>
+                                            <li>5,15 a 5,25 GHz: 4 canales</li>
+                                            <li>5,25 a 5,35 GHz: 4 canales</li>
+                                            <li>5,47 a 5,725 GHz: 8 canales</li>
+                                            <li>5.725 a 5.825 GHz: 5 canales</li>
+                                        </ul>
+                                        E (dominio regulatorio E):
+                                        <ul class="listas">
+                                            <li>2412 a ~ 2472 MHz: 13 canales</li>
+                                            <li>5,15 a 5,25 GHz: 4 canales</li>
+                                            <li>5,25 a 5,35 GHz: 4 canales</li>
+                                            <li>5,47 a 5,725 GHz: 8 canales</li>
+                                        </ul>
+                                        C (dominio regulatorio C):
+                                        <ul class="listas">
+                                            <li>2412 a ~ 2462 MHz: 13 canales</li>
+                                            <li>5,15 a 5,25 GHz: 4 canales</li>
+                                            <li>5,25 a 5,35 GHz: 4 canales</li>
+                                        </ul>
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <td>Protocolos de gestión</td>
-                                    <td>Navegador web, Protocolo simple de administración de redes (SNMP) v3, Bonjour, Universal Plug and Play (UPnP)</td>
+                                    <td>Potencia de salida del transmisor</td>
+                                    <td>2,4 GHz
+                                        <ul class="listas">
+                                            <li>802.11b: 17,5 +/- 2 dBm</li>
+                                            <li>802.11g: 17,5 +/- 2 dBm a 6 Mbps</li>
+                                            <li>802.11g: 15,5 +/- 2 dBm a 54 Mbps</li>
+                                            <li>802.11n (HT20): 17,5 +/- 2 dBm @ MCS0</li>
+                                            <li>802.11n (HT20): 15,5 +/- 2 dBm @ MCS7</li>
+                                            <li>802.11n (HT40): 15,5 +/- 2 dBm @ MCS7</li>
+                                        </ul>
+                                        5 GHz
+                                        <ul class="listas">
+                                            <li>802.11a: 18,5 +/- 2 dBm a 6 Mbps</li>
+                                            <li>802.11a: 14 +/- 2 dBm a 54 Mbps</li>
+                                            <li>802.11n (HT20): 14 +/- 2 dBm @ MCS7</li>
+                                            <li>802.11n (HT40): 14 +/- 2 dBm @ MCS7</li>
+                                            <li>802.11ac (VHT80): 12.0 +/- 2 dBm @ VHT9SS</li>
+                                        </ul>
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <td>El registro de eventos</td>
-                                    <td>Alertas locales, syslog, por correo electrónico</td>
-                                </tr>
-                                <tr>
-                                    <td>Diagnóstico de red</td>
-                                    <td>Búsqueda de ping, traceroute y DNS</td>
-                                </tr>
-                                <tr>
-                                    <td>Capacidad de actualización</td>
-                                    <td>Firmware actualizable a través del navegador web, archivo de configuración importado / exportado</td>
-                                </tr>
-                                <tr>
-                                    <td>Hora del sistema</td>
-                                    <td>Admite NTP, horario de verano, entrada manual</td>
+                                    <td>Aislamiento inalambrico</td>
+                                    <td>Aislamiento inalámbrico entre clientes</td>
                                 </tr>
                                 <tr>                                        
-                                    <td>Idiomas</td>
-                                    <td>GUI admite inglés, francés, italiano, alemán y español</td>
+                                    <td>Ganancia de antena en dBi</td>
+                                    <td>2,4 GHz: 3 dBi cada antena<br>5 GHz: 5 dBi cada antena</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Sensibilidad del receptor</td>
+                                    <td>2,4 GHz
+                                        <ul class="listas">
+                                            <li>802.11b: -82 dBm a 11 Mbps</li>
+                                            <li>802.11g: -71 dBm a 54 Mbps</li>
+                                            <li>802.11n (HT20): -69 dBm @ MCS7</li>
+                                            <li>802.11n (HT40): -67 dBm @ MCS7</li>
+                                        </ul>
+                                        5 GHz
+                                        <ul>
+                                            <li>802.11ac (VHT20): -59 dBm @ MCS8</li>
+                                            <li>802.11ac (VHT40): -54 dBm @ MCS9</li>
+                                            <li>802.11ac (VHT80): -51 dBm @ MCS9</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Sistema de distribución inalámbrica (WDS)</td>
+                                    <td>No</td>
                                 </tr>
                                 <tr>
-                                    <th colspan="2" style="text-align: center">Ambiental</th>
+                                    <th colspan="2" style="text-align: center">Dimensiones del producto</th>
                                 </tr>
                                 <tr>
-                                    <td>Poder</td>
-                                    <td>12V 2A</td>
+                                    <td>Dimensión</td>
+                                    <td>280 x 44 x 315 mm (11 x 1,75 x 12,40 pulgadas)</td>
                                 </tr>
                                 <tr>
-                                    <td>Certificaciones</td>
-                                    <td>FCC clase B, CE, IC</td>
+                                    <td>Dimensiones del paquete</td>
+                                    <td>375 x 505 x 80 mm (14,76 x 19,88 x 3,15 pulgadas)</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Dispositivo de peso del producto solamente</td>
+                                    <td>1150 g (2,53 libras)</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Peso de embalaje</td>
+                                    <td>2400 g (5,29 libras)</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>MTBF</td>
+                                    <td>50000 horas</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Montable en rack</td>
+                                    <td>sí</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Accesorios incluidos</td>
+                                    <td>Fuente de alimentación, cable de alimentación, cable Ethernet</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Admirador</td>
+                                    <td>No</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Fuente de alimentación</td>
+                                    <td>CA 100-240V / 1A CC 12V / 3A</td>
+                                </tr>
+                                <tr>                                        
+                                    <td>Certificación</td>
+                                    <td>FCC Clase B, CE Clase B, UL, cUL, CB, CCC, BSMI, KC, Anatel</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Temperatura de funcionamiento</td>
@@ -387,7 +509,7 @@
                                 </tr>
                                 <tr>                                        
                                     <td>Temperatura de almacenamiento</td>
-                                    <td>-20 ° a 70 ° C (-4 ° a 158 ° F)</td>
+                                    <td>0 ° a 70 ° C (32 ° a 158 ° F)</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Humedad de funcionamiento</td>
@@ -403,8 +525,8 @@
                         <div class="tab-pane" id="tab3">
                             <h2>Documentación:</h2>
                             <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                            Descargue la <a href="datasheets/RV130.pdf" target="_blank">
-                                hoja de datos de Router Cisco RV130 VPN</a> (.PDF)
+                            Descargue la <a href="datasheets/RV340W.pdf" target="_blank">
+                                hoja de datos de Router Cisco RV340, RV345, RV345P y RV340W Dual WAN Security VPN</a> (.PDF)
 
                         </div>
                     </div><!-- End default tabs -->

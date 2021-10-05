@@ -17,9 +17,8 @@
                         
                         <h3 align="center">Router Cisco RV132W ADSL2+ Wireless-N VPN</h3><br>
                             <ul>
-                                <li>Puertos WAN Fast Ethernet duales de 10/100 Mbps para equilibrio de carga y / o continuidad empresarial</li>
-                                <li>Seguridad sólida: firewall comprobado de inspección de paquetes de estado (SPI) y cifrado de hardware</li>
-                                <li>Conmutador Fast Ethernet integrado de 4 puertos</li>
+                                <li>Puertos WAN DSL2 + y Ethernet</li>
+                                <li>Conmutador Ethernet integrado de 3 puertos</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -36,10 +35,11 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN WAN de doble gigabit Cisco RV042G</h3><br>
+                        <h3 align="center">Router Cisco RV260W Wireless-AC VPN</h3><br>
                             <ul>
-                                <li>Puertos WAN duales Gigabit Ethernet para equilibrio de carga y / o continuidad empresarial</li>
-                                <li>Capacidades de VPN de seguridad IP (IPsec) de alta capacidad y alto rendimiento</li>
+                                <li>WAN de combinación SFP / Ethernet</li>
+                                <li>Conmutador de 8 puertos</li>
+                                <li>Inalámbrico 3x3 802.11ac WAVE2</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -50,17 +50,17 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/RV340W-sm.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-RV130.php"><i class="fa fa-link"></i></a>
-                                     
+                            <a class="link icon-pentagon" href="routers-cisco-RV340W.php"><i class="fa fa-link"></i></a>
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">Router VPN Cisco RV130</h3><br>
+                        <h3 align="center">Router Cisco RV340W Dual WAN Gigabit Wireless-AC VPN</h3><br>
                             <ul>
-                                <li>Conmutador Gigabit Ethernet de 4 puertos integrado</li>
-                                <li>Conmutación por error USB 3G / 4G</li>
-                                <li>Soporte para redes virtuales separadas y acceso inalámbrico para invitados</li>
+                                <li>2 puertos WAN (RJ-45) para equilibrio de carga y resistencia</li>
+                                <li>4 puertos LAN para conectividad de alto rendimiento</li>
+                                <li>Inalámbrico AC de radio dual Gigabit integrado</li>
+                                <li>2 puertos USB que admiten un módem 3G / 4G o una unidad flash</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
