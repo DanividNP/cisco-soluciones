@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF110D-05  </h3>
-                <h5>Switch de escritorio de 5 puertos 10/100  </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s110-5d.png" alt=""></center>
+                <h3 class="title-border">Cisco SF110D-08HP </h3>
+                <h5>Switch de escritorio de 8 puertos 10/100 PoE</h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s110-8h.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF110D-05 5-Port 10/100 Desktop Switch</strong></p>
+                                    <p align='justify'><strong>Cisco SF110D-08HP 8-Port 10/100 PoE Desktop Switch</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SF110D-05-NA <br>
-                                        <strong>Precio: $43.17</strong></p>
+                                    <p align='justify'>#SF110D-08HP-NA<br>
+                                        <strong>Precio: $195.85</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -149,15 +149,15 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF110D-05</th>
+                                            <th colspan="2" style="text-align: center">SF110D-08HP</th>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación </td>
-                                            <td>1 Gbps</td>
+                                            <td>1,6 Gbps </td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de reenvío </td>
-                                            <td>0,74 mpps </td>
+                                            <td>1,2 mpps </td>
                                         </tr>
                                         <tr>
                                             <td>Bloqueo de cabecera de línea (HOL) </td>
@@ -221,22 +221,26 @@
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (Al x An x Pr) </td>
-                                            <td> 3,65 x 1,06 x 3,57 pulgadas <br> (92,6 x 27 x 90,6 mm)  </td>
+                                            <td>6.29 x 1.18 x 5.05 pulgadas<br>(160 x 30 x 128.5 mm)</td>
                                         </tr>
                                         <tr>
                                             <td>Peso </td>
-                                            <td> 	0,47 libras (0,22 kg) </td>
+                                            <td>1,2 libras (0,545 kg)</td>
                                         </tr>
                                         <tr>
                                             <th colspan="2">Puertos</th>
                                         </tr>
                                         <tr>
                                             <td>Puertos</td>
-                                            <td>5 conectores RJ-45 para 10BASE-T / 100BASE-TX </td>
+                                            <td>8 conectores RJ-45 para 10BASE-T / 100BASE-TX </td>
                                         </tr>
                                         <tr>
-                                            <td>Alimentación a través de Ethernet (PoE) </td>
-                                            <td>-</td>
+                                            <td>Energía dedicada a PoE </td>
+                                            <td>32 vatios </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Número de puertos PoE </td>
+                                            <td>4 </td>
                                         </tr>
                                         <tr>
                                             <td>Modelos con ventilador / sin ventilador </td>

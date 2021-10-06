@@ -187,7 +187,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/sf110d-08.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-16x.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-8d.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -208,7 +208,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/sf110d-08hp.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-24q.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-8h.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -229,7 +229,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/sf110d-16hp.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-24y.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-16h.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -250,7 +250,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/sf110-16.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-32q.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-16.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -271,7 +271,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/sf110-24.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-32c.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-24.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -292,7 +292,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/sf112-24.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-40x.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s112-24.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -311,25 +311,27 @@
 
         </div><!-- Content row end -->
 
+        <!------------------------------------------------------------- Seccion 3 de productos --------------------------------------------------------->
         <div class="row">
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h2 class="title">Modelos Cisco Business de la serie 110 </h2>
+                <h2 class="title">Gigabit Ethernet de la serie Cisco 110 </h2>
                         </div>
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                                 <figure class="effect-oscar">
-                                    <img src="images/switches/c9500-12Q.png" alt="">
+                                    <img src="images/switches/sg110d-05.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-12q.php"><i class="fa fa-link"></i></a>                                     
+                                        <a class="link icon-pentagon" href="switch-cat-s110-5g.php"><i class="fa fa-link"></i></a>                                     
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Switches Catalys 9500-12Q</h3><br>
+                                    <h3 align="center">Cisco SG110D-05</h3><br>
                                         <ul>
-                                            <li>Switch de ultima generacion con 12 puertos Gigabit Ethernet de 40G</li>
-                                                                        
+                                            <li>5 puertos Gigabit </li>
+                                            <li>Capacidad de conmutación de 10 Gbps </li>
+                                            <li>7,4 mpps Capacidad de reenvío </li>                   
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -338,17 +340,19 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/switches/c9500-16X.png" alt="">
+                                    <img src="images/switches/sg110d-08.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-16x.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-8g.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Switches Catalys 9500-16X</h3><br>
+                                    <h3 align="center">Cisco SG110D-08 </h3><br>
                                         <ul>
-                                            <li>Switch de ultima generacion con 16 puertos Gigabit Ethernet 1/10G</li>
+                                            <li>8 puertos Gigabit</li>
+                                            <li>Capacidad de conmutación de 16 Gbps </li>
+                                            <li>11,9 mpps Capacidad de reenvío </li>                   
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -357,17 +361,19 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/switches/c9500-24Q.png" alt="">
+                                    <img src="images/switches/sg110d-08hp.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-24q.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-8gh.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Switches Catalyst 9500-24Q</h3><br>
+                                    <h3 align="center">Cisco SG110D-08HP</h3><br>
                                         <ul>
-                                            <li>Switch de ultima generacion con 24 puertos Gigabit Ethernet de 40G</li>
+                                            <li>8 puertos Gigabit PoE </li>
+                                            <li>Capacidad de conmutación de 16 Gbps </li>
+                                            <li>11,9 mpps Capacidad de reenvío </li>                   
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -376,17 +382,19 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/switches/c9500-24Y4C.png" alt="">
+                                    <img src="images/switches/sg110-16.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-24y.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-16g.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Switches Catalyst 9500-24Y4C</h3><br>
+                                    <h3 align="center">Cisco SG110-16 </h3><br>
                                         <ul>
-                                            <li>Switch de alto rendimiento con 24x1/10/25 G-Ethernet + 4x40/100G Uplink</li>
+                                            <li>16 puertos Gigabit </li>
+                                            <li>Capacidad de conmutación de 32 Gbps </li>
+                                            <li>23,8 mpps Capacidad de reenvío </li>                   
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -395,17 +403,19 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/switches/c9500-32QC.png" alt="">
+                                    <img src="images/switches/sg110-16hp.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-32q.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-16gh.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Switches Catalyst 9500-32QC</h3><br>
+                                    <h3 align="center">Cisco SG110-16HP</h3><br>
                                         <ul>
-                                            <li>Switch de alto rendimiento con 32x40 o 16x100 Gigabit Ethernet</li>
+                                            <li>16 puertos Gigabit PoE </li>
+                                            <li>Capacidad de conmutación de 32 Gbps </li>
+                                            <li>23,8 mpps Capacidad de reenvío</li>                   
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -414,17 +424,20 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/switches/c9500-32C.png" alt="">
+                                    <img src="images/switches/sg112-24.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-32c.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s112-24g.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Switches Catalyst 9500-32C</h3><br>
+                                    <h3 align="center">Cisco SG112-24 </h3><br>
                                         <ul>
-                                            <li>Switch de alto rendimiento con 32x100 Gigabit Ethernet</li>
+                                            <li>24 puertos Gigabit </li>
+                                            <li>2 ranuras mini-GBIC combinadas </li>
+                                            <li>Capacidad de conmutación de 48 Gbps </li>
+                                            <li>35,7 mpps Capacidad de reenvío </li>                   
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -433,21 +446,46 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/switches/c9500-40X.png" alt="">
+                                    <img src="images/switches/sg110-24.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s9500-40x.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-24g.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Switches Catalyst 9500-40X</h3><br>
+                                    <h3 align="center">Cisco SG110-24</h3><br>
                                         <ul>
-                                            <li>Switch de ultima generacion con 40x1/10 Gigabit Ethernet</li>
-                                        </ul>
+                                            <li>24 puertos Gigabit </li>
+                                            <li>2 ranuras mini-GBIC combinadas </li>
+                                            <li>2 ranuras mini-GBIC combinadas </li>
+                                            <li>35,7 mpps Capacidad de reenvío </li>                   
+                                        </ul>   
                                 </div>					
                             </div><!--/ grid end -->
                         </div><!--/ item 7 end -->
+
+                        <div class="col-sm-4 portfolio-static-item">
+                            <div class="grid">
+                            <figure class="effect-oscar">
+                                    <img src="images/switches/sg110-24hp.jpg" alt="">
+                                    <figcaption>
+                                        <a class="link icon-pentagon" href="switch-cat-s110-24gh.php"><i class="fa fa-link"></i></a>
+                                                
+                                    </figcaption>			
+                                </figure>
+                                <div class="portfolio-static-desc">
+                                    
+                                    <h3 align="center">Cisco SG110-24HP </h3><br>
+                                        <ul>
+                                            <li>24 puertos Gigabit PoE </li>
+                                            <li>2 ranuras mini-GBIC combinadas </li>
+                                            <li>Capacidad de conmutación de 48 Gbps </li>  
+                                            <li>35,7 mpps Capacidad de reenvío </li>                 
+                                        </ul>   
+                                </div>					
+                            </div><!--/ grid end -->
+                        </div><!--/ item 8 end -->
 
         </div><!-- Content row end -->
     </div><!-- Container end -->
