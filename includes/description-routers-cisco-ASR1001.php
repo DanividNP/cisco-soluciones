@@ -472,435 +472,506 @@
                                 </table>
 
                             </div>
+                            
+                            
+                            <div class="tab-pane" id="tab5">
+                                <h2>Soluciones:</h2>
+                                <h3>Routers Cisco ASR de la serie 1000: transforme y amplíe el perímetro WAN empresarial</h3>
+                                <p align="justify">Cisco crea un nuevo paradigma para el perímetro WAN con los routers de servicios de agregación Cisco ASR serie 1000, que ofrecen resistencia crítica para el negocio con flexibilidad de servicios inteligentes para permitir que las empresas aceleren su potencial de crecimiento.</p>
+                                <h3>¿Qué es el router Cisco ASR serie 1000?</h3>
+                                <center> <img class="img-responsive" src="images/routers/ASR-1000-diagram.jpg" alt=""></center>
+                                <p aling="justify">El router Cisco ASR de la serie 1000, una parte fundamental de la arquitectura de red sin fronteras de Cisco, es el primer enrutador de servicios de agregación de la industria y el primer sistema dentro de la cartera de Cisco que utiliza el procesador Cisco QuantumFlow, un procesador creado para la prestación de servicios basados ​​en el borde (consulte a la Figura 1). Puede implementar los routers Cisco ASR serie 1000 en la empresa para proporcionar servicios de agregación de WAN seguros; servicios integrados de defensa y amenazas en el perímetro de Internet o WAN; router de interconexión del centro de datos (DCI); servicios gestionados de equipos en las instalaciones del cliente (CPE); o para ofrecer servicios de negocios o cuádruples residenciales complejos (datos, voz, video y móviles) desde el punto de vista del proveedor.</p>
+                                <h3>Procesador Cisco QuantumFlow: el procesador de red de próxima generación de Cisco</h3>
+                                <p aling="justify">Cumplir con los requisitos del borde del servicio de agregación requería una categoría completamente nueva de procesadores de red. Cisco ha desarrollado un innovador motor de enrutador llamado Cisco QuantumFlow Processor, que es el primer procesador de flujo totalmente integrado y programable de la industria. El procesador Cisco QuantumFlow combina procesamiento paralelo masivo, calidad de servicio (QoS) personalizada, administración de memoria avanzada y capacidad de programación de servicios integrados. Con estas capacidades, la serie Cisco ASR 1000 acelera la implementación del servicio y la velocidad de las funciones, lo que reduce el tiempo de implementación y calificación y reduce los gastos operativos (OpEx).</p>
+                                <h3>¿Qué problemas ayuda a resolver?</h3>
+                                <p>Las empresas de todo el mundo se enfrentan a varios desafíos nuevos de infraestructura WAN:</p>
+                                <ul>
+                                    <li>Rendimiento de la infraestructura de borde de la WAN: las empresas necesitan ofrecer servicios de mayor rendimiento y mayor ancho de banda a través de sus WAN convergentes, junto con un margen de capacidad para operar de manera eficiente.</li>
+                                    <li>Infraestructura WAN de alta disponibilidad: las empresas deben proporcionar acceso en cualquier momento y lugar a aplicaciones y servicios a través de la WAN. Esta disposición requiere una infraestructura más altamente disponible, resistente y adaptable que la que tienen en la actualidad.</li>
+                                    <li>Seguridad WAN para la protección y el cumplimiento de los datos: las empresas deben cumplir con las regulaciones de la industria con respecto a la privacidad de los datos y cumplir con las regulaciones como la Ley Sarbanes-Oxley (SOX), la Industria de tarjetas de pago (PCI), la Ley de responsabilidad y portabilidad de seguros médicos (HIPAA), etcétera.</li>
+                                    <li>Entrega de servicios con inteligencia de aplicaciones: las empresas deben cumplir con los exigentes acuerdos internos de nivel de servicio (SLA), con una entrega de servicios y un rendimiento de aplicaciones mejorados a través de la WAN.</li>
+                                </ul>
+                                <h3>Posicionamiento de Cisco ASR serie 1000</h3>
+                                <p align="justify">La serie Cisco ASR 1000 proporciona agregación multiservicio segura y escalable en la sede, sucursales de alta gama y servicios CPE administrados en oficinas remotas. Al cumplir o superar estos requisitos, los routers Cisco ASR de la serie 1000 ayudan a definir la nueva WAN empresarial.</p>
+                                <p>Cartera de enrutamiento WAN empresarial de Cisco</p>
+                                <center> <img class="img-responsive" src="images/routers/WAN-Routing-Portfolio.jpg" alt=""></center>
+                                <h3>Beneficios de los routers Cisco ASR de la serie 1000</h3>
+                                <p>Las empresas que implementan los enrutadores Cisco ASR de la serie 1000 pueden obtener los siguientes beneficios:</p>
+                                <p><strong>Rendimiento muy alto en el borde de la WAN para admitir servicios WAN nuevos y más rápidos:</strong></p>
+                                <ul>
+                                    <li>Aumento de más de veinte veces en el rendimiento y la capacidad del ancho de banda WAN en comparación con los routers Cisco de la serie 7200</li>
+                                    <li>Nuevas funciones de conectividad segura y de colaboración habilitadas con Cisco WebEx® Node en Cisco ASR serie 1000 para la aceleración de reuniones web locales, Cisco Unified Border Element (UBE) Service Provider y Enterprise Editions para mejorar la telepresencia de empresa a empresa, alta definición ( HD) telefonía de voz y video, interconexión de red telefónica pública conmutada (PSTN) de voz sobre IP (VoIP) y conectividad segura mejorada y optimización de aplicaciones</li>
+                                    <li>Facilitación de nuevas iniciativas WAN, como la segmentación de redes empresariales para grupos de trabajo, consolidación de centros de datos y aplicaciones convergentes de datos, voz y video.</li>
+                                    <li>Sencilla ruta de actualización porque el precio / rendimiento del enrutador Cisco ASR serie 1000 se ubica entre la serie Cisco 7200 en el extremo inferior de la cartera y la serie Cisco 7600 y la serie Cisco Catalyst® 6500 en el extremo superior.</li>
+                                </ul>
+                                <p><strong>Disponibilidad de WAN incomparable para una prestación de servicios consistente y confiable en toda la WAN:</strong></p>
+                                <ul>
+                                    <li>Diseño de clase de operador de alta disponibilidad con hardware y software redundantes, que brindan servicios consistentes, confiables y "siempre activos"</li>
+                                    <li>Arquitectura de plataforma de hardware resistente con separación de planos de datos y control para una potente disponibilidad del sistema</li>
+                                    <li>Redundancia de hardware completa para procesadores de reenvío y enrutamiento con conmutación por error de milisegundos y pérdida de paquetes cero (Nota: la conmutación por error del motor de reenvío da como resultado una pérdida mínima de paquetes).</li>
+                                    <li>El primer software redundante de la industria (software Cisco IOS® XE) en hardware no redundante (chasis de 1 unidad de rack [1RU], 2RU y 4RU)</li>
+                                    <li>Software modular Cisco IOS XE que brinda la capacidad de reiniciar de forma remota, contención de fallas y actualizaciones de software en servicio (ISSU)</li>
+                                </ul>
+                                <p><strong>Seguridad de borde WAN integrada de alto rendimiento para la prevención de ataques y el cumplimiento:</strong></p>
+                                <ul>
+                                    <li>Capacidad para activar instantáneamente los servicios de seguridad integrados sin afectar el rendimiento del enrutamiento WAN</li>
+                                    <li>Enfoque de router integrado "todo en uno" que simplifica la operación y reduce los costos y el tiempo para calificar, implementar y mantener la infraestructura WAN</li>
+                                    <li>Agregación segura de servicios para sitios remotos y WAN privados</li>
+                                    <li>Acceso seguro a Internet integrado, controlador de borde de sesión, firewall y terminación de VPN</li>
+                                    <li>Servicios de seguridad integrados de alto rendimiento que reducen la necesidad de dispositivos independientes:
+                                        <ul>
+                                            <li>Control de paquetes, cálculo de rutas y configuración de conexiones; una opción de módulo de procesador de ruta redundante está disponible para los chasis 6RU y 13RU</li>
+                                            <li>Servicios de conectividad segura: proporciona conectividad de red segura y escalable, incorporando múltiples tipos de tráfico; los ejemplos incluyen varios servicios de VPN, como Dynamic Multipuntoint VPN (DMVPN), Group Encrypted Transport VPN, Enhanced Easy VPN y servicios de VPN de seguridad IP (IPsec) de hasta 11 Gbps</li>
+                                            <li>Control de amenazas integrado: Previene y responde a ataques y amenazas a la red mediante servicios de red; Entre los ejemplos se incluyen el firewall con reconocimiento de Virtual Route Forwarding (VRF) y los servicios de traducción de direcciones de red (NAT) con un rendimiento de hasta 100 Gbps, servicios NetFlow e inspección profunda de paquetes multigigabit a través del reconocimiento de aplicaciones basado en la red (NBAR), la correspondencia flexible de paquetes (FPM). ) y Application Visibility and Control (AVC) para proporcionar una primera línea de defensa rápida contra amenazas de red y gusanos y virus notables.</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <p><strong>Niveles de servicio WAN mejorados y excelencia operativa:</strong></p>
+                                <ul>
+                                    <li>Costos operativos totales de WAN reducidos y optimizados a través del uso efectivo del ancho de banda y la consolidación de redes y dispositivos superpuestos, eficiencias energéticas e integración de servicios.</li>
+                                    <li>Uso mejorado del ancho de banda con funciones de optimización WAN como el Protocolo de comunicación de caché web versión 2 (WCCPv2) y administración e instrumentación del tráfico (NetFlow completo escalable versión 9)</li>
+                                    <li>Arquitectura de hardware y software innovadora para adaptarse fácilmente a los nuevos requisitos comerciales</li>
+                                    <li>Sofisticado diseño de hardware y software del sistema de enrutadores Cisco ASR serie 1000 para abordar el exceso de suscripción y proporcionar QoS escalable y flexible para un rendimiento de aplicaciones predecible</li>
+                                </ul>
+                                <h3>Componentes de la serie Cisco ASR 1000</h3>
+                                <p>Se utiliza una arquitectura de hardware y software común y componentes comunes en los routers Cisco ASR de la serie 1000. Los componentes primarios incluyen:</p>
+                                <ul>
+                                    <li>Chasis: El chasis está disponible en cinco factores de forma diferentes y todos tienen capacidad para fuentes de alimentación dobles.</li>
+                                    <li>Procesador de ruta: el procesador de ruta ejecuta el plano de control del enrutador, incluido el procesamiento de paquetes de control de red, el cálculo de rutas y la configuración de la conexión.</li>
+                                    <li>Procesador de servicios integrados (ESP): el ESP incluye el conjunto de chips del procesador de flujo Quantum de Cisco y proporciona funciones de reenvío, servicios y gestión del tráfico (QoS). Hay disponible una opción de módulo ESP redundante para los chasis 6RU y 13RU.</li>
+                                    <li>Procesador de interfaz SPA (SIP): el SIP es la carcasa de los adaptadores de puerto compartido (SPA) del sistema, cada uno de los cuales puede admitir hasta 4 SPA de media altura, 2 SPA de doble altura o 1 SPA de doble altura y 2 SPA de altura única.</li>
+                                </ul>
 
+                            </div>
+                            
+                            <div class="tab-pane" id="tab6">
+                                <h2>Casos de uso:</h2>
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                    <tr>
+                                        <th colspan="3">Aplicaciones empresariales de la serie Cisco ASR 1000</th>
+                                    </tr>
+                                    <tr>
+                                        <th style="text-align: center">Escenario de implementación</th>
+                                        <th style="text-align: center">Descripción</th>
+                                        <th style="text-align: center">Caracteristicas del sistema</th>
+                                    </tr>
+                                    <tr>
+                                        <td>WAN edge:
+                                            <br>Garantice aplicaciones de alta prioridad creando un "techo de cristal" virtual para aplicaciones de menor prioridad. Mejora las experiencias de los usuarios.</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Aplica políticas Modular QoS CLI (MQC) en VLAN o túneles</li>
+                                                <li>Limita una colección arbitraria de tráfico de baja prioridad a un determinado ancho de banda</li>
+                                                <li>Clasifica según el punto de código de servicios diferenciados (DSCP), NBAR y Cisco IOS FPM en numerosas jerarquías, una para alta prioridad y otra para baja prioridad.</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Implementa jerarquías flexibles</li>
+                                                <li>Admite 464.000 colas</li>
+                                                <li>Permite que todas las colas tengan un ancho de banda mínimo, máximo y en exceso con propagación de prioridad</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cabecera multiservicio, escalable y segura:
+                                            <br>la agregación de VPN de seguridad IP (IPsec) se escala para satisfacer las nuevas demandas de ancho de banda de las VPN IP de los proveedores de servicios.
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Reduce los gastos de capital (CapEx) y los gastos operativos (OpEx) al migrar y consolidar a menos enrutadores Cisco ASR de la serie 1000</li>
+                                                <li>Protege la inversión a través de una fácil transición a un soporte de cifrado mucho más alto, ofreciendo soporte de cifrado de hasta 78 Gbps con Cisco ASR 1000 Series ESP de 200 Gbps (ASR1000-ESP200)</li>
+                                                <li>Ofrece una administración más sencilla a través de servicios de seguridad integrados en el procesador Cisco QuantumFlow, sin necesidad de módulos de servicio o blades adicionales.</li>
+                                                <li>Optimizado para aplicaciones de multidifusión IP y QoS</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Admite miles de sitiosAdmite miles de sitios</li>
+                                                <li>Admite 8.000 túneles IPsec</li>
+                                                <li>Ofrece un rendimiento de cifrado de hasta 78 Gbps y soporte de rendimiento no criptográfico de hasta 200 Gbps con el motor del procesador de servicios integrados de 200 Gbps de la serie Cisco ASR 1000 (ASR1000-ESP200)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>Firewall de alta velocidad integrado:
+                                            <br>con el firewall de políticas basado en zonas, la serie Cisco ASR 1000 actúa como una barrera implícita y completa entre cualquier interfaz que no sea miembro de la misma zona. Se debe especificar una política explícita de pares de zonas (utilizando el lenguaje de políticas de Cisco; es decir, MQC) en cada dirección entre cada par de zonas. La política establece dentro del enrutador el tipo de inspección de estado (Capa 4, Capa 7 o aplicación) y los parámetros de sesión que se aplicarán a cada emparejamiento de zona.
+                                            <br>Ejemplo: Se necesitaría una política explícita que permita que HTTP y el Sistema de nombres de dominio (DNS) atraviesen el límite de la zona DMZ de Internet.
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>El firewall está integrado en el procesador Cisco QuantumFlow; no se requieren módulos o blades de servicio adicionales</li>
+                                                <li>Se enrutan varios gigabits de ancho de banda mientras que, al mismo tiempo, el enrutador realiza un firewall de políticas basado en zonas y otras funciones básicas como QoS, IPv4, IPv6, NetFlow y otras</li>
+                                                <li>La serie Cisco ASR 1000 proporciona el registro de todos los estados de sesión del firewall para aplicaciones de administración de red capaces de aceptar cantidades relativamente grandes de datos de flujo. Las aplicaciones de terceros pueden manejar los datos de la sesión</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Proporciona un rendimiento de firewall de 2,5 a 200 Gbps, según el procesador de servicios integrados (ESP) utilizado</li>
+                                                <li>Ofrece registro de alta velocidad de 40.000 sesiones por segundo con NetFlow Version9</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>CPE administrado:
+                                            <br>esta implementación de la arquitectura de sucursales ofrece una potente protección de la inversión con servicios y escala.
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>El CPE administrado ayuda a las sucursales a enrutar correctamente varios tipos de Ethernet para cumplir con los acuerdos de nivel de servicio (SLA).</li>
+                                                <li>Esta aplicación cifra varios gigabits de ancho de banda sin ningún módulo o módulo de servicio adicional.</li>
+                                                <li>El CPE administrado optimiza la WAN para enrutar caídas de voltaje en la red del proveedor de servicios para garantizar aún más las aplicaciones de misión crítica.</li>
+                                                <li>Esta aplicación ofrece factores de forma pequeños (1 unidad de rack [1RU] para Cisco ASR 1001 y 2RU para los routers Cisco ASR 1002 Fixed, ASR 1002 y ASR 1002-X), incluida la modularidad del software y la ISSU.</li>
+                                                <li>Nota: ISSU no es compatible con Cisco ASR 1001, ASR 1002-F, ASR 1002, ASR 1002-X o ASR 1004. Managed CPE ofrece accesibilidad incluso cuando el software Cisco IOS está inactivo.</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Ofrece el primer soporte de redundancia de software en la industria, sin ningún módulo de hardware adicional, en Cisco ASR 1001, ASR 1001-X, ASR 1002, ASR 1002-X y ASR 1004; La redundancia de hardware y la ISSU son compatibles con Cisco ASR 1006 y ASR 1013.</li>
+                                                <li>Ofrece un potente firewall y un rendimiento NAT de 2,5 a 200 Gbps y compatibilidad con cifrado de 1,8 a 78 Gbps, además de la optimización de WAN y las funciones de voz.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="3" style="text-align: center">Aplicaciones de proveedores de servicios de Cisco ASR serie 1000</th>
+                                    </tr>
+                                    <tr>
+                                        <th style="text-align: center">Escenario de implementación</th>
+                                        <th style="text-align: center">Descripción</th>
+                                        <th style="text-align: center">Caracteristicas del sistema</th>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>Concentrador de acceso L2TP de banda ancha (LAC) o servidor de red L2TP (LNS):
+                                        <br>la solución ofrece protocolo de túnel de capa 2 (L2TP) de punto a punto de punto a punto (PPPoX) de extremo a túnel o sesiones IP con demandas de ancho de banda en STM-1 Gama ATM, Fast Ethernet, Gigabit Ethernet y 10Gigabit Ethernet.
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>La aplicación es ideal para implementaciones mayoristas de triple play (datos, voz y video).</li>
+                                                <li>Ofrece entrega de servicio integral.</li>
+                                                <li>Se admiten cortafuegos por usuario, SBC, etc.</li>
+                                            </ul>
+
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Proporciona una escalabilidad muy alta de hasta 64.000 suscriptores y hasta 64.000 túneles</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>Límite del proveedor de servicios: Límite del proveedor de VPN de capa 3 (L3VPN):
+                                            <br>Ejemplo: puede implementar la solución en el límite del proveedor distribuido o en el límite del proveedor en redes VPN globales para demandas de ancho de banda como DSL asimétrico (ADSL), T1 / E1, STM-1 , STM-4, Fast Ethernet, Gigabit Ethernet, etc.
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>La aplicación proporciona servicios integrales en el procesador Cisco QuantumFlow.</li>
+                                                <li>Proporciona cifrado, FPM, NBAR, SBC, IP Multicast, etc.</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Ofrece un excelente rendimiento de multidifusión</li>
+                                                <li>Escala a 8,000 instancias de Reenvío de ruta virtual (VRF), 1 millón de etiquetas de Protocolo de distribución de etiquetas (LDP) y 4,000 listas de control de acceso (ACL)</li>
+                                                <li>Admite hasta 4 millones de rutas IPv4</li>
+                                                <li>Admite hasta 4 millones de rutas IPv6</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>Borde del proveedor de servicios: reflector de ruta de gama alta:
+                                            <br>puede utilizar la solución como un reflector de ruta para el soporte de ancho de banda de 40 Gbps.</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>La aplicación proporciona una alta escalabilidad.</li>
+                                                <li>Ofrece un diseño modular del procesador de ruta y del procesador de servicios integrados con redundancia de hardware y software.</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Escala hasta 29 millones de rutas IPv4</li>
+                                                <li>Admite 64.000 adyacencias de capa 3</li>
+                                                <li>Ofrece memoria predeterminada DRAM de 4 GB (en Cisco ASR 1001 y ASR 1002-X) y DRAM de 8 GB (en Cisco ASR 1000-RP2 y ASR 1001-X)</li>
+                                                <li>Ofrece actualización opcional a DRAM de 16 GB (en Cisco ASR 1001, ASR 1001-X, ASR 1002-X y ASR 1000-RP2)</li>
+                                                <li>Nota: Los routers Cisco ASR 1001, ASR 1002 y ASR 1002-X se envían de forma predeterminada con DRAM de 4 GB. Cisco ASR 1001 y ASR 1002-X se pueden actualizar a DRAM de 8 o 16 GB.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>Ejemplo de voz y multimedia de próxima generación: Cisco Unified Border Element (ENT Edition):
+                                            <br>la aplicación SBC (denominada Cisco Unified Border Element [ENTERPRISE Edition]) realiza las funciones de puerta de enlace de voz y video simultáneamente con los servicios de datos IP habituales. No se requiere ningún aparato o cuchilla de servicio adicional. Los protocolos de control y los protocolos de medios funcionan de forma transparente dentro de una arquitectura de voz compleja.</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Permite conexiones troncales SIP seguras y autenticadas a los servicios de video y voz en tiempo real del proveedor de servicios.</li>
+                                                <li>El perímetro WAN es más sencillo de administrar porque solo hay un punto de salida y un punto de entrada para el acceso a servicios de proveedores de servicios o de Internet.</li>
+                                                <li>El plano de control está separado del plano de reenvío de datos, por lo que los procesos de señalización y control están separados del procesamiento de medios.</li>
+                                                <li>La aplicación CUBE SBC se puede utilizar para servicios de audio y / o vídeo troncal SIP proporcionados por proveedores de servicios o para servicios de línea SIP accesibles a través de Internet a Cisco Unified Communications Manager.</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Facilita SBC con seguridad, QoS, IPv4 e IPv6 (IP Unicast e IP Multicast simultáneamente)</li>
+                                                <li>Admite 16.000 llamadas de voz simultáneas y datos multimedia de hasta 200 Gbps con contabilidad, firewall y calidad de llamadas habilitadas</li>
+                                                <li>Integrado con la infraestructura de alta disponibilidad de la bandeja de entrada y el relé del Protocolo de configuración dinámica de host (DHCP)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                            </div>
+
+                            
                             <div class="tab-pane" id="tab2">
-                                <h3>Especificaciones:</h3>
+                                <h3>Especificaciones técnicas:</h3>
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
     <!--                                <tr>
                                         <th colspan="2" style="text-align: center">CGP- ONT-1P</th>
                                     </tr>-->
                                     <tr>
-                                        <th colspan="2" style="text-align: center">Especificaciones del producto</th>
+                                        <th colspan="2" style="text-align: center">Comparación y especificaciones de chasis</th>
                                     </tr>
                                     <tr>
-                                        <td>Puertos WAN</td>
-                                        <td>2 RJ-45 Gigabit Ethernet</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Puertos LAN</td>
-                                        <td>4 RJ-45 Gigabit Ethernet<br>(LAN 1, 2, 3, 4 y LAN 9, 10, 11, 12 son PoE 802.3at, máximo 30 W por puerto hasta 120 W en total</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Consola / serial</td>
-                                        <td>1 puerto RJ-45 para uso futuro. El puerto está deshabilitado</td>
-                                    </tr>
-                                    <tr>
-                                        <td>USB</td>
-                                        <td>2 para módem externo 3G / 4G o unidad flash (USB-3, USB-2)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Firewall</td>
-                                        <td>Inspección completa de paquetes, rendimiento de hasta 980 Mbps para TCP y UDP</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Calidad de servicio (QoS)</td>
-                                        <td>Clases de tráfico, Colas WAN, Vigilancia WAN, Gestión del ancho de banda WAN, Asignar configuraciones detalladas de QoS (Clase de servicio (CoS) / Punto de código de servicios diferenciados (DSCP) / políticas) por aplicación o dispositivo final</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Seguridad Web</td>
-                                        <td>Filtrado web dinámico: basado en la nube, más de 80 categorías, más de 450 millones de dominios clasificados</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Visibilidad de la aplicación</td>
-                                        <td>Identificación de la aplicación: asigne políticas a las aplicaciones de Internet 500 aplicaciones únicas</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Identificación del cliente</td>
-                                        <td>Identifica y categoriza a los clientes de forma dinámica. Asigna políticas basadas en la categoría del dispositivo final y el sistema operativo.</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Sistema de Prevención de Intrusión</td>
-                                        <td>IDS / IPS inspecciona paquetes de red, registra y / o bloquea una amplia gama de ataques a la red. Ofrece una mayor disponibilidad de la red, una reparación más rápida y una protección integral contra amenazas.<br>HTTP / FTP / SMTP / POP3 / IMAP</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Antivirus</td>
-                                        <td>Protección contra virus, troyanos, software espía y robo de identidad mediante la inspección del tráfico que pasa por el enrutador.<br>HTTP / FTP / SMTP / POP3 / IMAP</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cisco Umbrella</td>
-                                        <td>Primera línea de defensa ante amenazas en Internet. Prevención de conexiones iniciadas por el usuario y el malware. Protección contra malware, devoluciones de llamada C2 y phishing. Inspección de proxy para dominios de riesgo.</td>
-                                    </tr>
-                                    <tr>
-                                        <td>IPSec</td>
-                                        <td>IKEv1 e IKEv2<br>50 conexiones simultáneas (cualquier combinación de acceso remoto y de sitio a sitio), hasta 650 Mbps de rendimiento</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Acceso remoto IPsec</td>
-                                        <td>Sí (acceso remoto desde cualquier cliente IPsec basado en estándares y Cisco IPsec VPN EasyVPN)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Protocolo de túnel de capa 2 (L2TP) sobre IPsec</td>
-                                        <td>sí</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Encapsulación de enrutamiento genérico (GRE) sobre IPsec</td>
-                                        <td>sí</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cisco SSL VPN (Cisco AnyConnect)</td>
-                                        <td>Máximo 50 túneles VPN SSL y rendimiento de hasta 33 Mbps. También requiere licencias de usuario final de Cisco AnyConnect para usar en el dispositivo final. Ideal para dispositivos móviles.</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Protocolo de túnel punto a punto (PPTP)</td>
-                                        <td>25 conexiones, hasta 100 Mbps de rendimiento</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Modo de teletrabajador (Cisco IPsec VPN)</td>
-                                        <td>El enrutador actúa como un cliente para conectarse a la puerta de enlace VPN central en modo de teletrabajador</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Paso de VPN</td>
-                                        <td>IPSec, PPTP, L2TP</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Protocolos de manejo</td>
-                                        <td>Navegador web (HTTP / HTTPS)
-                                            <br>Protocolo simple de administración de redes (SNMP) v1, v2c y v3
-                                            <br>API de transferencia de estado representacional (REST)
-                                            <br>NETCONF
+                                        <td>Especificaciones físicas*</td>
+                                        <td>Altura: 43,43 mm (1,71 pulg.)
+                                            <br>Ancho: 439,42 mm (17,3 pulg.)
+                                            <br>Profundidad: 467,9 mm (18,42 pulg .)
+                                            <br>Peso:
+                                            <ul class="listas">
+                                                <li>23,30 lb (10,59 kg) (con alimentación de CA doble y tarjeta secundaria integrada)</li>
+                                                <li>22,70 lb (8,94 kg) (con alimentación de CC doble y tarjeta secundaria integrada)</li>
+                                                <li>No incluye SPA</li>
+                                            </ul>
+                                            <p><strong>Nota:</strong> El router Cisco ASR 1001 tiene el procesador de ruta, ESP y SIP integrados.</p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>Plataforma de gestión</td>
-                                        <td>FindIT Network Manager</td>
+                                        <td>Memoria predeterminada</td>
+                                        <td>DRAM de 4 GB compartida entre RP, ESP y SIP</td>
                                     </tr>
                                     <tr>
-                                        <td>Opciones de actualización de firmware</td>
-                                        <td>A través de una PC local, una memoria USB o desde Cisco.com a través del navegador web.<br>Actualización de firmware automática desatendida.</td>
+                                        <td>Adaptadores de puerto compartido</td>
+                                        <td>1 ranura SPA single-height</td>
                                     </tr>
                                     <tr>
-                                        <th colspan="2" style="text-align: center">LAN</th>
+                                        <td>Cisco ASR serie 1000 ESP</td>
+                                        <td>Integrado en chasis</td>
                                     </tr>
                                     <tr>
-                                        <td>VLAN</td>
-                                        <td>Hasta 32 VLAN</td>
+                                        <td>Procesador de ruta</td>
+                                        <td>Integrado en el chasis: Procesador de ruta Cisco ASR serie 1001 con procesador de doble núcleo</td>
                                     </tr>
                                     <tr>
-                                        <td>Seguridad Portuaria</td>
-                                        <td>Sí, 802.1X</td>
+                                        <td>Número de tarjetas de línea SIP o Ethernet admitidas</td>
+                                        <td>Integrado en chasis</td>
                                     </tr>
                                     <tr>
-                                        <td>Agregar un link</td>
-                                        <td>Sí (estático, sin LACP)</td>
+                                        <td>Redundancia</td>
+                                        <td>Software: si</td>
                                     </tr>
                                     <tr>
-                                        <td>IPv6</td>
-                                        <td>Pila doble, 6a, 6 en 4, pila doble lite</td>
+                                        <td>Puertos Gigabit Ethernet integrados</td>
+                                        <td>Sí: 4 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</td>
                                     </tr>
                                     <tr>
-                                        <td>WAN</td>
-                                        <td>Cliente DHCP, IP estática, PPPoE, PPPTP, L2TP, puente transparente</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Enrutamiento</td>
-                                        <td>Enrutamiento estático, proxy IGMP, enrutamiento entre VLAN, protocolo de información de enrutamiento RIPv1, v2, RIPng</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Traducción de direcciones de red (NAT)</td>
-                                        <td>Reenvío de puertos
-                                            <br>Traducción de dirección de puerto (PAT)
-                                            <br>NAT uno a uno
-                                            <br>VPN NAT transversal
-                                            <br>Protocolo de inicio de sesión (SIP) Pasarela de nivel de aplicación (ALG), FTP ALG
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Sesiones máximas de NAT</td>
-                                        <td>> 40000</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Conexiones máximas de NAT por segundo</td>
-                                        <td>3000</td>
-                                    </tr>
-                                    <tr>
-                                        <td>DynDNS</td>
-                                        <td>ChangeIP.com, DynDNS.com, No-IP.com, dnsomatic</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Transición de IPv6</td>
-                                        <td>Doble pila</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Hardware DMZ</td>
-                                        <td>Sí (cuando está habilitado, un puerto LAN será el puerto DMZ)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Anfitrión DMZ</td>
-                                        <td>sí</td>
-                                    </tr>
-                                    <tr>
-                                        <th colspan="2" style="text-align: center">Sistema</th>
-                                    </tr>
-                                    <tr>
-                                        <td>CPU</td>
-                                        <td>Arquitectura basada en ARM, doble núcleo, motor de flujo de hardware de 900 Mhz</td>
-                                    </tr>
-                                    <tr>
-                                        <td>RAM</td>
-                                        <td>DDR3 de 1 GB</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Flash</td>
-                                        <td>256 MB</td>
-                                    </tr>
-                                    <tr>
-                                        <th colspan="2" style="text-align: center">Wireless</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Estándares</td>
-                                        <td>IEEE 802.11ac, 802.11n, 802.11g, 802.11b, 802.11a, 802.1X (autenticación de seguridad), 802.1Q (VLAN), 802.11i (seguridad WPA2), 802.11e (QoS inalámbrica)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Antenas</td>
-                                        <td>4 antenas externas de paleta fija (RV340W)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>802.1X supplicant</td>
-                                        <td>sí</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Asignación de SSID a VLAN</td>
-                                        <td>sí</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Selección automática de canales</td>
-                                        <td>sí</td>
-                                    </tr>
-                                    <tr>
-                                        <td>WPA / WPA2</td>
-                                        <td>Sí, incluida la autenticación empresaria</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Control de acceso</td>
-                                        <td>Sí, filtrado MAC</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Detección de puntos de acceso Rouge</td>
+                                        <td>Puerto Ethernet de 10 Gigabit incorporado</td>
                                         <td>No</td>
                                     </tr>
                                     <tr>
-                                        <td>QoS</td>
-                                        <td>Multimedia Wi-Fi (WMM) con ahorro de energía automático no programado</td>
-                                    </tr>
-                                    <tr>
-                                        <th colspan="2" style="text-align: center">Rendimiento inalámbrico</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Rendimiento inalámbrico</td>
-                                        <td>Velocidad de datos PHY:
-                                            <br>2,4 GHz: 450 Mbps 964-QAM), 600 Mbps (256-QAM)
-                                            <br>5 GHz: 1,7 Gbps (256-QAM), 2,1 Gbps (1024-QAM)
-                                            <br>Total: Hasta 2,7 Gbps
-                                            <br>(rendimiento del mundo real variará)
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Soporte de usuario recomendado</td>
-                                        <td>Hasta 50 usuarios a 2,4 GHz y 124 usuarios a 5 GHz simultáneamente</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Portal cautivo para acceso de invitados</td>
-                                        <td>sí</td>
-                                    </tr>
-                                    <tr>
-                                        <th colspan="2" style="text-align: center">Parámetros inalámbricos</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Frecuencia</td>
-                                        <td>Radios duales concurrentes (2.4 y 5 GHz)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>WLAN</td>
-                                        <td>802.11n / ac
-                                            <br>4x4 MU-MIMO con 4 flujos parciales a 5GHz
-                                            <br>3x3 MIMO con 3 flujos espaciales a 2.4 GHz
-                                            <br>20 MHz, 40 MHz y 80 MHZ canales para 802.11ac
-                                            <br>20 MHz y canales de 40 MHz para 802.11n
-                                            <br>PHY velocidad de datos:
-                                            <br>2.4 GHz : 450 Mbps (64-QAM), 600 Mbps (256-QAM)
-                                            <br>5 GHz: 1,7 Gbps (256-QAM), 2,1 Gbps (1024-QAM)
-                                            <br>Total: hasta 2,7 Gbps
-                                            <br>802.11 Selección dinámica de frecuencia (DFS)
-                                            <br>MU-MIMO hasta 3 clientes simultáneamente
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Velocidades de datos admitidas</td>
-                                        <td>802.11 a / b / g:
-                                            <ul class="listas">
-                                                <li>54, 48, 36, 24, 18, 12, 9, 6, 11, 5.5, 2 y 1 Mbps</li>
-                                                <li>802.11n: de 6,5 a 450 Mbps
-                                                    <ul class="listas">
-                                                        <li>Ancho de banda de 20 MHz: MCS 0-15 para velocidades de datos admitidas</li>
-                                                        <li>Ancho de banda de 40 MHz: MCS 0-15 para velocidades de datos admitidas</li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                            802.11ac:
-                                            <ul class="listas">
-                                                <li>6.5 Mbps a 1.7 Gbps
-                                                    <ul class="listas">
-                                                        <li>Ancho de banda de 20 MHz: MCS 0-9 para velocidades de datos admitidas</li>
-                                                        <li>Ancho de banda de 40 MHz: MCS 0-9 para velocidades de datos admitidas</li>
-                                                        <li>Ancho de banda de 80 MHz: MCS 0-9 para velocidades de datos admitidas</li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Banda de frecuencia y canales operativos</td>
-                                        <td>A (un dominio regulatorio):
-                                            <ul class="listas">
-                                                <li>2412 a ~ 2462 MHz: 11 canales</li>
-                                                <li>5,15 a 5,25 GHz: 4 canales</li>
-                                                <li>5,25 a 5,35 GHz: 4 canales</li>
-                                                <li>5,47 a 5,725 GHz: 8 canales</li>
-                                                <li>5.725 a 5.825 GHz: 5 canales</li>
-                                            </ul>
-                                            E (dominio regulatorio E):
-                                            <ul class="listas">
-                                                <li>2412 a ~ 2472 MHz: 13 canales</li>
-                                                <li>5,15 a 5,25 GHz: 4 canales</li>
-                                                <li>5,25 a 5,35 GHz: 4 canales</li>
-                                                <li>5,47 a 5,725 GHz: 8 canales</li>
-                                            </ul>
-                                            C (dominio regulatorio C):
-                                            <ul class="listas">
-                                                <li>2412 a ~ 2462 MHz: 13 canales</li>
-                                                <li>5,15 a 5,25 GHz: 4 canales</li>
-                                                <li>5,25 a 5,35 GHz: 4 canales</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Potencia de salida del transmisor</td>
-                                        <td>2,4 GHz
-                                            <ul class="listas">
-                                                <li>802.11b: 17,5 +/- 2 dBm</li>
-                                                <li>802.11g: 17,5 +/- 2 dBm a 6 Mbps</li>
-                                                <li>802.11g: 15,5 +/- 2 dBm a 54 Mbps</li>
-                                                <li>802.11n (HT20): 17,5 +/- 2 dBm @ MCS0</li>
-                                                <li>802.11n (HT20): 15,5 +/- 2 dBm @ MCS7</li>
-                                                <li>802.11n (HT40): 15,5 +/- 2 dBm @ MCS7</li>
-                                            </ul>
-                                            5 GHz
-                                            <ul class="listas">
-                                                <li>802.11a: 18,5 +/- 2 dBm a 6 Mbps</li>
-                                                <li>802.11a: 14 +/- 2 dBm a 54 Mbps</li>
-                                                <li>802.11n (HT20): 14 +/- 2 dBm @ MCS7</li>
-                                                <li>802.11n (HT40): 14 +/- 2 dBm @ MCS7</li>
-                                                <li>802.11ac (VHT80): 12.0 +/- 2 dBm @ VHT9SS</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Aislamiento inalambrico</td>
-                                        <td>Aislamiento inalámbrico entre clientes</td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Ganancia de antena en dBi</td>
-                                        <td>2,4 GHz: 3 dBi cada antena<br>5 GHz: 5 dBi cada antena</td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Sensibilidad del receptor</td>
-                                        <td>2,4 GHz
-                                            <ul class="listas">
-                                                <li>802.11b: -82 dBm a 11 Mbps</li>
-                                                <li>802.11g: -71 dBm a 54 Mbps</li>
-                                                <li>802.11n (HT20): -69 dBm @ MCS7</li>
-                                                <li>802.11n (HT40): -67 dBm @ MCS7</li>
-                                            </ul>
-                                            5 GHz
-                                            <ul>
-                                                <li>802.11ac (VHT20): -59 dBm @ MCS8</li>
-                                                <li>802.11ac (VHT40): -54 dBm @ MCS9</li>
-                                                <li>802.11ac (VHT80): -51 dBm @ MCS9</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Sistema de distribución inalámbrica (WDS)</td>
+                                        <td>Módulo de interfaz de red</td>
                                         <td>No</td>
                                     </tr>
                                     <tr>
-                                        <th colspan="2" style="text-align: center">Dimensiones del producto</th>
+                                        <td>Tarjeta secundaria integrada (IDC)</td>
+                                        <td>Sí:
+                                            <ul class="listas">
+                                                <li>(número de pieza) ASR1001-4XT3 proporciona un IDC con cuatro puertos T3 incorporados<br><strong>Nota :</strong> los  circuitos E3 no son compatibles.</li>
+                                                <li>(número de pieza) ASR1001-2XOC3POS proporciona un IDC con 2 puertos OC-3 PoS integrados.<br><strong>Nota :</strong> Las funciones de estos puertos son las mismas que en el módulo SPA SPA-2XOC3-PO</li>
+                                                <li>(número de pieza) ASR1001-4X1GE proporciona un IDC con 4 puertos Gigabit Ethernet incorporados.<br><strong>Nota :</strong> Las funciones de estos puertos son las mismas que en el módulo SPA (número de pieza SPA-5X1GE-V2).</li>
+                                                <li>(número de pieza) ASR1001-8XCHT1E1 proporciona un IDC con 8 puertos E1 / T1 canalizados incorporados<br><strong>Nota :</strong> Las funciones de estos puertos son las mismas que en el módulo SPA (número de pieza SPA-8XCHT1 / E1)</li>
+                                                <li>(número de pieza) ASR1001-HDD proporciona un IDC en forma de unidad de disco duro. El tamaño predeterminado es 160 GB.<br><strong>Nota :</strong> Los  IDC no se pueden actualizar en el campo con la excepción del HDD en el modelo ASR1001-HDD (número de pieza).</li>
+                                            </ul>
+                                        </td>
                                     </tr>
                                     <tr>
-                                        <td>Dimensión</td>
-                                        <td>280 x 44 x 315 mm (11 x 1,75 x 12,40 pulgadas)</td>
+                                        <td>Flujo de aire</td>
+                                        <td>Desde el frente hacia atras</td>
                                     </tr>
                                     <tr>
-                                        <td>Dimensiones del paquete</td>
-                                        <td>375 x 505 x 80 mm (14,76 x 19,88 x 3,15 pulgadas)</td>
+                                        <th colspan="2" style="text-align: center">Comparación y especificaciones del módulo del procesador</th>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Dispositivo de peso del producto solamente</td>
-                                        <td>1150 g (2,53 libras)</td>
+                                    <tr>
+                                        <td>Soporte ESP</td>
+                                        <td>Cisco ASR 1000 Series 2.5-Gbps ESP (predeterminado)<br>Actualizable mediante una licencia de función activada por software a 5 Gbps</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Peso de embalaje</td>
-                                        <td>2400 g (5,29 libras)</td>
+                                    <tr>
+                                        <td>Ancho de banda ESP</td>
+                                        <td>2,5 a 5 Gbps</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>MTBF</td>
-                                        <td>50000 horas</td>
+                                    <tr>
+                                        <td>Memoria ESP</td>
+                                        <td>Comparta la misma memoria de control en el procesador de ruta</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Montable en rack</td>
-                                        <td>sí</td>
+                                    <tr>
+                                        <td>Tarjetas de línea SIP y Ethernet</td>
+                                        <td>Integrado en chasis; no actualizable</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Accesorios incluidos</td>
-                                        <td>Fuente de alimentación, cable de alimentación, cable Ethernet</td>
+                                    <tr>
+                                        <td>Cifrado basado en hardware integrado</td>
+                                        <td>Sí: rendimiento de soporte criptográfico de hasta 1.8 Gbps</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Admirador</td>
+                                    <tr>
+                                        <td>Versión mínima del software Cisco IOS XE</td>
+                                        <td>Software Cisco IOS XE versión 3.2.0S (ASR1001, ASR1001-4XT3 y ASR1001-2XOC3POS);
+                                            <br>Versión 3.3.0S del software Cisco IOS XE (ASR1001-4X1GE, ASR1001-8XCHT1E1 y ASR1001-HDD)
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Montaje en bastidor</td>
+                                        <td>Sí: 19 pulgadas</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Montaje en pared</td>
                                         <td>No</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Fuente de alimentación</td>
-                                        <td>CA 100-240V / 1A CC 12V / 3A</td>
+                                    <tr>
+                                        <td>Memoria flash USB externa</td>
+                                        <td>Soporte de memoria flash USB de 1 GB</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Certificación</td>
-                                        <td>FCC Clase B, CE Clase B, UL, cUL, CB, CCC, BSMI, KC, Anatel</td>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">requerimientos de energía</th>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Temperatura de funcionamiento</td>
-                                        <td>0 ° a 40 ° C (32 ° a 104 ° F)</td>
+                                    <tr>
+                                        <td>Fuente de alimentación redundante</td>
+                                        <td>Sí: fuentes de alimentación dobles por defecto; opción de fuente de alimentación de CA o CC
+                                            <br><strong>Nota: </strong>No se admite una combinación de una fuente de alimentación de CA y una de CC.
+                                        </td>
                                     </tr>
-                                    <tr>                                        
+                                    <tr>
+                                        <td>Entrada de alimentación</td>
+                                        <td>Rango mundial de CA (85 a 264 V; 120 o 240 V; 60 o 50 Hz nominal)
+                                            <br>Rango mundial de CC (-40,5 a -72: -48 V nominal)
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>El consumo de energía</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Máximo (CC): 500 W</li>
+                                                <li>Máximo (CA): 471W</li>
+                                                <li>Máximo (salida): 400W</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Flujo de aire</td>
+                                        <td>Desde el frente hacia atras</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Especificaciones ambientales</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura de funcionamiento (nominal)</td>
+                                        <td>41 a 104ºF (5 a 40ºC)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura de funcionamiento (a corto plazo)</td>
+                                        <td>S-</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Humedad de funcionamiento (nominal) (humedad relativa)</td>
+                                        <td>10 a 85%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Humedad de funcionamiento (a corto plazo)</td>
+                                        <td>-</td>
+                                    </tr>
+                                    <tr>
                                         <td>Temperatura de almacenamiento</td>
-                                        <td>0 ° a 70 ° C (32 ° a 158 ° F)</td>
+                                        <td>-38 a 150 ° F (-39 a 70 ° C)</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Humedad de funcionamiento</td>
-                                        <td>10% a 85% sin condensación</td>
+                                    <tr>
+                                        <td>Humedad de almacenamiento (humedad relativa)</td>
+                                        <td>5 al 95%</td>
                                     </tr>
-                                    <tr>                                        
-                                        <td>Humedad de almacenamiento</td>
-                                        <td>5% a 90% sin condensación</td>
+                                    <tr>
+                                        <td>Altitud operativa</td>
+                                        <td>-60 a 4000 m (hasta 2000 m cumple con los requisitos de IEC / EN / UL / CSA 60950)</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Cumplimiento normativo</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Estándares de construcción de equipos de red (NEBS)</td>
+                                        <td>N / A</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Estándares EMC</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>FCC 47 CFR Parte 15 Clase A</li>
+                                                <li>VCCI ClassA</li>
+                                                <li>AS / NSZ ClassA</li>
+                                                <li>ICES-003 Clase A</li>
+                                                <li>EN55022 / CISPR 22 Equipo de tecnología de la información (emisiones)</li>
+                                                <li>EN55024 / CISPR 24 Equipo de tecnología de la información (inmunidad)</li>
+                                                <li>EN300 386 Equipo de red de telecomunicaciones (EMC)</li>
+                                                <li>EN50082-1 ​​/ EN61000-6-1 Estándar de inmunidad genérico</li>
+                                                <li>KN22 ClaseA</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Estándar de seguridad</td>
+                                        <td>
+                                            <ul>
+                                                <li>UL60950-1</li>
+                                                <li>CSA C22.2 No 60950-1-03</li>
+                                                <li>EN 60950-1</li>
+                                                <li>IEC 60950-1</li>
+                                                <li>AS / NZS 60950.1</li>
+                                            </ul>
+                                        </td>
                                     </tr>
                                 </table>
 
                             </div>
+                            
+                             <div class="tab-pane" id="tab7">
+                                <h2>Licencias de software:</h2>
+                                <p align="justify">Se requieren licencias de funciones de software para activar los servicios en los routers Cisco ASR de la serie 1000. Actualmente, hay dos tipos de licencias de funciones disponibles. Ciertos servicios requieren solo una licencia de derecho de uso (RTU), mientras que otros servicios requieren tanto una licencia RTU como una o más licencias de número de sesiones. Todas las licencias de la serie Cisco ASR 1000 se basan en el honor, lo que significa que las licencias no se aplican a través de una activación de producto o una clave de licencia.
+                                    <br><br>Para las plataformas fijas Cisco ASR 1001, ASR 1001-X y ASR 1002-X, se requiere uno de los siguientes cinco paquetes:
+                                </p>
+                                <ul>
+                                    <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO</li>
+                                    <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO DE CARGA PAGADA</li>
+                                    <li>Cisco ASR 1001 IOS XE UNIVERSAL</li>
+                                    <li>Cisco ASR 1001 IOS XE UNIVERSAL SIN intercepción legal</li>
+                                    <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO DE CARGA SIN INTERCEPCIÓN LEGAL</li>
+                                </ul>
+                                <p>Para habilitar un conjunto de características requeridas, se requiere uno de los siguientes tres paquetes de tecnología:</p>
+                                <ul>
+                                    <li>Licencia básica IP de Cisco ASR 1000</li>
+                                    <li>Licencia de servicios IP avanzados de Cisco ASR 1000</li>
+                                    <li>Licencia de servicios avanzados de Cisco ASR 1000</li>
+                                </ul>
+                                <p>Para las plataformas modulares Cisco ASR 1004, ASR 1006 y ASR 1013, puede elegir entre seis paquetes consolidados admitidos en cada versión del software Cisco IOS XE:</p>
+                                <ul>
+                                    <li>Base de IP sin Cripto</li>
+                                    <li>Base de IP</li>
+                                    <li>Servicios IP avanzados</li>
+                                    <li>Servicios IP avanzados sin cripto</li>
+                                    <li>Servicios empresariales avanzados</li>
+                                    <li>Servicios empresariales avanzados sin cripto</li>
+                                </ul>
+
+                            </div>
+
+
                             <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                                Descargue la <a href="datasheets/RV340W.pdf" target="_blank">
-                                    hoja de datos de Router Cisco RV340, RV345, RV345P y RV340W Dual WAN Security VPN</a> (.PDF)
+                                Descargue la <a href="datasheets/asr-1000-series.pdf" target="_blank">
+                                    hoja de datos de Routers Cisco ASR 1000 Series Aggregation Services</a> (.PDF)
 
                             </div>
                         </div><!-- End default tabs -->
