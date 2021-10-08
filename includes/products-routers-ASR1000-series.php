@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ASR1001X.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-RV042G.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ASR1001X.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
