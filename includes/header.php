@@ -129,7 +129,7 @@
                                     <li class="submenu"><a>Small Business Switches<i class="fa fa-angle-down"></i></a>
                                         <ul class="Ssmall">
                                             <li><a href="switches-cat-s110.php">110 Series Unmanaged Switches</a></li>
-                                            <li><a href="">200 Series Smart Switches</a></li>
+                                            <li><a href="switches-cat-s200.php">200 Series Smart Switches</a></li>
                                             <li><a href="">220 Series Smart Plus Switches</a></li>
                                             <li><a href="">250 Series Smart Plus Switches</a></li>
                                             <li><a href="">300 Series Managed Switches</a></li>
