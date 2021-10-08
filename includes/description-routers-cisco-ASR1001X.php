@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router Cisco ASR 1001</h3>
+                <h3 class="title-border">Router Cisco ASR 1001-X</h3>
                 <h5>Router de Servicios de Agregación de la serie ASR 1000</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco ASR 1001 Router.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco ASR 1001-X Router.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -12,7 +12,7 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco ASR1001 System</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco ASR1001-X System</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -21,56 +21,23 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASR1001 System, 4 Built-In GE, Dual P/S, Spare</strong></p>
+                                    <p align='justify'><strong>Cisco ASR1001-X System, Crypto, 6 built-in GE, Dual P/S</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASR1001<br>
-                                        <strong>Precio: $21,073.50</strong></p>
+                                    <p align='justify'>#ASR1001-X<br>
+                                        <strong>Precio: $20,100.00</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASR1001 System, 4 Built-In GE, Dual P/S</strong></p>
+                                    <p align='justify'><strong>Cisco ASR1001-X System, Crypto, 6 built-in GE, Dual P/S, Spare</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASR1001=<br>
-                                        <strong>Precio: $21,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASR1001 System, 4 Built-In GE, OC3 IDC, Dual P/S</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASR1001-2XOC3POS<br>
-                                        <strong>Precio: $32,613.75</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASR1001 System, 4 Built-In GE, 4X1GE IDC, Dual P/S</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASR1001-4X1GE<br>
-                                        <strong>Precio: $35,122.50</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASR1001 System, 4 Built-In GE, 4X1GE IDC, Dual P/S, Spare</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASR1001-4X1GE=<br>
-                                        <strong>Precio: $35,122.50</strong></p>
+                                    <p align='justify'>#ASR1001-X=<br>
+                                        <strong>Precio: $28,614.99</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -653,6 +620,7 @@
                                             <li>Ofrece entrega de servicio integral.</li>
                                             <li>Se admiten cortafuegos por usuario, SBC, etc.</li>
                                         </ul>
+
                                     </td>
                                     <td>
                                         <ul class="listas">
@@ -736,19 +704,14 @@
                                     <td>Especificaciones físicas</td>
                                     <td>Altura: 43,43 mm (1,71 pulg.)
                                         <br>Ancho: 439,42 mm (17,3 pulg.)
-                                        <br>Profundidad: 467,9 mm (18,42 pulg .)
-                                        <br>Peso:
-                                        <ul class="listas">
-                                            <li>23,30 lb (10,59 kg) (con alimentación de CA doble y tarjeta secundaria integrada)</li>
-                                            <li>22,70 lb (8,94 kg) (con alimentación de CC doble y tarjeta secundaria integrada)</li>
-                                            <li>No incluye SPA</li>
-                                        </ul>
+                                        <br>Profundidad: 571,5 mm (22,50 pulg .)
+                                        <br>Peso: 25 lb (11,35 kg) completamente cargado
                                         <p><strong>Nota:</strong> El router Cisco ASR 1001 tiene el procesador de ruta, ESP y SIP integrados.</p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Memoria predeterminada</td>
-                                    <td>DRAM de 4 GB compartida entre RP, ESP y SIP</td>
+                                    <td>DRAM de 8 GB compartida entre RP, ESP y SIP</td>
                                 </tr>
                                 <tr>
                                     <td>Adaptadores de puerto compartido</td>
@@ -772,32 +735,32 @@
                                 </tr>
                                 <tr>
                                     <td>Puertos Gigabit Ethernet integrados</td>
-                                    <td>Sí: 4 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</td>
+                                    <td>Sí: 6 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</td>
                                 </tr>
                                 <tr>
                                     <td>Puerto Ethernet de 10 Gigabit incorporado</td>
-                                    <td>No</td>
+                                    <td>Sí - 2x10 puertos Gigabit Ethernet Small Form-Factor Plus Pluggable (SFP +)
+                                    <br>Nota: Los puertos integrados de 10 GB no se pueden reducir a 1 GB de velocidad</td>
                                 </tr>
                                 <tr>
                                     <td>Módulo de interfaz de red</td>
-                                    <td>No</td>
+                                    <td>sí</td>
                                 </tr>
                                 <tr>
                                     <td>Tarjeta secundaria integrada (IDC)</td>
-                                    <td>Sí:
-                                        <ul class="listas">
-                                            <li>(número de pieza) ASR1001-4XT3 proporciona un IDC con cuatro puertos T3 incorporados<br><strong>Nota :</strong> los  circuitos E3 no son compatibles.</li>
-                                            <li>(número de pieza) ASR1001-2XOC3POS proporciona un IDC con 2 puertos OC-3 PoS integrados.<br><strong>Nota :</strong> Las funciones de estos puertos son las mismas que en el módulo SPA SPA-2XOC3-PO</li>
-                                            <li>(número de pieza) ASR1001-4X1GE proporciona un IDC con 4 puertos Gigabit Ethernet incorporados.<br><strong>Nota :</strong> Las funciones de estos puertos son las mismas que en el módulo SPA (número de pieza SPA-5X1GE-V2).</li>
-                                            <li>(número de pieza) ASR1001-8XCHT1E1 proporciona un IDC con 8 puertos E1 / T1 canalizados incorporados<br><strong>Nota :</strong> Las funciones de estos puertos son las mismas que en el módulo SPA (número de pieza SPA-8XCHT1 / E1)</li>
-                                            <li>(número de pieza) ASR1001-HDD proporciona un IDC en forma de unidad de disco duro. El tamaño predeterminado es 160 GB.<br><strong>Nota :</strong> Los  IDC no se pueden actualizar en el campo con la excepción del HDD en el modelo ASR1001-HDD (número de pieza).</li>
-                                        </ul>
-                                    </td>
+                                    <td>No</td>
                                 </tr>
                                 <tr>
                                     <td>Flujo de aire</td>
                                     <td>Desde el frente hacia atras</td>
                                 </tr>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 <tr>
                                     <th colspan="2" style="text-align: center">Comparación y especificaciones del módulo del procesador</th>
                                 </tr>
