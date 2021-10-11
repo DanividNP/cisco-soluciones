@@ -3,59 +3,35 @@
         <div class="row">
             <div class="col-md-12 heading text-center">
                 <span class="icon-pentagon wow bounceIn"><i class="fa fa-server"></i></span>
-                <h2 class="title2">Switches Cisco Small Business serie 200<br>
-                    <span class="title-desc">Asequibilidad y rendimiento</span>
+                <h2 class="title2">Switches inteligentes Cisco Small Business serie 200<br>
+                    <span class="title-desc">Funciones de red esenciales, precio asequible</span>
                 </h2>
             </div>
-        </div> <!-- Title row end -->
-        <div class="row">
-                <div class="tab-content">
-                        <center><img class="img-responsive" src="images/switches/cat-s110-series.png" alt=""></center>
-                        <p align="justify">Cree una red rápida y resistente con los switches no administrados Cisco Business 110 Series. 
-                            Estos conmutadores de nivel de entrada asequibles, plug-and-play, proporcionan conmutación Gigabit Ethernet 
-                            con características como Power over Ethernet (PoE), eficiencia energética y priorización de tráfico para una 
-                            transformación digital perfecta. </p>
+       		</div> <!-- Title row end -->
+				<div class="row">
+						<div class="tab-content">
+								<center><img class="img-responsive" src="images/switches/cat-s200-series.png" alt=""></center>
+								<p align="justify">Los conmutadores inteligentes Cisco Small Business serie 200 combinan un potente 
+									rendimiento de red con fiabilidad para ayudarle a crear una red empresarial básica. Asequibles y 
+									fáciles de usar, estos conmutadores de nivel de entrada administrados por web ofrecen las 
+									funciones de red esenciales que necesita. </p>
 
-                        
-                </div><!-- tab content -->
-        </div><!-- Content row end -->
-        <div class="row">
-				<div class="col-md-12">
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".2s">
-						<div class="service-content text-center">
-                        <a><img src="images/iconos/visibility.png" alt=""></a>
-							<h3>Sencillez </h3>
-							<p>Plug-and-play sin necesidad de conocimientos técnicos o soporte de TI. </p>
-						</div>
-					</div><!--/ End first service -->
-
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".5s" >
-						<div class="service-content text-center">
-                        <a><img src="images/iconos/Affordability.png" alt=""></a>
-							<h3>Asequibilidad </h3>
-							<p>Interruptores de nivel de entrada a precios asequibles para pequeñas empresas. </p>
-						</div>
-						
-					</div><!--/ End Second service -->
-
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".8s">
-						<div class="service-content text-center">
-						<a><img src="images/iconos/Performance.png"></a> 
-							<h3>Rendimiento </h3>
-							<p>Gigabit Ethernet e inteligencia de calidad de servicio (QoS) integrada para optimizar 
-                                los servicios sensibles al retraso y mejorar el rendimiento general de la red. </p>
-						</div>
-					</div><!--/ End Third service -->
-
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.1s">
-						<div class="service-content text-center">
-                        <a><img src="images/iconos/Efficiency.png"></a>
-							<h3>Eficiencia </h3>
-							<p>Admite el estándar Energy Efficient Ethernet (IEEE 802.3az), que optimiza el uso de 
-                                energía para ahorrar energía sin comprometer el rendimiento. </p>
-						</div>
-					</div><!--/ End 4th service -->
-				</div>
+								<ul>
+									<li><strong>Rico en funciones</strong>
+									<p align="justify">Obtenga una red de clase empresarial con características como calidad de servicio, 
+										seguridad, alimentación a través de Ethernet y compatibilidad con IPv6</p></li>
+									<li><strong>Amplia gama de modelos Power over Ethernet </strong>
+									<p align="justify">Elija entre nueve modelos para encender teléfonos IP, cámaras, puntos de acceso inalámbricos y más. </p></li>
+									<li><strong>Respetuoso del medio ambiente </strong>
+									<p align="justify">Optimice el uso de energía para lograr eficiencia sin comprometer el rendimiento.</p></li>
+									<li><strong>Fácil configuración y administración </strong>
+									<p align="justify">Las herramientas intuitivas basadas en navegador simplifican la instalación y la configuración.</p></li>
+									<li><strong>Tranquilidad de espíritu </strong>
+									<p align="justify"></p></li>
+								</ul>
+								
+						</div><!-- tab content -->
+				</div><!-- Content row end -->
 			</div><!-- Content 1st row end -->
     </div><!-- Container end -->
 </section>
