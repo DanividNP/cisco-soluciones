@@ -329,7 +329,7 @@
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                                     <p align='justify'>#MEMUSB-1024FT=<br>
-                                        <strong>Precio: $982.25</strong></p>
+                                        <strong>Precio: $982.39</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -425,7 +425,7 @@
                                 </tr>
                                 <tr>                                        
                                     <td>Modularidad del software</td>
-                                    <td>Le permite combinar y coincidir con los servicios que mejor se adapten a las necesidades de su negocio; sin inversiones "desperdiciadas" en capacidades que no necesita.</td>
+                                    <td>Le permite combinar y coincidir con los servicios que mejor se adapten a las necesidades comerciales; sin inversiones "desperdiciadas" en capacidades que no necesita.</td>
                                 </tr>
                                 <tr>                                        
                                     <td>Licencias de pago a medida que crece con modelos "-X"</td>
@@ -754,23 +754,16 @@
                                     <td>Flujo de aire</td>
                                     <td>Desde el frente hacia atras</td>
                                 </tr>
-                                
-                                
-                                
-                                
-                                
-                                
-                                
                                 <tr>
                                     <th colspan="2" style="text-align: center">Comparación y especificaciones del módulo del procesador</th>
                                 </tr>
                                 <tr>
                                     <td>Soporte ESP</td>
-                                    <td>Cisco ASR 1000 Series 2.5-Gbps ESP (predeterminado)<br>Actualizable mediante una licencia de función activada por software a 5 Gbps</td>
+                                    <td>Cisco ASR 1000 Series 2.5-Gbps ESP (predeterminado)<br>Actualizable mediante una licencia de función activada por software a 5, 10 o 20 Gbps</td>
                                 </tr>
                                 <tr>
                                     <td>Ancho de banda ESP</td>
-                                    <td>2,5 a 5 Gbps</td>
+                                    <td>2,5 a 20 Gbps</td>
                                 </tr>
                                 <tr>
                                     <td>Memoria ESP</td>
@@ -782,13 +775,11 @@
                                 </tr>
                                 <tr>
                                     <td>Cifrado basado en hardware integrado</td>
-                                    <td>Sí: rendimiento de soporte criptográfico de hasta 1.8 Gbps</td>
+                                    <td>Sí: rendimiento de soporte de cifrado de hasta 8 Gbps</td>
                                 </tr>
                                 <tr>
                                     <td>Versión mínima del software Cisco IOS XE</td>
-                                    <td>Software Cisco IOS XE versión 3.2.0S (ASR1001, ASR1001-4XT3 y ASR1001-2XOC3POS);
-                                        <br>Versión 3.3.0S del software Cisco IOS XE (ASR1001-4X1GE, ASR1001-8XCHT1E1 y ASR1001-HDD)
-                                    </td>
+                                    <td>Versión 3.12.0 del software Cisco IOS XE</td>
                                 </tr>
                                 <tr>
                                     <td>Montaje en bastidor</td>
@@ -813,17 +804,15 @@
                                 </tr>
                                 <tr>
                                     <td>Entrada de alimentación</td>
-                                    <td>Rango mundial de CA (85 a 264 V; 120 o 240 V; 60 o 50 Hz nominal)
-                                        <br>Rango mundial de CC (-40,5 a -72: -48 V nominal)
-                                    </td>
+                                    <td>Rango mundial de rango de entrada de CA (+85 a +264 VCA) Rango mundial de CC (-40 a -72-48 V nominal)</td>
                                 </tr>
                                 <tr>
                                     <td>El consumo de energía</td>
                                     <td>
                                         <ul class="listas">
-                                            <li>Máximo (CC): 500 W</li>
-                                            <li>Máximo (CA): 471W</li>
-                                            <li>Máximo (salida): 400W</li>
+                                            <li>Máximo (CC): 242 W</li>
+                                            <li>Máximo (CA): 250 W</li>
+                                            <li>Máximo (salida): 250W</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -840,7 +829,7 @@
                                 </tr>
                                 <tr>
                                     <td>Temperatura de funcionamiento (a corto plazo)</td>
-                                    <td>S-</td>
+                                    <td>0 - 50ºC</td>
                                 </tr>
                                 <tr>
                                     <td>Humedad de funcionamiento (nominal) (humedad relativa)</td>
@@ -848,11 +837,11 @@
                                 </tr>
                                 <tr>
                                     <td>Humedad de funcionamiento (a corto plazo)</td>
-                                    <td>-</td>
+                                    <td>5 - 90%</td>
                                 </tr>
                                 <tr>
                                     <td>Temperatura de almacenamiento</td>
-                                    <td>-38 a 150 ° F (-39 a 70 ° C)</td>
+                                    <td>-20 - + 70ºC</td>
                                 </tr>
                                 <tr>
                                     <td>Humedad de almacenamiento (humedad relativa)</td>
@@ -860,7 +849,7 @@
                                 </tr>
                                 <tr>
                                     <td>Altitud operativa</td>
-                                    <td>-60 a 4000 m (hasta 2000 m cumple con los requisitos de IEC / EN / UL / CSA 60950)</td>
+                                    <td>-500 - 10,000 pies</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Cumplimiento normativo</th>
@@ -881,7 +870,6 @@
                                             <li>EN55024 / CISPR 24 Equipo de tecnología de la información (inmunidad)</li>
                                             <li>EN300 386 Equipo de red de telecomunicaciones (EMC)</li>
                                             <li>EN50082-1 ​​/ EN61000-6-1 Estándar de inmunidad genérico</li>
-                                            <li>KN22 ClaseA</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -937,7 +925,6 @@
                             <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
                             Descargue la <a href="datasheets/asr-1000-series.pdf" target="_blank">
                                 hoja de datos de Routers Cisco ASR 1000 Series Aggregation Services</a> (.PDF)
-
                         </div>
                     </div><!-- End default tabs -->
                     <br>
