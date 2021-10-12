@@ -2,35 +2,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF 200-24 </h3>
-                <h5>Switch inteligente 10/100 de 24 puertos </h5>
+                <h3 class="title-border">Cisco SF200-24P</h3>
+                <h5>Switch inteligente PoE 10/100 de 24 puertos  </h5>
                 <center> <img class="img-responsive" src="images/switches/cat-s200-24.png" alt=""></center>
                 
-                <!--/ Panel Inicio -->
-                <div class="panel-group" id="accordionA">
-		              	<div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Smart switch</a> 
-				                </h4>
-			                </div>
-			                <div id="collapseOne" class="panel-collapse collapse in">
-			                  <div class="panel-body">
-                              <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF 200-24 24-Port 10/100 Smart Switch</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SLM224GT-NA <br>
-                                        <strong>Precio: $275.00 </strong></p>
-                                </div>
-			                </div>
-                            </div>
-		              	</div><!--/ Panel 1 end-->
-                    </div>  
 
                     <div class="gap-40"></div>
                     <div class="widget widget-tab">
@@ -74,7 +49,8 @@
                                         <li><strong>Conectividad de escritorio de alta velocidad.</strong>
                                         <p align="justify"> Los switches Cisco de la serie 200 pueden conectar de forma rápida y segura a los empleados que trabajan en 
                                             oficinas pequeñas entre sí y con todos los servidores, impresoras y otros dispositivos que utilizan. El alto rendimiento y 
-                                            la conectividad confiable ayudan a acelerar las transferencias de archivos y el procesamiento de datos, mejoran el tiempo de                                               actividad de la red y mantienen a sus empleados conectados y productivos. </p></li>
+                                            la conectividad confiable ayudan a acelerar las transferencias de archivos y el procesamiento de datos, mejoran el tiempo de
+                                            actividad de la red y mantienen a sus empleados conectados y productivos. </p></li>
                                         <li><strong>Conectividad inalámbrica segura.</strong>
                                         <p align="justify">Los switches Cisco de la serie 200 funcionan con soluciones inalámbricas de Cisco y de terceros para ampliar 
                                             el alcance de su red. Los empleados pueden trabajar de manera productiva desde salas de conferencias y áreas comunes, 
@@ -203,7 +179,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF200-24</th>
+                                            <th colspan="2" style="text-align: center">SF200-24P</th>
                                         </tr>
                                         <tr>
                                             <td>Puertos FE de cobre </td>
@@ -215,7 +191,7 @@
                                         </tr>
                                         <tr>
                                             <td>PoE </td>
-                                            <td>N / A </td>
+                                            <td>100W </td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación </td>
@@ -259,7 +235,7 @@
                                         </tr>
                                         <tr>
                                             <td>Fan </td>
-                                            <td>-</td>
+                                            <td>+</td>
                                         </tr>
                                         <tr>
                                             <td>Interfaz de administración web </td>

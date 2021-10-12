@@ -2,10 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF 200-24 </h3>
-                <h5>Switch inteligente 10/100 de 24 puertos </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s200-24.png" alt=""></center>
-                
+                <h3 class="title-border">Cisco SG 200-50 </h3>
+                <h5>Switch inteligente Gigabit de 50 puertos </h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s200-8p.png" alt=""></center>
+
+
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
 		              	<div class="panel panel-default">
@@ -20,12 +21,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF 200-24 24-Port 10/100 Smart Switch</strong></p>
+                                    <p align='justify'><strong>Cisco SG 200-50 50-Port Gigabit Smart Switch</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SLM224GT-NA <br>
-                                        <strong>Precio: $275.00 </strong></p>
+                                    <p align='justify'>#SLM2048T-NA<br>
+                                        <strong>Precio: $995.00</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -74,7 +75,8 @@
                                         <li><strong>Conectividad de escritorio de alta velocidad.</strong>
                                         <p align="justify"> Los switches Cisco de la serie 200 pueden conectar de forma rápida y segura a los empleados que trabajan en 
                                             oficinas pequeñas entre sí y con todos los servidores, impresoras y otros dispositivos que utilizan. El alto rendimiento y 
-                                            la conectividad confiable ayudan a acelerar las transferencias de archivos y el procesamiento de datos, mejoran el tiempo de                                               actividad de la red y mantienen a sus empleados conectados y productivos. </p></li>
+                                            la conectividad confiable ayudan a acelerar las transferencias de archivos y el procesamiento de datos, mejoran el tiempo de
+                                            actividad de la red y mantienen a sus empleados conectados y productivos. </p></li>
                                         <li><strong>Conectividad inalámbrica segura.</strong>
                                         <p align="justify">Los switches Cisco de la serie 200 funcionan con soluciones inalámbricas de Cisco y de terceros para ampliar 
                                             el alcance de su red. Los empleados pueden trabajar de manera productiva desde salas de conferencias y áreas comunes, 
@@ -203,15 +205,15 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF200-24</th>
+                                            <th colspan="2" style="text-align: center">SG200-50 </th>
                                         </tr>
                                         <tr>
-                                            <td>Puertos FE de cobre </td>
-                                            <td>24</td>
+                                            <td>Puertos GE de cobre </td>
+                                            <td>48 </td>
                                         </tr>
                                         <tr>
-                                            <td>Puertos combinados mini-GBIC GE</td>
-                                            <td>2</td>
+                                            <td>Puertos combinados mini-GBIC GE </td>
+                                            <td> 2 </td>
                                         </tr>
                                         <tr>
                                             <td>PoE </td>
@@ -219,14 +221,14 @@
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación </td>
-                                            <td>8,8 Gbps </td>
+                                            <td>100 Gbps </td>
                                         </tr>
                                         <tr>
-                                            <td>Árbol de expansión (STP, RSTP, MSTP) </td>
+                                            <td>Árbol de expansión (STP, RSTP, MSTP)</td>
                                             <td>+/+/- </td>
                                         </tr>
                                         <tr>
-                                            <td>VLAN  </td>
+                                            <td>VLAN</td>
                                             <td>128 </td>
                                         </tr>
                                         <tr>
@@ -235,11 +237,11 @@
                                         </tr>
                                         <tr>
                                             <td>Inspección IGMP </td>
-                                            <td> + </td>
+                                            <td>+</td>
                                         </tr>
                                         <tr>
                                             <td>Soporte IPv6 </td>
-                                            <td> + </td>
+                                            <td>+</td>
                                         </tr>
                                         <tr>
                                             <td>802.1X </td>
@@ -251,15 +253,15 @@
                                         </tr>
                                         <tr>
                                             <td>Tabla de direcciones MAC </td>
-                                            <td>8000 </td>
+                                            <td>8000</td>
                                         </tr>
                                         <tr>
                                             <td>Tecnología de eficiencia energética </td>
                                             <td>+</td>
                                         </tr>
                                         <tr>
-                                            <td>Fan </td>
-                                            <td>-</td>
+                                            <td>Fan</td>
+                                            <td>+</td>
                                         </tr>
                                         <tr>
                                             <td>Interfaz de administración web </td>
@@ -267,7 +269,7 @@
                                         </tr>
                                         <tr>
                                             <td>Garantía </td>
-                                            <td>tiempo de vida limitado  </td>
+                                            <td>tiempo de vida limitado</td>
                                         </tr>
                                     </table>
 
