@@ -130,13 +130,13 @@
                                         <ul class="Ssmall">
                                             <li><a href="switches-cat-s110.php">110 Series Unmanaged Switches</a></li>
                                             <li><a href="switches-cat-s200.php">200 Series Smart Switches</a></li>
-                                            <li><a href="">220 Series Smart Plus Switches</a></li>
-                                            <li><a href="">250 Series Smart Plus Switches</a></li>
-                                            <li><a href="">300 Series Managed Switches</a></li>
-                                            <li><a href="">350 Series Managed Switches</a></li>
-                                            <li><a href="">350x Series Stackable Managed Switches</a></li>
-                                            <li><a href="">500 Series Stackable Managed Switches</a></li>
-                                            <li><a href="">500x Series Stackable Managed Switches</a></li>
+                                            <li><a href="switches-cat-s220.php">220 Series Smart Plus Switches</a></li>
+                                            <li><a href="switches-cat-s250.php">250 Series Smart Plus Switches</a></li>
+                                            <li><a href="switches-cat-s300.php">300 Series Managed Switches</a></li>
+                                            <li><a href="switches-cat-s200.php">350 Series Managed Switches</a></li>
+                                            <li><a href="switches-cat-s200.php">350x Series Stackable Managed Switches</a></li>
+                                            <li><a href="switches-cat-s200.php">500 Series Stackable Managed Switches</a></li>
+                                            <li><a href="switches-cat-s200.php">500x Series Stackable Managed Switches</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Data Center Switches<i class="fa fa-angle-down"></i></a>

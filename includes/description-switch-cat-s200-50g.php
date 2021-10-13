@@ -4,7 +4,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h3 class="title-border">Cisco SG 200-50 </h3>
                 <h5>Switch inteligente Gigabit de 50 puertos </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s200-8p.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/switches/cat-s200-50g.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->

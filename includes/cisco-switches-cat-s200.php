@@ -27,7 +27,8 @@
 									<li><strong>Fácil configuración y administración </strong>
 									<p align="justify">Las herramientas intuitivas basadas en navegador simplifican la instalación y la configuración.</p></li>
 									<li><strong>Tranquilidad de espíritu </strong>
-									<p align="justify"></p></li>
+									<p align="justify">Todos los interruptores vienen con una garantía limitada de por vida e incluyen un año de soporte técnico y 
+										correcciones de software gratuitas durante el plazo de la garantía. </p></li>
 								</ul>
 								
 						</div><!-- tab content -->
