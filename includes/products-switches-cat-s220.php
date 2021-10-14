@@ -105,7 +105,7 @@
                                 <figure class="effect-oscar">
                                     <img src="images/switches/SG220-26.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s200-8g.php"><i class="fa fa-link"></i></a>                                     
+                                        <a class="link icon-pentagon" href="switch-cat-s220-26.php"><i class="fa fa-link"></i></a>                                     
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
@@ -126,7 +126,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/SG220-26P.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s200-8p.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s220-26p.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -148,7 +148,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/SG220-28MP.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s200-26g.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s220-28.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -171,7 +171,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/SG220-50.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s200-50g.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s220-50.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -192,7 +192,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/SG220-50.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s200-50g.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s220-50p.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>

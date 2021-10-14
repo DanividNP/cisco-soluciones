@@ -227,7 +227,7 @@
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
                                         </tr>
                                         <tr>
-                                            <td>Velocidad de reenvío en millones de paquetes por segundo (mpps; paquetes de 64 bytes) </td>
+                                            <td width="35%">Velocidad de reenvío en millones de paquetes por segundo (mpps; paquetes de 64 bytes) </td>
                                             <td>10.12 </td>
                                         </tr>
                                         <tr>

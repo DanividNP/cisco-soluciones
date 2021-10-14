@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF220-48P  </h3>
-                <h5>Switch Fast Ethernet PoE Smart Plus de 48 puertos con puerto combinado de 2 Gigabit RJ45 / SFP</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s220-48p.png" alt=""></center>
+                <h3 class="title-border">Cisco SG220-50P</h3>
+                <h5>Switch Gigabit PoE Smart Plus de 48 puertos con puerto combinado de 2 Gigabit RJ45 / SFP </h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s220-50p.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF220-48P 48-Port 10/100 PoE Smart Plus Switch with 2 Gigabit RJ45 / SFP Combo Port</strong></p>
+                                    <p align='justify'><strong>Cisco SG220-50P 48-Port Gigabit PoE Smart Plus Switch with 2 Gigabit RJ45 / SFP Combo Port</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SF220-48P-K9-NA <br>
-                                        <strong>Precio: $1,220.24</strong></p>
+                                    <p align='justify'>#SG220-50P-K9-NA <br>
+                                        <strong>Precio: $1,817.84</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -43,6 +43,7 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
                                 <h2>Descripción general de los switches Smart Plus de la serie Cisco 220:</h2>
+
                                 <h4><strong>Red empresarial sencilla, segura e inteligente a un precio asequible </strong></h4>
 
                                 <p align="justify">En el vertiginoso entorno empresarial actual, los propietarios de empresas se están volviendo más selectivos en la inversión 
@@ -221,18 +222,18 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF220-48P </th>
+                                            <th colspan="2" style="text-align: center">SF220-50P </th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
                                         </tr>
                                         <tr>
                                             <td width="35%">Velocidad de reenvío en millones de paquetes por segundo (mpps; paquetes de 64 bytes) </td>
-                                            <td> 	10.12 </td>
+                                            <td>74.40</td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación en Gigabits por segundo </td>
-                                            <td>13.6 </td>
+                                            <td>100</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Conmutación de capa 2 </th>
@@ -563,11 +564,11 @@
                                         </tr>
                                         <tr>
                                             <td>Energía dedicada a PoE </td>
-                                            <td> 	375W</td>
+                                            <td>375W </td>
                                         </tr>
                                         <tr>
                                             <td> Número de puertos que admiten PoE </td>
-                                            <td>48 </td>
+                                            <td>48</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
@@ -594,11 +595,11 @@
                                         </tr>
                                         <tr>
                                             <td>Puertos totales del sistema </td>
-                                            <td>48 Fast Ethernet más 2 Gigabit Ethernet </td>
+                                            <td>50 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puertos RJ-45 </td>
-                                            <td> 	48 Fast Ethernet </td>
+                                            <td>48 Gigabit Ethernet </td>
                                         </tr>
                                         <tr>
                                             <td>Puertos de enlace ascendente </td>
@@ -615,7 +616,7 @@
                                         </tr>
                                         <tr>
                                             <td>Unidad de peso </td>
-                                            <td>5,12 kilogramos </td>
+                                            <td>5,28  kilogramos</td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
@@ -623,7 +624,7 @@
                                         </tr>
                                         <tr>
                                             <td>Certificación </td>
-                                            <td>UL (UL 60950), CSA (CSA 22.2), marca CE, FCC Parte 15 (CFR 47) Clase A, C-tick </td>
+                                            <td>UL (UL 60950), CSA (CSA 22.2), marca CE, FCC Parte 15 (CFR 47) Clase A, C-tick</td>
                                         </tr>
                                         <tr>
                                             <td>Temperatura de funcionamiento </td>
@@ -647,17 +648,17 @@
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía del sistema</td>
-                                            <td>110 V = 39,5 W <br>
-                                            220 V = 39,7 W </td>
+                                            <td>110 V = 59,4 W  <br>
+                                            220 V = 63,2 W  </td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía (con PoE) </td>
-                                            <td>110 V = 413 W <br>
-                                            220 V = 405 W</td>
+                                            <td> 110 V = 426 W <br>
+                                            220 V = 427 W </td>
                                         </tr>
                                         <tr>
                                             <td>Disipación de calor (BTU / h) </td>
-                                            <td>1409.2 </td>
+                                            <td>1453.6 </td>
                                         </tr>
                                         <tr>
                                             <td>ventilador</td>
@@ -665,18 +666,18 @@
                                         </tr>
                                         <tr>
                                             <td>Ruido acústico </td>
-                                            <td>32 ° C = 39 dB 32 ° C-40 ° C = 50,3 dB > 40 ° C = 52dB </td>
+                                            <td>< 32 ° C = 39,1 dB 32 ° C-40 ° C = 50,5 dB > 40 ° C = 52dB  </td>
                                         </tr>
                                         <tr>
                                             <td>MTBF @ 50 ° C (horas) </td>
-                                            <td>210,753</td>
+                                            <td>194 , 036 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>
                                         </tr>
                                         <tr>
                                             <td>Plazo de garantía </td>
-                                            <td> 	Garantía de hardware limitada de por vida</td>
+                                            <td>Garantía de hardware limitada de por vida</td>
                                         </tr>
                                         <tr>
                                             <td>contenidos del paquete </td>
