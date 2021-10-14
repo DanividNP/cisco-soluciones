@@ -557,7 +557,7 @@
                                     </td>
                                     <td>
                                         <ul class="listas">
-                                            <li>Admite miles de sitiosAdmite miles de sitios</li>
+                                            <li>Admite miles de sitios</li>
                                             <li>Admite 8.000 túneles IPsec</li>
                                             <li>Ofrece un rendimiento de cifrado de hasta 78 Gbps y soporte de rendimiento no criptográfico de hasta 200 Gbps con el motor del procesador de servicios integrados de 200 Gbps de la serie Cisco ASR 1000 (ASR1000-ESP200)</li>
                                         </ul>
@@ -647,13 +647,6 @@
                                         </ul>
                                     </td>
                                 </tr>
-                                
-                                
-                                
-                                
-                                
-                                
-                                
                                 <tr>                                        
                                     <td>Borde del proveedor de servicios: reflector de ruta de gama alta:
                                         <br>puede utilizar la solución como un reflector de ruta para el soporte de ancho de banda de 40 Gbps.</td>
@@ -709,28 +702,33 @@
                                 </tr>
                                 <tr>
                                     <td>Especificaciones físicas</td>
-                                    <td>Altura: 43,43 mm (1,71 pulg.)
-                                        <br>Ancho: 439,42 mm (17,3 pulg.)
-                                        <br>Profundidad: 571,5 mm (22,50 pulg .)
-                                        <br>Peso: 25 lb (11,35 kg) completamente cargado
-                                        <p><strong>Nota:</strong> El router Cisco ASR 1001 tiene el procesador de ruta, ESP y SIP integrados.</p>
+                                    <td>Altura: 88,9 mm (3,5 pulg.)
+                                        <br>Ancho: 437,4 mm (17,2 pulg.)
+                                        <br>Profundidad: 461,0 mm (18,15 pulg.)
+                                        <br>Peso:
+                                        <ul class="listas">
+                                            <li>33,65 lb (15,23 kg) (con doble fuente de alimentación de CA y tapas ciegas SPA)</li>
+                                            <li>36,85 lb (16,75 kg) (con fuente de alimentación de CC doble, cubiertas ciegas y Cisco ASR 1000 Series 5-Gbps ESP[ASR1000-ESP5])</li>
+                                            <li>No incluye SPA</li>
+                                        </ul>
+                                        <p><strong>Nota:</strong> Cisco ASR 1002 tiene el procesador de ruta y el SIP integrados.</p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Memoria predeterminada</td>
-                                    <td>DRAM de 8 GB compartida entre RP, ESP y SIP</td>
+                                    <td>DRAM de 4 GB compartida entre RP y SIP</td>
                                 </tr>
                                 <tr>
                                     <td>Adaptadores de puerto compartido</td>
-                                    <td>1 ranura SPA single-height</td>
+                                    <td>3 espacios de SPA</td>
                                 </tr>
                                 <tr>
                                     <td>Cisco ASR serie 1000 ESP</td>
-                                    <td>Integrado en chasis</td>
+                                    <td>1 ranura ESP</td>
                                 </tr>
                                 <tr>
                                     <td>Procesador de ruta</td>
-                                    <td>Integrado en el chasis: Procesador de ruta Cisco ASR serie 1001 con procesador de doble núcleo</td>
+                                    <td>Integrado en el chasis</td>
                                 </tr>
                                 <tr>
                                     <td>Número de tarjetas de línea SIP o Ethernet admitidas</td>
@@ -742,16 +740,14 @@
                                 </tr>
                                 <tr>
                                     <td>Puertos Gigabit Ethernet integrados</td>
-                                    <td>Sí: 6 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</td>
+                                    <td>Sí: 4 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</td>
                                 </tr>
                                 <tr>
                                     <td>Puerto Ethernet de 10 Gigabit incorporado</td>
-                                    <td>Sí - 2x10 puertos Gigabit Ethernet Small Form-Factor Plus Pluggable (SFP +)
-                                    <br>Nota: Los puertos integrados de 10 GB no se pueden reducir a 1 GB de velocidad</td>
-                                </tr>
+                                    <td>No</tr>
                                 <tr>
                                     <td>Módulo de interfaz de red</td>
-                                    <td>sí</td>
+                                    <td>No</td>
                                 </tr>
                                 <tr>
                                     <td>Tarjeta secundaria integrada (IDC)</td>
@@ -766,27 +762,29 @@
                                 </tr>
                                 <tr>
                                     <td>Soporte ESP</td>
-                                    <td>Cisco ASR 1000 Series 2.5-Gbps ESP (predeterminado)<br>Actualizable mediante una licencia de función activada por software a 5, 10 o 20 Gbps</td>
+                                    <td>Cisco ASR 1000 Series 5-Gbps ESP (ASR1000-ESP5), Cisco ASR 1000 Series 10-Gbps ESP (ASR1000-ESP10) y Cisco ASR 1000 Series 10-Gbps ESP no cifrado (ASR1000-ESP10-N)</td>
                                 </tr>
                                 <tr>
                                     <td>Ancho de banda ESP</td>
-                                    <td>2,5 a 20 Gbps</td>
+                                    <td>5 a 10 Gbps</td>
                                 </tr>
                                 <tr>
                                     <td>Memoria ESP</td>
-                                    <td>Comparta la misma memoria de control en el procesador de ruta</td>
+                                    <td>Cisco ASR 1000 Series 5-Gbps ESP (ASR1000-ESP5): DRAM de 1GB predeterminado; 1GB DRAM máximo
+                                        <br>Cisco ASR 1000 Series 10-Gbps ESP (ASR1000-ESP10): 2GB DRAM predeterminado; DRAM de 2GB como máximo</td>
                                 </tr>
                                 <tr>
                                     <td>Tarjetas de línea SIP y Ethernet</td>
-                                    <td>Integrado en chasis; no actualizable</td>
+                                    <td>Integrado en el chasis: Tarjeta portadora SIP de 10 Gbps Cisco ASR serie 1000 (ASR1000-SIP10); no actualizable</td>
                                 </tr>
                                 <tr>
                                     <td>Cifrado basado en hardware integrado</td>
-                                    <td>Sí: rendimiento de soporte de cifrado de hasta 8 Gbps</td>
+                                    <td>Sí: en Cisco ASR 1000 Series 5-Gbps ESP (ASR1000-ESP5) con rendimiento de soporte de cifrado de hasta 1.8 Gbps y en Cisco ASR 1000 Series 10-Gbps ESP (ASR1000-ESP10) con rendimiento de soporte de cifrado de hasta 4 Gbps
+                                        <br><strong>Nota :</strong> No es compatible con Cisco ASR 1000 Series 10-Gbps ESP no cifrado (ASR1000-ESP10-N)</td>
                                 </tr>
                                 <tr>
                                     <td>Versión mínima del software Cisco IOS XE</td>
-                                    <td>Versión 3.12.0 del software Cisco IOS XE</td>
+                                    <td>Versión 2.1 del software Cisco IOS XE</td>
                                 </tr>
                                 <tr>
                                     <td>Montaje en bastidor</td>
@@ -811,15 +809,15 @@
                                 </tr>
                                 <tr>
                                     <td>Entrada de alimentación</td>
-                                    <td>Rango mundial de rango de entrada de CA (+85 a +264 VCA) Rango mundial de CC (-40 a -72-48 V nominal)</td>
+                                    <td>Rango mundial de CA (85 a 264 V; 120 o 240 V; 60 o 50 Hz nominal) Rango mundial de CC (-40,5 a -72: -48 V nominal)</td>
                                 </tr>
                                 <tr>
                                     <td>El consumo de energía</td>
                                     <td>
                                         <ul class="listas">
-                                            <li>Máximo (CC): 242 W</li>
-                                            <li>Máximo (CA): 250 W</li>
-                                            <li>Máximo (salida): 250W</li>
+                                            <li>Máximo (CC): 590 W</li>
+                                            <li>Máximo (CA): 560 W</li>
+                                            <li>Máximo (salida): 470 W</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -836,7 +834,7 @@
                                 </tr>
                                 <tr>
                                     <td>Temperatura de funcionamiento (a corto plazo)</td>
-                                    <td>0 - 50ºC</td>
+                                    <td>23 a 131 ° F (-5 a 55 ° C)</td>
                                 </tr>
                                 <tr>
                                     <td>Humedad de funcionamiento (nominal) (humedad relativa)</td>
@@ -848,7 +846,7 @@
                                 </tr>
                                 <tr>
                                     <td>Temperatura de almacenamiento</td>
-                                    <td>-20 - + 70ºC</td>
+                                    <td>-38 a 150 ° F (-39 a 70 ° C)</td>
                                 </tr>
                                 <tr>
                                     <td>Humedad de almacenamiento (humedad relativa)</td>
@@ -856,14 +854,14 @@
                                 </tr>
                                 <tr>
                                     <td>Altitud operativa</td>
-                                    <td>-500 - 10,000 pies</td>
+                                    <td>-60 a 4000 m (hasta 2000 m cumple con los requisitos de IEC / EN / UL / CSA 60950)</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">Cumplimiento normativo</th>
                                 </tr>
                                 <tr>
                                     <td>Estándares de construcción de equipos de red (NEBS)</td>
-                                    <td>N / A</td>
+                                    <td>GR-1089 y GR-63</td>
                                 </tr>
                                 <tr>
                                     <td>Estándares EMC</td>
@@ -877,13 +875,14 @@
                                             <li>EN55024 / CISPR 24 Equipo de tecnología de la información (inmunidad)</li>
                                             <li>EN300 386 Equipo de red de telecomunicaciones (EMC)</li>
                                             <li>EN50082-1 ​​/ EN61000-6-1 Estándar de inmunidad genérico</li>
+                                            <li>KN22 ClaseA</li>
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Estándar de seguridad</td>
                                     <td>
-                                        <ul>
+                                        <ul class="listas">
                                             <li>UL60950-1</li>
                                             <li>CSA C22.2 No 60950-1-03</li>
                                             <li>EN 60950-1</li>
@@ -899,16 +898,8 @@
                         <div class="tab-pane" id="tab7">
                             <h2>Licencias de software:</h2>
                             <p align="justify">Se requieren licencias de funciones de software para activar los servicios en los routers Cisco ASR de la serie 1000. Actualmente, hay dos tipos de licencias de funciones disponibles. Ciertos servicios requieren solo una licencia de derecho de uso (RTU), mientras que otros servicios requieren tanto una licencia RTU como una o más licencias de número de sesiones. Todas las licencias de la serie Cisco ASR 1000 se basan en el honor, lo que significa que las licencias no se aplican a través de una activación de producto o una clave de licencia.
-                                <br><br>Para las plataformas fijas Cisco ASR 1001, ASR 1001-X y ASR 1002-X, se requiere uno de los siguientes cinco paquetes:
+                                <br><br>Para habilitar un conjunto de características requeridas, se requiere uno de los siguientes tres paquetes de tecnología:
                             </p>
-                            <ul>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO DE CARGA PAGADA</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL SIN intercepción legal</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO DE CARGA SIN INTERCEPCIÓN LEGAL</li>
-                            </ul>
-                            <p>Para habilitar un conjunto de características requeridas, se requiere uno de los siguientes tres paquetes de tecnología:</p>
                             <ul>
                                 <li>Licencia básica IP de Cisco ASR 1000</li>
                                 <li>Licencia de servicios IP avanzados de Cisco ASR 1000</li>
