@@ -590,7 +590,7 @@
                                     </td>
                                     <td>
                                         <ul class="listas">
-                                            <li>Admite miles de sitiosAdmite miles de sitios</li>
+                                            <li>Admite miles de sitios</li>
                                             <li>Admite 8.000 túneles IPsec</li>
                                             <li>Ofrece un rendimiento de cifrado de hasta 78 Gbps y soporte de rendimiento no criptográfico de hasta 200 Gbps con el motor del procesador de servicios integrados de 200 Gbps de la serie Cisco ASR 1000 (ASR1000-ESP200)</li>
                                         </ul>
@@ -925,7 +925,7 @@
                                 <tr>
                                     <td>Estándar de seguridad</td>
                                     <td>
-                                        <ul>
+                                        <ul class="listas">
                                             <li>UL60950-1</li>
                                             <li>CSA C22.2 No 60950-1-03</li>
                                             <li>EN 60950-1</li>

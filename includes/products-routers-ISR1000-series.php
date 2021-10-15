@@ -3,23 +3,23 @@
         <div class="row">
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h2><span class="title-desc">Routers Cisco ASR serie 1000</span></h2>
+                <h2><span class="title-desc">Routers Cisco ISR de la serie 1000</span></h2>
             </div>
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/routers/ASR1001.jpg" alt="">
+                        <img src="images/routers/ISR1100.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1001.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="routers-cisco-ISR1100.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">ASR 1001</h3><br>
+                        <h3 align="center">ISR 1100-4G/6G/LTE</h3><br>
                             <ul>
-                                <li>DRAM de 4 GB compartida entre RP, ESP y SIP</li>
-                                <li>4 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</li>
-                                <li>Ancho de banda ESP de 2,5 a 5 Gbps</li>
+                                <li>Viptela OS</li>
+                                <li>Cisco SD-WAN</li>
+                                <li>4-6 puertos GE WAN / LAN</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -28,7 +28,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1001X.jpg" alt="">
+                        <img src="images/routers/ISR1101.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1001X.php"><i class="fa fa-link"></i></a>
                                      
@@ -36,11 +36,12 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">ASR 1001 X</h3><br>
+                        <h3 align="center">ISR 1101</h3><br>
                             <ul>
-                                <li>DRAM de 8 GB compartida entre RP, ESP y SIP</li>
-                                <li>6 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</li>
-                                <li>Ancho de banda ESP de 2.5 a 20 Gbps</li>
+                                <li>IOS XE / IOS XE SD-WAN</li>
+                                <li>Cisco SD-WAN</li>
+                                <li>4 puertos GE WAN / LAN</li>
+                                <li>LTE conectable</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -49,7 +50,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1002.jpg" alt="">
+                        <img src="images/routers/ISR1109.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1002.php"><i class="fa fa-link"></i></a>
                                      
@@ -57,11 +58,12 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">ASR 1002</h3><br>
+                        <h3 align="center">ISR 1109</h3><br>
                             <ul>
-                                <li>DRAM de 4 GB compartida entre RP y SIP</li>
-                                <li>4 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</li>
-                                <li>Ancho de banda ESP de 5 a 10 Gbps</li>
+                                <li>IOS XE / IOS XE SD-WAN</li>
+                                <li>Cisco SD-WAN</li>
+                                <li>2 - 4 puertos GE WAN / LAN</li>
+                                <li>LTE conectable dual</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -70,7 +72,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1002X.jpg" alt="">
+                        <img src="images/routers/ISR111X.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1002X.php"><i class="fa fa-link"></i></a>
                                      
@@ -78,11 +80,12 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">ASR 1002 X</h3><br>
+                        <h3 align="center">ISR 111x</h3><br>
                             <ul>
-                                <li>DRAM de 8 GB compartida entre RP, ESP y SIP</li>
-                                <li>6 puertos Gigabit Ethernet SFP</li>
-                                <li>Ancho de banda ESP de 5 a 36 Gbps</li>
+                                <li>IOS XE / IOS XE SD-WAN</li>
+                                <li>Cisco SD-WAN</li>
+                                <li>4-8 puertos GE WAN / LAN</li>
+                                <li>PoE</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -91,7 +94,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1004.jpg" alt="">
+                        <img src="images/routers/ISR1111X.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1004.php"><i class="fa fa-link"></i></a>
                                      
@@ -99,11 +102,12 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">ASR 1004</h3><br>
+                        <h3 align="center">ISR 1111x</h3><br>
                             <ul>
-                                <li>DRAM RP2 de 4 GB DRAM RP2 de 1,8 GB</li>
-                                <li>8 ranuras de adaptador de puerto compartido</li>
-                                <li>Ancho de banda ESP de 10 a 40 Gbps</li>
+                                <li>IOS XE / IOS XE SD-WAN</li>
+                                <li>Seguridad de Cisco SD-WAN</li>
+                                <li>8 puertos GE WAN / LAN</li>
+                                <li>PoE</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -112,7 +116,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1006.jpg" alt="">
+                        <img src="images/routers/ISR1120.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1006.php"><i class="fa fa-link"></i></a>
                                      
@@ -120,11 +124,12 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">ASR 1006</h3><br>
+                        <h3 align="center">ISR 1120</h3><br>
                             <ul>
-                                <li>DRAM RP1 de 4 GB, DRAM RP2 de 8 GB</li>
-                                <li>12 espacios de SPA</li>
-                                <li>Ancho de banda ESP de 10 a 100 Gbps</li>
+                                <li>IOS XE / IOS XE SD-WAN</li>
+                                <li>Seguridad de Cisco SD-WAN</li>
+                                <li>8 puertos GE WAN / LAN</li>
+                                <li>Opciones conectables LTE, Wi-Fi, DSL</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -133,7 +138,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1013.jpg" alt="">
+                        <img src="images/routers/ISR1160.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1013.php"><i class="fa fa-link"></i></a>
                                      
@@ -141,11 +146,12 @@
                     </figure>
                     <div class="portfolio-static-desc">
                         
-                        <h3 align="center">ASR 1013</h3><br>
+                        <h3 align="center">ISR 1160</h3><br>
                             <ul>
-                                <li>DRAM RP1 de 4 GB, DRAM RP2 de 8 GB</li>
-                                <li>24 espacios de SPA</li>
-                                <li>Ancho de banda ESP de 40 a 200 Gbps</li>
+                                <li>IOS XE / IOS XE SD-WAN</li>
+                                <li>Seguridad de Cisco SD-WAN</li>
+                                <li>8 puertos GE WAN / LAN</li>
+                                <li>Opción LTE conectable</li>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->

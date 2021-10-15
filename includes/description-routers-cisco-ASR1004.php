@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router Cisco ASR 1002-X</h3>
+                <h3 class="title-border">Router Cisco ASR 1004</h3>
                 <h5>Router de Servicios de Agregación de la serie ASR 1000</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco ASR 1002-X Router.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco ASR 1004 Router.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -12,7 +12,7 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco ASR1002-X System</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco ASR1004 System</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -21,23 +21,23 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASR1002-X System, Crypto, 6 Built-In GE, Dual P/S</strong></p>
+                                    <p align='justify'><strong>Cisco ASR1004 Chassis, Dual P/S</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASR1002-X<br>
-                                        <strong>Precio: $41,707.50</strong></p>
+                                    <p align='justify'>#ASR1004<br>
+                                        <strong>Precio: $16,000.00</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASR1002-X System, Crypto, 6 Built-In GE, Dual P/S, Spare</strong></p>
+                                    <p align='justify'><strong>Cisco ASR1004 Chassis, Dual P/S, Spare</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASR1002-X =</p>
-                                        <strong>Precio: $47,963.63</strong></p>
+                                    <p align='justify'>#ASR1004=</p>
+                                        <strong>Precio: $19,205.92</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -689,7 +689,7 @@
 
                         </div>
 
-                        
+
                         <div class="tab-pane" id="tab2">
                             <h3>Especificaciones técnicas:</h3>
 
@@ -702,37 +702,34 @@
                                 </tr>
                                 <tr>
                                     <td>Especificaciones físicas</td>
-                                    <td>Altura: 88,9 mm (3,5 pulg.)
+                                    <td>Altura: 177,8 mm (7 pulg.)
                                         <br>Ancho: 437,4 mm (17,2 pulg.)
                                         <br>Profundidad: 461,0 mm (18,15 pulg.)
                                         <br>Peso:
                                         <ul class="listas">
-                                            <li>38,25 lb (17,36 kg) (con doble fuente de alimentación de CA y tapas ciegas SPA)</li>
-                                            <li>39,05 lb (17,72 kg) (con doble fuente de alimentación de CC y cubiertas ciegas)</li>
-                                            <li>No incluye SPA</li>
+                                            <li>31,16 kg (68,7 lb) (con fuente de alimentación de CA doble, cubiertas vacías SPA, Cisco ASR 1000 Series 10-Gbps ESP [ASR1000-ESP10] o ASR 1000 Series 40-Gbps ESP [ASR1000-ESP-40], Cisco ASR 1000 Series Procesador de ruta 1 [RP1] [ASR1000-RP1], dos SIP de 10 Gbps Cisco ASR serie 1000 [ASR1000-SIP10] o SIP de 40 Gbps serie ASR1000 [ASR1000-SIP-40], y sin SPA)</li>
                                         </ul>
-                                        <p><strong>Nota:</strong> Cisco ASR 1002-X tiene el procesador de ruta, ESP y SIP integrados.</p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Memoria predeterminada</td>
-                                    <td>DRAM de 8 GB compartida entre RP, ESP y SIP</td>
+                                    <td>DRAM RP1 de 4 GB<br>DRAM RP2 de 8 GB</td>
                                 </tr>
                                 <tr>
                                     <td>Adaptadores de puerto compartido</td>
-                                    <td>3 espacios de SPA</td>
+                                    <td>8 espacios de SPA</td>
                                 </tr>
                                 <tr>
                                     <td>Cisco ASR serie 1000 ESP</td>
-                                    <td>Integrado en chasis</td>
+                                    <td>1 ranura ESP</td>
                                 </tr>
                                 <tr>
                                     <td>Procesador de ruta</td>
-                                    <td>Integrado en el chasis: Procesador de ruta Cisco ASR serie 1002-X con procesador de doble núcleo</td>
+                                    <td>1 ranura de procesador de ruta</td>
                                 </tr>
                                 <tr>
                                     <td>Número de tarjetas de línea SIP o Ethernet admitidas</td>
-                                    <td>Integrado en chasis</td>
+                                    <td>2</td>
                                 </tr>
                                 <tr>
                                     <td>Redundancia</td>
@@ -740,7 +737,7 @@
                                 </tr>
                                 <tr>
                                     <td>Puertos Gigabit Ethernet integrados</td>
-                                    <td>Sí: 6 puertos SFP Gigabit Ethernet</td>
+                                    <td>0</td>
                                 </tr>
                                 <tr>
                                     <td>Puerto Ethernet de 10 Gigabit incorporado</td>
@@ -762,27 +759,29 @@
                                 </tr>
                                 <tr>
                                     <td>Soporte ESP</td>
-                                    <td>Cisco ASR 1002-X ESP con 5 Gbps (predeterminado)<br>Actualizable mediante licencia de función activada por software a 10, 20 o 36 Gbps</td>
+                                    <td>Cisco ASR 1000 Series 10-Gbps ESP (ASR1000-ESP10), Cisco ASR 1000 Series 10-Gbps ESP no cifrado (ASR1000-ESP10-N), Cisco ASR 1000 Series 20-Gbps ESP (ASR1000-ESP20) y Cisco ASR 1000 Series ESP de 40 Gbps (ASR1000-ESP40)</td>
                                 </tr>
                                 <tr>
                                     <td>Ancho de banda ESP</td>
-                                    <td>5 a 36 Gbps</td>
+                                    <td>10 a 40 Gbps</td>
                                 </tr>
                                 <tr>
                                     <td>Memoria ESP</td>
-                                    <td>Comparta la misma memoria de control en el procesador de ruta</td>
+                                    <td>Cisco ASR 1000 Series 10-Gbps ESP (ASR1000-ESP10) y ASR 1000 Series 10-Gbps ESP (ASR1000-ESP10): DRAM de 2GB predeterminado; DRAM de 2GB máximo
+                                        <br>Cisco ASR 1000 Series 20-Gbps ESP (ASR1000-ESP20): DRAM de 4GB predeterminado; DRAM de 4 GB como máximo</td>
                                 </tr>
                                 <tr>
                                     <td>Tarjetas de línea SIP y Ethernet</td>
-                                    <td>Integrado en chasis; no actualizable</td>
+                                    <td>Admite la tarjeta portadora SIP de 10 Gbps Cisco ASR serie 1000 (ASR1000-SIP10), la tarjeta portadora SIP Cisco ASR serie 1000 de 40 Gbps (ASR1000-SIP40) y las tarjetas de línea Ethernet fija ASR 1000; 2x10GE + 20X1GE (ASR1000-2T + 20X1GE); y 6x10GE (ASR1000-6TGE)</td>
                                 </tr>
                                 <tr>
                                     <td>Cifrado basado en hardware integrado</td>
-                                    <td>Sí: rendimiento de soporte de cifrado de hasta 4 Gbps</td>
+                                    <td>Sí: El Cisco ASR 1000 Series 10 Gbps ESP (ASR1000-ESP10) con hasta 4 Gbps y el Cisco ASR 1000 Series 20 Gbps ESP (ASR1000-ESP20) con hasta 8 Gbps cripto apoyar el rendimiento
+                                        <br><strong>Nota :</strong> No es compatible con Cisco ASR 1000 Series 10-Gbps ESP no cifrado (ASR1000-ESP10-N)</td>
                                 </tr>
                                 <tr>
-                                    <td>Versión mínima del software Cisco IOS XE</td>
-                                    <td>Versión 3.7.0S del software Cisco IOS XE</td>
+                                    <td>Versión minima del software Cisco IOS XE</td>
+                                    <td>Versión 2.1 del software Cisco IOS XE</td>
                                 </tr>
                                 <tr>
                                     <td>Montaje en bastidor</td>
@@ -794,7 +793,7 @@
                                 </tr>
                                 <tr>
                                     <td>Memoria flash USB externa</td>
-                                    <td>Soporte de memoria flash USB de 4 GB</td>
+                                    <td>Soporte de memoria flash USB de 1 GB</td>
                                 </tr>
                                 <tr>
                                     <th colspan="2" style="text-align: center">requerimientos de energía</th>
@@ -813,9 +812,9 @@
                                     <td>El consumo de energía</td>
                                     <td>
                                         <ul class="listas">
-                                            <li>Máximo (CC): 590 W</li>
-                                            <li>Máximo (CA): 560 W</li>
-                                            <li>Máximo (salida): 470 W</li>
+                                            <li>Máximo (CC): 1020 W</li>
+                                            <li>Máximo (CA): 960 W</li>
+                                            <li>Máximo (salida): 765 W</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -896,17 +895,8 @@
                         <div class="tab-pane" id="tab7">
                             <h2>Licencias de software:</h2>
                             <p align="justify">Se requieren licencias de funciones de software para activar los servicios en los routers Cisco ASR de la serie 1000. Actualmente, hay dos tipos de licencias de funciones disponibles. Ciertos servicios requieren solo una licencia de derecho de uso (RTU), mientras que otros servicios requieren tanto una licencia RTU como una o más licencias de número de sesiones. Todas las licencias de la serie Cisco ASR 1000 se basan en el honor, lo que significa que las licencias no se aplican a través de una activación de producto o una clave de licencia.
-                                <br><br>Para las plataformas fijas Cisco ASR 1001, ASR 1001-X y ASR 1002-X, se requiere uno de los siguientes cinco paquetes:
+                                <br><br>Para habilitar un conjunto de características requeridas, se requiere uno de los siguientes tres paquetes de tecnología:
                             </p>
-                            <ul>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO DE CARGA PAGADA</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL SIN intercepción legal</li>
-                                <li>Cisco ASR 1001 IOS XE UNIVERSAL - SIN CIFRADO DE CARGA SIN INTERCEPCIÓN LEGAL</li>
-                            </ul>
-
-                            <p>Para habilitar un conjunto de características requeridas, se requiere uno de los siguientes tres paquetes de tecnología:</p>
                             <ul>
                                 <li>Licencia básica IP de Cisco ASR 1000</li>
                                 <li>Licencia de servicios IP avanzados de Cisco ASR 1000</li>
