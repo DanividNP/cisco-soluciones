@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco Business CBS250-8T-E-2G </h3>
+                <h3 class="title-border">Cisco Business CBS250-8PP-E-2G  </h3>
                 <h5>Conmutador inteligente Gigabit Ethernet de 8 puertos con 2 puertos combinados Gigabit de cobre / SFP </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s250-8t.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/switches/cat-s250-8pp.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Business CBS250-8T-E-2G 8-Port Gigabit Ethernet Smart Switch with 2 Gigabit Copper / SFP Combo Ports</strong></p>
+                                    <p align='justify'><strong>Cisco Business CBS250-8P-E-2G 8-Port Gigabit Ethernet PoE + Smart Switch with 2 Gigabit Copper 
+                                        / SFP Combo Ports (67W Power Budget)</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CBS250-8T-E-2G-NA<br>
-                                        <strong>Precio: $235.95</strong></p>
+                                    <p align='justify'>#CBS250-8P-E-2G-NA<br>
+                                        <strong>Precio: $306.26</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -224,7 +225,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CBS250-8T-E-2G </th>
+                                            <th colspan="2" style="text-align: center">CBS250-8PP-E-2G </th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
@@ -743,24 +744,25 @@
                                         </tr>
                                         <tr>
                                             <td>Energía dedicada a PoE </td>
-                                            <td>-</td>
+                                            <td>45W </td>
                                         </tr>
                                         <tr>
                                             <td>Número de puertos que admiten PoE </td>
-                                            <td> -</td>
+                                            <td> 8 </td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía del sistema </td>
-                                            <td>110 V = 12,55 W <br>
-                                                220 V = 12,56 W </td>
+                                            <td>110 V = 14,34 W <br>
+                                                220 V = 14,47 W  </td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía (con PoE) </td>
-                                            <td> N / A </td>
+                                            <td>110 V = 65,29 W <br>
+                                                220 V = 66,02 W </td>
                                         </tr>
                                         <tr>
                                             <td>Disipación de calor (BTU / h) </td>
-                                            <td> 42.86</td>
+                                            <td>222.79 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
@@ -820,13 +822,14 @@
                                         </tr>
                                         <tr>
                                             <td>Unidad de peso </td>
-                                            <td>1,39 kg (3,06 libras) </td>
+                                            <td>1,53 kg (3,37 libras) </td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
-                                            <td>100 a 240 V 50 a 60 Hz, interno, universal: CBS250-16T-2G, CBS250-16P-2G, CBS250-24T-4G, CBS250-24PP-4G, CBS250-24P-4G, 
-                                                CBS250-24FP-4G, CBS250- 48T-4G, CBS250-48PP-4G, CBS250-48P-4G, CBS250-24T-4X, CBS250-24P-4X, CBS250-24FP-4X, CBS250-48T-4X, CBS250-48P-4X
-                                                100 a 240 V 50 a 60 Hz, externo: CBS250-8T-D, CBS250-8PP-D, CBS250-8T-E-2G, CBS250-8PP-E-2G, CBS250-8P-E-2G, CBS250-8FP- E-2G </td>
+                                            <td>100 a 240 V 50 a 60 Hz, interno, universal: CBS250-16T-2G, CBS250-16P-2G, CBS250-24T-4G, CBS250-24PP-4G, 
+                                                CBS250-24P-4G, CBS250-24FP-4G, CBS250- 48T-4G, CBS250-48PP-4G, CBS250-48P-4G, CBS250-24T-4X, CBS250-24P-4X, CBS250-24FP-4X, 
+                                                CBS250-48T-4X, CBS250-48P-4X 100 a 240 V 50 a 60 Hz, externo: CBS250-8T-D, CBS250-8PP-D, CBS250-8T-E-2G, 
+                                                CBS250-8PP-E-2G, CBS250-8P-E-2G, CBS250-8FP- E-2G </td>
                                         </tr>
                                         <tr>
                                             <td>Certificación </td>
@@ -858,7 +861,7 @@
                                         </tr>
                                         <tr>
                                             <td>MTBF @ 50 ° C (horas) </td>
-                                            <td>2,171,669 </td>
+                                            <td>1,706,649 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>
