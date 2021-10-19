@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router de Servicios Integrados Cisco de la Serie 1100</h3>
-                <h5>Fiabilidad, Seguridad y rendimiento</h5>
-                <center> <img class="img-responsive" src="images/routers/ISR 1100-4G6GLTE.png" alt=""></center>
+                <h3 class="title-border">Router de Servicios Integrados de Cisco 1101</h3>
+                <h5>Fiabilidad, Seguridad y Rendimiento</h5>
+                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 1101.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -12,7 +12,7 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 1100 Series ISRs DSL and LTE</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 1101 Series ISRs</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -21,108 +21,38 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1100 4-Port Dual GE WAN Ethernet Router</strong></p>
+                                    <p align='justify'><strong>Cisco ISR 1101 1-Port Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1111-4P<br>
-                                        <strong>Precio: $1,624.25</strong></p>
+                                    <p align='justify'>#C1101-4P<br>
+                                        <strong>Precio: $1,297.98</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1100 8-Port Dual GE WAN Ethernet Router</strong></p>
+                                    <p align='justify'><strong>Cisco ISR 1101 5-Port Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1111-8P<br>
-                                        <strong>Precio: $1,875.29</strong></p>
+                                    <p align='justify'>#C1101-4PLTEP<br>
+                                        <strong>Precio: $1,388.17</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1100 4-Port Dual GE LTE Adv SMS GPS Router w/ EMEAR NA Domain</strong></p>
+                                    <p align='justify'><strong>Cisco ISR 1101 - 4 Network Port Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1111-4PLTEEA<br>
-                                        <strong>Precio: $2,205.98</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1100 8-Port Dual GE SFP LTE ADV SMS Router</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1111-8PLTEEA<br>
-                                        <strong>Precio: $3,004.87</strong></p>
+                                    <p align='justify'>#C1101-4PLTEPWB<br>
+                                        <strong>Precio: $1,922.14</strong></p>
                                 </div>
                             </div>
                         </div>
                     </div><!--/ Panel 1 end-->
-
-
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB" href="#collapseTwo">Cisco 1100 Series ISRs DSL and Wi-Fi</a>
-                            </h4>
-                        </div>
-                        <div id="collapseTwo" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1100 4-Port Dual GE WAN Router w/ 802.11ac -B WiFi</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1111-4PWB<br>
-                                        <strong>Precio: $1,401.98</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1100 8-Port Dual GE Ethernet Router w/ 802.11ac -B WiFi</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1111-8PWB<br>
-                                        <strong>Precio: $1,939.97</strong></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--/ Panel 2 end-->
-
-
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB" href="#collapseThree">Cisco 1100 Series ISRs LTE, Wi-Fi, and DSL</a>
-                            </h4>
-                        </div>
-                        <div id="collapseThree" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1100 8-Port Dual GE WAN w/ LTE Adv SMS/GPS 802.11ac -B WiFi</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1111-8PLTEEAWB<br>
-                                        <strong>Precio: $2,808.98</strong></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--/ Panel 3 end-->
 
 
 
@@ -140,14 +70,206 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
                                 <h2>Descripción general:</h2>
-                                <p align="justify">Los routers de servicios integrados (ISR) de la serie Cisco® 1100 con el software Cisco IOS® XE combinan acceso a Internet, seguridad integral y servicios inalámbricos (WAN inalámbrica LTE Advanced 3.0 y LAN inalámbrica 802.11ac) en un solo dispositivo de alto rendimiento. Los enrutadores son fáciles de implementar y administrar, con capacidades de plano de control y datos independientes de última generación, escalables y multinúcleo.
-                                    <br><br>Los ISR de la serie Cisco 1100 son adecuados para su implementación como equipos en las instalaciones del cliente (CPE) en sucursales empresariales y en entornos administrados por proveedores de servicios.
+                                <h3>Fiabilidad, seguridad y rendimiento</h3>
+                                <p align="justify">Obtenga acceso a Internet, seguridad avanzada y servicios inalámbricos en un solo dispositivo. Los routers de servicios integrados (ISR) de la serie 1000 de Cisco son enrutadores fijos de alto rendimiento que son fáciles de implementar y administrar. Pequeñas pero potentes, proporcionan conectividad de banda ancha, Metro Ethernet y LAN inalámbrica altamente seguras.
+                                    <br><br><strong>Los ruoters de servicios integrados (ISR) de la serie Cisco® 1000 con el software Cisco IOS® XE combinan acceso a Internet, seguridad integral y servicios inalámbricos (WAN inalámbrica LTE Advanced 3.0 y LAN inalámbrica 802.11ac) en un solo dispositivo de alto rendimiento. Los enrutadores son fáciles de implementar y administrar, con datos separados y capacidades de plano de control.</strong>
+                                    <br><br>Los ISR de la serie 1000 de Cisco son adecuados para su implementación como equipos en las instalaciones del cliente (CPE) en sucursales empresariales, en entornos administrados por proveedores de servicios, así como en casos de uso de factor de forma más pequeño y M2M.
                                 </p>
-                                
+
                             </div>
 
                             <div class="tab-pane" id="tab4">
                                 <h2>Características y Beneficios:</h2>
+                                <div class="row about-wrapper-bottom">
+                                    <div class="col-md-6 ts-padding about-message">
+                                        <center> <img class="img-responsive" src="images/iconos/Conectividad.png" alt=""></center>
+                                        <center><h3>Conectividad de próxima generación</h3></center>
+                                        <p>Obtenga mayor movilidad y opciones WAN y LAN de próxima generación. Acceda a Ethernet, DSL, LTE Advanced y Wi-Fi 802.11ac. La serie 1000 es ideal para su uso como equipo en las instalaciones del cliente.</p>
+                                    </div>
+                                    <div class="col-md-6 ts-padding about-message">
+                                        <center> <img class="img-responsive" src="images/iconos/Intelligence.png" alt=""></center>
+                                        <center><h3>Redes basadas en intenciones</h3></center>
+                                        <p>Administre y opere su WAN desde un solo tablero. Proporcione acceso directo a Internet de alta seguridad en la sucursal y optimice la experiencia del usuario con Cisco SD-WAN.</p>
+                                        <br>
+                                    </div>
+                                </div> 
+                                <div class="row about-wrapper-top">
+                                    <div class="col-md-6 ts-padding about-message">
+                                        <center> <img class="img-responsive" src="images/iconos/Firewall.png" alt=""></center>
+                                        <center><h3>Seguridad integrada de clase empresarial</h3></center>
+                                        <p>Obtenga seguridad de clase empresarial y una WAN de alta seguridad. Cisco Umbrella, Encrypted Traffic Analytics y la defensa avanzada contra amenazas proporcionan cifrado de alto rendimiento, VPN, firewall y filtrado de URL.</p>
+                                    </div><!--/ About message end -->
+                                    <div class="col-md-6 ts-padding about-message">
+                                        <center> <img class="img-responsive" src="images/iconos/Simplicity.png" alt=""></center>
+                                        <center><h3>Fácil gestión e implementación</h3></center>
+                                        <p>Utilice un sistema operativo para lograr coherencia y visibilidad en todas las sucursales y sitios remotos. La serie 1000 es el primer enrutador de configuración fija con el software IOS XE confiable de Cisco.</p>
+                                        <br>
+                                    </div>
+                                    <h3>Tabla 1: Principales características y beneficios comerciales</h3>
+
+                                    <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                        <tr>
+                                            <th>Necesidad de Negocios</th>
+                                            <th>Características / descripción</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Tamaño compacto y ligero con bajo consumo de energía</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Se puede implementar en muchos entornos diferentes donde el espacio, la disipación de calor y el bajo consumo de energía son factores críticos.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Alto rendimiento para ejecutar servicios concurrentes</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>El alto rendimiento permite a los clientes aprovechar las velocidades de la red de banda ancha mientras ejecutan servicios inalámbricos, de voz, de video y de datos simultáneos y seguros.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Alta disponibilidad y continuidad empresarial</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Conexiones WAN redundantes para protección contra fallas y balanceo de carga.</li>
+                                                    <li>Protocolos dinámicos de conmutación por error, como el Protocolo de redundancia de enrutador virtual (VRRP; RFC 2338), el Protocolo de enrutador en espera en caliente (HSRP) y el HSRP multigrupo (MHSRP).</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Niveles de rendimiento de aplicaciones altos y consistentes</td>
+                                            <td><ul class="listas">
+                                                    <li>El enrutador puede ejecutar varios servicios simultáneamente con una degradación mínima del rendimiento.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Mitigación de riesgos con seguridad multinivel</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Seguridad del perímetro de la red con firewall de inspección de aplicaciones integrado.</li>
+                                                    <li>Privacidad de los datos mediante el estándar de cifrado de datos triple (3DES) de seguridad IP de alta velocidad (IPsec) y el estándar de cifrado avanzado (AES).</li>
+                                                    <li>VPN de alto rendimiento: DMVPN, FlexVPN, GET VPN.</li>
+                                                    <li>Análisis de tráfico cifrado (ETA) para identificar las comunicaciones de malware en el tráfico cifrado mediante la supervisión pasiva, la extracción de elementos de datos relevantes y el aprendizaje automático supervisado con visibilidad global basada en la nube.</li>
+                                                    <li>Arquitectura de seguridad Cisco Umbrella ™ para proporcionar filtrado de contenido a través de la clasificación y el bloqueo de URL basados ​​en categorías, lo que ayuda a aumentar la productividad y proporciona un mejor uso de los recursos de la empresa.</li>
+                                                    <li>Política de seguridad reforzada con OpenDNS.</li>
+                                                    <li>Aceleración de hardware de seguridad.</li>
+                                                    <li>Sistemas confiables con matriz de puerta programable en campo (FPGA) y anclaje de hardware.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Control unificado de redes cableadas e inalámbricas desde una consola común para operaciones optimizadas</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Simplifica y centraliza la configuración y administración de dispositivos inalámbricos y alámbricos. Admite servicios WLAN sin necesidad de un controlador LAN inalámbrico.</li>
+                                                    <li>Admite Mobility Express para enrutadores habilitados para WLAN.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Configuración y administración remotas para mantener optimizado al personal de TI local</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Admite puertos USB / auxiliares y de consola independientes.</li>
+                                                    <li>Puede configurarse para funcionar con un token USB opcional.</li>
+                                                    <li>Soporta TR-069.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Rendimiento
+                                                <ul class="listas">
+                                                    <li><strong>Rendimiento</strong></li>
+                                                    <li><strong>Fiabilidad del servicio</strong></li>
+                                                </ul>
+                                            </td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>ISR 1100 puede proporcionar un rendimiento de tráfico cifrado superior a 350 Mbps.</li>
+                                                    <li>Una arquitectura multinúcleo distribuida con el plano de control y el plano de servicio dedicados.</li>
+                                                    <li>Instalación remota de servicios con reconocimiento de aplicaciones que se ejecutan de manera idéntica a sus contrapartes en dispositivos dedicados.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Gastos de WAN más bajos</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Compatibilidad con WAN definida por software de Cisco (SD-WAN) para una conexión WAN optimizada.</li>
+                                                    <li>El  factor de forma más pequeño y la tecnología Cisco Pluggable brindan una inversión de protección adicional y flexibilidad.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Pague a medida que crece: modelo de actualización de rendimiento de IPsec</td>
+                                            <td>
+                                                <ul>
+                                                    <li>La  capacidad de IPsec del enrutador se puede aumentar con una actualización remota de la licencia de rendimiento bajo demanda (sin actualización de hardware) para ahorros excepcionales y administración del presupuesto de CapEx.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Consolidación de TI, ahorro de espacio y mejor costo total de propiedad (TCO)</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>La  plataforma de sucursal convergente única integra capacidades de administración de enrutamiento, conmutación, seguridad y desempeño.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Continuidad empresarial y mayor resiliencia</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li> Toda la serie 1100 admite Power over Ethernet (PoE) y PoE + para terminales.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <h3>Tabla2: Soporte para WAN definida por software en ISR 1000</h3>
+                                    <p>Cisco SD-WAN ofrece una forma completamente nueva de administrar y operar su infraestructura WAN. Cisco SDWAN es una arquitectura en la nube que ofrece servicios seguros, flexibles y completos con los siguientes beneficios clave:</p>
+                                    <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                        <tr>
+                                            <th>Cisco SD-WAN</th>
+                                            <th>La capacidad de Cisco SD-WAN se puede habilitar en la plataforma ISR 1000</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Mejor experiencia de usuario</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>La capacidad de implementar aplicaciones en minutos, en cualquier plataforma, con una experiencia de usuario consistente. Ofrezca un rendimiento predecible para las aplicaciones que residen en el centro de datos o en la nube.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Mayor agilidad</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Implementación y operación más rápidas y sencillas de su WAN, y obtenga un rendimiento más rápido utilizando menos ancho de banda. Agregue nuevos servicios que generen ingresos en minutos, no en meses.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>                                        
+                                            <td>Protección avanzada contra amenazas</td>
+                                            <td>
+                                                <ul class="listas">
+                                                    <li>Conecte de forma segura a sus usuarios a las aplicaciones en minutos y proteja sus datos desde el perímetro de la WAN hasta la nube. Segmentación segura para activos críticos y seguridad robusta de múltiples capas que encripta todos los datos.</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <p>El software IOS XE SD-WAN permite pasos importantes hacia la red basada en intención para WAN, es decir</p>
+                                    <ul>
+                                        <li>Gestión centralizada y simplicidad operativa</li>
+                                        <li>Conectividad segura en la WAN híbrida</li>
+                                        <li>Acceso optimizado a SaaS y nube pública</li>
+                                        <li>Calidad de experiencia de aplicación predecible con automatización basada en políticas</li>
+                                    </ul>
+
+
+                                </div> 
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                     <tr>
@@ -190,7 +312,7 @@
                                         <td>Mitigación de riesgos con seguridad multinivel</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>Seguridad del perímetro de la red con firewall de inspección de aplicaciones integrado.</li>
+                                                <li>eguridad del perímetro de la red con firewall de inspección de aplicaciones integrado.</li>
                                                 <li>Privacidad de los datos mediante el estándar de cifrado de datos triple (3DES) de seguridad IP de alta velocidad (IPsec) y el estándar de cifrado avanzado (AES).</li>
                                                 <li>VPN de alto rendimiento: DMVPN, FlexVPN, GET VPN.</li>
                                                 <li>Análisis de tráfico cifrado (ETA) para identificar las comunicaciones de malware en el tráfico cifrado mediante la supervisión pasiva, la extracción de elementos de datos relevantes y el aprendizaje automático supervisado con visibilidad global basada en la nube.</li>
@@ -246,7 +368,7 @@
                                     <tr>                                        
                                         <td>Pague a medida que crece: modelo de actualización de rendimiento de IPsec</td>
                                         <td>
-                                            <ul class="listas">
+                                            <ul>
                                                 <li>La  capacidad de IPsec del enrutador se puede aumentar con una actualización remota de la licencia de rendimiento bajo demanda (sin actualización de hardware) para ahorros excepcionales y administración del presupuesto de CapEx.</li>
                                             </ul>
                                         </td>
@@ -520,8 +642,210 @@
                             <div class="tab-pane" id="tab2">
                                 <h3>Especificaciones técnicas:</h3>
                                 <h4>Cisco 1100 Series</h4>
-                                <br>
-                                <center> <img class="img-responsive" src="images/routers/E1100.png" alt=""></center>
+
+                               
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+    <!--                                <tr>
+                                        <th colspan="2" style="text-align: center">CGP- ONT-1P</th>
+                                    </tr>-->
+                                    <tr>
+                                        <th>Característica</th>
+                                        <th colspan="2">Especificación</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Memoria (predeterminada y máxima)</td>
+                                        <td>DRAM: 4 GB
+                                            <br>Solo los modelos C1111X-8P, C1121X-8P, C1126X, C1127X, C1161X tienen DRAM de 8 GB
+                                        </td>
+                                        <td>Flash: 4 GB
+                                            <br>Solo los modelos C1111X-8P, C1121X8P, C1126X, C1127X, C1161X tienen flash de 8GB
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Memoria predeterminada</td>
+                                        <td colspan="2">DRAM RP1 de 4 GB<br>DRAM RP2 de 8 GB</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Adaptadores de puerto compartido</td>
+                                        <td colspan="2">24 espacios de SPA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cisco ASR serie 1000 ESP</td>
+                                        <td colspan="2">2 ranura ESP</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Procesador de ruta</td>
+                                        <td colspan="2">2 ranura de procesador de ruta</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Número de tarjetas de línea SIP o Ethernet admitidas</td>
+                                        <td colspan="2">6</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Redundancia</td>
+                                        <td colspan="2">Hardware: si</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Puertos Gigabit Ethernet integrados</td>
+                                        <td colspan="2">0</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Puerto Ethernet de 10 Gigabit incorporado</td>
+                                        <td colspan="2">No</tr>
+                                    <tr>
+                                        <td>Módulo de interfaz de red</td>
+                                        <td colspan="2">No</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tarjeta secundaria integrada (IDC)</td>
+                                        <td colspan="2">No</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Flujo de aire</td>
+                                        <td colspan="2">Desde el frente hacia atras</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="3" style="text-align: center">Comparación y especificaciones del módulo del procesador</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Soporte ESP</td>
+                                        <td>ESP de 40 Gbps de la serie Cisco ASR 1000 (ASR1000-ESP40), ESP de 100 Gbps de la serie Cisco ASR 1000 (ASR1000-ESP100) y ESP de 200 Gbps de la serie Cisco ASR 1000 (ASR1000-ESP200)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ancho de banda ESP</td>
+                                        <td>40 a 200 Gbps</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Memoria ESP</td>
+                                        <td>ESP de 40 Gbps Cisco ASR serie 1000 (ASR1000-ESP40): DRAM de 8 GB
+                                            <br>ESP de 100 Gbps Cisco ASR serie 1000 (ASR1000-ESP100): DRAM de 16 GB
+                                            <br>ESP de 200 Gbps Cisco ASR serie 1000 de Cisco (ASR1000-ESP200): DRAM de 32 GB
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tarjetas de línea SIP y Ethernet</td>
+                                        <td>Admite la tarjeta portadora SIP de 40 Gbps de la serie Cisco ASR 1000 (ASR1000-SIP40) y la tarjeta de línea Ethernet fija ASR 1000; 2x10GE + 20X1GE (ASR1000-2T + 20X1GE); y 6x10GE (ASR1000-6TGE)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cifrado basado en hardware integrado</td>
+                                        <td>Sí: en Cisco ASR 1000 Series 40-Gbps ESP (ASR1000-ESP40) con hasta 11 Gbps y Cisco ASR 1000 Series 100-Gbps ESP (ASR1000-ESP100) con hasta 29-Gbps de rendimiento de soporte criptográfico y Cisco ASR 1000 Series ESP de 200 Gbps (ASR1000-ESP200) con un rendimiento de soporte de cifrado de hasta 78 Gbps</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Versión minima del software Cisco IOS XE</td>
+                                        <td>Cisco ASR 1000 Series 40-Gbps ESP (ASR1000-ESP40) requiere CiscoIOS XE Software Release 3.1.0S, ASR 1000 Series 100-Gbps ESP (ASR1000-ESP100) requiere Cisco IOS XE Software Release 3.7.0S y ASR 1000 Series 200- Gbps ESP (ASR1000-ESP200) requiere Cisco IOS XE Software Release 3.10.0S</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Montaje en bastidor</td>
+                                        <td>Sí: 19 pulgadas</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Montaje en pared</td>
+                                        <td>No</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Memoria flash USB externa</td>
+                                        <td>Soporte de memoria flash USB de 1 GB</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">requerimientos de energía</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Fuente de alimentación redundante</td>
+                                        <td>Sí: fuentes de alimentación cuádruples (pares redundantes) de forma predeterminada; opción de fuentes de alimentación de CA o CC
+                                            <br><strong>Nota: </strong>No se admite una combinación de una fuente de alimentación de CA y una de CC.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Entrada de alimentación</td>
+                                        <td>Rango mundial de CA (85 a 264 V; 120 o 240 V; 60 o 50 Hz nominal)<br>Rango mundial de CC (-40,5 a -72: -48 V nominal)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>El consumo de energía</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Máximo (CC): 4200 W</li>
+                                                <li>Máximo (CA): 4000 W</li>
+                                                <li>Máximo (salida): 3390 W</li>
+                                            </ul>
+                                            o
+                                            <ul class="listas">
+                                                <li>Máximo (CC): 2100 W</li>
+                                                <li>Máximo (AC- línea alta): 2000W</li>
+                                                <li>Máximo (salida): 1695W</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Flujo de aire</td>
+                                        <td>Desde el frente hacia atras</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Especificaciones ambientales</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura de funcionamiento (nominal)</td>
+                                        <td>41 a 104ºF (5 a 40ºC)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura de funcionamiento (a corto plazo)</td>
+                                        <td>23 a 131 ° F (-5 a 55 ° C)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Humedad de funcionamiento (nominal) (humedad relativa)</td>
+                                        <td>10 a 85%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Humedad de funcionamiento (a corto plazo)</td>
+                                        <td>5 al 90%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura de almacenamiento</td>
+                                        <td>-38 a 150 ° F (-39 a 70 ° C)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Humedad de almacenamiento (humedad relativa)</td>
+                                        <td>5 al 95%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Altitud operativa</td>
+                                        <td>-60 a 4000 m (hasta 2000 m cumple con los requisitos de IEC / EN / UL / CSA 60950)</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Cumplimiento normativo</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Estándares de construcción de equipos de red (NEBS)</td>
+                                        <td>GR-1089 y GR-63</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Estándares EMC</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>FCC 47 CFR Parte 15 Clase A</li>
+                                                <li>VCCI ClassA</li>
+                                                <li>AS / NSZ ClassA</li>
+                                                <li>ICES-003 Clase A</li>
+                                                <li>EN55022 / CISPR 22 Equipo de tecnología de la información (emisiones)</li>
+                                                <li>EN55024 / CISPR 24 Equipo de tecnología de la información (inmunidad)</li>
+                                                <li>EN300 386 Equipo de red de telecomunicaciones (EMC)</li>
+                                                <li>EN50082-1 ​​/ EN61000-6-1 Estándar de inmunidad genérico</li>
+                                                <li>KN22 ClaseA</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Estándar de seguridad</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>UL60950-1</li>
+                                                <li>CSA C22.2 No 60950-1-03</li>
+                                                <li>EN 60950-1</li>
+                                                <li>IEC 60950-1</li>
+                                                <li>AS / NZS 60950.1</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </table>
 
                             </div>
 
