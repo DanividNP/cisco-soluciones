@@ -242,10 +242,6 @@
                                         <th colspan="2" style="text-align: center">Conmutación de capa 2 </th>
                                         </tr>
                                         <tr>
-                                            <td>Tabla MAC </td>
-                                            <td>Hasta 8192 direcciones MAC</td>
-                                        </tr>
-                                        <tr>
                                             <td>Protocolo de árbol de expansión (STP) </td>
                                             <td><p align="jusfity">Soporte de árbol de expansión estándar 802.1d <br>
                                             Convergencia rápida mediante 802.1w (Protocolo de árbol de expansión rápida [RSTP]), habilitado de forma predeterminada <br>
@@ -731,13 +727,6 @@
                                             <td>Protocolo de descubrimiento de Cisco </td>
                                             <td>El conmutador se anuncia a sí mismo mediante el protocolo de descubrimiento de Cisco. También aprende el dispositivo conectado y sus 
                                                 características mediante el protocolo de descubrimiento de Cisco. </td>
-                                        </tr>
-                                        <tr>
-                                        <th colspan="2" style="text-align: center">Requerimientos mínimos </th>
-                                        </tr>
-                                        <tr>
-                                            <td>Configuración web </td>
-                                            <td>Navegador: Internet Explorer 8 o posterior; Mozilla Firefox 20 o posterior; Google Chrome 23 o posterior; Safari 5.1 o posterior</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Alimentación a través de Ethernet (PoE)</th>
