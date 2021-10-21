@@ -52,7 +52,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR1109.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1002.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR1109.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>

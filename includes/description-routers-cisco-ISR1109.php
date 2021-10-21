@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router de Servicios Integrados de Cisco 1101</h3>
+                <h3 class="title-border">Router de Servicios Integrados de Cisco 1109</h3>
                 <h5>Fiabilidad, Seguridad y Rendimiento</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 1101.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 1109.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -12,7 +12,7 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 1101 Series ISRs</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 1109 Series ISRs</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -21,34 +21,34 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1101 1-Port Router</strong></p>
+                                    <p align='justify'><strong>Cisco 1100 C1109-2PLTEVZ Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1101-4P<br>
-                                        <strong>Precio: $1,297.98</strong></p>
+                                    <p align='justify'>#C1109-2PLTEVZ<br>
+                                        <strong>Precio: $1,502.48</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1101 5-Port Router</strong></p>
+                                    <p align='justify'><strong>Cisco ISR 1109 M2M 2PORTS GE ENET AND LTE ATT AND TMOBILE</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1101-4PLTEP<br>
-                                        <strong>Precio: $1,388.17</strong></p>
+                                    <p align='justify'>#C1109-2PLTEUS<br>
+                                        <strong>Precio: $1,502.48</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1101 - 4 Network Port Router</strong></p>
+                                    <p align='justify'><strong>Cisco ISR 1109 2 SIM Cellular Modem/Wireless Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1101-4PLTEPWB<br>
-                                        <strong>Precio: $1,922.14</strong></p>
+                                    <p align='justify'>#C1109-4PLTE2P<br>
+                                        <strong>Precio: $1,703.48</strong></p>
                                 </div>
                             </div>
                         </div>
