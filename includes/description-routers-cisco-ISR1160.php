@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router de Servicios Integrados de Cisco 1109</h3>
-                <h5>Fiabilidad, Seguridad y Rendimiento</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 1109.png" alt=""></center>
+                <h3 class="title-border">Router de Servicios Integrados de Cisco 1160</h3>
+                <h5>Fiabilidad, seguridad y rendimiento</h5>
+                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 1160.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -12,7 +12,7 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 1109 Series ISRs</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 1160 Series ISRs</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -21,34 +21,23 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco 1100 C1109-2PLTEVZ Router</strong></p>
+                                    <p align='justify'><strong>Cisco C1161-8P Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1109-2PLTEVZ<br>
-                                        <strong>Precio: $1,502.48</strong></p>
+                                    <p align='justify'>#C1161-8P<br>
+                                        <strong>Precio: $2,204.98</strong></p>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1109 M2M 2PORTS GE ENET AND LTE ATT AND TMOBILE</strong></p>
+                                    <p align='justify'><strong>Cisco C1161-8PLTEP Cellular, Ethernet Modem/Wireless Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1109-2PLTEUS<br>
-                                        <strong>Precio: $1,502.48</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 1109 2 SIM Cellular Modem/Wireless Router</strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#C1109-4PLTE2P<br>
-                                        <strong>Precio: $1,703.48</strong></p>
+                                    <p align='justify'>#C1161-8PLTEP<br>
+                                        <strong>Precio: $2,425.98</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -735,7 +724,7 @@
                                         <td>Interfaces DSL</td>
                                         <td colspan="2"><strong>C1116 y C1117</strong>
                                             <ul class="listas">
-                                                <li>Dying gasp.</li>
+                                                <li>Jadeo agonizante.</li>
                                                 <li>ITU G.993.2 (VDSL2) y perfiles compatibles: 8a, 8b, 8c, 8d, 12a, 12b y 17a.</li>
                                                 <li>Vectorización VDSL2.</li>
                                                 <li>ADSL Anexo A y Anexo B ITU G. 992.1 (ADSL), G.992.3 (ADSL2) y G.992.5 (ADSL2 +).</li>

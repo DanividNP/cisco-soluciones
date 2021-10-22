@@ -3,16 +3,16 @@
         <div class="row">
             <div class="col-md-12 heading text-center">
                 <span class="icon-pentagon wow bounceIn"><i class="fa fa-server"></i></span>
-                <h2 class="title2">Routers de Servicios Integrados de la Serie Cisco 1000
-                    <span class="title-desc">Fiabilidad, seguridad y rendimiento</span>
+                <h2 class="title2">Routers de Servicios Integrados de la Serie Cisco 4000
+                    <span class="title-desc">Cree su sucursal digital</span>
                 </h2>
             </div>
         </div> <!-- Title row end -->
         <div class="row">
             <div class="tab-content">
-                <center><img class="img-responsive" src="images/routers/Cisco 1000 Series Integrated Services Routers.png" alt=""></center>
+                <center><img class="img-responsive" src="images/routers/Cisco 4000 Series Integrated Services Routers.png" alt=""></center>
                 <br><br><br>
-                <center><h3><strong>Por qué actualizar a los routers Cisco ISR de la serie 1000</strong></h3></center>
+                <center><h3><strong>Por qué actualizar a un routers de la serie ISR 4000</strong></h3></center>
                 <div class="row about-wrapper-bottom">
                     <div class="col-md-4 ts-padding">
                         <center> <img class="img-responsive" src="images/iconos/Arrow.png" alt=""></center>
@@ -31,7 +31,7 @@
                         <p>Cisco SD-WAN y Cisco DNA Center brindan administración centralizada para implementación y aprovisionamiento sin intervención.</p>
                         <br>
                     </div>
-                </div> 
+                </div>
             </div><!-- tab content -->
         </div><!-- Content row end -->
     </div><!-- Container end -->

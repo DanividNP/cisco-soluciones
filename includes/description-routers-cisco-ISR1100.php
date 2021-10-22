@@ -140,7 +140,7 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
                                 <h2>Descripción general:</h2>
-                                <p align="justify">Los routers de servicios integrados (ISR) de la serie Cisco® 1100 con el software Cisco IOS® XE combinan acceso a Internet, seguridad integral y servicios inalámbricos (WAN inalámbrica LTE Advanced 3.0 y LAN inalámbrica 802.11ac) en un solo dispositivo de alto rendimiento. Los enrutadores son fáciles de implementar y administrar, con capacidades de plano de control y datos independientes de última generación, escalables y multinúcleo.
+                                <p align="justify">Los routers de servicios integrados (ISR) de la serie Cisco® 1100 con el software Cisco IOS® XE combinan acceso a Internet, seguridad integral y servicios inalámbricos (WAN inalámbrica LTE Advanced 3.0 y LAN inalámbrica 802.11ac) en un solo dispositivo de alto rendimiento. Los routers son fáciles de implementar y administrar, con capacidades de plano de control y datos independientes de última generación, escalables y multinúcleo.
                                     <br><br>Los ISR de la serie Cisco 1100 son adecuados para su implementación como equipos en las instalaciones del cliente (CPE) en sucursales empresariales y en entornos administrados por proveedores de servicios.
                                 </p>
                                 
@@ -175,14 +175,14 @@
                                         <td>
                                             <ul class="listas">
                                                 <li>Conexiones WAN redundantes para protección contra fallas y balanceo de carga.</li>
-                                                <li>Protocolos dinámicos de conmutación por error, como el protocolo de redundancia de enrutador virtual (VRRP; RFC 2338), el protocolo de enrutador en espera en caliente (HSRP) y el HSRP multigrupo (MHSRP).</li>
+                                                <li>Protocolos dinámicos de conmutación por error, como el protocolo de redundancia de router virtual (VRRP; RFC 2338), el protocolo de router en espera en caliente (HSRP) y el HSRP multigrupo (MHSRP).</li>
                                             </ul>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Niveles de rendimiento de aplicaciones altos y consistentes</td>
                                         <td><ul class="listas">
-                                                <li>El enrutador puede ejecutar varios servicios simultáneamente con una degradación mínima del rendimiento.</li>
+                                                <li>El router puede ejecutar varios servicios simultáneamente con una degradación mínima del rendimiento.</li>
                                             </ul>
                                         </td>
                                     </tr>
@@ -206,7 +206,7 @@
                                         <td>
                                             <ul class="listas">
                                                 <li>Simplifica y centraliza la configuración y administración de dispositivos inalámbricos y alámbricos. Admite servicios WLAN sin necesidad de un controlador LAN inalámbrico.</li>
-                                                <li>Admite Mobility Express para enrutadores habilitados para WLAN.</li>
+                                                <li>Admite Mobility Express para routers habilitados para WLAN.</li>
                                             </ul>
                                         </td>
                                     </tr>
@@ -247,7 +247,7 @@
                                         <td>Pague a medida que crece: modelo de actualización de rendimiento de IPsec</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>La  capacidad de IPsec del enrutador se puede aumentar con una actualización remota de la licencia de rendimiento bajo demanda (sin actualización de hardware) para ahorros excepcionales y administración del presupuesto de CapEx.</li>
+                                                <li>La  capacidad de IPsec del router se puede aumentar con una actualización remota de la licencia de rendimiento bajo demanda (sin actualización de hardware) para ahorros excepcionales y administración del presupuesto de CapEx.</li>
                                             </ul>
                                         </td>
                                     </tr>
@@ -278,9 +278,9 @@
                                 <p align="justify">Cisco crea un nuevo paradigma para el perímetro WAN con los routers de servicios de agregación Cisco ASR serie 1000, que ofrecen resistencia crítica para el negocio con flexibilidad de servicios inteligentes para permitir que las empresas aceleren su potencial de crecimiento.</p>
                                 <h3>¿Qué es el router Cisco ASR serie 1000?</h3>
                                 <center> <img class="img-responsive" src="images/routers/ASR-1000-diagram.jpg" alt=""></center>
-                                <p aling="justify">El router Cisco ASR de la serie 1000, una parte fundamental de la arquitectura de red sin fronteras de Cisco, es el primer enrutador de servicios de agregación de la industria y el primer sistema dentro de la cartera de Cisco que utiliza el procesador Cisco QuantumFlow, un procesador creado para la prestación de servicios basados ​​en el borde (consulte a la Figura 1). Puede implementar los routers Cisco ASR serie 1000 en la empresa para proporcionar servicios de agregación de WAN seguros; servicios integrados de defensa y amenazas en el perímetro de Internet o WAN; router de interconexión del centro de datos (DCI); servicios gestionados de equipos en las instalaciones del cliente (CPE); o para ofrecer servicios de negocios o cuádruples residenciales complejos (datos, voz, video y móviles) desde el punto de vista del proveedor.</p>
+                                <p aling="justify">El router Cisco ASR de la serie 1000, una parte fundamental de la arquitectura de red sin fronteras de Cisco, es el primer router de servicios de agregación de la industria y el primer sistema dentro de la cartera de Cisco que utiliza el procesador Cisco QuantumFlow, un procesador creado para la prestación de servicios basados ​​en el borde (consulte a la Figura 1). Puede implementar los routers Cisco ASR serie 1000 en la empresa para proporcionar servicios de agregación de WAN seguros; servicios integrados de defensa y amenazas en el perímetro de Internet o WAN; router de interconexión del centro de datos (DCI); servicios gestionados de equipos en las instalaciones del cliente (CPE); o para ofrecer servicios de negocios o cuádruples residenciales complejos (datos, voz, video y móviles) desde el punto de vista del proveedor.</p>
                                 <h3>Procesador Cisco QuantumFlow: el procesador de red de próxima generación de Cisco</h3>
-                                <p aling="justify">Cumplir con los requisitos del borde del servicio de agregación requería una categoría completamente nueva de procesadores de red. Cisco ha desarrollado un innovador motor de enrutador llamado Cisco QuantumFlow Processor, que es el primer procesador de flujo totalmente integrado y programable de la industria. El procesador Cisco QuantumFlow combina procesamiento paralelo masivo, calidad de servicio (QoS) personalizada, administración de memoria avanzada y capacidad de programación de servicios integrados. Con estas capacidades, la serie Cisco ASR 1000 acelera la implementación del servicio y la velocidad de las funciones, lo que reduce el tiempo de implementación y calificación y reduce los gastos operativos (OpEx).</p>
+                                <p aling="justify">Cumplir con los requisitos del borde del servicio de agregación requería una categoría completamente nueva de procesadores de red. Cisco ha desarrollado un innovador motor de router llamado Cisco QuantumFlow Processor, que es el primer procesador de flujo totalmente integrado y programable de la industria. El procesador Cisco QuantumFlow combina procesamiento paralelo masivo, calidad de servicio (QoS) personalizada, administración de memoria avanzada y capacidad de programación de servicios integrados. Con estas capacidades, la serie Cisco ASR 1000 acelera la implementación del servicio y la velocidad de las funciones, lo que reduce el tiempo de implementación y calificación y reduce los gastos operativos (OpEx).</p>
                                 <h3>¿Qué problemas ayuda a resolver?</h3>
                                 <p>Las empresas de todo el mundo se enfrentan a varios desafíos nuevos de infraestructura WAN:</p>
                                 <ul>
@@ -294,13 +294,13 @@
                                 <p align="center">Cartera de enrutamiento WAN empresarial de Cisco</p>
                                 <center> <img class="img-responsive" src="images/routers/WAN-Routing-Portfolio.jpg" alt=""></center>
                                 <h3>Beneficios de los routers Cisco ASR de la serie 1000</h3>
-                                <p>Las empresas que implementan los enrutadores Cisco ASR de la serie 1000 pueden obtener los siguientes beneficios:</p>
+                                <p>Las empresas que implementan los routers Cisco ASR de la serie 1000 pueden obtener los siguientes beneficios:</p>
                                 <p><strong>Rendimiento muy alto en el borde de la WAN para admitir servicios WAN nuevos y más rápidos:</strong></p>
                                 <ul>
                                     <li>Aumento de más de veinte veces en el rendimiento y la capacidad del ancho de banda WAN en comparación con los routers Cisco de la serie 7200</li>
                                     <li>Nuevas funciones de conectividad segura y de colaboración habilitadas con Cisco WebEx® Node en Cisco ASR serie 1000 para la aceleración de reuniones web locales, Cisco Unified Border Element (UBE) Service Provider y Enterprise Editions para mejorar la telepresencia de empresa a empresa, alta definición ( HD) telefonía de voz y video, interconexión de red telefónica pública conmutada (PSTN) de voz sobre IP (VoIP) y conectividad segura mejorada y optimización de aplicaciones</li>
                                     <li>Facilitación de nuevas iniciativas WAN, como la segmentación de redes empresariales para grupos de trabajo, consolidación de centros de datos y aplicaciones convergentes de datos, voz y video.</li>
-                                    <li>Sencilla ruta de actualización porque el precio / rendimiento del enrutador Cisco ASR serie 1000 se ubica entre la serie Cisco 7200 en el extremo inferior de la cartera y la serie Cisco 7600 y la serie Cisco Catalyst® 6500 en el extremo superior.</li>
+                                    <li>Sencilla ruta de actualización porque el precio / rendimiento del router Cisco ASR serie 1000 se ubica entre la serie Cisco 7200 en el extremo inferior de la cartera y la serie Cisco 7600 y la serie Cisco Catalyst® 6500 en el extremo superior.</li>
                                 </ul>
                                 <p><strong>Disponibilidad de WAN incomparable para una prestación de servicios consistente y confiable en toda la WAN:</strong></p>
                                 <ul>
@@ -329,13 +329,13 @@
                                     <li>Costos operativos totales de WAN reducidos y optimizados a través del uso efectivo del ancho de banda y la consolidación de redes y dispositivos superpuestos, eficiencias energéticas e integración de servicios.</li>
                                     <li>Uso mejorado del ancho de banda con funciones de optimización WAN como el Protocolo de comunicación de caché web versión 2 (WCCPv2) y administración e instrumentación del tráfico (NetFlow completo escalable versión 9)</li>
                                     <li>Arquitectura de hardware y software innovadora para adaptarse fácilmente a los nuevos requisitos comerciales</li>
-                                    <li>Sofisticado diseño de hardware y software del sistema de enrutadores Cisco ASR serie 1000 para abordar el exceso de suscripción y proporcionar QoS escalable y flexible para un rendimiento de aplicaciones predecible</li>
+                                    <li>Sofisticado diseño de hardware y software del sistema de routers Cisco ASR serie 1000 para abordar el exceso de suscripción y proporcionar QoS escalable y flexible para un rendimiento de aplicaciones predecible</li>
                                 </ul>
                                 <h3>Componentes de la serie Cisco ASR 1000</h3>
                                 <p>Se utiliza una arquitectura de hardware y software común y componentes comunes en los routers Cisco ASR de la serie 1000. Los componentes primarios incluyen:</p>
                                 <ul>
                                     <li>Chasis: El chasis está disponible en cinco factores de forma diferentes y todos tienen capacidad para fuentes de alimentación dobles.</li>
-                                    <li>Procesador de ruta: el procesador de ruta ejecuta el plano de control del enrutador, incluido el procesamiento de paquetes de control de red, el cálculo de rutas y la configuración de la conexión.</li>
+                                    <li>Procesador de ruta: el procesador de ruta ejecuta el plano de control del router, incluido el procesamiento de paquetes de control de red, el cálculo de rutas y la configuración de la conexión.</li>
                                     <li>Procesador de servicios integrados (ESP): el ESP incluye el conjunto de chips del procesador de flujo Quantum de Cisco y proporciona funciones de reenvío, servicios y gestión del tráfico (QoS). Hay disponible una opción de módulo ESP redundante para los chasis 6RU y 13RU.</li>
                                     <li>Procesador de interfaz SPA (SIP): el SIP es la carcasa de los adaptadores de puerto compartido (SPA) del sistema, cada uno de los cuales puede admitir hasta 4 SPA de media altura, 2 SPA de doble altura o 1 SPA de doble altura y 2 SPA de altura única.</li>
                                 </ul>
@@ -377,7 +377,7 @@
                                         </td>
                                         <td>
                                             <ul class="listas">
-                                                <li>Reduce los gastos de capital (CapEx) y los gastos operativos (OpEx) al migrar y consolidar a menos enrutadores Cisco ASR de la serie 1000</li>
+                                                <li>Reduce los gastos de capital (CapEx) y los gastos operativos (OpEx) al migrar y consolidar a menos routers Cisco ASR de la serie 1000</li>
                                                 <li>Protege la inversión a través de una fácil transición a un soporte de cifrado mucho más alto, ofreciendo soporte de cifrado de hasta 78 Gbps con Cisco ASR 1000 Series ESP de 200 Gbps (ASR1000-ESP200)</li>
                                                 <li>Ofrece una administración más sencilla a través de servicios de seguridad integrados en el procesador Cisco QuantumFlow, sin necesidad de módulos de servicio o blades adicionales.</li>
                                                 <li>Optimizado para aplicaciones de multidifusión IP y QoS</li>
@@ -393,13 +393,13 @@
                                     </tr>
                                     <tr>                                        
                                         <td>Firewall de alta velocidad integrado:
-                                            <br>con el firewall de políticas basado en zonas, la serie Cisco ASR 1000 actúa como una barrera implícita y completa entre cualquier interfaz que no sea miembro de la misma zona. Se debe especificar una política explícita de pares de zonas (utilizando el lenguaje de políticas de Cisco; es decir, MQC) en cada dirección entre cada par de zonas. La política establece dentro del enrutador el tipo de inspección de estado (Capa 4, Capa 7 o aplicación) y los parámetros de sesión que se aplicarán a cada emparejamiento de zona.
+                                            <br>con el firewall de políticas basado en zonas, la serie Cisco ASR 1000 actúa como una barrera implícita y completa entre cualquier interfaz que no sea miembro de la misma zona. Se debe especificar una política explícita de pares de zonas (utilizando el lenguaje de políticas de Cisco; es decir, MQC) en cada dirección entre cada par de zonas. La política establece dentro del router el tipo de inspección de estado (Capa 4, Capa 7 o aplicación) y los parámetros de sesión que se aplicarán a cada emparejamiento de zona.
                                             <br>Ejemplo: Se necesitaría una política explícita que permita que HTTP y el Sistema de nombres de dominio (DNS) atraviesen el límite de la zona DMZ de Internet.
                                         </td>
                                         <td>
                                             <ul class="listas">
                                                 <li>El firewall está integrado en el procesador Cisco QuantumFlow; no se requieren módulos o blades de servicio adicionales</li>
-                                                <li>Se enrutan varios gigabits de ancho de banda mientras que, al mismo tiempo, el enrutador realiza un firewall de políticas basado en zonas y otras funciones básicas como QoS, IPv4, IPv6, NetFlow y otras</li>
+                                                <li>Se enrutan varios gigabits de ancho de banda mientras que, al mismo tiempo, el router realiza un firewall de políticas basado en zonas y otras funciones básicas como QoS, IPv4, IPv6, NetFlow y otras</li>
                                                 <li>La serie Cisco ASR 1000 proporciona el registro de todos los estados de sesión del firewall para aplicaciones de administración de red capaces de aceptar cantidades relativamente grandes de datos de flujo. Las aplicaciones de terceros pueden manejar los datos de la sesión</li>
                                             </ul>
                                         </td>

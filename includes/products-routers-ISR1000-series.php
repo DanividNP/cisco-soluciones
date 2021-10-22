@@ -74,7 +74,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR111X.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1002X.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR111X.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -96,7 +96,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR1111X.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1004.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR1111X.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -118,7 +118,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR1120.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1006.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR1120.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -140,7 +140,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR1160.jpg" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1013.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR1160.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
