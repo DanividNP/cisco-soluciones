@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco Business CBS250-24FP-4G </h3>
-                <h5>Switch inteligente PoE + Gigabit Ethernet de 24 puertos con 4 Gigabit SFP (presupuesto de energía de 370 W) </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s250-24fp.png" alt=""></center>
+                <h3 class="title-border">Cisco Business CBS250-48PP-4G </h3>
+                <h5>Switch inteligente PoE + Gigabit Ethernet de 48 puertos con 4 Gigabit SFP (presupuesto de energía de 195 W) </h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s250-48p.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Business CBS250-24FP-4G 24-Port PoE + Gigabit Ethernet Smart Switch with 4 x Gigabit SFP (370W Power Budget)</strong></p>
+                                    <p align='justify'><strong>Conmutador inteligente Cisco Business CBS250-48PP-4G de 48 puertos PoE + Gigabit Ethernet con 4 Gigabit SFP (presupuesto de energía de 195 W)</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CBS250-24FP-4G-NA <br>
-                                        <strong>Precio: $848.74</strong></p>
+                                    <p align='justify'>#CBS250-48PP-4G-NA <br>
+                                        <strong>Precio: $923.99 </strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -224,18 +224,18 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CBS250-24FP-4G</th>
+                                            <th colspan="2" style="text-align: center">CBS250-48PP-4G </th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
                                         </tr>
                                         <tr>
                                             <td width="35%">Capacidad en millones de paquetes por segundo (paquetes de 64 bytes) </td>
-                                            <td>41,66 mpps</td>
+                                            <td>77,38 mpps </td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación en gigabits por segundo</td>
-                                            <td>56,0 Gbps </td>
+                                            <td>104,0 Gbps</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Conmutación de capa 2 </th>
@@ -733,36 +733,36 @@
                                         </tr>
                                         <tr>
                                             <td>Energía dedicada a PoE </td>
-                                            <td>370W </td>
+                                            <td>195W </td>
                                         </tr>
                                         <tr>
                                             <td>Número de puertos que admiten PoE </td>
-                                            <td>24 </td>
+                                            <td>48 </td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía del sistema </td>
-                                            <td>110 V = 46,60 W <br>
-                                                220 V = 46,35 W</td>
+                                            <td>110 V = 68,68 W <br>
+                                                220 V = 67,18 W </td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía (con PoE) </td>
-                                            <td>110 V = 449,7 W<br> 
-                                                220 V = 438,3 W </td>
+                                            <td>110 V = 276,75 W <br>
+                                            220 V = 270,58 W</td>
                                         </tr>
                                         <tr>
                                             <td>Disipación de calor (BTU / h) </td>
-                                            <td>1,536.83 </td>
+                                            <td>944.31 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
                                         </tr>
                                         <tr>
                                             <td>Puertos totales del sistema </td>
-                                            <td>  	28 Gigabit Ethernet</td>
+                                            <td>52 Gigabit Ethernet </td>
                                         </tr>
                                         <tr>
                                             <td>Puertos RJ-45 </td>
-                                            <td>24 Gigabit Ethernet </td>
+                                            <td>48 Gigabit Ethernet </td>
                                         </tr>
                                         <tr>
                                             <td>Puertos combinados (RJ-45 + SFP) </td>
@@ -803,15 +803,15 @@
                                         </tr>
                                         <tr>
                                             <td>Paquetes de Bufer</td>
-                                            <td>1.5 MB </td>
+                                            <td> 3 MB </td>
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (An x Al x Pr) </td>
-                                            <td>445 x 345 x 44 mm <br>(17,5 x 13,59 x 1,73 pulgadas)</td>
+                                            <td>445 x 350 x 44 mm <br>(17,5 x 13,78 x 1,73 pulgadas) </td>
                                         </tr>
                                         <tr>
                                             <td>Unidad de peso </td>
-                                            <td>4,6 kg (10,14 libras) </td>
+                                            <td>5,43 kg (11,97 libras) </td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
@@ -846,11 +846,11 @@
                                         </tr>
                                         <tr>
                                             <td>Ruido acústico </td>
-                                            <td>25 ° C: 34,8 dBA</td>
+                                            <td> 25 ° C: 37,3 dBA</td>
                                         </tr>
                                         <tr>
                                             <td>MTBF @ 50 ° C (horas) </td>
-                                            <td>698,220 </td>
+                                            <td>1,206,349  </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>
