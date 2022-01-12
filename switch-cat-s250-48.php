@@ -18,7 +18,7 @@
         <?php include("includes/banner-cisco-switches.php") ?>
         <!--/ Slider end -->
   
-        <?php include("includes/description-switch-cat-s250-24t.php") ?>
+        <?php include("includes/description-switch-cat-s250-48.php") ?>
        
 <!--        <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->

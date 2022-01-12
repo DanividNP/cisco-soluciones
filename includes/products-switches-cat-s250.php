@@ -417,22 +417,22 @@
         <div class="row">
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h2 class="title">Gigabit de la serie 220 de Cisco</h2>
+                <h2 class="title">Gigabit de la serie 250 de Cisco</h2>
                         </div>
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                                 <figure class="effect-oscar">
                                     <img src="images/switches/SF250-48.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s250-8.php"><i class="fa fa-link"></i></a>                                     
+                                        <a class="link icon-pentagon" href="switch-cat-s250-48.php"><i class="fa fa-link"></i></a>                                     
                                     </figcaption>			
                                 </figure>
                                 <div class="portfolio-static-desc">
                                     
-                                    <h3 align="center">Cisco SG250-08 </h3><br>
+                                    <h3 align="center">Cisco SG250-48 </h3><br>
                                         <ul>
                                             <li>48 puertos 10/100</li>
-                                            <li>Combinación de 2 Gigabit de cobre / SFP + 2 puertos SFP</li> 
+                                            <li>2 Gigabit copper/SFP combo + 2 SFP ports</li> 
                                             <br>            
                                         </ul>
                                 </div>					

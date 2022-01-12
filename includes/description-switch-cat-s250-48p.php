@@ -20,7 +20,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Conmutador inteligente Cisco Business CBS250-48P-4G de 48 puertos PoE + Gigabit Ethernet con 4 Gigabit SFP (presupuesto de energía de 370 W) </strong></p>
+                                    <p align='justify'><strong>Cisco Business CBS250-48P-4G 48-Port PoE + Gigabit Ethernet Smart Switch with 4 Gigabit SFP (370W Power Budget)</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">

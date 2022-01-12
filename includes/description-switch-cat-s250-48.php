@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco Business CBS250-48PP-4G </h3>
-                <h5>Switch inteligente PoE + Gigabit Ethernet de 48 puertos con 4 Gigabit SFP (presupuesto de energía de 195 W) </h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s250-48p.png" alt=""></center>
+                <h3 class="title-border">Cisco SF250-48</h3>
+                <h5>48-Port 10/100 Smart Switch</h5>
+                <center> <img class="img-responsive" src="images/switches/cisco-SF250-48.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,12 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Business CBS250-48PP-4G 48-Port PoE + Gigabit Ethernet Smart Switch with 4 Gigabit SFP (195W Power Budget)</strong></p>
+                                    <p align='justify'><strong>Cisco SF250-48 48-Port 10/100 Smart Switch</strong></p>
+                                    <p align='justify'>48 10/100 ports, 2 Gigabit copper/SFP combo + 2 SFP ports</p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CBS250-48PP-4G-NA <br>
-                                        <strong>Precio: $923.99 </strong></p>
+                                    <p align='justify'>#SF250-48-K9-NA<br>
+                                        <strong>Precio: $638.19</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -36,7 +37,7 @@
                     <div class="widget widget-tab">
                         <ul class="nav nav-tabs">
                             <li class="active"><a href="#tab1" data-toggle="tab">Descripción</a></li>
-                            <li><a href="#tab4" data-toggle="tab">Beneficios</a></li>
+                            <li><a href="#tab4" data-toggle="tab">Características</a></li>
                             <li><a href="#tab2" data-toggle="tab">Especificaciones</a></li>
                             <li><a href="#tab3" data-toggle="tab">Documentación</a></li>
                         </ul>
@@ -45,140 +46,89 @@
                                 <h2>Descripción:</h2>
                                 <h4><strong>Cree una red empresarial confiable y fácil de usar a un precio asequible </strong></h4>
 
-                                <p align="justify">Desde la conectividad hasta las aplicaciones en la nube, las redes juegan un papel crucial en cada viaje empresarial. La 
-                                    confiabilidad, la seguridad y la asequibilidad continúan siendo lo más importante, mientras que la administración y las operaciones 
-                                    continuas agregan una complejidad adicional que requiere tiempo y recursos. </p>
+                                <p align="justify">En el mundo hiperconectado de hoy, el acceso confiable a los recursos de la red es fundamental para todas las empresas. Sin 
+                                    embargo, también debe invertir sabiamente para mantenerse competitivo, sabiendo cómo separar lo esencial de lo extraño y obtener el máximo 
+                                    valor por su dinero. Para invertir en infraestructura de red, es esencial construir una base sólida para su negocio, pero eso no significa 
+                                    que necesite el conjunto de funciones más avanzadas del mercado.</p>
 
-                                <p align="justify">Cisco Business es una cartera de puntos de acceso, conmutadores y enrutadores inalámbricos asequibles diseñados y fabricados 
-                                    para pequeñas empresas. Administrado a través de Cisco Business Dashboard y la aplicación móvil, el portafolio brinda una experiencia simple 
-                                    y confiable. Cisco Business Dashboard simplifica los desafíos tradicionales en la implementación y administración de redes comerciales al 
-                                    automatizar la implementación, el monitoreo y la administración del ciclo de vida de la red. </p>
+                                <p align="justify">Con los switches inteligentes de la serie 250 de Cisco, puede lograr un rendimiento y seguridad de red de clase empresarial 
+                                    sin pagar por funciones de administración de red avanzadas que no utilizará. Cuando necesita una solución confiable para compartir recursos 
+                                    en línea y conectar computadoras, teléfonos y puntos de acceso inalámbricos, pero el bajo costo es una prioridad principal, los switches 
+                                    inteligentes de la serie 250 de Cisco brindan la solución ideal.</p>
 
-                                <p align="justify">La serie Cisco Business 250 es la próxima generación de conmutadores inteligentes asequibles que combinan un rendimiento y una 
-                                    fiabilidad potentes con un conjunto completo de funciones que necesita para una red empresarial sólida. Estos conmutadores brindan opciones 
-                                    de administración flexibles, capacidades de seguridad integrales y características de enrutamiento estático de capa 3 que van mucho más allá 
-                                    de las de un conmutador no administrado o de nivel de consumidor, a un costo menor que para los conmutadores completamente administrados. 
-                                    Cuando necesite una solución confiable para compartir recursos en línea y conectar computadoras, teléfonos y puntos de acceso inalámbricos, 
-                                    los conmutadores inteligentes Cisco Business 250 Series brindan la solución ideal a un precio asequible. </p>
+                                <h4><strong>Conmutadores de la serie Cisco 250 </strong></h4>
 
-                            
-
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".2s">
-                                                <div class="service-content text-center">
-                                                <a><img src="images/iconos/Flexibility.png" alt=""></a>
-                                                    <h3>Flexibilidad  </h3>
-                                                    <p>Obtenga de 8 a 48 puertos de conectividad Gigabit Ethernet, enlaces ascendentes GE o 10-GE y compatibilidad con PoE +.</p>
-                                                </div>
-                                            </div><!--/ End first service -->
-
-                                            <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".5s" >
-                                                <div class="service-content text-center">
-                                                <a><img src="images/iconos/Simplicity.png" alt=""></a>
-                                                    <h3>Sencillez </h3>
-                                                    <p>Plug and play con dispositivos de red conectados, de datos, inalámbricos, de voz y de video existentes. </p>
-                                                </div>
-                                                
-                                            </div><!--/ End Second service -->
-
-                                            <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".8s">
-                                                <div class="service-content text-center">
-                                                <a><img src="images/iconos/Performance.png"></a> 
-                                                    <h3>Rendimiento </h3>
-                                                    <p>Proporcione conectividad de fibra adicional para un mayor ancho de banda de enlace ascendente y opciones expandidas 
-                                                        con más presupuesto de energía PoE. </p>
-                                                </div>
-                                            </div><!--/ End Third service -->
-
-                                            <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.1s">
-                                                <div class="service-content text-center">
-                                                <a><img src="images/iconos/Security.png"></a>
-                                                    <h3>Seguridad</h3>
-                                                    <p>La seguridad integrada ayuda a prevenir el acceso no autorizado y protege sus datos comerciales.</p>
-                                                </div>
-                                            </div><!--/ End 4th service -->
-                                        </div>
-                                    </div><!-- Content 1st row end -->
-
-                                <center><img class="img-responsive" src="images/switches/250-Series-Smart-Switches.png" alt=""></center>
-                                
+                                <p align="justify">La serie Cisco 250 es la próxima generación de conmutadores inteligentes asequibles que combinan un potente rendimiento y 
+                                    confiabilidad de la red con las características esenciales de administración de red que necesita para una red empresarial sólida. Estos 
+                                    conmutadores Fast Ethernet o Gigabit Ethernet ampliables brindan funciones básicas de administración, seguridad y calidad de servicio (QoS) 
+                                    más allá de las de un conmutador no administrado o de nivel de consumidor, a un costo menor que los conmutadores administrados. Y con una 
+                                    interfaz de usuario web fácil de usar, Auto Smartports y capacidad flexible Power over Ethernet (PoE) Plus, puede implementar y configurar 
+                                    una red empresarial completa en minutos. </p>
 
                                 <h4><strong>Aplicaciones de negocios </strong></h4>
 
-                                <p align="justify">Ya sea que necesite conectividad básica de alta velocidad para sus computadoras y servidores o una solución 
-                                    integral de voz, datos y tecnología inalámbrica, los switches Cisco Business de la serie 250 pueden satisfacer sus necesidades 
-                                    comerciales. Los posibles escenarios de implementación incluyen: </p>
+                                <p align="justify">Ya sea que necesite conectividad básica de alta velocidad para sus computadoras y servidores o una solución integral de 
+                                    tecnología inalámbrica, de voz y de datos, los switches Cisco de la serie 250 pueden satisfacer sus necesidades comerciales. Los posibles 
+                                    escenarios de implementación incluyen:</p>
 
-                                    <ul>
-                                        <li><strong>Conectividad de escritorio de alta velocidad: </strong><p align="justify">los switches Cisco Business de la serie 
-                                            250 pueden conectar de forma rápida y segura a los empleados que trabajan en oficinas pequeñas entre sí y con todas las 
-                                            impresoras, servidores y otros dispositivos de red. El alto rendimiento y la conectividad confiable ayudan a acelerar 
-                                            las transferencias de archivos y el procesamiento de datos, mejoran el tiempo de actividad de la red y mantienen la 
-                                            productividad de sus empleados. </p></li>
-                                        <li><strong>Conectividad inalámbrica flexible: </strong><p align="justify">los switches Cisco Business 250 Series funcionan 
-                                            con soluciones inalámbricas de Cisco y de terceros para ampliar el alcance de su red. Con funciones de seguridad, Power 
-                                            over Ethernet Plus (PoE +), Red de área local virtual (VLAN) y QoS, estos conmutadores son la base perfecta para agregar 
-                                            soluciones inalámbricas de nivel empresarial a una red. La capacidad de hasta 30 W de potencia por puerto proporcionada 
-                                            a través del cable Ethernet significa que puede implementar fácilmente puntos de acceso inalámbricos empresariales de Cisco 
-                                            para maximizar la productividad de la fuerza laboral. </p></li>
-                                        <li><strong>Comunicaciones unificadas: </strong><p align="justify">Cisco Business 250 Series proporciona funciones de QoS para 
-                                            permitirle priorizar el tráfico sensible a retrasos en su red y permitirle converger todas sus soluciones de comunicaciones, 
-                                            como telefonía IP y videovigilancia, en una sola red Ethernet. Cisco ofrece una cartera completa de telefonía IP y otros 
-                                            productos de comunicaciones unificadas diseñados para pequeñas empresas, y los switches Cisco de la serie 250 se han 
-                                            probado rigurosamente para ayudar a garantizar una integración sencilla y una compatibilidad total con estos y otros 
-                                            productos de proveedores. </p></li>
-                                    </ul><br>
+                                    <lu>
+                                        <li><strong>Conectividad de escritorio de alta velocidad: </strong><p align="justify">los switches Cisco de la serie 250 pueden conectar de forma rápida 
+                                        y segura a los empleados que trabajan en oficinas pequeñas entre sí y con todas las impresoras, servidores y otros dispositivos que 
+                                        utilizan. El alto rendimiento y la conectividad confiable ayudan a acelerar las transferencias de archivos y el procesamiento de datos, 
+                                        mejoran el tiempo de actividad de la red y mantienen la productividad de sus empleados.</p></li>
+                                        <li align="justify"><strong>Conectividad inalámbrica flexible: </strong><p align="justify">los switches Cisco de la serie 250 funcionan con soluciones inalámbricas de Cisco 
+                                        y de terceros para ampliar el alcance de su red. Con funciones de seguridad, alimentación a través de Ethernet (PoE), VLAN y QoS, estos 
+                                        conmutadores son la base perfecta para agregar tecnología inalámbrica de nivel empresarial a una red. La capacidad de hasta 30 W de 
+                                        potencia por puerto proporcionada a través del cable Ethernet significa que puede implementar fácilmente la innovadora tecnología 
+                                        inalámbrica 802.11ac para maximizar la productividad de la fuerza laboral.</p></li>
+                                        <li align="justify"><strong>Comunicaciones unificadas: </strong> <p align="justify">la serie 250 de Cisco proporciona funciones de QoS que le permiten priorizar el tráfico 
+                                        sensible a demoras en su red y permitirle converger todas sus soluciones de comunicaciones, como telefonía IP y videovigilancia, en una 
+                                        única red Ethernet. Cisco ofrece una cartera completa de telefonía IP y otros productos de comunicaciones unificadas diseñados para pequeñas 
+                                        empresas, y los switches de la serie 250 de Cisco han sido rigurosamente probados para ayudar a garantizar una fácil integración y compatibilidad 
+                                        total con estos y otros productos de proveedores. </p></li>
+                                    </lu>
+                                </p>
 
-                                    <img align="left" class="img-responsive" src="images/switches/Cisco-Business-Dashboard.png" alt=""><h4><strong>
-                                    Panel de control empresarial de Cisco. </strong></h4>
-                                    <p align="justify">Cisco Business Dashboard facilita la administración de una red comercial al automatizar la implementación, el 
-                                        monitoreo y la administración del ciclo de vida de los conmutadores, enrutadores y puntos de acceso inalámbricos de Cisco 
-                                        Business. </p><br>
-
-                                        <center><img class="img-responsive" src="images/switches/Cisco-Business-Dashboard-Mobile.png" alt=""></center>
+                            
 
                             </div>
 
                             <div class="tab-pane" id="tab4">
                                 <h2>Características y Beneficios: </h2>
 
-                                <p align="justify">Los conmutadores inteligentes Cisco Business 250 Series ofrecen todas las funciones que necesita para crear 
-                                    una red básica de clase empresarial a un precio asequible. Estas características incluyen: </p>
+                                <p align="justify">Los switches inteligentes de la serie 250 de Cisco brindan todas las funciones que necesita para crear una red básica de clase empresarial 
+                                    a un precio asequible. Estas características incluyen: </p>
 
                                     <h4><strong>Fácil configuración y gestión </strong></h4>  
-                                        <p align="justify">Los switches Cisco Business de la serie 250 están diseñados para que las pequeñas empresas o los 
-                                            socios que les brinden servicios sean fáciles de implementar y usar</p> 
+                                        <p align="justify">Los switches Cisco de la serie 250 están diseñados para que las pequeñas empresas o los socios que los atienden puedan implementarlos 
+                                            y usarlos con facilidad:</p> 
 
                                             <ul>
-                                                <li><p align="justify">Cisco Business Dashboard está diseñado para administrar conmutadores, enrutadores y puntos de acceso 
-                                                    inalámbricos Cisco Business. Le permite personalizar fácilmente la interfaz y los widgets para administrar 
-                                                    su red de manera proactiva. Los switches Cisco Business 250 Series admiten la sonda integrada para Cisco 
-                                                    Business Dashboard, lo que elimina la necesidad de configurar un hardware o una máquina virtual independientes 
-                                                    en el sitio.</p></li>
-                                                <li><p align="justify">La solución Cisco Network Plug and Play proporciona una oferta simple, segura, unificada 
-                                                    e integrada para facilitar la implementación de nuevos dispositivos o para aprovisionar actualizaciones a una 
-                                                    red existente. La solución proporciona un enfoque unificado para aprovisionar enrutadores, conmutadores y dispositivos 
-                                                    inalámbricos Cisco con una experiencia de implementación casi nula. </p></li>
-                                                <li><p align="justify">Las interfaces de usuario web modernas rediseñadas reducen el tiempo necesario para implementar, 
-                                                    solucionar problemas y administrar la red. Los asistentes de configuración simplifican las tareas de configuración 
-                                                    más comunes y proporcionan la herramienta definitiva para que cualquiera pueda configurar y administrar la red. </p></li>
+                                                <li><p align="justify">Las interfaces gráficas de usuario de modo simple y avanzado reducen el tiempo necesario para implementar, solucionar 
+                                                    problemas y administrar la red. Los asistentes de configuración simplifican las tareas de configuración más comunes y brindan la mejor 
+                                                    herramienta para que cualquiera pueda configurar y administrar la red. </p></li>
+                                                <li><p align="justify">El puerto USB en el panel frontal del conmutador permite una fácil transferencia de imágenes y configuraciones para 
+                                                    una implementación o actualización más rápida. </p></li>
+                                                <li><p align="justify">La tecnología Cisco Smartports proporciona capacidades más avanzadas y control práctico mediante la configuración 
+                                                    automática de puertos con niveles específicos de seguridad, QoS y disponibilidad según el tipo de dispositivo conectado, según las 
+                                                    mejores prácticas de Cisco y configuraciones probadas previamente. La función Auto Smartports aplica automáticamente la inteligencia 
+                                                    entregada a través de los roles de Smartports al puerto en función de los tipos de dispositivos descubiertos a través de Cisco Discovery 
+                                                    Protocol o LLDP-MED. Esta capacidad facilita las implementaciones sin contacto. </p></li>
+                                                <li><p align="justify">Multiple Spanning Tree Protocol (MSTP) proporciona una configuración simple para aprovechar al máximo las rutas 
+                                                    redundantes en la red y maximizar el rendimiento de la red.</p></li>
+                                                <li><p align="justify">La utilidad Cisco FindIT Network Discovery funciona a través de una barra de herramientas simple en el navegador web 
+                                                    del usuario para descubrir dispositivos Cisco en la red y mostrar información básica del dispositivo, inventario y nuevas actualizaciones 
+                                                    de firmware para ayudar en la configuración y acelerar la implementación de los productos Cisco Small Business. </p></li>
                                             </ul>
                                     
-                                    <h4><strong>Fiabilidad y rendimiento </strong></h4>  
-                                        <p align="justify">Los switches Cisco Business 250 Series han sido probados para ofrecer el alto rendimiento y la 
-                                            confiabilidad que esperaría de un switch Cisco y ayudarlo a evitar costosos tiempos de inactividad. Los conmutadores 
-                                            aceleran los tiempos de transferencia de archivos, mejoran las redes lentas y lentas, mantienen disponibles sus 
-                                            aplicaciones comerciales vitales y ayudan a sus empleados a responder más rápidamente a los clientes y entre ellos.
-                                             Con una red basada en switches Cisco Business 250 Series, puede abordar todas sus necesidades de conectividad y 
-                                             comunicaciones comerciales y reducir el costo total de propiedad de su infraestructura tecnológica. Los switches 
-                                             Cisco Business de la serie 250 también admiten enlaces ascendentes de 10 Gigabit Ethernet en modelos seleccionados, 
-                                             por lo que puede crear una red de alto rendimiento preparada para el futuro que respalde su próspera empresa.  </p> 
+                                    <h4><strong>Rendimiento y confiabilidad </strong></h4>  
+                                        <p align="justify">Los switches de la serie 250 de Cisco han sido probados para brindar la alta disponibilidad y el rendimiento que esperaría de un 
+                                            switch de Cisco y ayudarlo a evitar costosos tiempos de inactividad. Los conmutadores aceleran los tiempos de transferencia de archivos, mejoran 
+                                            las redes lentas y lentas, mantienen disponibles sus aplicaciones comerciales vitales y ayudan a sus empleados a responder más rápidamente a los 
+                                            clientes y entre ellos. Con una red basada en switches Cisco de la serie 250, puede abordar todas las necesidades de conectividad y comunicaciones 
+                                            de su empresa y reducir el costo total de propiedad de su infraestructura tecnológica.</p> 
 
-                                    <h4><strong>Enrutamiento estático de capa 3 </strong></h4>  
-                                        <p align="justify">Esta capacidad le permite segmentar su red en grupos de trabajo separados y comunicarse a través de VLAN 
-                                            sin degradar el rendimiento de la aplicación. Como resultado, puede administrar el enrutamiento interno con sus conmutadores 
-                                            y dedicar su enrutador al tráfico externo y la seguridad, lo que ayuda a que su red funcione de manera más eficiente. </p> 
+    
 
                                     <h4><strong>Alimentación a través de Ethernet (PoE) </strong></h4>  
                                         <p align="justify">Los conmutadores Cisco Business 250 Series están disponibles con PoE + en modelos Gigabit Ethernet. Esta capacidad 
@@ -224,18 +174,18 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CBS250-48PP-4G </th>
+                                            <th colspan="2" style="text-align: center">CBS250-8FP-E-2G </th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
                                         </tr>
                                         <tr>
                                             <td width="35%">Capacidad en millones de paquetes por segundo (paquetes de 64 bytes) </td>
-                                            <td>77,38 mpps </td>
+                                            <td>14,88 mpps </td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación en gigabits por segundo</td>
-                                            <td>104,0 Gbps</td>
+                                            <td>20,0 Gbps </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Conmutación de capa 2 </th>
@@ -728,45 +678,44 @@
                                                 características mediante el protocolo de descubrimiento de Cisco. </td>
                                         </tr>
                                         <tr>
-                                        <tr>
                                         <th colspan="2" style="text-align: center">Alimentación a través de Ethernet (PoE)</th>
                                         </tr>
                                         <tr>
                                             <td>Energía dedicada a PoE </td>
-                                            <td>195W </td>
+                                            <td>120W </td>
                                         </tr>
                                         <tr>
                                             <td>Número de puertos que admiten PoE </td>
-                                            <td>48 </td>
+                                            <td> 8 </td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía del sistema </td>
-                                            <td>110 V = 68,68 W <br>
-                                                220 V = 67,18 W </td>
+                                            <td>110 V = 17,07 W <br>
+                                                220 V = 16.68 W </td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía (con PoE) </td>
-                                            <td>110 V = 276,75 W <br>
-                                            220 V = 270,58 W</td>
+                                            <td>110 V = 147,48 W <br>
+                                                220 V = 145,26 W </td>
                                         </tr>
                                         <tr>
                                             <td>Disipación de calor (BTU / h) </td>
-                                            <td>944.31 </td>
+                                            <td>503.22 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
                                         </tr>
                                         <tr>
                                             <td>Puertos totales del sistema </td>
-                                            <td>52 Gigabit Ethernet </td>
+                                            <td> 	10 Gigabit Ethernet </td>
                                         </tr>
                                         <tr>
                                             <td>Puertos RJ-45 </td>
-                                            <td>48 Gigabit Ethernet </td>
+                                            <td>8 Gigabit Ethernet </td>
                                         </tr>
                                         <tr>
                                             <td>Puertos combinados (RJ-45 + SFP) </td>
-                                            <td>4 SFP </td>
+                                            <td>Combinación de 2 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puerto de consola </td>
@@ -803,15 +752,15 @@
                                         </tr>
                                         <tr>
                                             <td>Paquetes de Bufer</td>
-                                            <td> 3 MB </td>
+                                            <td>1.5 MB </td>
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (An x Al x Pr) </td>
-                                            <td>445 x 350 x 44 mm <br>(17,5 x 13,78 x 1,73 pulgadas) </td>
+                                            <td>268 x 185 x 44 mm <br>(10,56 x 7,28 x 1,73 pulgadas)</td>
                                         </tr>
                                         <tr>
                                             <td>Unidad de peso </td>
-                                            <td>5,43 kg (11,97 libras) </td>
+                                            <td>1,53 kg (3,37 libras) </td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
@@ -842,15 +791,15 @@
                                         </tr>
                                         <tr>
                                             <td>ventilador</td>
-                                            <td> 1</td>
+                                            <td>Sin ventilador  </td>
                                         </tr>
                                         <tr>
                                             <td>Ruido acústico </td>
-                                            <td> 25 ° C: 37,3 dBA</td>
+                                            <td>N / A </td>
                                         </tr>
                                         <tr>
                                             <td>MTBF @ 50 ° C (horas) </td>
-                                            <td>1,206,349  </td>
+                                            <td>1,706,649 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>
