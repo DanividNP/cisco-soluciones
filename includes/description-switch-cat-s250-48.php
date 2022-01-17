@@ -569,12 +569,12 @@
                                         </tr>
                                         <tr>
                                             <td>Detección de energía  </td>
-                                            <td>Apaga automáticamente la energía en el puerto RJ-45 cuando detecta un enlace caído. El modo activo se reanuda sin pérdida de ningún paquete cuando 
-                                                el conmutador detecta que el enlace está activo </td>
+                                            <td>Apaga automáticamente el puerto RJ-45 cuando detecta un enlace caído. El modo activo se reanuda sin pérdida de 
+                                                ningún paquete cuando el conmutador detecta que el enlace está activo.  </td>
                                         </tr>
                                         <tr>
                                             <td>Detección de longitud de cable </td>
-                                            <td>Ajusta la intensidad de la señal según la longitud del cable. Reduce el consumo de energía para cables más cortos </td>
+                                            <td>Ajusta la intensidad de la señal en función de la longitud del cable. Reduce el consumo de energía para cables más cortos.</td>
                                         </tr>
                                         <tr>
                                             <td>Compatible con EEE (802.3az) </td>
@@ -582,22 +582,14 @@
                                         </tr>
                                         <tr>
                                             <td>Deshabilitar los LED del puerto  </td>
-                                            <td>Los LED se pueden apagar manualmente para ahorrar energía  </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Operación del puerto basada en el tiempo  </td>
-                                            <td>Enlace hacia arriba o hacia abajo según la programación definida por el usuario (cuando el puerto está administrativamente activo) </td>
-                                        </tr>
-                                        <tr>
-                                            <td>PoE basado en tiempo </td>
-                                            <td>La alimentación PoE puede estar encendida o apagada según el horario definido por el usuario para ahorrar energía </td>
+                                            <td>Los LED se pueden apagar manualmente para ahorrar energía.</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">General </th>
                                         </tr>
                                         <tr>
                                             <td>Tramas gigantes </td>
-                                            <td>Tamaños de trama de hasta 9K bytes. La MTU predeterminada es de 2 K bytes </td>
+                                            <td>Tamaños de trama de hasta 9K bytes. La MTU predeterminada es de 2K bytes. </td>
                                         </tr>
                                         <tr>
                                             <td>Tabla MAC </td>
@@ -608,66 +600,45 @@
                                         </tr>
                                         <tr>
                                             <td>Bonjour</td>
-                                            <td>El conmutador se anuncia a sí mismo mediante el protocolo Bonjour. </td>
+                                            <td>El conmutador se anuncia mediante el protocolo Bonjour. </td>
                                         </tr>
                                         <tr>
-                                            <td>Protocolo de descubrimiento de capa de enlace (LLDP) (802.1ab) con extensiones LLDP-MED </td>
-                                            <td>Link Layer Discovery Protocol (LLDP) permite que el switch anuncie su identificación, configuración y capacidades a los dispositivos 
-                                                vecinos que almacenan los datos en una MIB. LLDP-MED es una mejora de LLDP que agrega las extensiones necesarias para los teléfonos IP  </td>
+                                            <td>LLDP (802.1ab) con extensiones LLDP-MED </td>
+                                            <td>El Protocolo de descubrimiento de capa de enlace (LLDP) permite que el conmutador anuncie su identificación, configuración y 
+                                                capacidades a los dispositivos vecinos que almacenan los datos en una MIB. LLDP-MED es una mejora de LLDP que agrega las 
+                                                extensiones necesarias para los teléfonos IP. </td>
                                         </tr>
                                         <tr>
-                                            <td>Protocolo de descubrimiento de Cisco </td>
-                                            <td>El conmutador se anuncia a sí mismo mediante el protocolo de descubrimiento de Cisco. También aprende el dispositivo conectado y sus 
-                                                características mediante el protocolo de descubrimiento de Cisco. </td>
+                                            <td>Protocolo de descubrimiento de Cisco (CDP)  </td>
+                                            <td>El conmutador se anuncia a sí mismo utilizando el Protocolo de descubrimiento de Cisco. También aprende el dispositivo conectado 
+                                                y sus características usando Cisco Discovery Protocol. </td>
                                         </tr>
                                         <tr>
-                                        <th colspan="2" style="text-align: center">Alimentación a través de Ethernet (PoE)</th>
+                                            <td>Auto Smartports </td>
+                                            <td>Aplica automáticamente la inteligencia entregada a través de los roles de Smartports al puerto en función de los dispositivos 
+                                                descubiertos a través de Cisco Discovery Protocol o LLDP-MED. Esta capacidad facilita las implementaciones sin contacto. </td>
                                         </tr>
                                         <tr>
-                                            <td>Energía dedicada a PoE </td>
-                                            <td>120W </td>
+                                        <th colspan="2" style="text-align: center">Puertos </th>
                                         </tr>
                                         <tr>
-                                            <td>Número de puertos que admiten PoE </td>
-                                            <td> 8 </td>
+                                            <td> 	Puertos totales del sistema  </td>
+                                            <td>48 Ethernet rápido + 2 Gigabit Ethernet </td>
                                         </tr>
                                         <tr>
-                                            <td>Consumo de energía del sistema </td>
-                                            <td>110 V = 17,07 W <br>
-                                                220 V = 16.68 W </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Consumo de energía (con PoE) </td>
-                                            <td>110 V = 147,48 W <br>
-                                                220 V = 145,26 W </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Disipación de calor (BTU / h) </td>
-                                            <td>503.22 </td>
-                                        </tr>
-                                        <tr>
-                                        <th colspan="2" style="text-align: center">Hardware</th>
-                                        </tr>
-                                        <tr>
-                                            <td>Puertos totales del sistema </td>
-                                            <td> 	10 Gigabit Ethernet </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Puertos RJ-45 </td>
-                                            <td>8 Gigabit Ethernet </td>
+                                            <td>Puertos RJ-45  </td>
+                                            <td>48 Fast Ethernet  </td>
                                         </tr>
                                         <tr>
                                             <td>Puertos combinados (RJ-45 + SFP) </td>
-                                            <td>Combinación de 2 Gigabit Ethernet</td>
+                                            <td>Combinación de 2 Gigabit Ethernet + 2 SFP </td>
                                         </tr>
                                         <tr>
-                                            <td>Puerto de consola </td>
-                                            <td> Puerto de consola mini USB tipo B / RJ45 estándar de Cisco *<br>
-                                                * No disponible en CBS250-8T-D y CBS250-8PP-D </td>
+                                        <th colspan="2" style="text-align: center">Especificaciones del producto </th>
                                         </tr>
                                         <tr>
                                             <td>Puerto USB </td>
-                                            <td>Ranura USB tipo A en el panel frontal del conmutador para una fácil gestión de archivos e imágenes </td>
+                                            <td>USB tipo Ranura </td>
                                         </tr>
                                         <tr>
                                             <td>Botones</td>
@@ -675,7 +646,7 @@
                                         </tr>
                                         <tr>
                                             <td>Tipo de cableado </td>
-                                            <td> 	Par trenzado sin blindaje (UTP) Categoría 5e o mejor para 1000BASE-T</td>
+                                            <td>Par trenzado sin blindaje (UTP) Categoría 5 o superior para 10BASE-T/100BASE-TX; UTP Categoría 5e o mejor para 1000BASE-T </td>
                                         </tr>
                                         <tr>
                                             <td>LEDs </td>
@@ -694,39 +665,36 @@
                                             <td>512 MB</td>
                                         </tr>
                                         <tr>
-                                            <td>Paquetes de Bufer</td>
-                                            <td>1.5 MB </td>
+                                            <td>Memoria de la CPU</td>
+                                            <td>512 MB </td>
                                         </tr>
                                         <tr>
-                                            <td>Dimensiones (An x Al x Pr) </td>
-                                            <td>268 x 185 x 44 mm <br>(10,56 x 7,28 x 1,73 pulgadas)</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Unidad de peso </td>
-                                            <td>1,53 kg (3,37 libras) </td>
+                                            <td>Búfer de paquetes </td>
+                                            <td>24 MB</td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
-                                            <td>100 a 240 V 50 a 60 Hz, interno, universal: CBS250-16T-2G, CBS250-16P-2G, CBS250-24T-4G, CBS250-24PP-4G, 
-                                                CBS250-24P-4G, CBS250-24FP-4G, CBS250- 48T-4G, CBS250-48PP-4G, CBS250-48P-4G, CBS250-24T-4X, CBS250-24P-4X, CBS250-24FP-4X, 
-                                                CBS250-48T-4X, CBS250-48P-4X 100 a 240 V 50 a 60 Hz, externo: CBS250-8T-D, CBS250-8PP-D, CBS250-8T-E-2G, 
-                                                CBS250-8PP-E-2G, CBS250-8P-E-2G, CBS250-8FP- E-2G </td>
+                                            <td><ul>
+                                                <li>100–240 V 50–60 Hz, interna, universal – SF250-48, SF250-48HP, SG250-26, SG250-26HP, SG250-26P </li>
+                                                <li>100–240 V 50–60 Hz, externo – SG250-10P</li>
+                                            </ul></td>
                                         </tr>
                                         <tr>
                                             <td>Certificación </td>
-                                            <td>UL (UL 60950), CSA (CSA 22.2), marca CE, FCC Parte 15 (CFR 47) Clase A </td>
+                                            <td>UL (UL 60950), CSA (CSA 22.2), marca CE, FCC Parte 15 (CFR 47) Clase A</td>
                                         </tr>
+                                      
                                         <tr>
                                             <td>Temperatura de funcionamiento </td>
-                                            <td>32 ° a 122 ° F (0 ° a 50 ° C) </td>
+                                            <td> 	32° a 122°F (0° a 50°C) </td>
                                         </tr>
                                         <tr>
                                             <td>Temperatura de almacenamiento</td>
-                                            <td>-13 ° a 158 ° F (-25 ° a 70 ° C) </td>
+                                            <td>-4 ° a 158 ° F (-20 ° a 70 ° C)  </td>
                                         </tr>
                                         <tr>
                                             <td>Humedad de funcionamiento </td>
-                                            <td>10% a 90%, relativo, sin condensación</td>
+                                            <td>10% a 90%, relativo, sin condensación </td>
                                         </tr>
                                         <tr>
                                             <td>Humedad de almacenamiento </td>
@@ -741,8 +709,16 @@
                                             <td>N / A </td>
                                         </tr>
                                         <tr>
-                                            <td>MTBF @ 50 ° C (horas) </td>
-                                            <td>1,706,649 </td>
+                                            <td>MTBF @ 40 ° C (horas) </td>
+                                            <td>256,281.25 </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Dimensiones (An x Al x Pr) </td>
+                                            <td>440 x 44 x 257 mm (17,3 x 1,45 x 10,12 pulgadas)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Unidad de peso </td>
+                                            <td>3,57 kg (7,87 libras) </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>
@@ -755,8 +731,8 @@
                                             <td>contenidos del paquete </td>
                                             <td>
                                                 <ul class="listas">
-                                                    <li>Conmutador inteligente Cisco Business 250 Series </li>
-                                                    <li>Cable de alimentación (adaptador de corriente para SKU de 8 puertos)  </li>
+                                                    <li>Conmutador inteligente de la serie Cisco 250 </li>
+                                                    <li>Cable de alimentación (adaptador de alimentación para SKU de 10 puertos) </li>
                                                     <li>Kit de montaje </li>
                                                     <li>Guía de inicio rápido</li>
                                                 </ul>
@@ -766,8 +742,8 @@
                                             <td>Requerimientos mínimos </td>
                                             <td>
                                                 <ul class="listas">
-                                                    <li>Navegador web: Chrome, Firefox, Edge, Safari </li>
-                                                    <li>Cable de red Ethernet de categoría 5e </li>
+                                                    <li>Navegador web: Mozilla Firefox versión 36 o posterior; Microsoft Internet Explorer versión 9 o posterior, Chrome versión 40 o posterior, Safari versión 5 o posterior </li>
+                                                    <li>Cable de red Ethernet de categoría 5 </li>
                                                     <li>TCP / IP, adaptador de red y sistema operativo de red (como Microsoft Windows, Linux o Mac OS X) instalados </li>
                                                 </ul>
                                             </td>
@@ -785,100 +761,34 @@
                                             <th>Distancia máxima </th>
                                         </tr>
                                         <tr>
-                                            <td>MGBSX1 </td>
+                                            <td>MGBBX1 </td>
+                                            <td>Fibra monomodo </td>
+                                            <td>100 Mbps  </td>
+                                            <td>10 kilometros </td>
+                                        </tr>
+                                        <tr>
+                                            <td>MGBSX1</td>
                                             <td>Fibra multimodo </td>
-                                            <td>1000 Mbps </td>
-                                            <td>500 metros </td>
+                                            <td>100 Mbps</td>
+                                            <td>500 kilometros </td>
                                         </tr>
                                         <tr>
                                             <td>MGBLH1 </td>
                                             <td>Fibra monomodo </td>
-                                            <td>1000 Mbps </td>
+                                            <td>100 Mbps</td>
                                             <td>40 kilometros </td>
                                         </tr>
                                         <tr>
                                             <td>MGBLX1 </td>
-                                            <td>Fibra monomodo</td>
-                                            <td>1000 Mbps</td>
-                                            <td>10 kilometros</td>
+                                            <td>Fibra monomodo </td>
+                                            <td>100 Mbps</td>
+                                            <td>10 kilometros </td>
                                         </tr>
                                         <tr>
-                                            <td>MGBT1 </td>
-                                            <td>UTP cat 5e </td>
-                                            <td>1000 Mbps </td>
+                                            <td>MGBT1</td>
+                                            <td>UTP categoría 5 </td>
+                                            <td>100 Mbps </td>
                                             <td>100 metros </td>
-                                        </tr>
-                                        <tr>
-                                            <td>GLC-SX-MMD </td>
-                                            <td>Fibra multimodo </td>
-                                            <td>1000 Mbps </td>
-                                            <td>550 metros </td>
-                                        </tr>
-                                        <tr>
-                                            <td>GLC-LH-SMD </td>
-                                            <td>Fibra monomodo  </td>
-                                            <td>1000 Mbps </td>
-                                            <td>10 kilometros</td>
-                                        </tr>
-                                        <tr>
-                                            <td>GLC-BX-U </td>
-                                            <td>Fibra monomodo </td>
-                                            <td>1000 Mbps </td>
-                                            <td>10 kilometros </td>
-                                        </tr>
-                                        <tr>
-                                            <td>GLC-BX-D </td>
-                                            <td>Fibra monomodo </td>
-                                            <td>1000 Mbps </td>
-                                            <td>10 kilometros </td>
-                                        </tr>
-                                        <tr>
-                                            <td>GLC-TE </td>
-                                            <td>UTP cat 5e </td>
-                                            <td>1000 Mbps </td>
-                                            <td>100 metros </td>
-                                        </tr>
-                                        <tr>
-                                            <td>SFP-H10GB-CU1M </td>
-                                            <td>Coaxial de cobre</td>
-                                            <td>10 giga </td>
-                                            <td>1 metro </td>
-                                        </tr>
-                                        <tr>
-                                            <td>SFP-H10GB-CU3M </td>
-                                            <td>Coaxial de cobre </td>
-                                            <td>10 giga </td>
-                                            <td>3 m </td>
-                                        </tr>
-                                        <tr>
-                                            <td>SFP-H10GB-CU5M </td>
-                                            <td>Coaxial de cobre </td>
-                                            <td>10 giga </td>
-                                            <td>5 m </td>
-                                        </tr>
-                                        <tr>
-                                            <td>SFP-10G-SR </td>
-                                            <td>Fibra multimodo</td>
-                                            <td>10 giga </td>
-                                            <td>26 m - 400 m </td>
-                                        </tr>
-                                        <tr>
-                                            <td>SFP-10G-LR </td>
-                                            <td>Fibra monomodo </td>
-                                            <td>10 giga </td>
-                                            <td>10 kilometros </td>
-                                        </tr>
-                                        <tr>
-                                            <td>SFP-10G-SR-S</td>
-                                            <td>Fibra multimodo </td>
-                                            <td>10 giga</td>
-                                            <td>26 m - 400 m </td>
-                                        </tr>
-                                        <tr>
-                                            <td>SFP-10G-LR-S </td>
-                                            <td>Fibra monomodo </td>
-                                            <td>10 giga </td>
-                                            <td>10 kilometros </td>
                                         </tr>
                                     </table>
 
@@ -886,8 +796,8 @@
                             <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                                    Descargue la <a href="datasheets/Cisco-Business-250-Series-Smart-Switches-Datasheet.pdf" target="_blank">
-                                    hoja de datos de los conmutadores inteligentes Cisco Business 250 Series </a> (PDF)
+                                    Descargue la <a href="datasheets/250-series-smart-switches-datasheet.pdf" target="_blank">
+                                    hoja de datos de los switches inteligentes de la serie 250 de Cisco.</a> (PDF)
                 
                         </div>
                     </div><!-- End default tabs -->
