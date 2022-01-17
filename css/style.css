@@ -3211,7 +3211,7 @@ td { background: #FAFAFA; text-align: center; }
 
 td.left { background: #FAFAFA; text-align: left; }
 
-tr:nth-child(even) td { background: #F1F1F1; } 
+tr:nth-child(even) td { background: #d0cccc; } 
 
 tr:nth-child(odd) td { background: #FEFEFE; }
 
@@ -3219,13 +3219,13 @@ tr:nth-child(odd) td { background: #FEFEFE; }
 
 td.tab1, th.tab1 { border: 1px solid transparent; height: 30px; }
 
-th.tab1 { background: #D3D3D3; font-weight: bold; }
+th.tab1 { background: #b7b2b2; font-weight: bold; }
 
 td.tab1{ background: #FAFAFA; }
 
-tr.tab1:nth-child(even) td { background: #F1F1F1; } 
+tr.tab1:nth-child(even) td { background: #fffdfd; } 
 
-tr.tab1:nth-child(odd) td { background: #FEFEFE; }
+tr.tab1:nth-child(odd) td { background: #c1bfbfb6; }
 
 /*-- Blog tab widget --*/
 

@@ -130,42 +130,94 @@
 
     
 
-                                    <h4><strong>Alimentación a través de Ethernet (PoE) </strong></h4>  
-                                        <p align="justify">Los conmutadores Cisco Business 250 Series están disponibles con PoE + en modelos Gigabit Ethernet. Esta capacidad 
-                                            permite la implementación de telefonía IP, inalámbrica, videovigilancia y otras soluciones con un solo cable de red, eliminando así 
-                                            la necesidad de fuentes de alimentación o cableado separados. PoE + proporciona hasta 30 W de potencia por puerto, ideal para 
-                                            implementaciones de puntos de acceso inalámbricos 802.11ac, cámaras IP Pan-Tilt-Zoom (PTZ), videoteléfonos y dispositivos de cliente 
-                                            ligero, lo que brinda más flexibilidad y protección de la inversión.  </p> 
+                                    <h4><strong>Alimentación a través de Ethernet Plus (PoE+) </strong></h4>  
+                                        <p align="justify">Los switches Cisco de la serie 250 están disponibles con PoE+ en los modelos Fast Ethernet y Gigabit Ethernet. Esta capacidad 
+                                            simplifica la implementación de telefonía IP, inalámbrica, videovigilancia y otras soluciones al permitirle enviar datos y energía a los puntos 
+                                            finales de la red a través de un solo cable de red, lo que elimina la necesidad de fuentes de alimentación o tomas de corriente independientes. 
+                                            PoE+ proporciona hasta 30 W de potencia por puerto, lo que permite implementaciones para puntos de acceso inalámbricos 802.11ac, cámaras IP con 
+                                            giro, inclinación y zoom (PTZ), videoteléfonos y dispositivos de cliente ligero, lo que brinda más flexibilidad y protección de la inversión. </p> 
+
+                                    <h4><strong>Dispositivo alimentado por PoE y paso a través de PoE </strong></h4>  
+                                        <p align="justify">Los modelos compactos de 10 puertos de la serie Cisco 250 pueden funcionar como dispositivos alimentados por PoE y extraer 
+                                            energía de los conmutadores PoE ascendentes en el armario de cableado, lo que simplifica la implementación en salas de reuniones, aulas, 
+                                            habitaciones de hotel y otras ubicaciones flexibles. Cada conmutador puede aceptar hasta 60 W de potencia por puerto de enlace ascendente 
+                                            para alimentarse a sí mismo y pasar la potencia a los dispositivos PoE finales si es necesario.  </p> 
 
                                     <h4><strong>Seguridad de la red </strong></h4>  
-                                        <p align="justify">Los switches Cisco Business de la serie 250 brindan las funciones de administración de red y seguridad que necesita 
-                                            para mantener un alto nivel de seguridad para su empresa, mantener a los usuarios no autorizados fuera de la red y proteger sus 
-                                            datos comerciales. Los conmutadores incluyen seguridad de red integrada para reducir el riesgo de una brecha de seguridad, con 
-                                            seguridad de puerto IEEE 802.1X para controlar el acceso a su red, prevención de ataques de denegación de servicio (DoS) para aumentar 
-                                            el tiempo de actividad de la red durante un ataque y un amplio control de acceso. Listas (ACL) para proteger partes sensibles de la 
-                                            red de usuarios no autorizados y protegerse contra ataques a la red. </p> 
+                                        <p align="justify">Los switches Cisco de la serie 250 brindan las funciones de administración de red y seguridad que necesita para mantener un 
+                                            alto nivel de seguridad para su negocio, mantener a los usuarios no autorizados fuera de la red y proteger sus datos comerciales. Los 
+                                            conmutadores brindan seguridad de red integrada para reducir el riesgo de una violación de seguridad, con seguridad de puerto IEEE 802.1X 
+                                            para controlar el acceso a su red. La prevención de ataques de denegación de servicio (DoS) aumenta el tiempo de actividad de la red en 
+                                            presencia de un ataque.  </p> 
 
-                                    <h4><strong>Diseño compacto y flexible </strong></h4>  
-                                        <p align="justify">El diseño elegante y compacto proporciona flexibilidad de implementación adicional, incluida la instalación del 
-                                            armario de cableado exterior, como tiendas minoristas, oficinas de planta abierta y aulas sin perturbar el medio ambiente.</p> 
+                                    <h4><strong>Soporte Telefonía IP </strong></h4>  
+                                        <p align="justify">Los switches Cisco de la serie 250 incluyen funciones de QoS para priorizar los servicios sensibles a la demora, como voz 
+                                            y video, simplificar las implementaciones de comunicaciones unificadas y ayudar a garantizar un rendimiento de red uniforme para todos los servicios. </p> 
 
-                                    <h4><strong>Una solución energéticamente eficiente </strong></h4>  
-                                        <p align="justify">Los switches Cisco Business de la serie 250 están diseñados para ser energéticamente eficientes y ecológicos sin 
-                                            comprometer el rendimiento. Ayudan a conservar energía al optimizar el uso de energía, lo que ayuda a proteger el medio ambiente 
-                                            y reduce sus costos de energía. Las características de ahorro de energía incluyen:  </p> 
+                                    <h4><strong>Implementación automática de voz en toda la red </strong></h4>  
+                                        <p align="justify">Usando una combinación de Cisco Discovery Protocol, LLDP-MED, Auto Smartports y Voice Services Discovery Protocol (VSDP, un 
+                                            protocolo único y patentado de Cisco), los clientes pueden implementar una red de voz de extremo a extremo de forma dinámica. Los conmutadores 
+                                            de la red convergen automáticamente en una sola VLAN de voz y un conjunto de parámetros de QoS y luego los propagan a los teléfonos en los 
+                                            puertos donde se detectan. Por ejemplo, las capacidades de VLAN de voz automatizadas le permiten conectar cualquier teléfono IP (incluidos 
+                                            los teléfonos de terceros) a su red de telefonía IP y recibir un tono de marcado inmediato. El conmutador configura automáticamente el dispositivo 
+                                            con los parámetros correctos de VLAN y QoS para priorizar el tráfico de voz. </p> 
+                                    
+                                    <h4><strong>Soporte IPv6 </strong></h4>  
+                                        <p align="justify">A medida que el esquema de direccionamiento de la red IP evoluciona para adaptarse a más dispositivos, puede tener la tranquilidad 
+                                            de saber que su red está lista. Los switches Cisco de la serie 250 brindan soporte nativo para IPv6 junto con el tradicional IPv4. Con las 
+                                            certificaciones USGv6 e IPv6 Gold Logo, puede aprovechar al máximo los sistemas operativos y aplicaciones habilitados para IPv6 en el futuro, sin 
+                                            tener que actualizar su equipo de red. </p> 
+
+                                    <h4><strong>Una solución energéticamente eficiente</strong></h4>  
+                                        <p align="justify">Los switches Cisco de la serie 250 están diseñados para ahorrar energía y ser ecológicos sin comprometer el rendimiento. Ayudan a 
+                                            conservar energía al optimizar el uso de energía, lo que ayuda a proteger el medio ambiente y reduce los costos de energía. Las características 
+                                            de ahorro de energía incluyen: </p>
 
                                             <ul>
                                                 <li><p align="justify">Soporte para el estándar Energy Efficient Ethernet (IEEE 802.3az), que reduce el consumo de energía al monitorear 
-                                                    la cantidad de tráfico en un enlace activo y poner el enlace en estado de suspensión durante períodos de inactividad.</p></li>
+                                                    la cantidad de tráfico en un enlace activo y poner el enlace en estado de suspensión durante períodos de inactividad. </p></li>
                                                 <li><p align="justify">Apagado automático de energía en los puertos cuando un enlace está inactivo </p></li>
-                                                <li><p align="justify">Diseño sin ventilador en la mayoría de los modelos, que reduce el consumo de energía, aumenta la confiabilidad 
-                                                    y proporciona un funcionamiento más silencioso </p></li>
+                                                <li><p align="justify">Inteligencia integrada para ajustar la potencia en función de la longitud del cable</p></li>
+                                                <li><p align="justify">Diseño sin ventilador en la mayoría de los modelos, que reduce el consumo de energía, aumenta la confiabilidad y 
+                                                    proporciona un funcionamiento más silencioso  </p></li>
+                                                <li><p align="justify">Posibilidad de apagar los LED para ahorrar energía  </p></li>
                                             </ul>
                                     
-                                    <h4><strong>Tranquilidad y protección de la inversión</strong></h4> 
-                                    <p align="">Los switches Cisco Business de la serie 250 ofrecen el rendimiento confiable, la protección de la inversión y la tranquilidad que espera 
-                                        de un switch Cisco. Acceso complementario de un año a nuestro Centro de soporte para pequeñas empresas para obtener soporte continuo. La garantía 
-                                        limitada de por vida con reemplazo de devolución a fábrica mantiene su negocio funcionando sin problemas. </p>       
+                                    <h4><strong>Puertos de expansión  </strong></h4>  
+                                        <p align="justify">La serie Cisco 250 proporciona más puertos por conmutador que los modelos de conmutadores tradicionales, lo que le brinda más 
+                                            flexibilidad para conectarse y potenciar su negocio. Los modelos Gigabit Ethernet cuentan con conmutadores de 26 y 50 puertos, en comparación 
+                                            con los dispositivos tradicionales que ofrecen 20 o 44 puertos con 4 puertos compartidos. Los modelos Fast Ethernet ahora están disponibles 
+                                            con 4 puertos Gigabit para una mayor flexibilidad en la implementación. La serie Cisco 250 también ofrece ranuras de expansión conectables 
+                                            de factor de forma pequeño (SFP) que le brindan la opción de agregar conectividad de enlace ascendente de fibra óptica o Gigabit Ethernet al 
+                                            conmutador. Con la capacidad de aumentar el rango de conectividad de los conmutadores, tiene más flexibilidad para diseñar su red en torno a 
+                                            su entorno empresarial único y para conectar fácilmente conmutadores en diferentes pisos o en toda la empresa. </p> 
+                                    
+                                    <h4><strong>Tranquilidad y protección de la inversión </strong></h4> 
+                                    <p align="justify">Los switches Cisco de la serie 250 ofrecen el rendimiento confiable, la protección de la inversión y la tranquilidad que espera de un 
+                                        switch Cisco. Cuando invierte en Cisco 250 Series, obtiene los beneficios de: </p>  
+
+                                        <ul>
+                                                <li><p align="justify">Garantía limitada de por vida de Cisco para proteger su inversión </p></li>
+                                                <li><p align="justify">Pruebas rigurosas para ayudar a garantizar una fácil integración y compatibilidad con otros productos de comunicaciones 
+                                                    y redes de Cisco, incluida la cartera completa de Cisco Small Business </p></li>
+                                                
+                                        </ul>
+
+                                    <h4><strong>Garantía de hardware limitada de por vida de Cisco</strong></h4> 
+                                    <p align="justify">Los switches de la serie 250 de Cisco vienen con la garantía de hardware limitada de por vida de Cisco, con reemplazo de devolución a fábrica, 
+                                        actualizaciones de software para corrección de errores durante el período de garantía y garantía limitada de 1 año para ventiladores y fuentes de alimentación. 
+                                        Además, Cisco ofrece soporte técnico telefónico sin cargo durante los primeros 12 meses posteriores a la fecha de compra. </p> 
+                                        
+                                    <h4><strong>Servicio y soporte de clase mundial </strong></h4> 
+                                    <p align="justify">Para extender la cobertura de soporte más allá de las disposiciones de la garantía, elija Cisco Smart Net Total Care, que lo ayuda a obtener 
+                                        el máximo valor de las soluciones Cisco Small Business, brindándole tranquilidad a un precio asequible. Cisco Smart Net Total Care proporciona una única 
+                                        plataforma de servicio para todos los productos de red de Cisco. Con cobertura global, términos de contrato flexibles y múltiples opciones avanzadas de 
+                                        reemplazo de hardware, este completo servicio incluye actualizaciones de software, acceso al Centro de soporte para pequeñas empresas de Cisco y soporte extendido por teléfono y chat en línea. </p>  
+
+                                    <h4><strong>Múltiples opciones de idioma </strong></h4> 
+                                    <p align="justify">Los switches Cisco de la serie 250 están disponibles en varios idiomas. La documentación del producto y las interfaces de usuario están 
+                                        traducidas, lo que le permite seleccionar su idioma preferido. </p>  
+                                    
 
                             </div>
                             <div class="tab-pane" id="tab2">
@@ -174,18 +226,18 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CBS250-8FP-E-2G </th>
+                                            <th colspan="2" style="text-align: center">SF250-48</th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
                                         </tr>
                                         <tr>
-                                            <td width="35%">Capacidad en millones de paquetes por segundo (paquetes de 64 bytes) </td>
-                                            <td>14,88 mpps </td>
+                                            <td width="35%">Capacidad en mpps(paquetes de 64 bytes) </td>
+                                            <td>13.10</td>
                                         </tr>
                                         <tr>
-                                            <td>Capacidad de conmutación en gigabits por segundo</td>
-                                            <td>20,0 Gbps </td>
+                                            <td>Capacidad de conmutación (Gbps) </td>
+                                            <td>17.6 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Conmutación de capa 2 </th>
@@ -193,10 +245,9 @@
                                         <tr>
                                             <td>Protocolo de árbol de expansión (STP) </td>
                                             <td><p align="jusfity">Soporte de árbol de expansión estándar 802.1d <br>
-                                            Convergencia rápida mediante 802.1w (Protocolo de árbol de expansión rápida [RSTP]), habilitado de forma predeterminada <br>
-                                            Varias instancias de árbol de expansión utilizando 802.1s (MSTP); Se admiten 8 instancias <br>
-                                            Spanning Tree Plus por VLAN (PVST +); 126 instancias son compatibles <br>
-                                            PVST + rápido (RPVST +); 126 instancias son compatibles  </p></td>
+                                            Convergencia rápida mediante 802.1w (Rapid Spanning Tree [RSTP]), habilitada de forma predeterminada <br>
+                                            Se admiten 8 instancias <br>
+                                            Múltiples instancias de Spanning Tree usando 802.1s (MSTP) <br>
                                         </tr>
                                         <tr>
                                             <td>Agrupación de puertos / agregación de enlaces  </td>
@@ -209,10 +260,9 @@
                                         </tr>
                                         <tr>
                                             <td>VLAN  </td>
-                                            <td>Soporte para hasta 255 VLAN activas simultáneamente <br>
-                                                VLAN basadas en puertos y etiquetas 802.1Q <br>    
-                                                VLAN de administración <br>
-                                                VLAN invitada </td>
+                                            <td>Admite hasta 256 VLAN activas simultáneamente <br>
+                                                VLAN basadas en puertos y basadas en etiquetas 802.1Q <br>    
+                                                VLAN de gestión <br>
                                         </tr>
                                         <tr>
                                             <td>VLAN de voz</td>
@@ -221,97 +271,38 @@
                                                 control de llamadas </td>
                                         </tr>
                                         <tr>
-                                            <td>Protocolo de registro de VLAN genérico (GVRP) y Protocolo de registro de atributo genérico (GARP) </td>
-                                            <td>Protocolos para la propagación y configuración automática de VLAN en un dominio en puente </td>
-                                        </tr>
-                                        <tr>
                                             <td>Inspección IGMP (versiones 1, 2 y 3) </td>
-                                            <td> El Protocolo de administración de grupos de Internet (IGMP) limita el tráfico de multidifusión que requiere un uso intensivo del 
-                                                ancho de banda solo a los solicitantes; admite 255 grupos de multidifusión (también se admite la multidifusión específica de la fuente) </td>
+                                            <td>El Protocolo de administración de grupos de Internet (IGMP) limita el tráfico de multidifusión con uso intensivo de ancho de banda 
+                                                solo a los solicitantes; admite grupos de multidifusión de 1K (también se admite la multidifusión específica de la fuente) </td>
                                         </tr>
                                         <tr>
-                                            <td>Solicitante IGMP </td>
-                                            <td>Se utiliza para admitir un dominio de multidifusión de capa 2 de conmutadores de indagación en ausencia de un enrutador de multidifusión </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Bloqueo de cabecera (HOL) </td>
-                                            <td>Prevención de bloqueo de cabecera (HOL) </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Detección de bucle invertido  </td>
-                                            <td>Proporciona protección contra bucles al transmitir paquetes de protocolo de bucle fuera de los puertos en los que se ha habilitado la 
-                                                protección de bucle. Opera independientemente de STP. </td>
-                                        </tr>
-                                        <tr>
-                                        <th colspan="2" style="text-align: center">Enrutamiento de capa 3</th>
-                                        </tr>
-                                        <tr>
-                                            <td>Enrutamiento IPv4 </td>
-                                            <td> Enrutamiento a velocidad de cable de paquetes IPv4 <br>
-                                                Hasta 32 rutas estáticas y hasta 16 interfaces IP </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Enrutamiento IPv6 </td>
-                                            <td>Enrutamiento a velocidad de cable de paquetes IPv6 </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Interfaz de capa 3 </td>
-                                            <td>Configuración de la interfaz de capa 3 en el puerto físico, LAG, interfaz VLAN o interfaz de bucle invertido </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Enrutamiento entre dominios sin clases (CIDR) </td>
-                                            <td>Soporte para CIDR </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Relé del Protocolo de configuración dinámica de host (DHCP) en la capa 3 </td>
-                                            <td>Retransmisión de tráfico DHCP a través de dominios IP </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Relé del Protocolo de datagramas de usuario (UDP) </td>
-                                            <td>Retransmisión de información de difusión a través de dominios de capa 3 para el descubrimiento de aplicaciones o la retransmisión de paquetes 
-                                                de protocolo Bootstrap (BootP) / DHCP </td>
+                                            <td>Bloqueo HOL</td>
+                                            <td>Bloqueo de cabeza de línea (HOL).</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Seguridad </th>
                                         </tr>
                                         <tr>
                                             <td>Capa de sockets seguros (SSL) </td>
-                                            <td>SSL cifra todo el tráfico HTTPS, lo que permite un acceso seguro a la GUI de administración basada en navegador en el conmutador. </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Protocolo Secure Shell (SSH) </td>
-                                            <td>SSH es un reemplazo seguro para el tráfico Telnet. Secure Copy (SCP) también usa SSH. Se admiten SSH v1 y v2. </td>
+                                            <td>Soporte SSL: Cifra todo el tráfico HTTPS, lo que permite un acceso altamente seguro a la GUI de administración basada en navegador 
+                                                en el conmutador</td>
                                         </tr>
                                         <tr>
                                             <td>IEEE 802.1x (función de autenticador) </td>
-                                            <td>Autenticación remota Autenticación del servicio de usuario de acceso telefónico (RADIUS), VLAN invitada, modo de host único / 
-                                                múltiple y sesiones únicas / múltiples </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Protector de bucle invertido STP  </td>
-                                            <td>Proporciona protección adicional contra bucles de reenvío de capa 2 (bucles STP)  </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Tecnología de núcleo seguro (SCT) </td>
-                                            <td>Garantiza que el conmutador recibirá y procesará la gestión y el tráfico del protocolo, independientemente de la cantidad de tráfico que se reciba. </td>
+                                            <td>Autenticación RADIUS, hash MD5, modo de host único/múltiple y sesiones únicas/múltiples.</td>
                                         </tr>
                                         <tr>
                                             <td>Datos confidenciales seguros (SSD) </td>
-                                            <td>Un mecanismo para administrar datos confidenciales (como contraseñas, claves, etc.) de forma segura en el conmutador, rellenando estos datos en otros 
-                                                dispositivos y autoconfiguración segura. El acceso para ver los datos confidenciales como texto sin formato o encriptados se proporciona de acuerdo
-                                                 con el nivel de acceso configurado por el usuario y el método de acceso del usuario. </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Sistemas confiables </td>
-                                            <td> Los sistemas confiables proporcionan una base muy segura para los productos de Cisco. Defensas en tiempo de ejecución (Protección del espacio 
-                                                ejecutable [X-Space], Aleatorización del diseño del espacio de direcciones [ASLR], Comprobación del tamaño del objeto integrado [BOSC]) </td>
+                                            <td>Un mecanismo para administrar datos confidenciales (como contraseñas, claves, etc.) de forma segura en el conmutador, poblar estos datos
+                                                en otros dispositivos y configurar automáticamente de forma segura. El acceso para ver los datos confidenciales como texto sin formato o 
+                                                cifrado se proporciona de acuerdo con el nivel de acceso configurado por el usuario y el método de acceso del usuario.  </td>
                                         </tr>
                                         <tr>
                                             <td>Seguridad portuaria </td>
-                                            <td>Capacidad para bloquear las direcciones MAC de origen a los puertos y limitar la cantidad de direcciones MAC aprendidas </td>
+                                            <td>Capacidad para bloquear las direcciones MAC de origen en los puertos y limitar la cantidad de direcciones MAC aprendidas. </td>
                                         </tr>
                                         <tr>
-                                            <td>RADIO  </td>
+                                            <td>RADIO </td>
                                             <td>Admite la autenticación RADIUS para el acceso de administración. Cambiar funciones como cliente. </td>
                                         </tr>
                                         <tr>
@@ -323,55 +314,39 @@
                                             <td>Prevención de ataques de denegación de servicio (DoS)  </td>
                                         </tr>
                                         <tr>
-                                            <td>Múltiples niveles de privilegios de usuario en CLI</td>
-                                            <td>Niveles de privilegios de nivel 1, 7 y 15 </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Listas de control de acceso (ACL) </td>
-                                            <td>Soporte para hasta 512 reglas
-                                                Límite de caída o velocidad basado en MAC de origen y destino, ID de VLAN o dirección IPv4 o IPv6, etiqueta de flujo IPv6, protocolo, puerto,
-                                                 punto de código de servicios diferenciados (DSCP) / precedencia de IP, puertos de origen y destino TCP / UDP, prioridad 802.1p, Tipo de Ethernet, 
-                                                 paquetes de Protocolo de mensajes de control de Internet (ICMP), paquetes IGMP, bandera TCP; ACL se puede aplicar tanto en el lado de entrada como 
-                                                 en el de salida
-                                                Compatible con ACL basadas en tiempo </td>
-                                        </tr>
-                                        <tr>
                                         <th colspan="2" style="text-align: center">Calidad de servicio</th>
                                         </tr>
                                         <tr>
                                             <td>Niveles de prioridad </td>
-                                            <td>8 colas de hardware </td>
+                                            <td>4 colas de hardware </td>
                                         </tr>
                                         <tr>
                                             <td>Planificación </td>
-                                            <td>Asignación de cola de prioridad estricta y ronda ponderada (WRR) basada en DSCP y clase de servicio (802.1p / CoS) </td>
+                                            <td>Prioridad estricta y round-robin ponderado (WRR)</td>
                                         </tr>
                                         <tr>
                                             <td>Clase de servicio </td>
-                                            <td>Basado en puerto; Basado en prioridad de VLAN 802.1p; IPv4 / v6 Precedencia de IP / Tipo de servicio (ToS) / Basado en DSCP; Servicios diferenciados 
-                                                (DiffServ); ACL de clasificación y re-marcado, QoS confiabl </td>
+                                            <td>basado en puerto; basado en prioridad de VLAN 802.1p; Basado en precedencia IP IPv4/v6/ToS/DSCP; DiffServ; Asignación de cola QoS confiable 
+                                                basada en punto de código de servicios diferenciados (DSCP) y clase de servicio (802.1p/CoS) </td>
                                         </tr>
                                         <tr>
                                             <td>Limitación de velocidad </td>
-                                            <td>Vigilante de ingreso; conformación de salida y control de velocidad; por VLAN, por puerto y basado en flujo </td>
+                                            <td>Control de entrada, por VLAN, por puerto  </td>
                                         </tr>
-                                        <tr>
-                                            <td>Evitación de la congestión </td>
-                                            <td>Se requiere un algoritmo de prevención de congestión de TCP para reducir y prevenir la sincronización de pérdida de TCP global  </td>
-                                        </tr>
-                                        <tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Estándares </th>
                                         </tr>
                                         <tr>
                                             <td>Estándares </td>
-                                            <td> 	IEEE 802.3 10BASE-T Ethernet, IEEE 802.3u 100BASE-TX Fast Ethernet, IEEE 802.3ab 1000BASE-T Gigabit Ethernet, IEEE 802.3ad Link Aggregation Control Protocol, 
-                                                IEEE 802.3z Gigabit Ethernet, IEEE 802.3x Flow Control, IEEE 802.3 ad LACP, IEEE 802.1D (STP), IEEE 802.1Q / p VLAN, IEEE 802.1w RSTP, IEEE 802.1s STP múltiple, 
-                                                Autenticación de acceso a puerto IEEE 802.1X, IEEE 802.3af, IEEE 802.3at, RFC 768, RFC 783, RFC 791, RFC 792, RFC 793, RFC 813, RFC 879, RFC 896, RFC 826, RFC 854, 
-                                                RFC 855, RFC 856, RFC 858, RFC 894, RFC 919, RFC 920, RFC 922, RFC 950, RFC 951, RFC 1042, RFC 1071, RFC 1123, RFC 1141, RFC 1155, RFC 1157, RFC 1213, RFC 1215, 
-                                                RFC 1286, RFC 1350, RFC 1442, RFC 1451, RFC 1493, RFC 1533, RFC 1541, RFC 1542, RFC 1573, RFC 1624 , RFC 1643, RFC 1700, RFC 1757, RFC 1867, RFC 1907, RFC 2011, 
-                                                RFC 2012, RFC 2013, RFC 2030, RFC 2131, RFC 2132, RFC 2233, RFC 2576, RFC 2616, RFC 2618, RFC 2665, RFC 2666, RFC 2674, RFC 2737, RFC 2819, RFC 2863, RFC 3164, 
-                                                RFC 3411, RFC 3412, RFC 3413, RFC 3414, RFC 3415, RFC 3416, RFC 4330 </td>
+                                            <td>IEEE 802.3 10BASE-T Ethernet, IEEE 802.3u 100BASE-TX Fast Ethernet, IEEE 802.3ab 1000BASE-T Gigabit Ethernet, IEEE 802.3ad 
+                                                Link Aggregation Control Protocol, IEEE 802.3z Gigabit Ethernet, IEEE 802.3x Flow Control, IEEE 802.3 ad LACP, IEEE 802.1D (STP), 
+                                                IEEE 802.1Q / p VLAN, IEEE 802.1w RSTP, IEEE 802.1s STP múltiple, Autenticación de acceso a puerto IEEE 802.1X, IEEE 802.3af, 
+                                                IEEE 802.3at, RFC 768, RFC 783, RFC 791, RFC 792, RFC 793, RFC 813, RFC 879, RFC 896, RFC 826, RFC 854, RFC 855, RFC 856, 
+                                                RFC 858, RFC 894, RFC 919, RFC 920, RFC 922, RFC 950, RFC 951, RFC 1042, RFC 1071, RFC 1123, RFC 1141, RFC 1155, RFC 1157, 
+                                                RFC 1213, RFC 1215, RFC 1286, RFC 1350, RFC 1442, RFC 1451, RFC 1493, RFC 1533, RFC 1541, RFC 1542, RFC 1573, RFC 1624 , RFC 1643, 
+                                                RFC 1700, RFC 1757, RFC 1867, RFC 1907, RFC 2011, RFC 2012, RFC 2013, RFC 2030, RFC 2131, RFC 2132, RFC 2233, RFC 2576, RFC 2616, 
+                                                RFC 2618, RFC 2665, RFC 2666, RFC 2674, RFC 2737, RFC 2819, RFC 2863, RFC 3164, RFC 3411, RFC 3412, RFC 3413, RFC 3414, RFC 3415, 
+                                                RFC 3416, RFC 4330 </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">IPv6 </th>
@@ -382,7 +357,7 @@
                                             Modo de host IPv6 <br>
                                             IPv6 sobre Ethernet <br>
                                             Pila doble de IPv6 / IPv4 <br>
-                                            Descubrimiento de vecinos IPv6 (ND) <br>
+                                            Vecino IPv6 y detección de enrutadores (ND) <br>
                                             Configuración automática de direcciones sin estado IPv6 <br>
                                             Descubrimiento de la unidad de transmisión máxima de ruta (MTU) <br>
                                             Detección de direcciones duplicadas (DAD) <br>
@@ -390,10 +365,6 @@
                                             IPv6 sobre red IPv4 con soporte de protocolo de direccionamiento automático de túnel dentro del sitio (ISATAP) <br>
                                             Certificación USGv6 e IPv6 Gold Logo 
                                             </td>
-                                        </tr>
-                                        <tr>
-                                            <td>ACL IPv6 </td>
-                                            <td>Caída o límite de velocidad de paquetes IPv6 en hardware </td>
                                         </tr>
                                         <tr>
                                             <td>QoS IPv6 </td>
@@ -405,9 +376,9 @@
                                         </tr>
                                         <tr>
                                             <td>Aplicaciones IPv6 </td>
-                                            <td>Web / SSL, servidor Telnet / SSH, ping, traceroute, protocolo de tiempo de red simple (SNTP), protocolo de transferencia de archivos trivial (TFTP), 
-                                                protocolo de administración de red simple (SNMP), servicio de usuario de acceso telefónico de autenticación remota (RADIUS), Syslog, Cliente DNS, 
-                                                cliente DHCP, autoconfiguración DHCP </td>
+                                            <td>Web/SSL, Ping, Traceroute, Protocolo simple de tiempo de red (SNTP), Protocolo trivial de transferencia de archivos 
+                                                (TFTP), Protocolo simple de administración de red (SNMP), Servicio de usuario de acceso telefónico de autenticación 
+                                                remota (RADIUS), Syslog, Cliente DNS, Cliente DHCP , Configuración automática de DHCP </td>
                                         </tr>
                                         <tr>
                                             <td>Compatible con RFC de IPv6  </td>
@@ -432,27 +403,9 @@
                                         <th colspan="2" style="text-align: center">Gestión  </th>
                                         </tr>
                                         <tr>
-                                            <td>Panel de control empresarial de Cisco </td>
-                                            <td>Soporte para sonda integrada para Cisco Business Dashboard que se ejecuta en el conmutador. Elimina la necesidad de configurar un hardware 
-                                                o una máquina virtual separados para Cisco Business Dashboard Probe en el sitio. </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Aplicación móvil Cisco Business </td>
-                                            <td>Aplicación móvil para productos Cisco Business Switch y Wireless. Ayuda a configurar una red local en minutos y proporciona una fácil 
-                                                administración al alcance de su mano.</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Agente Cisco Network Plug and Play (PnP)  </td>
-                                            <td>La solución Cisco Network Plug and Play proporciona una oferta simple, segura, unificada e integrada para facilitar la implementación de nuevos
-                                                 dispositivos en sucursales o campus o para aprovisionar actualizaciones a una red existente. La solución proporciona un enfoque unificado para 
-                                                 aprovisionar enrutadores, conmutadores y dispositivos inalámbricos Cisco con una experiencia de implementación casi nula.Compatible con Cisco 
-                                                 PnP Connect </td>
-                                        </tr>
-                                        <tr>
                                             <td>Interfaz de usuario web </td>
-                                            <td>Utilidad de configuración de conmutador incorporada para una fácil configuración de dispositivos basada en navegador (HTTP / HTTPS). Admite 
-                                                configuración, asistentes, tablero del sistema, mantenimiento y monitoreo del sistema
-                                                Modo básico y avanzado para una máxima eficiencia operativa </td>
+                                            <td>Utilidad de configuración de conmutador integrada para una fácil configuración de dispositivos basada en navegador 
+                                                (HTTP/HTTPS). Admite la configuración, el tablero del sistema, el mantenimiento del sistema y la supervisión. </td>
                                         </tr>
                                         <tr>
                                             <td>SNMP</td>
@@ -560,53 +513,44 @@
                                         </tr>
                                         <tr>
                                             <td>Actualización de firmware</td>
-                                            <td>
-                                                <ul class="listas">
-                                                    <li>Actualización del navegador web (HTTP / HTTPS) y Protocolo de transferencia de archivos trivial (TFTP) </li>
-                                                    <li>Imágenes duales para actualizaciones de firmware resistentes </li>
-                                                </ul>
-                                            </td>
+                                            <td>Actualización del navegador web (HTTP/HTTPS) y TFTP y SCP</td>
                                         </tr>
                                         <tr>
                                             <td>Duplicación de puertos </td>
-                                            <td> El tráfico en un puerto puede reflejarse en otro puerto para su análisis con un analizador de red o una sonda RMON. 
-                                                Se pueden duplicar hasta 4 puertos de origen en un puerto de destino </td>
+                                            <td>El tráfico en un puerto se puede duplicar en otro puerto para su análisis con un analizador de red o una sonda RMON. 
+                                                Se pueden duplicar hasta 4 puertos de origen en un puerto de destino.</td>
                                         </tr>
                                         <tr>
                                             <td>Duplicación de VLAN </td>
-                                            <td>El tráfico de una VLAN se puede duplicar en un puerto para su análisis con un analizador de red o una sonda RMON. Se 
-                                                pueden duplicar hasta 4 VLAN de origen en un puerto de destino </td>
+                                            <td>El tráfico de una VLAN se puede duplicar en un puerto para su análisis con un analizador de red o una sonda RMON. 
+                                                Se pueden duplicar hasta 4 VLAN de origen en un puerto de destino.</td>
                                         </tr>
                                         <tr>
-                                            <td>Protocolo de configuración dinámica de host (DHCP) (opciones 12, 66, 67, 129 y 150) </td>
-                                            <td>Las opciones de DHCP facilitan un control más estricto desde un punto central (servidor DHCP) para obtener la dirección IP, 
-                                                la configuración automática (con descarga del archivo de configuración), la retransmisión DHCP y el nombre de host </td>
+                                            <td>DHCP (opciones 12, 66, 67, 82, 129 y 150) </td>
+                                            <td>Las opciones de DHCP facilitan un control más estricto desde un punto central (servidor DHCP), para obtener la 
+                                                dirección IP, la configuración automática (con descarga del archivo de configuración), la retransmisión DHCP y 
+                                                el nombre del host.  </td>
                                         </tr>
                                         <tr>
-                                            <td>Copia segura (SCP) </td>
-                                            <td>Transfiere archivos de forma segura desde y hacia el conmutador </td>
+                                            <td>Autoconfiguración</td>
+                                            <td>Permite una implementación masiva segura con protección de datos confidenciales </td>
                                         </tr>
                                         <tr>
-                                            <td>Autoconfiguración con descarga de archivos SCP </td>
-                                            <td>Permite la implementación masiva con protección de datos confidenciales </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Configuraciones editables por texto </td>
-                                            <td>Los archivos de configuración se pueden editar con un editor de texto y descargar a otro conmutador, lo que facilita la implementación masiva  </td>
+                                            <td>Archivos de configuración editables por texto </td>
+                                            <td>Los archivos de configuración se pueden editar con un editor de texto y descargar a otro conmutador, lo que facilita la implementación masiva</td>
                                         </tr>
                                         <tr>
                                             <td>Smartports </td>
                                             <td>Configuración simplificada de QoS y capacidades de seguridad </td>
                                         </tr>
                                         <tr>
-                                            <td>Auto Smartports </td>
-                                            <td>Aplica automáticamente la inteligencia entregada a través de los roles de Smartports al puerto según los dispositivos descubiertos a través del 
-                                                Protocolo de descubrimiento de Cisco o LLDP-MED. Esto facilita las implementaciones sin intervención. </td>
+                                            <td>Auto Smartports</td>
+                                            <td>Aplica la inteligencia entregada a través de los roles de Smartport y la aplica automáticamente al puerto en función de los dispositivos 
+                                                descubiertos a través de Cisco Discovery Protocol o LLDP-MED. Esto facilita las implementaciones sin contacto. </td>
                                         </tr>
                                         <tr>
-                                            <td>Interfaz de línea de comandos (CLI) de vista de texto </td>
-                                            <td>CLI programable. Se admite una CLI completa, así como una CLI basada en menús. Los niveles de privilegios de usuario 1, 7 y 15 son 
-                                                compatibles con la CLI. </td>
+                                            <td>Servicios en la nube </td>
+                                            <td>Soporte para Cisco Active Advisor </td>
                                         </tr>
                                         <tr>
                                             <td>Localización </td>
@@ -618,8 +562,7 @@
                                         </tr>
                                         <tr>
                                             <td>Otra gestión </td>
-                                            <td> Traceroute; gestión de IP única; HTTP / HTTPS; RADIO; duplicación de puertos; Actualización TFTP; Cliente DHCP; Protocolo simple de tiempo de 
-                                                red (SNTP); diagnóstico de cables; Silbido; syslog; Cliente Telnet (soporte seguro SSH); configuración automática de la hora desde Management Station  </td>
+                                            <td> trazarruta; gestión de IP única; HTTP/HTTPS; RADIO; duplicación de puertos; actualización de TFTP; cliente DHCP; Protocolo de tiempo de red simple (SNTP); diagnóstico de cables; Silbido; registro del sistema; ajustes de hora automáticos desde Management Station. </td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Eficiencia energetica </th>
