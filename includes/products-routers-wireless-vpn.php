@@ -16,7 +16,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">Router Cisco RV132W ADSL2+ Wireless-N VPN</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>Puertos WAN DSL2 + y Ethernet</li>
                                 <li>Conmutador Ethernet integrado de 3 puertos</li>
                             </ul>
@@ -36,7 +36,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">Router Cisco RV260W Wireless-AC VPN</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>WAN de combinación SFP / Ethernet</li>
                                 <li>Conmutador de 8 puertos</li>
                                 <li>Inalámbrico 3x3 802.11ac WAVE2</li>
@@ -56,7 +56,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">Router Cisco RV340W Dual WAN Gigabit Wireless-AC VPN</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>2 puertos WAN (RJ-45) para equilibrio de carga y resistencia</li>
                                 <li>4 puertos LAN para conectividad de alto rendimiento</li>
                                 <li>Inalámbrico AC de radio dual Gigabit integrado</li>
