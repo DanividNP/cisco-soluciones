@@ -19,7 +19,7 @@
         <!--/ Slider end -->
         <?php include("includes/cisco-routers-ISR4000-series.php") ?>
   
-        <?php include("includes/products-routers-ISR1000-series.php") ?>
+        <?php include("includes/products-routers-ISR4000-series.php") ?>
        
 <!--        <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->

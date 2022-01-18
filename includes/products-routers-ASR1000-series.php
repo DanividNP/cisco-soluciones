@@ -16,7 +16,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">ASR 1001</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>DRAM de 4 GB compartida entre RP, ESP y SIP</li>
                                 <li>4 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</li>
                                 <li>Ancho de banda ESP de 2,5 a 5 Gbps</li>
@@ -37,7 +37,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">ASR 1001 X</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>DRAM de 8 GB compartida entre RP, ESP y SIP</li>
                                 <li>6 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</li>
                                 <li>Ancho de banda ESP de 2.5 a 20 Gbps</li>
@@ -58,7 +58,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">ASR 1002</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>DRAM de 4 GB compartida entre RP y SIP</li>
                                 <li>4 puertos Gigabit Ethernet enchufables de factor de forma pequeño (SFP)</li>
                                 <li>Ancho de banda ESP de 5 a 10 Gbps</li>
@@ -79,7 +79,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">ASR 1002 X</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>DRAM de 8 GB compartida entre RP, ESP y SIP</li>
                                 <li>6 puertos Gigabit Ethernet SFP</li>
                                 <li>Ancho de banda ESP de 5 a 36 Gbps</li>
@@ -100,7 +100,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">ASR 1004</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>DRAM RP2 de 4 GB DRAM RP2 de 1,8 GB</li>
                                 <li>8 ranuras de adaptador de puerto compartido</li>
                                 <li>Ancho de banda ESP de 10 a 40 Gbps</li>
@@ -121,7 +121,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">ASR 1006</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>DRAM RP1 de 4 GB, DRAM RP2 de 8 GB</li>
                                 <li>12 espacios de SPA</li>
                                 <li>Ancho de banda ESP de 10 a 100 Gbps</li>
@@ -142,7 +142,7 @@
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">ASR 1013</h3><br>
-                            <ul>
+                            <ul align="justify">
                                 <li>DRAM RP1 de 4 GB, DRAM RP2 de 8 GB</li>
                                 <li>24 espacios de SPA</li>
                                 <li>Ancho de banda ESP de 40 a 200 Gbps</li>
