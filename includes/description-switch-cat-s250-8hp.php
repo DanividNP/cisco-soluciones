@@ -4,7 +4,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h3 class="title-border">Cisco SG250-08</h3>
                 <h5>8-Port Gigabit Smart Switch</h5>
-                <center> <img class="img-responsive" src="images/switches/cisco-SF250-8g.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/switches/cisco-SF250-8hp.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
