@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SG250-08</h3>
-                <h5>8-Port Gigabit Smart Switch</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s250-8hp.png" alt=""></center>
+                <h3 class="title-border">Cisco SG250-26HP</h3>
+                <h5>26-Port Gigabit PoE+ Smart Switch con 100 W de presupuesto de energía</h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s250-26hp.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,13 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>SG250-08HP 8 puertos Gigabit</strong></p>
-                                    <p align='justify'> PoESG250-08HP 8 puertos Gigabit PoE Smart</p>
+                                    <p align='justify'><strong>SG250-26HP 26-port GB PoE swth</strong></p>
+                                    <p align='justify'>Cisco SG250-26HP 26-port Gigabit PoE Switch</p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SG250-08HP-K9-NAList<br>
-                                        <strong>Precio: $357.02</strong></p>
+                                    <p align='justify'>#SG250-26HP-K9-NA<br>
+                                        <strong>Precio: $1,033.62</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -70,7 +70,7 @@
                                     interfaz de usuario web fácil de usar, Auto Smartports y capacidad flexible Power over Ethernet (PoE) Plus, puede implementar y configurar 
                                     una red empresarial completa en minutos. </p>
 
-                                <h4><strong>Aplicaciones de negocios </strong></h4>
+                                <h4><strong>Aplicaciones empresariales </strong></h4>
 
                                 <p align="justify">Ya sea que necesite conectividad básica de alta velocidad para sus computadoras y servidores o una solución integral de 
                                     tecnología inalámbrica, de voz y de datos, los switches Cisco de la serie 250 pueden satisfacer sus necesidades comerciales. Los posibles 
@@ -242,18 +242,18 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SG250-08HP </th>
+                                            <th colspan="2" style="text-align: center">SG250-26HP</th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
                                         </tr>
                                         <tr>
                                             <td width="35%">Capacidad en millones de paquetes por segundo (paquetes de 64 bytes) </td>
-                                            <td>11.90 </td>
+                                            <td>	38.69</td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad de conmutación en gigabits por segundo</td>
-                                            <td>16.0 </td>
+                                            <td>52.0</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Conmutación de capa 2 </th>
@@ -746,47 +746,44 @@
                                         </tr>
                                         <tr>
                                             <td>Energía dedicada a PoE </td>
-                                            <td>- </td>
+                                            <td>1106</td>
                                         </tr>
                                         <tr>
                                             <td>Número de puertos que admiten PoE </td>
-                                            <td>-</td>
+                                            <td>24</td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía del sistema </td>
-                                            <td>110 V = 7,6 W <br>
-                                            220 V = 7,6 W </td>
+                                            <td>110V=23.5W<br>
+                                                220V=24.4W</td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía (con PoE) </td>
-                                            <td> - </td>
+                                            <td>110V=135.2W<br>
+                                                220V=133.9W</td>
                                         </tr>
                                         <tr>
                                             <td>Disipación de calor (BTU / h) </td>
-                                            <td>25.93 </td>
+                                            <td>461.32</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
                                         </tr>
                                         <tr>
                                             <td>Puertos totales del sistema </td>
-                                            <td> 10 Gigabit Ethernet  </td>
+                                            <td>26 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puertos RJ-45 </td>
-                                            <td>8 Gigabit Ethernet  </td>
+                                            <td>24 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puertos combinados (RJ-45 + SFP) </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Puerto de consola </td>
-                                            <td>-</td>
+                                            <td>Combinación de 2 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puerto USB </td>
-                                            <td>USB tipo Ranura </td>
+                                            <td>Ranura USB tipo A en el panel frontal del conmutador para facilitar la gestión de archivos e imágenes</td>
                                         </tr>
                                         <tr>
                                             <td>Botones</td>
@@ -794,7 +791,7 @@
                                         </tr>
                                         <tr>
                                             <td>Tipo de cableado </td>
-                                            <td>Par trenzado sin blindaje (UTP) Categoría 5 o superior para 10BASE-T/100BASE-TX; UTP Categoría 5e o mejor para 1000BASE-T </td>
+                                            <td>Par trenzado sin blindaje (UTP) Categoría 5 o superior para 10BASE-T/100BASE-TX; UTP Categoría 5e o superior para 1000BASE-T</td>
                                         </tr>
                                         <tr>
                                             <td>LEDs </td>
@@ -818,23 +815,23 @@
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (An x Al x Pr) </td>
-                                            <td>160 x 30 x 128 mm <br>(6,3 x 1,18 x 5,04 pulgadas) </td>
+                                            <td>440 x 44 x 257 mm (17,3 x 1,45 x 10,12 pulgadas)</td>
                                         </tr>
                                         <tr>
                                             <td>Unidad de peso </td>
-                                            <td>0,54 kg (1,19 libras) </td>
+                                            <td>3,37 kg (7,43 lb)</td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
-                                            <td>100 a 240 V 50 a 60 Hz, externo: SG250-08, SG250-08HP, SG250-10P </td>
+                                            <td>100 a 240V 50 a 60 Hz, interno</td>
                                         </tr>
                                         <tr>
                                             <td>Certificación </td>
-                                            <td> UL (UL 60950), CSA (CSA 22.2), marca CE, FCC Parte 15 (CFR 47) Clase A </td>
+                                            <td>UL (UL 60950), CSA (CSA 22.2), marca CE, FCC Parte 15 (CFR 47) Clase A</td>
                                         </tr>
                                         <tr>
                                             <td>Temperatura de funcionamiento </td>
-                                            <td>32° a 122°F (0° a 50°C) </td>
+                                            <td>32° a 122°F (0° a 50°C)</td>
                                         </tr>
                                         <tr>
                                             <td>Temperatura de almacenamiento</td>
@@ -850,29 +847,30 @@
                                         </tr>
                                         <tr>
                                             <td>ventilador</td>
-                                            <td>Sin ventilador  </td>
+                                            <td>1</td>
                                         </tr>
                                         <tr>
                                             <td>Ruido acústico </td>
-                                            <td>N / A </td>
+                                            <td>0° a 30°C: 37.5dB<br>
+                                                50°C: 49.7dB</td>
                                         </tr>
                                         <tr>
                                             <td>MTBF @ 50 ° C (horas) </td>
-                                            <td> 1,305,509 </td>
+                                            <td>333,792</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>
                                         </tr>
                                         <tr>
                                             <td>Plazo de garantía </td>
-                                            <td>Tiempo de vida limitado </td>
+                                            <td>Vida útil limitada</td>
                                         </tr>
                                         <tr>
                                             <td>contenidos del paquete </td>
                                             <td>
                                                 <ul class="listas">
                                                     <li>Conmutador inteligente Cisco Business 250 Series </li>
-                                                    <li>Cable de alimentación (adaptador de corriente para SKU de 8 puertos)  </li>
+                                                    <li>Cable de alimentación (adaptador de corriente para SKU de 8 y 10 puertos)</li>
                                                     <li>Kit de montaje </li>
                                                     <li>Guía de inicio rápido</li>
                                                 </ul>
@@ -882,9 +880,9 @@
                                             <td>Requerimientos mínimos </td>
                                             <td>
                                                 <ul class="listas">
-                                                    <li>Navegador web: Chrome, Firefox, Edge, Safari </li>
-                                                    <li>Cable de red Ethernet de categoría 5e </li>
-                                                    <li>TCP / IP, adaptador de red y sistema operativo de red (como Microsoft Windows, Linux o Mac OS X) instalados </li>
+                                                    <li>Navegador web: Mozilla Firefox versión 36 o posterior; Microsoft Internet Explorer versión 9 o posterior, Chrome versión 40 o posterior, Safari versión 5 o posterior</li>
+                                                    <li>Cable de red Ethernet de categoría 5</li>
+                                                    <li>TCP/IP, adaptador de red y sistema operativo de red (como Microsoft Windows, Linux o Mac OS X) instalados</li>
                                                 </ul>
                                             </td>
                                         </tr>

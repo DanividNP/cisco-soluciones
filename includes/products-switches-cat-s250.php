@@ -492,7 +492,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/SG250-08.jpg"" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s250-8gh.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s250-8hp.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
@@ -631,7 +631,7 @@
                             <figure class="effect-oscar">
                                     <img src="images/switches/SG250X-48.jpg" alt="">
                                     <figcaption>
-                                        <a class="link icon-pentagon" href="switch-cat-s250-48p.php"><i class="fa fa-link"></i></a>
+                                        <a class="link icon-pentagon" href="switch-cat-s250x-48p.php"><i class="fa fa-link"></i></a>
                                                 
                                     </figcaption>			
                                 </figure>
