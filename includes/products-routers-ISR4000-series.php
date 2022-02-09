@@ -10,7 +10,7 @@
                     <figure class="effect-oscar">
                         <img src="images/routers/ISR4221.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1001.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="routers-cisco-ISR4221.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
@@ -28,7 +28,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1001X.jpg" alt="">
+                        <img src="images/routers/ISR4331.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1001X.php"><i class="fa fa-link"></i></a>
                                      
@@ -49,7 +49,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1002.jpg" alt="">
+                        <img src="images/routers/ISR4431.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1002.php"><i class="fa fa-link"></i></a>
                                      
@@ -70,7 +70,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/routers/ASR1002X.jpg" alt="">
+                        <img src="images/routers/ISR4461.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="routers-cisco-ASR1002X.php"><i class="fa fa-link"></i></a>
                                      
