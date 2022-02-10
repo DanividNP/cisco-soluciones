@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF302-08</h3>
-                <h5>Switch administrado de 8 puertos 10/100 con enlaces ascendentes Gigabit</h5>
+                <h3 class="title-border">Cisco SF302-08MP</h3>
+                <h5>Conmutador Ethernet de 8 puertos 10/100 con 2 ranuras</h5>
                 <center> <img class="img-responsive" src="images/switches/cat-s300-8.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
@@ -20,13 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF302-08 8-Port 10/100 Managed Switch with Gigabit Uplinks</strong></p>
+                                    <p align='justify'><strong>Cisco SF302-08MP 8-Port 10/100 Ethernet Switch with 2 Slots</strong></p>
                                     <!--<p align='justify'>SG250X-48P 48-Port Gigabit PoE Smart with 10G Uplinks</p>-->
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SRW208G-K9-NA<br>
-                                        <strong>Precio:  $285.00</strong></p>
+                                    <p align='justify'>#SRW208MP-K9-NA<br>
+                                        <!-- <strong>Get a Quote!</strong></p>-->
                                 </div>
 			                </div>
                             </div>
@@ -221,7 +221,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF302-08</th>
+                                            <th colspan="2" style="text-align: center">SF302-08MP</th>
                                         </tr>
                                         
                                         <tr>
@@ -241,7 +241,7 @@
                                         </tr>
                                         <tr>
                                             <td>PoE </td>
-                                            <td>N/A</td>
+                                            <td>124 W</td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad del conmutador</td>

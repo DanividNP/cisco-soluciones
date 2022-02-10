@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF302-08</h3>
-                <h5>Switch administrado de 8 puertos 10/100 con enlaces ascendentes Gigabit</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s300-8.png" alt=""></center>
+                <h3 class="title-border">Cisco SF300-24PP</h3>
+                <h5>Switch administrado PoE+ de 24 puertos y 100 con enlaces ascendentes Gig</h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s300-24pp.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,13 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF302-08 8-Port 10/100 Managed Switch with Gigabit Uplinks</strong></p>
+                                    <p align='justify'><strong>Cisco SF300-24PP 24-port 10/100 PoE+ Managed Switch with Gig Uplinks</strong></p>
                                     <!--<p align='justify'>SG250X-48P 48-Port Gigabit PoE Smart with 10G Uplinks</p>-->
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SRW208G-K9-NA<br>
-                                        <strong>Precio:  $285.00</strong></p>
+                                    <p align='justify'>#SF300-24PP-K9-NA<br>
+                                        <strong>Precio: $770.00</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -221,7 +221,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF302-08</th>
+                                            <th colspan="2" style="text-align: center">SF300-24PP</th>
                                         </tr>
                                         
                                         <tr>
@@ -229,11 +229,11 @@
                                         </tr>
                                         <tr>
                                             <td>Total de puertos del sistema</td>
-                                            <td>8 Fast Ethernet + 2 Gigabit Ethernet</td>
+                                            <td>24 Fast Ethernet + 4 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puertos RJ-45 </td>
-                                            <td>8 Fast Ethernet</td>
+                                            <td>24 Fast Ethernet</br>2 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puertos combinados</td>
@@ -241,67 +241,67 @@
                                         </tr>
                                         <tr>
                                             <td>PoE </td>
-                                            <td>N/A</td>
+                                            <td>375 W</td>
                                         </tr>
                                         <tr>
                                             <td>Capacidad del conmutador</td>
-                                            <td>5,6 Gbps</td>
+                                            <td>12,8 Gbps</td>
                                         </tr>
                                         <tr>
                                             <td>Árbol de expansión (STP, RSTP, MSTP)</td>
-                                            <td>+/+/+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>VLAN</td>
-                                            <td>256</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Colas de prioridad de QoS</td>
-                                            <td>4</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>IGMP Snooping</td>
-                                            <td>+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Enrutamiento estático de capa 3</td>
-                                            <td>+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Compatibilidad con IPv6</td>
-                                            <td>+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>802.1x</td>
-                                            <td>+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>ACL</td>
-                                            <td>L1-L4</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>SNMP</td>
-                                            <td>v1, 2c, 3</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Tabla de direcciones MAC</td>
-                                            <td>8000</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Tecnología de eficiencia energética</td>
-                                            <td>+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Apilamiento</td>
-                                            <td>-</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Interfaz de administración web</td>
-                                            <td>+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <td>Montaje en rack de 19 pulgadas</td>
-                                            <td>+</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>

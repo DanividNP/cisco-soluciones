@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF302-08</h3>
-                <h5>Switch administrado de 8 puertos 10/100 con enlaces ascendentes Gigabit</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s300-8.png" alt=""></center>
+                <h3 class="title-border">Cisco SG300-10MPP</h3>
+                <h5>Switch gestionado Gigabit Max PoE+ de 10 puertos</h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s300-10mp.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,13 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF302-08 8-Port 10/100 Managed Switch with Gigabit Uplinks</strong></p>
+                                    <p align='justify'><strong>Cisco SG300-10MPP 10-port Gigabit Max PoE+ Managed Switch</strong></p>
                                     <!--<p align='justify'>SG250X-48P 48-Port Gigabit PoE Smart with 10G Uplinks</p>-->
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SRW208G-K9-NA<br>
-                                        <strong>Precio:  $285.00</strong></p>
+                                    <p align='justify'>#SG300-10MPP-K9-NA<br>
+                                        <strong>Precio: $670.00</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -201,7 +201,7 @@
                                                             incluida la cartera completa de Cisco Small Business</li>
                                                     </ul>
                                                 </li>
-                                                <li><p align="justify"><strong>Servicio y Soporte: </strong>Los switches Cisco serie 300 están respaldados por el servicio de soporte para pequeñas empresas 
+                                                <li><p align="justify"><strong>Servicio y Soporte: </strong> Los switches Cisco serie 300 están respaldados por el servicio de soporte para pequeñas empresas 
                                                 de Cisco, que proporciona una cobertura de tranquilidad asequible. Este servicio basado en suscripción le ayuda a proteger su inversión y obtener el máximo 
                                                 valor de los productos Cisco Small Business. Entregado por Cisco y respaldado por su socio de confianza, este servicio integral incluye actualizaciones de 
                                                 software, acceso al Centro de soporte para pequeñas empresas de Cisco y extiende el servicio técnico a tres años. Los productos de Cisco Small Business cuentan 
@@ -221,96 +221,179 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF302-08</th>
+                                            <th colspan="2" style="text-align: center">	SG300-10MPP-K9</th>
                                         </tr>
                                         
                                         <tr>
-                                        <th colspan="2" style="text-align: center">Hardware</th>
+                                        <th colspan="2" style="text-align: center">General</th>
                                         </tr>
                                         <tr>
-                                            <td>Total de puertos del sistema</td>
-                                            <td>8 Fast Ethernet + 2 Gigabit Ethernet</td>
+                                            <td>Tipo de dispositivo</td>
+                                            <td>Switch - 10 puertos - L3 - gestionado</td>
                                         </tr>
                                         <tr>
-                                            <td>Puertos RJ-45 </td>
-                                            <td>8 Fast Ethernet</td>
+                                            <td>Tipo de carcasa</td>
+                                            <td>Escritorio, montable en rack - 1U</td>
                                         </tr>
                                         <tr>
-                                            <td>Puertos combinados</td>
-                                            <td>Combinación de 2 Gigabit Ethernet</td>
+                                            <td>Puertos</td>
+                                            <td>	Gigabit de 8 puertos + 2 x SFP Gigabit combinado</td>
                                         </tr>
                                         <tr>
-                                            <td>PoE </td>
-                                            <td>N/A</td>
+                                            <td>Alimentación a través de Ethernet (PoE)</td>
+                                            <td>POE y POE+</td>
                                         </tr>
                                         <tr>
-                                            <td>Capacidad del conmutador</td>
-                                            <td>5,6 Gbps</td>
+                                            <td>Rendimiento</td>
+                                            <td>Capacidad de conmutación: 20 Gbps ¦ Rendimiento de reenvío (tamaño de paquete de 64 bytes): 14,88 Mpps</td>
                                         </tr>
                                         <tr>
-                                            <td>Árbol de expansión (STP, RSTP, MSTP)</td>
-                                            <td>+/+/+</td>
+                                            <td>Tamaño de la tabla de direcciones MAC</td>
+                                            <td>16K entradas</td>
                                         </tr>
                                         <tr>
-                                            <td>VLAN</td>
-                                            <td>256</td>
+                                            <td>Capacidad</td>
+                                            <td>	VLAN activas 4K</td>
                                         </tr>
                                         <tr>
-                                            <td>Colas de prioridad de QoS</td>
-                                            <td>4</td>
+                                            <td>Protocolo de enrutamiento</td>
+                                            <td>Enrutamiento IPv4 estático</td>
                                         </tr>
                                         <tr>
-                                            <td>IGMP Snooping</td>
-                                            <td>+</td>
+                                            <td>Protocolo de administración remota</td>
+                                            <td>SNMP 1, RMON 1, RMON 2, RMON 3, RMON 9, Telnet, SNMP 3, SNMP 2c, HTTP, HTTPS, SSH, CLI</td>
                                         </tr>
                                         <tr>
-                                            <td>Enrutamiento estático de capa 3</td>
-                                            <td>+</td>
+                                            <td>Soporte de marco jumbo</td>
+                                            <td>9KB</td>
                                         </tr>
                                         <tr>
-                                            <td>Compatibilidad con IPv6</td>
-                                            <td>+</td>
+                                            <td>Método de autenticación</td>
+                                            <td>Secure Shell (SSH), RADIUS, TACACS+</td>
                                         </tr>
                                         <tr>
-                                            <td>802.1x</td>
-                                            <td>+</td>
+                                            <td>Funciones</td>
+                                            <td>	Conmutación de capa 3, conmutación de capa 2, compatibilidad con DHCP, compatibilidad con VLAN, espionaje IGMP, compatibilidad con syslog, 
+                                                prevención de ataques DoS, duplicación de puertos, compatibilidad con DiffServ, cola ponderada de round-robin (WRR), control de tormentas de 
+                                                difusión, compatibilidad con IPv6, control de tormentas de multidifusión, control de tormentas de unidifusión, firmware actualizable, compatibilidad 
+                                                con el protocolo de árbol de expansión (STP), compatibilidad con el protocolo de árbol de expansión rápida (RSTP), compatibilidad con el protocolo 
+                                                de árbol de expansión múltiple (MSTP), compatibilidad con el protocolo trivial de transferencia de archivos (TFTP), compatibilidad con listas de 
+                                                control de acceso (ACL), calidad de servicio (QoS), compatibilidad con tramas jumbo, MLD snooping</td>
                                         </tr>
                                         <tr>
-                                            <td>ACL</td>
-                                            <td>L1-L4</td>
+                                        <th colspan="2" style="text-align: center">Normas conformes</th>
                                         </tr>
                                         <tr>
-                                            <td>SNMP</td>
-                                            <td>v1, 2c, 3</td>
+                                            <td>RAM</td>
+                                            <td>128 MB</td>
                                         </tr>
                                         <tr>
-                                            <td>Tabla de direcciones MAC</td>
-                                            <td>8000</td>
+                                            <td>Memoria flash</td>
+                                            <td>16 MB de flash</td>
                                         </tr>
                                         <tr>
-                                            <td>Tecnología de eficiencia energética</td>
-                                            <td>+</td>
+                                            <td>Indicadores de estado</td>
+                                            <td>Actividad del enlace, velocidad de transmisión del puerto, sistema</td>
                                         </tr>
                                         <tr>
-                                            <td>Apilamiento</td>
-                                            <td>-</td>
+                                        <th colspan="2" style="text-align: center">Expansión / Conectividad</th>
                                         </tr>
                                         <tr>
-                                            <td>Interfaz de administración web</td>
-                                            <td>+</td>
+                                            <td>Interfaces</td>
+                                            <td>8 x 10Base-T/100Base-TX - RJ-45 - PoE ¦ 1 x consola - 9 pines D-Sub (DB-9) - gestión ¦ 2 x 10Base-T/100Base-TX/1000Base-T - RJ-45 / SFP (combo)</td>
                                         </tr>
                                         <tr>
-                                            <td>Montaje en rack de 19 pulgadas</td>
-                                            <td>+</td>
+                                        <th colspan="2" style="text-align: center">Poder</th>
                                         </tr>
                                         <tr>
-                                        <th colspan="2" style="text-align: center">Garantia</th>
+                                            <td>Dispositivo de alimentación</td>
+                                            <td>Adaptador de corriente - externo</td>
                                         </tr>
                                         <tr>
-                                            <td>Plazo de garantía </td>
-                                            <td>Garantía limitada de por vida con reemplazo anticipado al siguiente día hábil</td>
+                                            <td>Voltaje requerido</td>
+                                            <td>CA 120/230 V ( 50/60 Hz )</td>
                                         </tr>
-                                       
+                                        <tr>
+                                        <th colspan="2" style="text-align: center">Medidas</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Ancho</td>
+                                            <td>11 pulgadas</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Profundidad</td>
+                                            <td>6,7 pulgadas</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Altura</td>
+                                            <td>1,45 pulgadas</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Profundidad</td>
+                                            <td>6,7 pulgadas</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Peso</td>
+                                            <td>2.73 libras</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cables incluidos</td>
+                                            <td>1 x cable serial</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Kit de montaje en rack</td>
+                                            <td>Incluido</td>
+                                        </tr>
+                                        <tr>
+                                            <td>MTBF</td>
+                                            <td>945.042 horas (@40C)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Normas conformes</td>
+                                            <td>UL 60950, FCC Parte 15 A, CSA 22.2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Localización</td>
+                                            <td>	Chino (simplificado), Inglés, Alemán, Francés, Italiano, Español, Japonés</td>
+                                        </tr>
+                                        <tr>
+                                        <th colspan="2" style="text-align: center">Garantía del fabricante</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Servicio y soporte</td>
+                                            <td>	Garantía limitada de por vida</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Detalles de servicio y soporte</td>
+                                            <td>Garantía limitada - reemplazo - vida útil - tiempo de respuesta: siguiente día hábil ¦ Soporte técnico - soporte web - 1 año ¦ Soporte técnico - consultoría telefónica - 1 año</td>
+                                        </tr>
+                                        <tr>
+                                        <th colspan="2" style="text-align: center">Parámetros ambientales</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Temperatura mínima de funcionamiento</td>
+                                            <td>32 °F</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Temperatura máxima de funcionamiento</td>
+                                            <td>104 °F</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Rango de humedad en funcionamiento</td>
+                                            <td>10 - 90% (sin condensación)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Temperatura mínima de almacenamiento</td>
+                                            <td>-4 °F</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Temperatura máxima de almacenamiento</td>
+                                            <td>158 °F</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Almacenamiento en el rango de humedad</td>
+                                            <td>10 - 90% (sin condensación)</td>
+                                        </tr>
                                     </table>
 
                             </div>

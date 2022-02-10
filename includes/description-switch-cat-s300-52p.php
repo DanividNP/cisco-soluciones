@@ -2,16 +2,16 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF302-08</h3>
-                <h5>Switch administrado de 8 puertos 10/100 con enlaces ascendentes Gigabit</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s300-8.png" alt=""></center>
+                <h3 class="title-border">Cisco SG300-52P</h3>
+                <h5>Switch gestionado Gigabit PoE de 52 puertos</h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s300-52.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
 		              	<div class="panel panel-default">
 			                <div class="panel-heading">
 				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Fast Ethernet Switch</a> 
+				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Gigabit Ethernet Switch</a> 
 				                </h4>
 			                </div>
 			                <div id="collapseOne" class="panel-collapse collapse in">
@@ -20,13 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF302-08 8-Port 10/100 Managed Switch with Gigabit Uplinks</strong></p>
+                                    <p align='justify'><strong>Cisco SG300-52 Switch gestionado Gigabit de 52 puertos</strong></p>
                                     <!--<p align='justify'>SG250X-48P 48-Port Gigabit PoE Smart with 10G Uplinks</p>-->
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SRW208G-K9-NA<br>
-                                        <strong>Precio:  $285.00</strong></p>
+                                    <p align='justify'>#SRW2048-K9-NA<br>
+                                       <!-- <strong>Precio: $762.00</strong></p>-->
                                 </div>
 			                </div>
                             </div>
@@ -221,23 +221,19 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF302-08</th>
+                                            <th colspan="2" style="text-align: center">CE300-52</th>
                                         </tr>
                                         
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
                                         </tr>
                                         <tr>
-                                            <td>Total de puertos del sistema</td>
-                                            <td>8 Fast Ethernet + 2 Gigabit Ethernet</td>
+                                            <td>Puertos GE de cobre</td>
+                                            <td>50</td>
                                         </tr>
                                         <tr>
-                                            <td>Puertos RJ-45 </td>
-                                            <td>8 Fast Ethernet</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Puertos combinados</td>
-                                            <td>Combinación de 2 Gigabit Ethernet</td>
+                                            <td>Combo Mini-GBIC GE Ports *</td>
+                                            <td>2</td>
                                         </tr>
                                         <tr>
                                             <td>PoE </td>
@@ -245,7 +241,7 @@
                                         </tr>
                                         <tr>
                                             <td>Capacidad del conmutador</td>
-                                            <td>5,6 Gbps</td>
+                                            <td>104 Gbps</td>
                                         </tr>
                                         <tr>
                                             <td>Árbol de expansión (STP, RSTP, MSTP)</td>
@@ -277,15 +273,15 @@
                                         </tr>
                                         <tr>
                                             <td>ACL</td>
-                                            <td>L1-L4</td>
+                                            <td>	L1-L4</td>
                                         </tr>
                                         <tr>
                                             <td>SNMP</td>
-                                            <td>v1, 2c, 3</td>
+                                            <td>	v 1,2,3</td>
                                         </tr>
                                         <tr>
                                             <td>Tabla de direcciones MAC</td>
-                                            <td>8000</td>
+                                            <td>	8000</td>
                                         </tr>
                                         <tr>
                                             <td>Tecnología de eficiencia energética</td>
@@ -312,6 +308,7 @@
                                         </tr>
                                        
                                     </table>
+
 
                             </div>
                             <div class="tab-pane" id="tab3">

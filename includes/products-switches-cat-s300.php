@@ -96,7 +96,7 @@
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
                 <h2 class="title">Cisco 300 Series Gigabit</h2>
                         </div>
-                        <div class="col-sm-4 portfolio-static-item">
+                       <!-- <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                                 <figure class="effect-oscar">
                                     <img src="images/switches/SG300-10-md.png" alt="">
@@ -113,7 +113,7 @@
                                             <br><br>    
                                         </ul>
                                 </div>					
-                            </div><!--/ grid end -->
+                            </div>/ grid end -->
                         </div><!--/ item 1 end -->
 
                         <div class="col-sm-4 portfolio-static-item">
@@ -152,7 +152,7 @@
                                         <ul>
                                             <li>26 puertos GE de cobre</li>
                                             <li>Capacidad de conmutación de 56 Gbps</li>
-                                            <br><br>
+                                            <br><br><br>
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -173,7 +173,7 @@
                                         <ul>
                                             <li>26 puertos GE de cobre</li>
                                             <li>Capacidad de conmutación de 56 Gbps</li>
-                                            <li>PoE de 180 W</li>
+                                            <li>PoE de 180 W</li><br><br>
                                         </ul>
                                 </div>					
                             </div><!--/ grid end -->
@@ -199,7 +199,7 @@
                             </div><!--/ grid end -->
                         </div><!--/ item 5 end -->
 
-                        <div class="col-sm-4 portfolio-static-item">
+                        <!--<div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
                                     <img src="images/switches/SG300-52-md.png" alt="">
@@ -217,8 +217,8 @@
                                             <li>PoE de 375 W</li>
                                         </ul>
                                 </div>					
-                            </div><!--/ grid end -->
-                        </div><!--/ item 6 end -->
+                            </div>/ grid end 
+                        </div>--><!--/ item 6 end -->
 
 
         </div><!-- Content row end -->

@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco SF302-08</h3>
-                <h5>Switch administrado de 8 puertos 10/100 con enlaces ascendentes Gigabit</h5>
-                <center> <img class="img-responsive" src="images/switches/cat-s300-8.png" alt=""></center>
+                <h3 class="title-border">Cisco SG300-10</h3>
+                <h5>Switch Gestionado Gigabit de 10 Puertos</h5>
+                <center> <img class="img-responsive" src="images/switches/cat-s300-48.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,13 +20,13 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco SF302-08 8-Port 10/100 Managed Switch with Gigabit Uplinks</strong></p>
+                                    <p align='justify'><strong>Cisco SF300-48 48-Port 10/100 Managed Switch with Gigabit Uplinks</strong></p>
                                     <!--<p align='justify'>SG250X-48P 48-Port Gigabit PoE Smart with 10G Uplinks</p>-->
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#SRW208G-K9-NA<br>
-                                        <strong>Precio:  $285.00</strong></p>
+                                    <p align='justify'>#SRW248G4-K9-NA<br>
+                                        <strong>Precio: $762.00</strong></p>
                                 </div>
 			                </div>
                             </div>
@@ -221,7 +221,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">SF302-08</th>
+                                            <th colspan="2" style="text-align: center">SF300-24PP</th>
                                         </tr>
                                         
                                         <tr>
@@ -229,11 +229,11 @@
                                         </tr>
                                         <tr>
                                             <td>Total de puertos del sistema</td>
-                                            <td>8 Fast Ethernet + 2 Gigabit Ethernet</td>
+                                            <td>48 Fast Ethernet + 4 Gigabit Etherne</td>
                                         </tr>
                                         <tr>
                                             <td>Puertos RJ-45 </td>
-                                            <td>8 Fast Ethernet</td>
+                                            <td>48 Fast Ethernet</br>2 Gigabit Ethernet</td>
                                         </tr>
                                         <tr>
                                             <td>Puertos combinados</td>
@@ -245,7 +245,7 @@
                                         </tr>
                                         <tr>
                                             <td>Capacidad del conmutador</td>
-                                            <td>5,6 Gbps</td>
+                                            <td>17,6 Gbps</td>
                                         </tr>
                                         <tr>
                                             <td>Árbol de expansión (STP, RSTP, MSTP)</td>
@@ -277,15 +277,15 @@
                                         </tr>
                                         <tr>
                                             <td>ACL</td>
-                                            <td>L1-L4</td>
+                                            <td>	L1-L4</td>
                                         </tr>
                                         <tr>
                                             <td>SNMP</td>
-                                            <td>v1, 2c, 3</td>
+                                            <td>	v 1,2,3</td>
                                         </tr>
                                         <tr>
                                             <td>Tabla de direcciones MAC</td>
-                                            <td>8000</td>
+                                            <td>	8000</td>
                                         </tr>
                                         <tr>
                                             <td>Tecnología de eficiencia energética</td>
