@@ -277,7 +277,7 @@
                                         </tr>
                                         <tr>
                                             <td>SNMP</td>
-                                            <td>	v 1,2c,3</td>
+                                            <td>	v 1,2,3</td>
                                         </tr>
                                         <tr>
                                             <td>Tabla de direcciones MAC</td>
