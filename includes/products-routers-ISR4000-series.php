@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR4331.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1001X.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR4331.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -51,7 +51,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR4431.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1002.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR4431.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -72,7 +72,7 @@
                 <figure class="effect-oscar">
                         <img src="images/routers/ISR4461.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="routers-cisco-ASR1002X.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="routers-cisco-ISR4461.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>

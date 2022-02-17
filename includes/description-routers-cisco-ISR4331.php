@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router Cisco ISR 4221</h3>
+                <h3 class="title-border">Router Cisco ISR 4331</h3>
                 <h5>Router de Servicios de Integrados de la serie ISR 4000</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 4221.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 4331.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -21,12 +21,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 4221 with 2 onboard GE, 2 NIM slots, 1 ISC slot, 8 GB Flash Memory default, 4 GB DRAM default</strong></p>
+                                    <p align='justify'><strong>Cisco ISR 4331 with 3 onboard GE, 2 NIM slots, 1 ISC slot, 1 SM slots, 4 GB Flash Memory default, 4 GB DRAM default</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ISR4221/K9<br>
-                                        <strong>Precio: $1,936.84</strong></p>
+                                    <p align='justify'>#ISR4331/K9<br>
+                                        <strong>Precio: $5,222.78</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -453,23 +453,23 @@
                                     </tr>-->
                                     <tr>
                                         <th>Especificaciones técnicas</th>
-                                        <th>Cisco 4221</th>
+                                        <th>Cisco 4331</th>
                                     </tr>
                                     <tr>
                                         <td>Rendimiento agregado (predeterminado)</td>
-                                        <td>35Mbps</td>
+                                        <td>100Mbps</td>
                                     </tr>
                                     <tr>
                                         <td>Rendimiento agregado (licencia de rendimiento)</td>
-                                        <td>75Mbps</td>
+                                        <td>300Mbps</td>
                                     </tr>
                                     <tr>
                                         <td>CEF agregado solo rendimiento (licencia Boost)</td>
-                                        <td>1,2 Gbps</td>
+                                        <td>Más de 2 Gbps</td>
                                     </tr>
                                     <tr>
                                         <td>Total de puertos WAN o LAN 10/100/1000 integrados</td>
-                                        <td>2</td>
+                                        <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Total de puertos WAN o LAN integrados de 10 Gbps</td>
@@ -481,11 +481,11 @@
                                     </tr>
                                     <tr>
                                         <td>Puertos basados ​​en SFP</td>
-                                        <td>1</td>
+                                        <td>2</td>
                                     </tr>
                                     <tr>
                                         <td>Ranuras para módulos de servicio mejoradas</td>
-                                        <td>0</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
                                         <td>Ranuras de módulo de servicio de doble ancho</td>
@@ -497,11 +497,11 @@
                                     </tr>
                                     <tr>
                                         <td>OIR (todos los módulos de E/S)</td>
-                                        <td>No</td>
+                                        <td>sí</td>
                                     </tr>
                                     <tr>
                                         <td>Ranura ISC integrada</td>
-                                        <td>No</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
                                         <td>Memoria predeterminada de doble velocidad de datos 3 (DDR3) código de corrección de errores (ECC) DRAM (control combinado/servicios/planos de datos)</td>
@@ -509,7 +509,7 @@
                                     </tr>
                                     <tr>
                                         <td>Memoria máxima DDR3 ECC DRAM (control combinado/servicios/planos de datos)</td>
-                                        <td>4 GB</td>
+                                        <td>16 GB</td>
                                     </tr>
                                     <tr>
                                         <td>Memoria predeterminada DDR3 ECC DRAM (plano de datos)</td>
@@ -529,11 +529,11 @@
                                     </tr>
                                     <tr>
                                         <td>Memoria flash predeterminada</td>
-                                        <td>8GB</td>
+                                        <td>4GB</td>
                                     </tr>
                                     <tr>
                                         <td>Memoria flash máxima</td>
-                                        <td>8GB</td>
+                                        <td>16GB</td>
                                     </tr>
                                     <tr>
                                         <td>Ranuras USB 2.0 externas (tipo A)</td>
@@ -541,19 +541,19 @@
                                     </tr>
                                     <tr>
                                         <td>Puerto de consola USB -tipo B mini (hasta 115,2 kbps)</td>
-                                        <td>0</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
                                         <td>Puerto serie de consola - RJ45 (hasta 115,2 kbps)</td>
-                                        <td>1 (puerto combinado CON/AUX)</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
                                         <td>Puerto auxiliar serie - RJ45 (hasta 115,2 kbps)</td>
-                                        <td>1 (puerto combinado CON/AUX)</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
                                         <td>Opciones de fuente de alimentación</td>
-                                        <td>Solo CA externa</td>
+                                        <td>Interno: CA, CC y PoE</td>
                                     </tr>
                                     <tr>
                                         <td>Fuente de alimentación redundante</td>
@@ -568,7 +568,7 @@
                                     </tr>
                                     <tr>
                                         <td>Voltaje de entrada de CC<br>Voltaje de entrada Corriente de entrada</td>
-                                        <td>NA<br>NA</td>
+                                        <td>24 - 60V<br>14 - 5A</td>
                                     </tr>
                                     <tr>
                                         <td>Frecuencia de entrada de CA</td>
@@ -576,14 +576,14 @@
                                     </tr>
                                     <tr>
                                         <td>Rango de corriente de entrada de CA, fuente de alimentación de CA (máxima)</td>
-                                        <td>1.5 a 0.6A</td>
+                                        <td>3 a 1.3A</td>
                                     </tr>
                                     <tr>
                                         <th colspan="2" style="text-align: center">Tamaños y Pesos</th>
                                     </tr>
                                     <tr>
                                         <td>Dimensiones (Al. x An. x Pr.)</td>
-                                        <td>1,72 x 12,7 x 10 pulgadas (43,7 x 322,6 x 254 mm)</td>
+                                        <td>1,75 x 17,25 x 17,25 pulgadas (44,45 x 438,15 x 438,15 mm)</td>
                                     </tr>
                                     <tr>
                                         <td>Montaje en pared</td>
@@ -591,11 +591,11 @@
                                     </tr>
                                     <tr>
                                         <td>Peso típico (totalmente cargado con módulos)</td>
-                                        <td>8,11 libras (3,68 kg)</td>
+                                        <td>16,1 libras (7,3 kg)</td>
                                     </tr>
                                     <tr>
                                         <td>MTBF (Horas)</td>
-                                        <td>593270</td>
+                                        <td>587250</td>
                                     </tr>
                                     <tr>
                                        <th colspan="2" style="text-align: center">Especificaciones ambientales</th>

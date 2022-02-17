@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router Cisco ISR 4221</h3>
-                <h5>Router de Servicios de Integrados de la serie ISR 4000</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco Integrated Services Router 4221.png" alt=""></center>
+                <h3 class="title-border">Routers de Sevicios Integrados Cisco 800M</h3>
+                <h5>Soluciones de última milla flexibles, altamente seguras y confiables</h5>
+                <center> <img class="img-responsive" src="images/routers/Cisco 800M Integrated Services Router.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -12,7 +12,7 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 4000 Series ISRs</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Cisco 800M Series Accessories</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -21,12 +21,27 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ISR 4221 with 2 onboard GE, 2 NIM slots, 1 ISC slot, 8 GB Flash Memory default, 4 GB DRAM default</strong></p>
+                                    <p align='justify'><strong>Cisco 800M ISR Dual SIM-multimode 3G WAN Interface Module</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ISR4221/K9<br>
-                                        <strong>Precio: $1,936.84</strong></p>
+                                    <p align='justify'>#WIM-3G<br>
+                                        <strong> </strong></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse in">
+                            <div class="panel-body">
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Rack-mount/Wall-mount Kit for Cisco 800M ISR Router</strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#ACS-800M-RM-19<br>
+                                        <strong>Precio: $59.14</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -51,150 +66,35 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
                                 <h2>Descripción general:</h2>
-                                <h3>Arma tu sucursal digital</h3>
-                                <p align="justify">Los enrutadores de servicios integrados de la serie 4000 de Cisco brindan enrutamiento, hospedaje, seguridad y conmutación, todo en una única plataforma confiable. Cree su sucursal digital para que sea segura, rápida y escalable. Adopte rápidamente las últimas tecnologías, desde SD-WAN hasta la computación perimetral, mientras satisface las explosivas necesidades de rendimiento de la red impulsadas por las aplicaciones en la nube y la transformación digital.
-                                    <br><br>El enrutador de servicios integrados (ISR) de la familia Cisco 4000 revoluciona las comunicaciones WAN en la rama empresarial. Con nuevos niveles de convergencia y capacidades de red inteligente incorporadas, aborda específicamente la creciente necesidad de redes con reconocimiento de aplicaciones en sitios empresariales distribuidos. Estas ubicaciones tienden a tener recursos de TI reducidos. Pero a menudo también tienen una necesidad cada vez mayor de comunicación directa tanto con los centros de datos privados como con las nubes públicas a través de diversos enlaces, incluidas las VPN de conmutación de etiquetas multiprotocolo (MPLS) e Internet.
+                                <p align="justify">El router de servicios integrados (ISR) de la serie 800M de Cisco® es una plataforma modular de la familia de productos ISR de la serie 800 de Cisco. Diseñado para sitios pequeños y medianos, proporciona una variedad flexible de opciones de conectividad WAN con una fácil migración entre los tipos de interfaz WAN. Ejecuta el software Cisco IOS® y ofrece seguridad integrada en una sola imagen de software sin necesidad de licencias de software adicionales. También integra capacidades de alojamiento de aplicaciones directamente en el enrutador.
+                                    <br><br>El Cisco 800M ISR es el más adecuado para los siguientes usos:
+                                    <br>
+                                <ul>
+                                    <li>Conectividad WAN segura para sucursales</li>
+                                    <li>Transmisión de datos transaccionales desde cajeros automáticos, terminales de punto de venta y quioscos</li>
+                                    <li>Respaldo celular a enlaces cableados primarios</li>
+                                    <li>Conectividad rápida y fácil en países donde la mayoría de la infraestructura WAN es celular: la conectividad 3G se puede usar para conexiones principales, conexiones de respaldo o ambas.</li>
+                                    <li>Ubicaciones con servicios WAN que requieren conectividad serial</li>
+                                    <li>Implementaciones que requieren recopilación y análisis de datos locales en tiempo real de máquinas expendedoras, dispositivos de Internet de las cosas (IoT) y sensores M2M en otras aplicaciones</li>
+                                </ul>
+                                <br>
+                                Obtenga una variedad flexible de opciones de conectividad WAN con una migración sencilla entre los tipos de interfaz WAN. El ISR de la serie Cisco 800M es una plataforma modular diseñada para sitios muy pequeños. Se ejecuta en el software Cisco IOS y ofrece seguridad integrada en una sola imagen. No se requieren licencias de software adicionales. Y las capacidades de alojamiento de aplicaciones están integradas directamente en el enrutador.
                                 </p>
                             </div>
 
                             <div class="tab-pane" id="tab4">
                                 <h2>Características y Beneficios:</h2>
-                                <div class="row about-wrapper-bottom">
-                                    <div class="col-md-6 ts-padding about-message">
-                                        <center> <img class="img-responsive" src="images/iconos/Faster.png" alt=""></center>
-                                        <center><h3>Rendimiento predecible</h3></center>
-                                        <p>Obtenga una arquitectura de alta disponibilidad diseñada para sucursales de misión crítica. El ISR 4000 ofrece modularidad y rendimiento predecible de alta velocidad para conectarse desde la mayoría de las ubicaciones remotas.</p>
-                                    </div>
-                                    <div class="col-md-6 ts-padding about-message">
-                                        <center> <img class="img-responsive" src="images/iconos/Feat.png" alt=""></center>
-                                        <center><h3>Servicios de red</h3></center>
-                                        <p>Implemente servicios de red integrados clave para su sucursal en minutos, virtualmente o en las instalaciones, sin sacrificar el rendimiento.</p>
-                                        <br>
-                                    </div>
-                                </div> 
-                                <div class="row about-wrapper-top">
-                                    <div class="col-md-6 ts-padding about-message">
-                                        <center> <img class="img-responsive" src="images/iconos/Feat7.png" alt=""></center>
-                                        <center><h3>Gestión simplificada</h3></center>
-                                        <p>Configure y supervise su red y haga cumplir las políticas comerciales a través de Cisco DNA Center y Cisco SD-WAN. Simplifique la automatización de la red y convierta las horas de trabajo en minutos.</p>
-                                    </div><!--/ About message end -->
-                                    <div class="col-md-6 ts-padding about-message">
-                                        <center> <img class="img-responsive" src="images/iconos/Feat8.png" alt=""></center>
-                                        <center><h3>Protección contra amenazas</h3></center>
-                                        <p>Proteja su sucursal a través de LAN y WAN y en la nube con seguridad integrada en el enrutador. Ya no necesita un dispositivo de seguridad separado.</p>
-                                        <br>
-                                    </div>
-                                </div>
-                                <p align="justify">Los ISR de la familia Cisco 4000 le brindan funciones de software Cisco® Software Defined WAN (SDWAN) y una infraestructura de sucursal convergente. Junto con un rendimiento superior, estas capacidades forman los componentes básicos de las soluciones WAN para sucursales de próxima generación.</p>
-                                <h3>WAN definida por software de Cisco</h3>
-                                <p align="justify">Cisco SDWAN es un conjunto de servicios de software inteligente que le permite conectar usuarios, dispositivos y ubicaciones de sucursales de manera confiable y segura a través de un conjunto diverso de enlaces de transporte WAN. Los enrutadores habilitados para SDWAN, como el ISR 4000, enrutan dinámicamente el tráfico a través del "mejor" enlace en función de las condiciones de la red y de la aplicación actualizadas al minuto para obtener excelentes experiencias de aplicación. Obtiene un control estricto sobre el rendimiento de las aplicaciones, el uso del ancho de banda, la privacidad de los datos y la disponibilidad de sus enlaces WAN: control que necesita a medida que sus sucursales realizan mayores volúmenes de negocios de misión crítica.</p>
-                                <h3>Infraestructura de sucursal convergente de Cisco</h3>
-                                <p align="justify">Los ISR de la serie 4000 de Cisco consolidan muchas funciones de TI imprescindibles, incluidos los recursos de red, computación y almacenamiento. Los enrutadores integrados de alto rendimiento ejecutan múltiples servicios simultáneos, incluidos el cifrado, la gestión del tráfico y la optimización de WAN, sin ralentizar el rendimiento de datos. Y puede activar nuevos servicios bajo demanda a través de un simple cambio de licencia.</p>
-                                <h3>Redes basadas en la intención de Cisco y arquitectura de red digital (Cisco DNA)</h3>
-                                <p align="justify">La arquitectura de red digital de Cisco (Cisco DNA) es una arquitectura abierta, extensible e impulsada por software que proporciona una innovación más rápida, lo que ayuda a generar conocimientos más profundos y ofrece experiencias excepcionales en muchas aplicaciones diferentes. Cisco DNA se basa en redes basadas en la intención, un enfoque revolucionario en redes que ayuda a las organizaciones a automatizar, simplificar y proteger la red.</p>
-                                <p>La red Cisco DNA basada en la intención es:</p>
-                                <ul class="listas">
-                                    <li>Informado por el contexto: interpreta cada byte de datos que fluye a través de él, lo que da como resultado una mejor seguridad, experiencias más personalizadas y operaciones más rápidas.</li>
-                                    <li>Impulsado por la intención: traduce su intención en la configuración de red correcta, lo que hace posible administrar y aprovisionar múltiples dispositivos y cosas en minutos.</li>
-                                    <li>Impulsado por la intuición: aprende continuamente de las cantidades masivas de datos que fluyen a través de él y convierte esos datos en información procesable. Le ayuda a resolver problemas antes de que se conviertan en problemas y a aprender de cada incidente.</li>
+                                <p align="justify">Como parte de la familia ISR de la serie 800, el ISR 800M es el primer enrutador de la industria que admite múltiples tecnologías 3G en la misma interfaz WAN conectable (Cisco WIM-3G). El resultado es que los clientes obtienen independencia del proveedor de servicios. La plataforma también está diseñada para funcionar con versiones futuras y ofrece altos recursos informáticos y de almacenamiento.
+                                    <br>Proporciona un entorno abierto y ampliable para desarrollar y alojar aplicaciones en el perímetro de la red para el procesamiento local directamente en el enrutador. Los enrutadores admiten la administración de un solo panel y la MIB del Protocolo simple de administración de red (SNMP) celular 3G.
+                                </p>
+                                <h3>Características clave</h3>
+                                <ul align="justify">
+                                    <li><strong>Conectividad segura:</strong>la seguridad integrada de clase empresarial que incluye VPN, firewall y filtrado de contenido ofrece protección contra todos los vectores de amenazas.</li>
+                                    <li><strong>Flexibilidad entre la conectividad WAN inalámbrica y por cable:</strong>la amplia compatibilidad con las tecnologías inalámbricas y por cable facilita el cambio de proveedores y reduce los costos de WAN al tiempo que aumenta la disponibilidad y la confiabilidad de la red.</li>
+                                    <li><strong>Menores gastos de capital y operación:</strong>la única plataforma semimodular incluye un conmutador Gigabit Ethernet integrado, enrutamiento, seguridad multicapa, el paquete completo de software Cisco IOS, múltiples opciones de interfaz WAN y alojamiento de aplicaciones Cisco IOx.</li>
+                                    <li><strong>Plataforma de desarrollo abierta:</strong>el alojamiento de aplicaciones nativas mejora el rendimiento de la recopilación y el análisis de datos locales en tiempo real.</li>
+                                    <li><strong>Gestión de red integral y centralizada:</strong>la gestión integrada de dispositivos incluye la gestión de políticas de Cisco con supervisión e informes. Esto también incluye soporte para aprovisionamiento y administración centralizados de clase empresarial utilizando Cisco Prime Infrastructure.</li>
                                 </ul>
-                                <p align="justify">Cisco DNA Center proporciona un tablero de administración centralizado en toda su red: la sucursal, el campus, el centro de datos y la nube. En lugar de depender de la administración de caja por caja, puede diseñar, aprovisionar y establecer políticas de extremo a extremo desde la única interfaz de Cisco DNA Center. Esto le permite responder a las necesidades de la organización con mayor rapidez y simplificar las operaciones diarias. Cisco DNA Analytics and Assurance y Cisco Network Data Platform (NDP) lo ayudan a aprovechar al máximo su red recopilando y poniendo en práctica información de forma continua. Cisco DNA es abierto, extensible y programable en cada capa. Integra tecnología de Cisco y de terceros, API abiertas y una plataforma de desarrollo para respaldar un rico ecosistema de aplicaciones habilitadas para la red.</p>
-
-                                <h3>Aspectos destacados de las características generales de ISR de la familia Cisco 4000</h3>
-                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
-                                    <tr>
-                                        <th>Requisito(s) comercial(es)</th>
-                                        <th>Característica/Solución</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Rendimiento
-                                            <ul class="listas">
-                                                <li>Rendimiento</li>
-                                                <li>Fiabilidad del servicio</li>
-                                            </ul>
-                                        </td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>Servicios de software concurrentes a velocidades de hasta 2 Gbps. La arquitectura de backplane admite comunicación de módulo a módulo de alto ancho de banda a velocidades de hasta 10 Gbps.</li>
-                                                <li>Una arquitectura multinúcleo distribuida con el primer plano de servicios internos de la industria.</li>
-                                                <li>Instalación remota de servicios con reconocimiento de aplicaciones, que se ejecutan de manera idéntica a sus contrapartes en dispositivos dedicados.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Menores gastos de WAN</td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>Solución SDWAN integrada para crear conexiones a Internet de clase empresarial y de bajo costo.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Paga a medida que creces
-                                            <ul class="listas">
-                                                <li>Modelo de actualización de rendimiento</li>
-                                                <li>Protección de inversiones</li>
-                                                <li>Gestión del presupuesto de gastos de capital</li>
-                                            </ul>
-                                        </td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>La capacidad del enrutador se puede aumentar con una actualización de licencia remota de rendimiento bajo demanda (sin actualización de hardware) para obtener ahorros excepcionales.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Experiencias de aplicaciones de usuario superiores y seguras</td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>Paquete de software ISR-AX "Application Experience" con servicios avanzados de enrutamiento y monitoreo de red.</li>
-                                                <li>VPN multipunto dinámica (DMVPN), firewalls basados ​​en zonas, prevención de intrusiones (Snort & Umbrella Branch) y administración de contenido mediante la seguridad web en la nube de Cisco y OpenDNS que protegen los datos, brindan credenciales de autenticación y transmisiones no retransmitidas a través del centro de datos.</li>
-                                                <li>La función de inicio seguro realiza la autenticación basada en hardware del software del cargador de inicio para evitar que se inicie en el sistema software malintencionado o no deseado.</li>
-                                                <li>La firma de código verifica las firmas digitales de los ejecutables antes de la carga para evitar la ejecución de código alterado o corrupto.</li>
-                                                <li>La autenticación de hardware protege contra la falsificación de hardware mediante el uso de un silicio a prueba de manipulaciones incorporado, que incluye módulos reemplazables en campo. Si la autenticación falla, el módulo no puede iniciarse.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Consolidación de TI, ahorro de espacio y mejora del costo total de propiedad (TCO)</td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>La plataforma única de sucursal convergente integra enrutamiento, conmutación, servidor virtual, almacenamiento, seguridad, comunicaciones unificadas, optimización de WAN y herramientas de gestión del rendimiento.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Continuidad del negocio y mayor resiliencia</td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>Los modelos de la serie ISR 4400 (ISR 4461, 4451 y 4431) admiten fuentes de alimentación duales integradas para respaldo. Toda la familia ISR 4000 admite una fuente de alimentación opcional capaz de proporcionar alimentación PoE adicional a los terminales.</li>
-                                                <li>Interfaces de red modulares con diversas opciones de conexión para equilibrio de carga y resistencia de red.</li>
-                                                <li>Interfaces modulares con extracción e inserción en línea (OIR) para actualizaciones de módulos sin interrupción de la red.</li>
-                                                <li>Cisco Unified Survivable Remote Site Telephony (SRST), que sirve como complemento de resiliencia para Cisco Hosted Collaboration Solution (HCS), un servicio de UC basado en la nube de Cisco.</li>
-                                                <li>Soporte para enlaces de acceso múltiples y diversos: T1/E1, T3/E3, Serial, xDSL, Gigabit y Ten-Gigabit Ethernet.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Reduzca los costos de telefonía con VoIP y experiencias ricas en medios</td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>Puerta de enlace analógica/digital de alto rendimiento, que permite VoIP a través de troncales de protocolo de inicio de sesión (SIP) más económicas.</li>
-                                                <li>IP PBX integrado ( Cisco Unified Communications Express ) y Session Border Controller ( Cisco Unified Border Element o CUBE).</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Manejabilidad y soporte más fáciles</td>
-                                        <td>
-                                            <ul class="listas">
-                                                <li>Imagen de software única y universal para todas las funciones y flexibilidad de licencias de rendimiento bajo demanda.</li>
-                                                <li>No se necesitan servicios ni soporte adicionales para computación y almacenamiento.</li>
-                                                <li>Compatible con herramientas de gestión de Cisco y de terceros, con programabilidad y automatización.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                </table>
 
                             </div>
 
@@ -453,193 +353,195 @@
                                     </tr>-->
                                     <tr>
                                         <th>Especificaciones técnicas</th>
-                                        <th>Cisco 4221</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Rendimiento agregado (predeterminado)</td>
-                                        <td>35Mbps</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rendimiento agregado (licencia de rendimiento)</td>
-                                        <td>75Mbps</td>
-                                    </tr>
-                                    <tr>
-                                        <td>CEF agregado solo rendimiento (licencia Boost)</td>
-                                        <td>1,2 Gbps</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Total de puertos WAN o LAN 10/100/1000 integrados</td>
-                                        <td>2</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Total de puertos WAN o LAN integrados de 10 Gbps</td>
-                                        <td>—</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Puertos basados ​​en RJ-45</td>
-                                        <td>2</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Puertos basados ​​en SFP</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ranuras para módulos de servicio mejoradas</td>
-                                        <td>0</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ranuras de módulo de servicio de doble ancho</td>
-                                        <td>0</td>
-                                    </tr>
-                                    <tr>
-                                        <td>ranuras NIM</td>
-                                        <td>2</td>
-                                    </tr>
-                                    <tr>
-                                        <td>OIR (todos los módulos de E/S)</td>
-                                        <td>No</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ranura ISC integrada</td>
-                                        <td>No</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria predeterminada de doble velocidad de datos 3 (DDR3) código de corrección de errores (ECC) DRAM (control combinado/servicios/planos de datos)</td>
-                                        <td>4 GB</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria máxima DDR3 ECC DRAM (control combinado/servicios/planos de datos)</td>
-                                        <td>4 GB</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria predeterminada DDR3 ECC DRAM (plano de datos)</td>
-                                        <td>N / A</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria máxima DDR3 ECC DRAM (plano de datos)</td>
-                                        <td>N / A</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria predeterminada DDR3 ECC DRAM (plano de control/servicios)</td>
-                                        <td>N / A</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria máxima DDR3 ECC DRAM (plano de control/servicios)</td>
-                                        <td>N / A</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria flash predeterminada</td>
-                                        <td>8GB</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Memoria flash máxima</td>
-                                        <td>8GB</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ranuras USB 2.0 externas (tipo A)</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Puerto de consola USB -tipo B mini (hasta 115,2 kbps)</td>
-                                        <td>0</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Puerto serie de consola - RJ45 (hasta 115,2 kbps)</td>
-                                        <td>1 (puerto combinado CON/AUX)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Puerto auxiliar serie - RJ45 (hasta 115,2 kbps)</td>
-                                        <td>1 (puerto combinado CON/AUX)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Opciones de fuente de alimentación</td>
-                                        <td>Solo CA externa</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Fuente de alimentación redundante</td>
-                                        <td>N / A</td>
-                                    </tr>
-                                    <tr>
-                                        <th colspan="2" style="text-align: center">Especificaciones de energía</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Voltaje de entrada de CA</td>
-                                        <td>Rango automático de 100 a 240 VCA</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Voltaje de entrada de CC<br>Voltaje de entrada Corriente de entrada</td>
-                                        <td>NA<br>NA</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Frecuencia de entrada de CA</td>
-                                        <td>47 a 63 Hz</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rango de corriente de entrada de CA, fuente de alimentación de CA (máxima)</td>
-                                        <td>1.5 a 0.6A</td>
-                                    </tr>
-                                    <tr>
-                                        <th colspan="2" style="text-align: center">Tamaños y Pesos</th>
+                                        <th>C841M-4X</th>
+                                        <th>C841M-8X</th>
                                     </tr>
                                     <tr>
                                         <td>Dimensiones (Al. x An. x Pr.)</td>
-                                        <td>1,72 x 12,7 x 10 pulgadas (43,7 x 322,6 x 254 mm)</td>
+                                        <td>1,72 x 13,5 x 6,9 pulgadas.</td>
+                                        <td>1,72 x 13,5 x 6,9 pulgadas.</td>
                                     </tr>
                                     <tr>
-                                        <td>Montaje en pared</td>
+                                        <td>Peso (kg) con módulos ciegos</td>
+                                        <td>1,7 kg</td>
+                                        <td>1,7 kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Peso (kg) con ambos módulos cargados</td>
+                                        <td>2,5 kg</td>
+                                        <td>2,5 kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Montaje en rack/pared</td>
+                                        <td>sí</td>
                                         <td>sí</td>
                                     </tr>
                                     <tr>
-                                        <td>Peso típico (totalmente cargado con módulos)</td>
-                                        <td>8,11 libras (3,68 kg)</td>
+                                        <td>Memoria (DDR3 DRAM): Predeterminada/máxima</td>
+                                        <td>512 MB/512 MB</td>
+                                        <td>1 GB/1 GB</td>
                                     </tr>
                                     <tr>
-                                        <td>MTBF (Horas)</td>
-                                        <td>593270</td>
+                                        <td>Memoria flash (interna): predeterminada/máxima</td>
+                                        <td>2 GB/2 GB</td>
+                                        <td>2 GB/2 GB</td>
                                     </tr>
                                     <tr>
-                                       <th colspan="2" style="text-align: center">Especificaciones ambientales</th>
+                                        <td>Ranuras de memoria flash USB externa (Tipo A)</td>
+                                        <td>1</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
-                                       <th colspan="2" style="text-align: center">Condiciones de operación</th>
+                                        <td>Puerto de consola serie (hasta 115,2 kbps)</td>
+                                        <td>1</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
-                                        <td>Temperatura</td>
-                                        <td>32 a 104ºF (0 a 40ºC)</td>
+                                        <td>Fuente de alimentación</td>
+                                        <td>Fuente de alimentación de CA externa</td>
+                                        <td>Fuente de alimentación de CA externa</td>
                                     </tr>
                                     <tr>
-                                        <td>Humedad relativa</td>
-                                        <td>5% a 85%</td>
+                                        <td>Soporte de fuente de alimentación redundante</td>
+                                        <td>No</td>
+                                        <td>No</td>
                                     </tr>
                                     <tr>
-                                       <th colspan="2" style="text-align: center">Condiciones no operativas</th>
+                                        <td>Voltaje de entrada de CA</td>
+                                        <td>100-240V ~</td>
+                                        <td>100-240V ~</td>
                                     </tr>
                                     <tr>
-                                        <td>Temperatura</td>
-                                        <td>-40 a 158ºF(-40 a 70ºC)</td>
+                                        <td>Frecuencia de entrada de CA</td>
+                                        <td>50-60 Hz</td>
+                                        <td>50-60 Hz</td>
                                     </tr>
                                     <tr>
-                                        <td>Humedad relativa</td>
-                                        <td>5% a 95%</td>
-                                    </tr>
-                                     <tr>
-                                       <th colspan="2" style="text-align: center">Software Cisco IOS XE</th>
+                                        <td>Puertos LAN 10/100/1000 integrados RJ-45</td>
+                                        <td>4</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
-                                        <td>protocolos</td>
-                                        <td align="justify">IPv4, IPv6, rutas estáticas, Routing Information Protocol Versiones 1 y 2 (RIP y RIPv2), Open Shortest Path First (OSPF), Enhanced IGRP (EIGRP), Border Gateway Protocol (BGP), BGP Router Reflector, sistema intermedio a sistema intermedio (IS-IS), Protocolo de gestión de grupos de Internet de multidifusión versión 3 (IGMPv3), Modo disperso de multidifusión independiente del protocolo (PIM SM), Multidifusión específica de origen de PIM (SSM), RSVP, CDP, ERSPAN, IPSLA, Call Home, EEM, IKE, ACL, EVC, DHCP, FR, DNS, LISP, OTV6, HSRP, RADIUS, AAA, AVC, protocolo de enrutamiento de multidifusión de vector de distancia (DVMRP), multidifusión de IPv4 a IPv6, MPLS, capa 2 y capa 3 VPN, IP sec, Protocolo de tunelización de capa 2 versión 3 (L2TPv3), detección de reenvío bidireccional (BFD), IEEE802.1ag e IEEE802.3ah</td>
+                                        <td>Puertos WAN 10/100/1000 integrados RJ-45</td>
+                                        <td>2</td>
+                                        <td>2</td>
                                     </tr>
                                     <tr>
-                                        <td>Encapsulaciones</td>
-                                        <td align="justify">Encapsulación de enrutamiento genérico (GRE), Ethernet, VLAN 802.1q, Protocolo punto a punto (PPP), Protocolo punto a punto multienlace (MLPPP), Frame Relay, Frame Relay multienlace (MLFR) (FR.15 y FR. 16), control de enlace de datos de alto nivel (HDLC), serie (RS-232, RS-449, X.21, V.35 y EIA-530) y PPP sobre Ethernet (PPPoE)</td>
+                                        <td>Ranuras de interfaz WAN</td>
+                                        <td>2</td>
+                                        <td>2</td>
                                     </tr>
                                     <tr>
-                                        <td>La gestión del tráfico</td>
-                                        <td align="justify">QoS, Cola justa ponderada basada en clases (CBWFQ), Detección temprana aleatoria ponderada (WRED), QoS jerárquica, Enrutamiento basado en políticas (PBR), Enrutamiento de rendimiento y NBAR.</td>
+                                        <td>Módulos de interfaz WAN</td>
+                                        <td>Celular 3G<br>Interfaz serie inteligente de Cisco</td>
+                                        <td>Celular 3G<br>Interfaz serie inteligente de Cisco</td>
                                     </tr>
                                     <tr>
-                                        <td>Algoritmos criptográficos</td>
-                                        <td align="justify">Cifrado: DES, 3DES, AES-128 o AES-256 (en modos CBC y GCM); Autenticación: RSA (748/1024/2048 bits), ECDSA (256/384 bits); Integridad: MD5, SHA, SHA-256, SHA-384, SHA-512</td>
+                                        <td>Antenas exteriores</td>
+                                        <td>sí</td>
+                                        <td>sí</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Diversidad (antenas duales)</td>
+                                        <td>sí</td>
+                                        <td>sí</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Conectores TNC para campo reemplazable<br>Antenas opcionales de alta ganancia</td>
+                                        <td>sí</td>
+                                        <td>sí</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Conexiones LAN integradas/fijas</td>
+                                        <td>Ethernet de 4 Gigabits</td>
+                                        <td>Ethernet de 8 Gigabits</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Rango operativo ambiental</td>
+                                        <td><ul class="listas">
+                                                <li>Temperatura no operativa: -40 a 158 °F (-40 a 70 °C)</li>
+                                                <li>Humedad fuera de funcionamiento: 5 a 95 % de HR</li>
+                                                <li>Altitud no operativa: 0 a 15 000 pies(0 a 4570 m)</li>
+                                                <li>Temperatura de funcionamiento: 32 a 104 °F (0 a 40 °C)</li>
+                                                <li>Humedad de funcionamiento: 10 a 85 % HR</li>
+                                                <li>Altitud de funcionamiento: 0 a 10 000 pies (0 a 3000 m)</li>
+                                            </ul>
+                                        </td>
+                                        <td><ul class="listas">
+                                                <li>Temperatura no operativa: -40 a 158 °F (-40 a 70 °C)</li>
+                                                <li>Humedad fuera de funcionamiento: 5 a 95 % de HR</li>
+                                                <li>Altitud no operativa: 0 a 15 000 pies(0 a 4570 m)</li>
+                                                <li>Temperatura de funcionamiento: 32 a 104 °F (0 a 40 °C)</li>
+                                                <li>Humedad de funcionamiento: 10 a 85 % HR</li>
+                                                <li>Altitud de funcionamiento: 0 a 10 000 pies (0 a 3000 m)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="3" style="text-align: center">Aprobaciones y Cumplimiento</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Seguridad</td>
+                                        <td><ul class="listas">
+                                                <li>IEC 60950-1:2005 (segunda edición); Am1:2009 + Am2:2013</li>
+                                                <li>EN60950-1:2006 + A1:2010 + A11:2009 + A12:2011 + A2:2013 Equipo ITE</li>
+                                                <li>UL 60950-1+ Equipo AMD 1 AMD 2 ITE</li>
+                                            </ul>
+                                        </td>
+                                        <td><ul class="listas">
+                                                <li>IEC 60950-1:2005 (segunda edición); Am1:2009 + Am2:2013</li>
+                                                <li>EN60950-1:2006 + A1:2010 + A11:2009 + A12:2011 + A2:2013 Equipo ITE</li>
+                                                <li>UL 60950-1+ Equipo AMD 1 AMD 2 ITE</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>CEM</td>
+                                        <td><ul class="listas">
+                                                <li>EN55022 Clase B</li>
+                                                <li>EN55024</li>
+                                                <li>EN61000-3-2</li>
+                                                <li>EN61000-3-3</li>
+                                                <li>VCCI Clase B</li>
+                                                <li>47 CFR Parte 15</li>
+                                                <li>EN 300 386 v1.6.1</li>
+                                                <li>EN 301 489-1</li>
+                                                <li>EN 301 489-7</li>
+                                                <li>EN 301 489-24</li>
+                                            </ul>
+                                        </td>
+                                        <td><ul class="listas">
+                                                <li>EN55022 Clase B</li>
+                                                <li>EN55024</li>
+                                                <li>EN61000-3-2</li>
+                                                <li>EN61000-3-3</li>
+                                                <li>VCCI Clase B</li>
+                                                <li>47 CFR Parte 15</li>
+                                                <li>EN 300 386 v1.6.1</li>
+                                                <li>EN 301 489-1</li>
+                                                <li>EN 301 489-7</li>
+                                                <li>EN 301 489-24</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Radio</td>
+                                        <td><ul class="listas">
+                                                <li>EN 301 511</li>
+                                                <li>EN 301 908-1</li>
+                                                <li>EN 301 908-2</li>
+                                                <li>47 CFR PARTE 22</li>
+                                                <li>47 CFR PARTE 24</li>
+                                            </ul>
+                                        </td>
+                                        <td><ul class="listas">
+                                                <li>EN 301 511</li>
+                                                <li>EN 301 908-1</li>
+                                                <li>EN 301 908-2</li>
+                                                <li>47 CFR PARTE 22</li>
+                                                <li>47 CFR PARTE 24</li>
+                                            </ul>
+                                        </td>
                                     </tr>
                                 </table>
 
@@ -679,8 +581,8 @@
                             <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                                Descargue la <a href="datasheets/ISR-4000-series.pdf" target="_blank">
-                                    hoja de datos de Routers de Servicios Integrados de la serie Cisco 4000</a> (.PDF)
+                                Descargue la <a href="datasheets/ISR-800M.pdf" target="_blank">
+                                    hoja de datos del Router de Servicios Integrados de la serie Cisco 800M</a> (.PDF)
 
                             </div>
                         </div><!-- End default tabs -->
