@@ -2,12 +2,12 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco Business CBS350-8T-E-2G</h3>
-                <h5>Conmutador gestionado Gigabit Ethernet de 8 puertos con 2 puertos combinados Gigabit Copper/SFP</h5>
+                <h3 class="title-border">Cisco Business CBS350-8P-2G</h3>
+                <h5>Conmutador gestionado PoE+ Gigabit Ethernet de 8 puertos con 2 puertos combinados Gigabit de cobre/SFP (presupuesto de energía de 67 W)</h5>
                 <center> <img class="img-responsive" src="images/switches/prin-cbs350-8t.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
-                <div class="panel-group" id="accordionA">
+                <!-- <div class="panel-group" id="accordionA">
 		              	<div class="panel panel-default">
 			                <div class="panel-heading">
 				                <h4 class="panel-title"> 
@@ -29,8 +29,8 @@
                                 </div>
 			                </div>
                             </div>
-		              	</div><!--/ Panel 1 end-->
-                    </div>  
+		              	</div>
+                    </div>   -->
 
                     <div class="gap-40"></div>
                     <div class="widget widget-tab">
@@ -256,7 +256,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CBS350-8T-E-2G</th>
+                                            <th colspan="2" style="text-align: center">CBS350-8P-2G</th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
@@ -857,24 +857,25 @@
                                         </tr>
                                         <tr>
                                             <td>Energía dedicada a PoE </td>
-                                            <td>-</td>
+                                            <td>67W</td>
                                         </tr>
                                         <tr>
                                             <td>Número de puertos que admiten PoE </td>
-                                            <td>-</td>
+                                            <td>8</td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía del sistema </td>
-                                            <td>110 V = 12,55 W<br>
-                                            220 V = 12,56 W</td>
+                                            <td>110 V = 17,35 W<br>
+                                            220 V = 17,95 W</td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía (con PoE) </td>
-                                            <td>N / A</td>
+                                            <td>110 V = 83,17 W <br>
+                                            220 V = 82,63 W</td>
                                         </tr>
                                         <tr>
                                             <td>Disipación de calor (BTU / h) </td>
-                                            <td>42.86</td>
+                                            <td>283.79</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
@@ -925,19 +926,19 @@
                                         </tr>
                                         <tr>
                                             <td>Paquetes de Bufer</td>
-                                            <td>1.5 MB </td>
+                                            <td>1.5 </td>
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (An x Al x Pr) </td>
-                                            <td>268 x 185 x 44 mm (10,56 x 7,28 x 1,73 pulgadas)</td>
+                                            <td>268 x 272 x 44 mm (10,56 x 10,71 x 1,73 pulgadas)</td>
                                         </tr>
                                         <tr>
                                             <td>Unidad de peso </td>
-                                            <td>	1,39 kg (3,06 libras)</td>
+                                            <td>2,59 kg (5,71 libras)</td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
-                                            <td>100-240V 50-60 Hz, externo</td>
+                                            <td>100-240 V 50-60 Hz, interna, universal</td>
                                         </tr>
                                         <tr>
                                             <td>Certificación </td>
@@ -969,7 +970,7 @@
                                         </tr>
                                         <tr>
                                             <td>MTBF @ 50 ° C (horas) </td>
-                                            <td>2,171,669</td>
+                                            <td>1,786,412</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Garantia</th>

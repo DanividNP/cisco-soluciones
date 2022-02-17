@@ -2,9 +2,14 @@
     "cSpell.words": [
         "asequibilidad",
         "autenticación",
+        "autenticador",
+        "autoconfiguración",
         "conectividad",
         "dúplex",
+        "encriptados",
+        "enrutador",
         "enrutadores",
+        "Enrutamiento",
         "Ethernet",
         "Firepower",
         "firewalls",
@@ -15,17 +20,22 @@
         "IEEE",
         "inalámbrica",
         "inalámbricos",
+        "Interconexiones",
         "Mbps",
         "megabits",
         "monitorear",
         "mpps",
         "multidifusión",
         "multigigabit",
+        "optimización",
         "pane",
+        "perimetrales",
         "responsive",
         "semidúplex",
         "Simplicity",
+        "sincronización",
         "subred",
-        "switches"
+        "switches",
+        "topología"
     ]
 }
