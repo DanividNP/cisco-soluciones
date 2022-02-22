@@ -298,7 +298,7 @@
                                             <li><a href="routers-ISR4000-series.php">Cisco ISR serie 4000</a></li>
                                             <li><a href="routers-ISR800-series.php">Serie ISR 800</a></li>
                                             <li><a href="routers-ISR1100-series.php">Serie ISR 1100</a></li>
-                                            <li><a href="routers-ISR4000-series.php">Serie ISR 1900</a></li>
+                                            <li><a href="routers-ISR1900-series.php">Serie ISR 1900</a></li>
                                             <li><a href="routers-ISR4000-series.php">Serie ISR 2900</a></li>
                                         </ul>
                                     </li>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
     <head>
 
@@ -17,9 +17,8 @@
         <!-- Slider start -->
         <?php include("includes/banner-cisco-routers.php") ?>
         <!--/ Slider end -->
-        <?php include("includes/cisco-routers-ISR1900-series.php") ?>
   
-        <?php include("includes/products-routers-ISR1900-series.php") ?>
+        <?php include("includes/description-routers-cisco-ISR1941.php") ?>
        
 <!--        <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->
