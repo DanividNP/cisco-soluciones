@@ -191,7 +191,7 @@
                                         </td>
                                     </tr>
                                     <tr>                                        
-                                        <td>Innovador acceso a consola basado en universal serial bus (USB)	</td>
+                                        <td>Innovador acceso a consola basado en universal serial bus (USB)</td>
                                         <td>
                                             <ul class="listas">
                                                 <li>Un nuevo e innovador puerto de consola USB mini-B admite conectividad de gestión cuando los puertos serie tradicionales no están disponibles.</li>
@@ -260,7 +260,7 @@
                                     </td>
                                     </tr>
                                     <tr>                                        
-                                        <td>Ranuras Compact Flash	</td>
+                                        <td>Ranuras Compact Flash</td>
                                         <td>
                                             <ul class="listas">
                                                 <li>Dos ranuras Compact Flash externas están disponibles en el Cisco 1941. Cada ranura puede admitir densidades de almacenamiento de alta velocidad actualizables a 4 GB de densidad.</li>
@@ -268,7 +268,7 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>Puertos USB 2.0	</td>
+                                        <td>Puertos USB 2.0</td>
                                         <td><ul class="listas">
                                                 <li>Se admiten dos puertos USB 2.0 de alta velocidad. Los puertos USB permiten otro mecanismo de almacenamiento y capacidades de token seguro.</li>
                                             </ul>
@@ -278,7 +278,7 @@
                                 <br>
                                 <h3>Cisco IOS Software</h3>
                                 <p align="justify">Los routers de servicios integrados de la serie 1941 de Cisco ofrecen tecnologías innovadoras que se ejecutan en el software Cisco IOS líder en la industria. Desarrollado para una amplia implementación en las redes empresariales, de acceso y de proveedores de servicios más exigentes del mundo, Cisco IOS Software Release 15 M & T brinda soporte para una cartera integral de tecnologías de Cisco, incluidas nuevas funciones y características entregadas en las versiones 12.4 y 12.4T, y nuevas innovaciones que abarcan múltiples áreas tecnológicas, como seguridad, voz, alta disponibilidad, enrutamiento IP y multidifusión, calidad de servicio (QoS), movilidad IP, conmutación de etiquetas multiprotocolo (MPLS), VPN y gestión integrada.
-                                    <strong>Paquetes y licencias de software Cisco IOS</strong>
+                                    <br><br><strong>Paquetes y licencias de software Cisco IOS</strong>
                                     Con las plataformas se entrega una única imagen universal de Cisco IOS que abarca todas las funciones. Puede habilitar funciones avanzadas activando una licencia de software en la imagen Universal. En generaciones anteriores de enrutadores de acceso, estos conjuntos de funciones requerían que descargara una nueva imagen de software. Los paquetes de tecnología y las licencias de funciones, habilitados a través de la infraestructura de licencias de software de Cisco, simplifican la entrega de software y reducen los costos operativos de la implementación de nuevas funciones.
                                     <br>
                                     Hay cuatro licencias de tecnología principales disponibles en los enrutadores de servicios integrados de la serie Cisco 1941; puede activar las licencias a través del proceso de activación del software de Cisco.
@@ -288,12 +288,13 @@
                                     <li>Datos</li>
                                     <li>Seguridad (SEC) o Seguridad sin cifrado de carga útil (SEC-NPE)</li>
                                 </ul>
-                                <p align="justify"><strong>Servicios clave de sucursales</strong>
-                                Los routers de servicios integrados de Cisco son enrutadores líderes en la industria que ofrecen niveles sin precedentes de integración de servicios. Diseñadas para cumplir con los requisitos de la sucursal, estas plataformas brindan una solución completa con servicios de voz, seguridad, movilidad y datos. Las empresas disfrutan del beneficio al implementar un único dispositivo que satisface todas sus necesidades y ahorran en gastos operativos y de capital.
-                                <strong>Seguridad de red integrada para datos y movilidad</strong>
-                                La seguridad es esencial para proteger la propiedad intelectual de una empresa y, al mismo tiempo, garantizar la continuidad del negocio y brindar la capacidad de extender el lugar de trabajo corporativo a los empleados que necesitan acceso a los recursos de la empresa en cualquier momento y lugar. Como parte del marco arquitectónico SAFE de Cisco que permite a las organizaciones identificar, prevenir y adaptarse a las amenazas a la seguridad de la red, los enrutadores de servicios integrados de la serie 1900 de Cisco facilitan la colaboración y las transacciones comerciales seguras.
                                 <br>
-                                La licencia del paquete de tecnología Cisco IOS Software Security para Cisco 1900 Series ofrece una amplia gama de funciones de seguridad comunes, como inspección y control avanzados de aplicaciones, protección contra amenazas y arquitecturas de encriptación para habilitar redes VPN más escalables y manejables en un conjunto de soluciones. La serie 1941 de Cisco ofrece aceleración de cifrado nativa basada en hardware para proporcionar un mayor rendimiento de IPSec con menos sobrecarga para el procesador del enrutador en comparación con las soluciones de cifrado basadas en software. Los enrutadores de servicios integrados de Cisco ofrecen una solución de seguridad integral y adaptable para enrutadores de sucursales que incluyen funciones como:
+                                <p align="justify"><strong>Servicios clave de sucursales</strong>
+                                    Los routers de servicios integrados de Cisco son enrutadores líderes en la industria que ofrecen niveles sin precedentes de integración de servicios. Diseñadas para cumplir con los requisitos de la sucursal, estas plataformas brindan una solución completa con servicios de voz, seguridad, movilidad y datos. Las empresas disfrutan del beneficio al implementar un único dispositivo que satisface todas sus necesidades y ahorran en gastos operativos y de capital.
+                                    <br><br><strong>Seguridad de red integrada para datos y movilidad</strong>
+                                    <br>La seguridad es esencial para proteger la propiedad intelectual de una empresa y, al mismo tiempo, garantizar la continuidad del negocio y brindar la capacidad de extender el lugar de trabajo corporativo a los empleados que necesitan acceso a los recursos de la empresa en cualquier momento y lugar. Como parte del marco arquitectónico SAFE de Cisco que permite a las organizaciones identificar, prevenir y adaptarse a las amenazas a la seguridad de la red, los enrutadores de servicios integrados de la serie 1900 de Cisco facilitan la colaboración y las transacciones comerciales seguras.
+                                    <br>
+                                    La licencia del paquete de tecnología Cisco IOS Software Security para Cisco 1900 Series ofrece una amplia gama de funciones de seguridad comunes, como inspección y control avanzados de aplicaciones, protección contra amenazas y arquitecturas de encriptación para habilitar redes VPN más escalables y manejables en un conjunto de soluciones. La serie 1941 de Cisco ofrece aceleración de cifrado nativa basada en hardware para proporcionar un mayor rendimiento de IPSec con menos sobrecarga para el procesador del enrutador en comparación con las soluciones de cifrado basadas en software. Los enrutadores de servicios integrados de Cisco ofrecen una solución de seguridad integral y adaptable para enrutadores de sucursales que incluyen funciones como:
                                 </p>
                                 <ul>
                                     <li><strong>Conectividad segura:</strong> comunicaciones colaborativas seguras con Group Encrypted Transport VPN (GETVPN), Dynamic Multipoint VPN (DMVPN) o Enhanced Easy VPN.</li>
@@ -307,10 +308,149 @@
                                     <br>
                                     El nuevo Cisco 1941W con punto de acceso integrado IEEE 802.11n admite implementaciones unificadas y autónomas. Este punto de acceso Wi-Fi integrado ofrece compatibilidad con el estándar IEEE 802.11n borrador 2.0 para el acceso móvil a aplicaciones de datos, voz y video de gran ancho de banda mediante el uso de tecnología de entrada múltiple, salida múltiple (MIMO) que proporciona mayor rendimiento y confiabilidad. y previsibilidad. Las redes inalámbricas IEEE 802.11n crean un entorno de trabajo cohesivo al combinar la movilidad de las redes inalámbricas con el rendimiento de las redes cableadas. Cisco tiene soluciones inalámbricas innovadoras de próxima generación que ofrecen un mayor rendimiento y un mayor alcance para una conectividad inalámbrica generalizada. La tecnología IEEE 802.11n ofrece una confiabilidad sobresaliente y hasta nueve veces el rendimiento de las redes IEEE 802.11 a/b/g actuales.
                                 </p>
-                                
-
-
-
+                                <ul>
+                                    <li>Las velocidades de datos de hasta 600 Mbps admiten más usuarios, dispositivos y aplicaciones de uso intensivo de ancho de banda de misión crítica.</li>
+                                    <li>La nueva tecnología MIMO proporciona cobertura WLAN predecible y conectividad confiable.</li>
+                                    <li>La tecnología inalámbrica de próxima generación brinda una protección superior de la inversión para respaldar las aplicaciones móviles emergentes.</li>
+                                </ul>
+                                <p align="justify">Estos enrutadores ayudan a extender las redes corporativas a sitios remotos seguros mientras brindan a los usuarios acceso a las mismas aplicaciones que se encuentran en las oficinas corporativas para aplicaciones de voz y datos. Cuando los usuarios requieren acceso WLAN, la visibilidad y el control de la seguridad de la red son aún más críticos en el sitio remoto. Los nuevos enrutadores de servicios integrados de Cisco fijos satisfacen esta necesidad con un solo dispositivo que combina las capacidades integradas de IEEE 802.11a/b/g/n con funciones de seguridad como Wi-Fi Protected Access (WPA), incluida la autenticación con IEEE 802.1X con Cisco Light Extensible Authentication Protocol (LEAP) y Protected EAP (PEAP) y cifrado con WPA Temporal Key Integrity Protocol (TKIP).</p>
+                                <p align="justify"><strong>WAN inalámbrica</strong>
+                                    Los módulos WAN inalámbricos (WWAN) de tercera generación (3G) de Cisco combinan funciones de enrutadores empresariales tradicionales, como administración remota, servicios IP avanzados como voz sobre IP (VoIP) y seguridad, con capacidades de movilidad de acceso WAN 3G. Usando redes inalámbricas 3G de alta velocidad, los enrutadores pueden reemplazar o complementar la infraestructura de línea fija existente, como acceso telefónico, Frame Relay e ISDN. Las soluciones 3G de Cisco son compatibles con los estándares 3G Acceso a paquetes de alta velocidad (HSPA) y Evolution Data Only/Evolution Data Optimized (EVDO), lo que le brinda una verdadera copia de seguridad de WAN de rutas múltiples y la capacidad de implementar rápidamente la conectividad WAN principal.
+                                </p>
+                                <p align="justify"><strong>Conmutación LAN integrada</strong>
+                                    La serie de routers de servicios integrados Cisco 1941 admitirá los módulos LAN EHWIC cuando estén disponibles en el futuro. La serie Cisco 1941 es compatible con los módulos EtherSwitch HWIC de ancho único existentes y los módulos HWIC-D de doble ancho, que amplían en gran medida las capacidades del enrutador al integrar la conmutación de Capa 2 o Capa 3 líder en la industria.
+                                </p>
+                                <p align="justify"><strong>Servicios de aplicaciones</strong>
+                                    A medida que las organizaciones continúan centralizando y consolidando la infraestructura de TI de su sucursal en un esfuerzo por reducir los costos y la complejidad en la sucursal, enfrentan el desafío de brindar una experiencia de usuario adecuada, garantizar la disponibilidad continua del servicio y entregar aplicaciones relevantes para el negocio cuando y donde se necesiten. . Para abordar estos desafíos, la serie Cisco 1941 brinda la capacidad de alojar aplicaciones de Cisco, de terceros y personalizadas en el módulo Cisco Services Ready Engine (SRE) que se integra perfectamente en el enrutador. El módulo tiene su propio procesador, interfaz de red y memoria que funcionan independientemente de los recursos del enrutador host, lo que ayuda a garantizar el máximo rendimiento de las aplicaciones y el enrutamiento simultáneo al mismo tiempo que reduce los requisitos de espacio físico, reduce el consumo de energía y consolida la administración.
+                                </p>
+                                <p align="justify"><strong>Motor preparado para los servicios de Cisco</strong>
+                                    La solución Cisco Services Ready Engine está disponible en un factor de forma de módulo de servicio interno (ISM). El hardware del módulo de servicio interno ofrece una mejora del rendimiento de hasta siete veces con respecto a los módulos de integración avanzada de la generación anterior y proporciona un procesador x86. El módulo Cisco SRE permite el aprovisionamiento bajo demanda de aplicaciones de sucursales en las plataformas de la serie Cisco 1900 para que pueda implementar la aplicación correcta, en el momento correcto, en el lugar correcto. El desacoplamiento de hardware y software proporcionado por el modelo de implementación listo para el servicio permite que las aplicaciones se aprovisionen en el módulo en el momento de su instalación o de forma remota en cualquier momento posterior. Las soluciones admitidas incluyen Cisco Application Extension Platform (AXP), Cisco Wireless LAN Controller (WLC) y otras aplicaciones en desarrollo.
+                                </p>
+                                <p align="justify"><strong>Administración de sus routers de servicios integrados</strong>
+                                    Las aplicaciones de administración de red son fundamentales para reducir los gastos operativos (OPEX) y mejorar la disponibilidad de la red al simplificar y automatizar muchas de las tareas diarias asociadas con la administración de una red de extremo a extremo. El "soporte de dispositivo desde el primer día" brinda soporte de capacidad de administración inmediata para el enrutador de servicios integrados, lo que permite una implementación, monitoreo y solución de problemas rápidos y fáciles desde aplicaciones de Cisco y de terceros.
+                                    <br>
+                                    Las organizaciones confían en las aplicaciones de gestión de red desarrolladas internamente, por terceros y por Cisco para lograr sus objetivos de productividad y gastos operativos. La base de esas aplicaciones son las funciones de gestión integradas disponibles en cada ISR. Los nuevos ISR continúan una tradición de funciones de administración amplias y profundas dentro de los dispositivos. Características como IPSLA, EEM, Netflow, le permiten saber lo que está pasando en su red en todo momento. Estas funciones, junto con la compatibilidad con SNMP y SYSLOG, habilitan las aplicaciones de administración de su organización.
+                                </p>
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Cisco 1941 con función de software Cisco IOS y soporte de alto nivel de protocolo</th>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Protocolos</strong></td>
+                                        <td>IPv4, IPv6, rutas estáticas, Abrir primero la ruta más corta (OSPF), IGRP mejorado (EIGRP), Protocolo de puerta de enlace fronteriza (BGP), Reflector de enrutador BGP, Sistema intermedio a sistema intermedio (IS-IS), Protocolo de administración de grupos de Internet de multidifusión (IGMPv3) Modo disperso de multidifusión independiente de protocolo (PIM SM), multidifusión específica de origen de PIM (SSM), protocolo de enrutamiento de multidifusión de vector de distancia (DVMRP), IPSec, encapsulación de enrutamiento genérico (GRE), detección de reenvío bidireccional (BVD), IPv4- multidifusión a IPv6, MPLS, L2TPv3, 802.1ag, 802.3ah, L2 y L3 VPN</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Encapsulaciones</strong></td>
+                                        <td>Ethernet, VLAN 802.1q, Protocolo punto a punto (PPP), Protocolo punto a punto multienlace (MLPPP), Frame Relay, Frame Relay multienlace (MLFR) (FR.15 y FR.16), Datos de alto nivel Control de enlace (HDLC), serie (RS-232, RS-449, X.21, V.35 y EIA-530), protocolo punto a punto sobre Ethernet (PPPoE) y ATM</td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>La gestión del tráfico</strong></td>
+                                        <td>QoS, Cola justa ponderada basada en clases (CBWFQ), Detección temprana aleatoria ponderada (WRED), QoS jerárquica, Enrutamiento basado en políticas (PBR), Enrutamiento de rendimiento (PfR) y Enrutamiento avanzado basado en red (NBAR)</td>
+                                    </tr>
+                                </table>
+                                <br>
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Capacidades de administración del software Cisco IOS</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Rasgo</td>
+                                        <td>Descripción de la función admitida por los enrutadores de servicios integrados de Cisco</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>WSMA</strong></td>
+                                        <td>El Agente de administración de servicios web (WSMA) define un mecanismo a través del cual puede administrar un dispositivo de red, recuperar información de datos de configuración y cargar y manipular nuevos datos de configuración. WSMA utiliza codificación de datos basada en XML que es transportada por el Protocolo simple de acceso a objetos (SOAP) para los mensajes de protocolo y datos de configuración.</td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>EEM</strong></td>
+                                        <td>Cisco IOS Embedded Event Manager (EEM) es un enfoque distribuido y personalizado para la detección y recuperación de eventos que se ofrece directamente en un dispositivo de Cisco IOS Software. Ofrece la capacidad de monitorear eventos y tomar acciones informativas, correctivas o cualquier acción EEM deseada cuando ocurren los eventos monitoreados o cuando se alcanza un umbral.</td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>IPSLA</strong></td>
+                                        <td>Los acuerdos de nivel de servicio (SLA) IP de Cisco IOS le permiten asegurar nuevas aplicaciones IP críticas para el negocio, así como servicios IP que usan datos, voz y video, en una red IP.</td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>SNMP, RMON, Syslog, NetFlow, TR-069</strong></td>
+                                        <td>Los enrutadores de servicios integrados de la serie Cisco 1900 también son compatibles con SNMP, monitoreo remoto (RMON), syslog, NetFlow y TR-069, además de las funciones de administración integradas mencionadas anteriormente.</td>
+                                    </tr>
+                                </table>
+                                <br>
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                    <tr>
+                                        <th colspan="3" style="text-align: center">Soluciones de gestión de red</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Fase Operativa</td>
+                                        <td>Solicitud</td>
+                                        <td>Descripción</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Montaje y configuración de dispositivos</strong></td>
+                                        <td>Profesional de configuración de Cisco</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Cisco Configuration Professional es una herramienta de administración de dispositivos GUI para enrutadores de acceso basados ​​en el software Cisco IOS. Esta herramienta simplifica el enrutamiento, el firewall, IPS, VPN, comunicaciones unificadas y la configuración de WAN y LAN a través de asistentes fáciles de usar basados ​​en GUI.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>Implementación, configuración, monitoreo y resolución de problemas en toda la red</strong></td>
+                                        <td>CiscoWorks LMS</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>CiscoWorks LAN Management Solution (LMS) es un conjunto de aplicaciones integradas para simplificar la administración diaria de una red de extremo a extremo de Cisco, lo que reduce los gastos operativos y aumenta la disponibilidad de la red. CiscoWorks LMS ofrece a los administradores de red una interfaz basada en web fácil de usar para configurar, administrar y solucionar problemas de los enrutadores de servicios integrados de Cisco, utilizando nueva instrumentación como Cisco IOS EEM.</li>
+                                                <li>Además de admitir los servicios básicos de la plataforma del enrutador de servicios integrados, CiscoWorks también brinda soporte de valor agregado para Cisco Service Ready Engine, lo que permite la administración y distribución de imágenes de software al SRE, lo que reduce el tiempo y las complejidades asociadas con la administración de imágenes.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>Montaje, configuración y cumplimiento en toda la red</strong></td>
+                                        <td>NCM de CiscoWorks</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>CiscoWorks Network Compliance Manager (NCM) realiza un seguimiento y regula los cambios de configuración y software en una infraestructura de red de múltiples proveedores. Proporciona una visibilidad superior de los cambios en la red y puede realizar un seguimiento del cumplimiento de una amplia variedad de requisitos normativos, de TI, de gobierno corporativo y tecnológicos.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>Montaje, configuración y supervisión de la seguridad</strong></td>
+                                        <td>Gerente de seguridad de Cisco</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Cisco Security Manager [[no use el acrónimo por razones legales]] es una aplicación líder de clase empresarial para administrar la seguridad. Ofrece el aprovisionamiento de servicios de cortafuegos, VPN y sistema de prevención de intrusiones (IPS) en enrutadores, dispositivos de seguridad y módulos de servicios de conmutación de Cisco. La suite también incluye el Sistema de Monitoreo, Análisis y Respuesta de Seguridad de Cisco (Cisco Security MARS) para monitoreo y mitigación.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>Configuración y aprovisionamiento</strong></td>
+                                        <td>Administrador de aprovisionamiento unificado de Cisco</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Cisco Unified Provisioning Manager proporciona una solución basada en web confiable y escalable para administrar los servicios de comunicaciones cruciales de próxima generación de una empresa. Gestiona servicios de comunicaciones unificadas en un entorno integrado de telefonía IP, buzón de voz y mensajería.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>Montaje, implementación y cambios de licencias</strong></td>
+                                        <td>Administrador de licencias de Cisco</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Administre fácilmente la activación del software Cisco IOS y la gestión de licencias para una amplia gama de plataformas de Cisco que ejecutan el software Cisco IOS, así como otros sistemas operativos con la aplicación segura de cliente-servidor Cisco License Manager</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td><strong>Montaje, implementación y cambios en los archivos de imagen y configuración</strong></td>
+                                        <td>Motor de configuración de Cisco</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Cisco Configuration Engine es un producto de administración de red segura que proporciona una distribución de configuración e imágenes sin intervención mediante una administración centralizada basada en plantillas.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <br>
+                                <p align="justify">A medida que las empresas se esfuerzan por reducir el costo total de propiedad en el funcionamiento de su red y aumentar la productividad general de los empleados con aplicaciones de red más centralizadas y colaborativas, se requieren soluciones de sucursales más inteligentes. La serie Cisco 1941 ofrece estas soluciones al proporcionar un rendimiento mejorado y una mayor densidad modular para admitir múltiples servicios. La serie Cisco 1941 está diseñada para consolidar las funciones de dispositivos separados en un solo sistema compacto que se puede administrar de forma remota.</p>
                             </div>
 
 
@@ -563,199 +703,245 @@
                                 <h3>Especificaciones técnicas:</h3>
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
-    <!--                                <tr>
-                                        <th colspan="2" style="text-align: center">CGP- ONT-1P</th>
-                                    </tr>-->
                                     <tr>
-                                        <th>Especificaciones técnicas</th>
-                                        <th>C841M-4X</th>
-                                        <th>C841M-8X</th>
+                                        <th colspan="2" style="text-align: center">Especificaciones del producto del enrutador de servicios integrados Cisco 1941</th>
                                     </tr>
                                     <tr>
-                                        <td>Dimensiones (Al. x An. x Pr.)</td>
-                                        <td>1,72 x 13,5 x 6,9 pulgadas.</td>
-                                        <td>1,72 x 13,5 x 6,9 pulgadas.</td>
+                                        <th></th>
+                                        <th>Cisco1941, Cisco1941W</th>
+                                    </tr>
+                                     <tr>
+                                        <th colspan="2" style="text-align: center">Servicios y Densidad de Slots</th>
                                     </tr>
                                     <tr>
-                                        <td>Peso (kg) con módulos ciegos</td>
-                                        <td>1,7 kg</td>
-                                        <td>1,7 kg</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Peso (kg) con ambos módulos cargados</td>
-                                        <td>2,5 kg</td>
-                                        <td>2,5 kg</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Montaje en rack/pared</td>
-                                        <td>sí</td>
+                                        <td>Aceleración criptográfica integrada basada en hardware (IPSec + SSL)</td>
                                         <td>sí</td>
                                     </tr>
                                     <tr>
-                                        <td>Memoria (DDR3 DRAM): Predeterminada/máxima</td>
-                                        <td>512 MB/512 MB</td>
-                                        <td>1 GB/1 GB</td>
+                                        <td>LAN integrada total 10/100/1000</td>
+                                        <td>2</td>
                                     </tr>
                                     <tr>
-                                        <td>Memoria flash (interna): predeterminada/máxima</td>
-                                        <td>2 GB/2 GB</td>
-                                        <td>2 GB/2 GB</td>
+                                        <td>Puertos basados ​​en RJ-45</td>
+                                        <td>2</td>
                                     </tr>
                                     <tr>
-                                        <td>Ranuras de memoria flash USB externa (Tipo A)</td>
+                                        <td>Puertos basados ​​en SFP</td>
+                                        <td>0</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Puerto SM</td>
+                                        <td>0</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ranuras SM de doble ancho</td>
+                                        <td>0</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Puerto EHWIC</td>
+                                        <td>2</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ranuras EHWIC de doble ancho (el uso de una ranura EHWIC de doble ancho consumirá dos ranuras EHWIC)</td>
                                         <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ranuras ISM</td>
+                                        <td>1 (0 en Cisco 1941W)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Memoria (Código de corrección de errores DDR2 [ECC] ECC DRAM) - Predeterminada</td>
+                                        <td>512 megabytes</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Memoria (DDR2 ECC DRAM) - Máximo</td>
+                                        <td>2,0 GB</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Compact Flash (externo) - Predeterminado</td>
+                                        <td>ranura 0: 256 MB
+                                            <br>ranura 1: ninguna</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Flash compacto (externo) - Máximo</td>
+                                        <td>ranura 0: 4 GB
+                                            <br>ranura 1: 4GB</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ranuras para memoria flash USB externa (Tipo A)</td>
+                                        <td>2</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Puerto de consola USB (Tipo B) (hasta 115,2 kbps)</td>
                                         <td>1</td>
                                     </tr>
                                     <tr>
                                         <td>Puerto de consola serie (hasta 115,2 kbps)</td>
                                         <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Puerto Serial Auxiliar (hasta 115.2 kbps</td>
                                         <td>1</td>
                                     </tr>
                                     <tr>
-                                        <td>Fuente de alimentación</td>
-                                        <td>Fuente de alimentación de CA externa</td>
-                                        <td>Fuente de alimentación de CA externa</td>
+                                        <td>Opciones de fuente de alimentación</td>
+                                        <td>CA, POE</td>
                                     </tr>
                                     <tr>
                                         <td>Soporte de fuente de alimentación redundante</td>
                                         <td>No</td>
-                                        <td>No</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Especificaciones de energía</th>
                                     </tr>
                                     <tr>
                                         <td>Voltaje de entrada de CA</td>
-                                        <td>100-240V ~</td>
-                                        <td>100-240V ~</td>
+                                        <td>100-240 V~</td>
                                     </tr>
                                     <tr>
                                         <td>Frecuencia de entrada de CA</td>
-                                        <td>50-60 Hz</td>
-                                        <td>50-60 Hz</td>
+                                        <td>47-63 Hz</td>
                                     </tr>
                                     <tr>
-                                        <td>Puertos LAN 10/100/1000 integrados RJ-45</td>
-                                        <td>4</td>
-                                        <td>8</td>
+                                        <td>Rango de corriente de entrada de CA Fuente de alimentación de CA (máx.) (amperios)</td>
+                                        <td>1.5-0.6</td>
                                     </tr>
                                     <tr>
-                                        <td>Puertos WAN 10/100/1000 integrados RJ-45</td>
-                                        <td>2</td>
-                                        <td>2</td>
+                                        <td>Corriente transitoria de entrada de CA</td>
+                                        <td><50A</td>
                                     </tr>
                                     <tr>
-                                        <td>Ranuras de interfaz WAN</td>
-                                        <td>2</td>
-                                        <td>2</td>
+                                        <td>Potencia típica (sin módulos)</td>
+                                        <td>35W</td>
                                     </tr>
                                     <tr>
-                                        <td>Módulos de interfaz WAN</td>
-                                        <td>Celular 3G<br>Interfaz serie inteligente de Cisco</td>
-                                        <td>Celular 3G<br>Interfaz serie inteligente de Cisco</td>
+                                        <td>Capacidad de potencia máxima con fuente de alimentación de CA</td>
+                                        <td>110W</td>
                                     </tr>
                                     <tr>
-                                        <td>Antenas exteriores</td>
+                                        <td>Capacidad de potencia máxima con fuente de alimentación PoE (solo plataforma)</td>
+                                        <td>110W</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Capacidad máxima de alimentación del dispositivo PoE con fuente de alimentación PoE</td>
+                                        <td>80W</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Especificaciones físicas</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Dimensiones (Al. x An. x Pr.)</td>
+                                        <td>3,5 x 13,5 x 11,5 pulgadas</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Altura del estante</td>
+                                        <td>2RU</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Montaje en rack de 19 pulg. (48,3 cm) AIE</td>
+                                        <td>Incluido</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Montaje en pared (consulte la guía de instalación para conocer la orientación aprobada)</td>
                                         <td>sí</td>
-                                        <td>sí</td>
                                     </tr>
                                     <tr>
-                                        <td>Diversidad (antenas duales)</td>
-                                        <td>sí</td>
-                                        <td>sí</td>
+                                        <td>Peso con fuente de alimentación de CA (sin módulos)</td>
+                                        <td>12 libras</td>
                                     </tr>
                                     <tr>
-                                        <td>Conectores TNC para campo reemplazable<br>Antenas opcionales de alta ganancia</td>
-                                        <td>sí</td>
-                                        <td>sí</td>
+                                        <td>Peso con fuente de alimentación POE (sin módulos)</td>
+                                        <td>12.8 libras</td>
                                     </tr>
                                     <tr>
-                                        <td>Conexiones LAN integradas/fijas</td>
-                                        <td>Ethernet de 4 Gigabits</td>
-                                        <td>Ethernet de 8 Gigabits</td>
+                                        <td>Peso máximo: totalmente configurado</td>
+                                        <td>14 libras</td>
                                     </tr>
                                     <tr>
-                                        <td>Rango operativo ambiental</td>
-                                        <td><ul class="listas">
-                                                <li>Temperatura no operativa: -40 a 158 °F (-40 a 70 °C)</li>
-                                                <li>Humedad fuera de funcionamiento: 5 a 95 % de HR</li>
-                                                <li>Altitud no operativa: 0 a 15 000 pies(0 a 4570 m)</li>
-                                                <li>Temperatura de funcionamiento: 32 a 104 °F (0 a 40 °C)</li>
-                                                <li>Humedad de funcionamiento: 10 a 85 % HR</li>
-                                                <li>Altitud de funcionamiento: 0 a 10 000 pies (0 a 3000 m)</li>
-                                            </ul>
-                                        </td>
-                                        <td><ul class="listas">
-                                                <li>Temperatura no operativa: -40 a 158 °F (-40 a 70 °C)</li>
-                                                <li>Humedad fuera de funcionamiento: 5 a 95 % de HR</li>
-                                                <li>Altitud no operativa: 0 a 15 000 pies(0 a 4570 m)</li>
-                                                <li>Temperatura de funcionamiento: 32 a 104 °F (0 a 40 °C)</li>
-                                                <li>Humedad de funcionamiento: 10 a 85 % HR</li>
-                                                <li>Altitud de funcionamiento: 0 a 10 000 pies (0 a 3000 m)</li>
-                                            </ul>
-                                        </td>
+                                        <td>Flujo de aire</td>
+                                        <td>De frente a lado</td>
                                     </tr>
                                     <tr>
-                                        <th colspan="3" style="text-align: center">Aprobaciones y Cumplimiento</th>
+                                        <th colspan="2" style="text-align: center">Especificaciones ambientales</th>
                                     </tr>
                                     <tr>
-                                        <td>Seguridad</td>
-                                        <td><ul class="listas">
-                                                <li>IEC 60950-1:2005 (segunda edición); Am1:2009 + Am2:2013</li>
-                                                <li>EN60950-1:2006 + A1:2010 + A11:2009 + A12:2011 + A2:2013 Equipo ITE</li>
-                                                <li>UL 60950-1+ Equipo AMD 1 AMD 2 ITE</li>
-                                            </ul>
-                                        </td>
-                                        <td><ul class="listas">
-                                                <li>IEC 60950-1:2005 (segunda edición); Am1:2009 + Am2:2013</li>
-                                                <li>EN60950-1:2006 + A1:2010 + A11:2009 + A12:2011 + A2:2013 Equipo ITE</li>
-                                                <li>UL 60950-1+ Equipo AMD 1 AMD 2 ITE</li>
-                                            </ul>
+                                        <td>Condición de uso</td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura-5906 pies (1800 m) máx. altitud</td>
+                                        <td>0-40°C (32-104°F)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura-9843 pies (3000 m) máx. altitud</td>
+                                        <td>0-25°C (32-77°F)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Altitud</td>
+                                        <td>3000 m (10000 pies)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Humedad</td>
+                                        <td>10 a 85% HR</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Acústica: presión de sonido (típ./máx.)</td>
+                                        <td>26/46 dBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Acústica: potencia de sonido (típ./máx.)</td>
+                                        <td>36/55 dBA</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Condición de transporte/almacenamiento</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Temperatura</td>
+                                        <td>-40 - 70 oC (-40 - 158 oF)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Humedad</td>
+                                        <td>5 a 95%HR</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Altitud</td>
+                                        <td>4570m (15000 pies)</td>
+                                    </tr>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Cumplimiento normativo</th>
+                                    </tr>
+                                    <tr>
+                                        <td>La seguridad</td>
+                                        <td>UL 60950-1
+                                            <br>CAN/CSA C22.2 No. 60950-1
+                                            <br>EN 60950-1
+                                            <br>AS/NZS 60950-1
+                                            <br>IEC 60950-1
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>CEM</td>
-                                        <td><ul class="listas">
-                                                <li>EN55022 Clase B</li>
-                                                <li>EN55024</li>
-                                                <li>EN61000-3-2</li>
-                                                <li>EN61000-3-3</li>
-                                                <li>VCCI Clase B</li>
-                                                <li>47 CFR Parte 15</li>
-                                                <li>EN 300 386 v1.6.1</li>
-                                                <li>EN 301 489-1</li>
-                                                <li>EN 301 489-7</li>
-                                                <li>EN 301 489-24</li>
-                                            </ul>
-                                        </td>
-                                        <td><ul class="listas">
-                                                <li>EN55022 Clase B</li>
-                                                <li>EN55024</li>
-                                                <li>EN61000-3-2</li>
-                                                <li>EN61000-3-3</li>
-                                                <li>VCCI Clase B</li>
-                                                <li>47 CFR Parte 15</li>
-                                                <li>EN 300 386 v1.6.1</li>
-                                                <li>EN 301 489-1</li>
-                                                <li>EN 301 489-7</li>
-                                                <li>EN 301 489-24</li>
-                                            </ul>
+                                        <td>47 CFR, Parte 15
+                                            <br>ICES-003 Clase A
+                                            <br>EN55022 Clase A
+                                            <br>CISPR22 Clase A
+                                            <br>AS/NZS 3548 Clase A
+                                            <br>VCCI V-3
+                                            <br>CNS 13438
+                                            <br>EN 300-386
+                                            <br>EN 61000 (Inmunidad)
+                                            <br>EN 55024, CISPR 24
+                                            <br>EN50082-1
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>Radio</td>
-                                        <td><ul class="listas">
-                                                <li>EN 301 511</li>
-                                                <li>EN 301 908-1</li>
-                                                <li>EN 301 908-2</li>
-                                                <li>47 CFR PARTE 22</li>
-                                                <li>47 CFR PARTE 24</li>
-                                            </ul>
-                                        </td>
-                                        <td><ul class="listas">
-                                                <li>EN 301 511</li>
-                                                <li>EN 301 908-1</li>
-                                                <li>EN 301 908-2</li>
-                                                <li>47 CFR PARTE 22</li>
-                                                <li>47 CFR PARTE 24</li>
-                                            </ul>
+                                        <td>telecomunicaciones</td>
+                                        <td>TIA/EIA/IS-968
+                                            <br>CS-03
+                                            <br>ANSI T1.101
+                                            <br>ITU-T G.823, G.824
+                                            <br>IEEE 802.3
+                                            <br>Directiva RTTEç
                                         </td>
                                     </tr>
                                 </table>
