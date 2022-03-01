@@ -193,7 +193,7 @@
 
                                     <li class="submenu"><a>Catalyst 1000 Series<i class="fa fa-angle-down"></i></a>
                                         <ul class="uno">
-                                            <li><a href="firewalls-asa-5506x-wfp.php">ASA-5506-X w/FirePower</a></li>
+                                            <li><a href="firewalls-asa-5506x-wfp.php">ACCES POINT</a></li>
                                             <li><a href="firewalls-asa-5506h-wfp.php">ASA-5506H-X Ruggedized</a></li>
                                             <li><a href="firewalls-asa-5508x-wfp.php">ASA-5508-X w/FirePower</a></li>
                                             <li><a href="firewalls-asa-5512x-wfp.php">ASA-5512-X w/FirePower</a></li>
