@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco Business CBS350-24P-4G</h3>
-                <h5>Conmutador gestionado PoE+ Gigabit Ethernet de 24 puertos con 4 puertos SFP Gigabit (presupuesto de energía de 195 W)</h5>
+                <h3 class="title-border">Cisco Business CBS350-24FP-4G</h3>
+                <h5>Conmutador gestionado PoE+ Gigabit Ethernet de 24 puertos con 4 puertos SFP Gigabit (presupuesto de energía de 370 W)</h5>
                 <center> <img class="img-responsive" src="images/switches/prin-cbs350-24p.png" alt=""></center>
                 
                 <!--/ Panel Inicio -->
@@ -20,12 +20,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Business CBS350-24P-4G 24-port PoE+ Gigabit Ethernet Managed Switch with 4 x Gigabit SFP (195W Power Budget)</strong></p>
+                                    <p align='justify'><strong>Cisco Business CBS350-24FP-4G 24-port PoE+ Gigabit Ethernet Managed Switch with 4 x Gigabit SFP (370W Power Budget)</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CBS350-24P-4G-NA<br>
-                                        <!-- <strong>Precio: $552.41</strong>--></p> 
+                                    <p align='justify'>#CBS350-24FP-4G-NA<br>
+                                        <strong>Precio: $1,039.67</strong></p> 
                                 </div>
 			                </div>
                             </div>
@@ -256,7 +256,7 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                         <tr>
-                                            <th colspan="2" style="text-align: center">CBS350-24P-4G</th>
+                                            <th colspan="2" style="text-align: center">CBS350-24FP-4G</th>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Rendimiento</th>
@@ -857,7 +857,7 @@
                                         </tr>
                                         <tr>
                                             <td>Energía dedicada a PoE </td>
-                                            <td>240W</td>
+                                            <td>195W</td>
                                         </tr>
                                         <tr>
                                             <td>Número de puertos que admiten PoE </td>
@@ -865,17 +865,18 @@
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía del sistema </td>
-                                            <td>110 V = 34,42 W<br>
-                                            220 V = 33,09 W</td>
+                                            <td>110 V = 46,60 W<br>
+                                            220 V = 46,35 W</td>
                                         </tr>
                                         <tr>
                                             <td>Consumo de energía (con PoE) </td>
-                                            <td>110 V = 239,7 W <br>
-                                            220 V = 236,4 W</td>
+                                            <td>110 V = 449,7 W <br>
+                                            220 V = 438,3 W</td>
+
                                         </tr>
                                         <tr>
                                             <td>Disipación de calor (BTU / h) </td>
-                                            <td>820.62</td>
+                                            <td>1,537.17</td>
                                         </tr>
                                         <tr>
                                         <th colspan="2" style="text-align: center">Hardware</th>
@@ -930,11 +931,11 @@
                                         </tr>
                                         <tr>
                                             <td>Dimensiones (An x Al x Pr) </td>
-                                            <td>445 x 299 x 44 mm (17,5 x 11,77 x 1,73 pulgadas)</td>
+                                            <td>445 x 345 x 44 mm (17,5 x 13,59 x 1,73 pulgadas)</td>
                                         </tr>
                                         <tr>
                                             <td>Unidad de peso </td>
-                                            <td>	3,53 kg (7,78 libras)</td>
+                                            <td>4,6 kg (10,14 libras)</td>
                                         </tr>
                                         <tr>
                                             <td>Poder </td>
@@ -962,11 +963,11 @@
                                         </tr>
                                         <tr>
                                             <td>ventilador</td>
-                                            <td>Sin ventilador</td>
+                                            <td>1</td>
                                         </tr>
                                         <tr>
                                             <td>Ruido acústico </td>
-                                            <td>N/A</td>
+                                            <td>25°C: 34,8 dBA</td>
                                         </tr>
                                         <tr>
                                             <td>MTBF @ 50 ° C (horas) </td>
