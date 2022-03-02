@@ -244,12 +244,12 @@
                                     <li class="submenu"><a>Plataforma de sucursales<i class="fa fa-angle-down"></i></a>
                                         <ul class="r2">
                                             <li><a href="routers-ASR1000-series.php">Serie ASR 1000</a></li>
-                                            <li><a href="routers-ISR1000-series.php">Cisco ISR serie 1000</a></li>
-                                            <li><a href="routers-ISR4000-series.php">Cisco ISR serie 4000</a></li>
+                                            <li><a href="routers-ISR1000-series.php">Serie Cisco ISR 1000</a></li>
+                                            <li><a href="routers-ISR4000-series.php">Serie Cisco ISR 4000</a></li>
                                             <li><a href="routers-ISR800-series.php">Serie ISR 800</a></li>
                                             <li><a href="routers-ISR1100-series.php">Serie ISR 1100</a></li>
                                             <li><a href="routers-ISR1900-series.php">Serie ISR 1900</a></li>
-                                            <li><a href="routers-ISR4000-series.php">Serie ISR 2900</a></li>
+                                            <li><a href="routers-ISR2900-series.php">Serie ISR 2900</a></li>
                                         </ul>
                                     </li>
 
