@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                     <img src="images/routers/ISR1941W.png" alt="">
                     <figcaption>
-                        <a class="link icon-pentagon" href="routers-cisco-ISR1941.php"><i class="fa fa-link"></i></a>                                     
+                        <a class="link icon-pentagon" href="routers-cisco-ISR1941W.php"><i class="fa fa-link"></i></a>                                     
                     </figcaption>			
                 </figure>
                 <div class="portfolio-static-desc">

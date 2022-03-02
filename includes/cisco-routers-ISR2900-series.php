@@ -3,14 +3,14 @@
         <div class="row">
             <div class="col-md-12 heading text-center">
                 <span class="icon-pentagon wow bounceIn"><i class="fa fa-server"></i></span>
-                <h2 class="title2">Routers de Servicios Integrados de la serie Cisco 1900
-                    <span class="title-desc">Router enriquecido en servicios seguros para una sucursal pequeña</span>
+                <h2 class="title2">Routers de Servicios Integrados de la serie Cisco 2900
+                    <span class="title-desc">Router enriquecido en servicios para sucursales medianas</span>
                 </h2>
             </div>
         </div> <!-- Title row end -->
         <div class="row">
             <div class="tab-content">
-                <center><img class="img-responsive" src="images/routers/Cisco 1900 Series Integrated Services Routers.png" alt=""></center>
+                <center><img class="img-responsive" src="images/routers/Cisco 2900 Series Integrated Services Routers.png" alt=""></center>
                 
 <!--
                 <center><h3><strong>Por qué actualizar a un routers de la serie ISR 4000</strong></h3></center>

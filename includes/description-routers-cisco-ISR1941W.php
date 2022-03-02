@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router de Servicios Integrados Cisco 1941</h3>
+                <h3 class="title-border">Router de Servicios Integrados Cisco 1941W</h3>
                 <h5>Habilitación de redes sin fronteras en la sucursal</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco 1941 Integrated Services Router.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco 1941W Integrated Services Router.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -21,12 +21,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco 1941 Integrated Services Router</strong></p>
+                                    <p align='justify'><strong>Cisco 1941W Wireless Integrated Services Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CISCO1941/K9<br>
-                                        <strong>Precio: $1,595.00</strong></p>
+                                    <p align='justify'>#CISCO1941W-A/K9<br>
+                                        <strong>Precio: $2,095.00</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -52,16 +52,28 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
                                 <h2>Descripción general:</h2>
-                                <p align="justify">El router de servicios integrados (ISR) Cisco 1941 ofrece servicios de aplicaciones, movilidad y datos altamente seguros. Las características clave incluyen:
+                                <p align="justify">El router de servicios integrados (ISR) Cisco 1941W ofrece servicios de aplicaciones, movilidad y datos altamente seguros. Las características clave incluyen:
                                 <ul>
                                     <li>2 puertos Ethernet 10/100/1000 integrados</li>
                                     <li>2 ranuras para tarjetas de interfaz WAN de alta velocidad mejoradas que pueden albergar 2 HWIC de ancho simple o 1 de ancho doble y 1 de ancho simple</li>
-                                    <li>1 ranura de módulo de servicios internos de servicios internos</li>
+                                    <li>1 punto de acceso inalámbrico 802.11n integrado</li>
                                     <li>Distribución de energía totalmente integrada a módulos compatibles con 802.3af Power over Ethernet (PoE) y Cisco Enhanced PoE</li>
-                                    <li>Seguridad Cifrado VPN acelerado por hardware incorporado</li>
-                                    <li>Comunicaciones colaborativas seguras con Group Encrypted Transport VPN, Dynamic Multipoint VPN o Enhanced Easy VPN</li>
-                                    <li>Control de amenazas integrado mediante Cisco IOS Firewall, Cisco IOS Zone-Based Firewall, Cisco IOS IPS y Cisco IOS Content Filtering</li>
-                                    <li>Gestión de identidades que utiliza autenticación, autorización y contabilidad (AAA) e infraestructura de clave pública</li>
+                                    <li>Seguridad
+                                        <ul>
+                                            <li>Cifrado acelerado por hardware incorporado para VPN</li>
+                                            <li>Comunicaciones colaborativas seguras con Group Encrypted Transport VPN, Dynamic Multipoint VPN o Enhanced Easy VPN</li>
+                                            <li>Control de amenazas integrado mediante Cisco IOS Firewall, Cisco IOS Zone-Based Firewall, Cisco IOS IPS y Cisco IOS Content Filtering</li>
+                                            <li>Gestión de identidades que utiliza autenticación, autorización y contabilidad (AAA) e infraestructura de clave pública</li>
+                                        </ul>
+                                    </li>
+                                    <li>Movilidad
+                                        <ul>
+                                            <li>El punto de acceso integrado ofrece soporte IEEE 802.11n draft 2.0 para acceso móvil a datos, voz y video de gran ancho de banda</li>
+                                            <li>El punto de acceso admite implementaciones unificadas y autónomas y es compatible con un controlador de LAN inalámbrica y el sistema de controlador inalámbrico de Cisco.</li>
+                                            <li>La tecnología IEEE 802.11n ofrece una confiabilidad excepcional y hasta nueve veces el rendimiento de las redes IEEE 802.11 a/b/g actuales</li>
+                                            <li>Radios duales para 2.4-Ghz 802.11b/g/n. y modos 802.11a/n de 5 GHz</li>
+                                        </ul>
+                                    </li>
                                 </ul>
                                 Los routers de servicios integrados de la serie 1900 de Cisco se basan en 25 años de innovación y liderazgo de productos de Cisco. Las nuevas plataformas están diseñadas para permitir la siguiente fase de la evolución de las sucursales, brindando colaboración de medios enriquecidos y virtualización a la sucursal, al mismo tiempo que maximizan los ahorros de costos operativos. con POE mejorado y nuevas capacidades de control y monitoreo de energía al tiempo que mejora el rendimiento general del sistema. Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready Engine le permite desacoplar la implementación de hardware y software, proporcionando una base tecnológica estable que puede adaptarse rápidamente a los requisitos de red en evolución.
                                 <br>
@@ -191,7 +203,7 @@
                                         </td>
                                     </tr>
                                     <tr>                                        
-                                        <td>Innovador acceso a consola basado en universal serial bus (USB)</td>
+                                        <td>Innovador acceso a consola basado en universal  serial bus (USB)</td>
                                         <td>
                                             <ul class="listas">
                                                 <li>Un nuevo e innovador puerto de consola USB mini-B admite conectividad de gestión cuando los puertos serie tradicionales no están disponibles.</li>
@@ -710,7 +722,7 @@
                                         <th></th>
                                         <th>Cisco1941, Cisco1941W</th>
                                     </tr>
-                                     <tr>
+                                    <tr>
                                         <th colspan="2" style="text-align: center">Servicios y Densidad de Slots</th>
                                     </tr>
                                     <tr>
@@ -946,6 +958,93 @@
                                             <br>IEEE 802.3
                                             <br>Directiva RTTE
                                         </td>
+                                    </tr>
+                                </table>
+
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                    <tr>
+                                        <th colspan="2" style="text-align: center">Especificaciones WLAN del Cisco 1941W</th>
+                                    </tr>
+                                    <tr>
+                                        <th>Rasgo</th>
+                                        <th>Descripción</th>
+                                    </tr>
+                                    <tr>
+                                        <td>hardware WLAN</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Punto de acceso basado en estándares IEEE 802.11n borrador 2.0 con compatibilidad 802.11a/b/g</li>
+                                                <li>Selección automática de velocidad para 802.11g/n</li>
+                                                <li>Radios duales para modos 802.11b/g/n y 802.11a/n.</li>
+                                                <li>Conectores RP-TNC para antenas externas reemplazables en campo</li>
+                                                <li>Ganancia de antena predeterminada de 2 dBi</li>
+                                                <li>Operación de radio de entrada múltiple, salida múltiple (MIMO) 2 x 3</li>
+                                                <li>Wi-Fi 802.11n Borrador v2.0 certificado</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Características del software WLAN</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Punto de acceso autónomo o unificado</li>
+                                                <li>Compatibilidad con Cisco WCS para la supervisión de puntos de acceso en modo autónomo</li>
+                                                <li>Opción para maximizar el rendimiento o maximizar el rango</li>
+                                                <li>Potencia de transmisión configurable por software</li>
+                                                <li>Funciones de radio, incluido el punto de acceso, el puente raíz, el puente no raíz y el puente del grupo de trabajo</li>
+                                                <li>Certificación Wi-Fi Multimedia (WMM)</li>
+                                                <li>Especificaciones de tráfico (TSPEC) Control de admisión de llamadas (CAC) para garantizar que se mantenga la calidad de la voz</li>
+                                                <li>Entrega automática de ahorro de energía (UPSD) no programada para reducir la latencia</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gestión WLAN unificada</td>
+                                        <td>Características del punto de acceso unificado:
+                                            <ul class="listas">
+                                                <li>Compatible con el controlador de LAN inalámbrica y Cisco WCS</li>
+                                                <li>Conmutación local o central configurable para el modo HREAP</li>
+                                                <li>Gestión de radio a través de Cisco WCS</li>
+                                                <li>Itinerancia transparente con grupos de movilidad</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Funciones de seguridad WLAN</td>
+                                        <td>
+                                            <ul>
+                                                <li>Estándar 802.11i</li>
+                                                <li>Acceso protegido Wi-Fi (WPA) y AES (WPA2)</li>
+                                                <li>Autenticación EAP: Cisco LEAP, PEAP, seguridad de la capa de transporte del protocolo de autenticación extensible (EAP TLS), protocolo de autenticación extensible: autenticación flexible mediante túnel seguro (EAP-FAST), protocolo de autenticación extensible: módulo de información del suscriptor (EAP-SIM), protocolo de autenticación extensible -Algoritmo de resumen de mensajes 5 (EAP-MD5) y Protocolo de autenticación extensible-TLS tunelizado (EAP-TTLS)</li>
+                                                <li>Privacidad equivalente por cable estática y dinámica (WEP)</li>
+                                                <li>Cifrado de protocolo de integridad de clave temporal/red de seguridad simple (TKIP/SSN)</li>
+                                                <li>Autenticación y filtro MAC</li>
+                                                <li>Base de datos de usuarios para autenticación local recuperable usando LEAP y EAP-FAST</li>
+                                                <li>Límite configurable al número de clientes inalámbricos</li>
+                                                <li>Contabilidad RADIUS configurable para clientes inalámbricos</li>
+                                                <li>Claves precompartidas (PSK) (WPA-oficina pequeña u oficina doméstica [WPA-SOHO])</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Certificaciones</td>
+                                        <td><center> <img class="img-responsive" src="images/routers/wi-ficertified.jpg" alt=""></center></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Identificadores de conjunto de servicios (SSID)</td>
+                                        <td>dieciséis</td>
+                                    </tr>
+                                    <tr>
+                                        <td>VLAN inalámbricas</td>
+                                        <td>dieciséis</td>
+                                    </tr>
+                                    <tr>
+                                        <td>VLAN inalámbricas cifradas</td>
+                                        <td>dieciséis</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Múltiples identificadores de conjuntos de servicios de difusión (MBSSID)</td>
+                                        <td>dieciséis</td>
                                     </tr>
                                 </table>
 
