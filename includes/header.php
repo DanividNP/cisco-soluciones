@@ -184,47 +184,47 @@
                                 <ul>
                                     <li class="submenu"><a>Access Points<i class="fa fa-angle-down"></i></a>
                                         <ul class="uno">
-                                            <li><a href="firewalls-access-points-100-series">Access Ponts Serie 100</a></li>
-                                            <li><a href="firewalls-access-points-300-series">Access Ponts Serie 300</a></li>
-                                            <li><a href="firewalls-access-points-500-series">Access Ponts Serie 500</a></li>
-                                            <li><a href="firewalls-aironet-4800-series">Serie Aironet 4800</a></li>
-                                            <li><a href="firewalls-aironet-1540-series">Serie Aironet 1540</a></li>
-                                            <li><a href="firewalls-aironet-1560-series">Serie Aironet 1560</a></li>
-                                            <li><a href="firewalls-aironet-1570-series">Serie Aironet 1570</a></li>
-                                            <li><a href="firewalls-aironet-1815-series">Serie Aironet 1815</a></li>
-                                            <li><a href="firewalls-aironet-1830-series">Serie Aironet 1830</a></li>
-                                            <li><a href="firewalls-aironet-1840-series">Serie Aironet 1840</a></li>
-                                            <li><a href="firewalls-aironet-1850-series">Serie Aironet 1850</a></li>
-                                            <li><a href="firewalls-aironet-2800-series">Serie Aironet 2800</a></li>
-                                            <li><a href="firewalls-aironet-3800-series">Serie Aironet 3800</a></li>
-                                            <li><a href="firewalls-catalyst-9100-series">Serie Catalyst 9100</a></li>
-                                            <li><a href="firewalls-aironet-active-sensor">Sensor Activo Aironet </a></li>
-                                            <li><a href="firewalls-cisco-business-100-series">Cisco Business Serie 100</a></li>
-                                            <li><a href="firewalls-cisco-business-200-series">Cisco Business Serie 200</a></li>
+                                            <li><a href="wireless-access-points-100-series">Access Ponts Serie 100</a></li>
+                                            <li><a href="wireless-access-points-300-series">Access Ponts Serie 300</a></li>
+                                            <li><a href="wireless-access-points-500-series">Access Ponts Serie 500</a></li>
+                                            <li><a href="wireless-aironet-4800-series">Serie Aironet 4800</a></li>
+                                            <li><a href="wireless-aironet-1540-series">Serie Aironet 1540</a></li>
+                                            <li><a href="wireless-aironet-1560-series">Serie Aironet 1560</a></li>
+                                            <li><a href="wireless-aironet-1570-series">Serie Aironet 1570</a></li>
+                                            <li><a href="wireless-aironet-1815-series">Serie Aironet 1815</a></li>
+                                            <li><a href="wireless-aironet-1830-series">Serie Aironet 1830</a></li>
+                                            <li><a href="wireless-aironet-1840-series">Serie Aironet 1840</a></li>
+                                            <li><a href="wireless-aironet-1850-series">Serie Aironet 1850</a></li>
+                                            <li><a href="wireless-aironet-2800-series">Serie Aironet 2800</a></li>
+                                            <li><a href="wireless-aironet-3800-series">Serie Aironet 3800</a></li>
+                                            <li><a href="wireless-catalyst-9100-series">Serie Catalyst 9100</a></li>
+                                            <li><a href="wireless-aironet-active-sensor">Sensor Activo Aironet </a></li>
+                                            <li><a href="wireless-cisco-business-100-series">Cisco Business Serie 100</a></li>
+                                            <li><a href="wireless-cisco-business-200-series">Cisco Business Serie 200</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Wireless Controllers<i class="fa fa-angle-down"></i></a>
                                         <ul class="r1">
-                                            <li><a href="firewalls-2500-series">Serie 2500 </a></li>
-                                            <li><a href="firewalls-3504-series">Serie 3504</a></li>
-                                            <li><a href="firewalls-5520-series">Serie 5520</a></li>
-                                            <li><a href="firewalls-5500-series">Serie 5500</a></li>
-                                            <li><a href="firewalls-9800-series">Serie 9800</a></li>
-                                            <li><a href="firewalls-8540-series">Serie 8540</a></li>
-                                            <li><a href="firewalls-virtual-controller">Controlador Virtual</a></li>
-                                            <li><a href="firewalls-mobility-express">Movilidad Express</a></li>
+                                            <li><a href="wireless-2500-series">Serie 2500 </a></li>
+                                            <li><a href="wireless-3504-series">Serie 3504</a></li>
+                                            <li><a href="wireless-5520-series">Serie 5520</a></li>
+                                            <li><a href="wireless-5500-series">Serie 5500</a></li>
+                                            <li><a href="wireless-9800-series">Serie 9800</a></li>
+                                            <li><a href="wireless-8540-series">Serie 8540</a></li>
+                                            <li><a href="wireless-virtual-controller">Controlador Virtual</a></li>
+                                            <li><a href="wireless-mobility-express">Movilidad Express</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a> Soluciones Wi-Fi 6<i class="fa fa-angle-down"></i></a>
                                         <ul class="r2">
-                                            <li><a href="firewalls-catalyst-9800-series">Serie Catalyst 9800</a></li>
-                                            <li><a href="firewalls-catalyst-9100-series">Serie Catalyst 9100</a></li>
+                                            <li><a href="wireless-catalyst-9800-series">Serie Catalyst 9800</a></li>
+                                            <li><a href="wireless-catalyst-9100-series">Serie Catalyst 9100</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Accesorios<i class="fa fa-angle-down"></i></a>
                                         <ul class="r3">
-                                            <li><a href="firewalls-aironet-power-injector">Inyector de energía Aironet</a></li>
-                                            <li><a href="firewalls-aironet-antennas-accessories">Accesorios Antenas Aironet</a></li>
+                                            <li><a href="wireless-aironet-power-injector">Inyector de energía Aironet</a></li>
+                                            <li><a href="wireless-aironet-antennas-accessories">Accesorios Antenas Aironet</a></li>
                                         </ul>
                                     </li>
                                 </ul>
