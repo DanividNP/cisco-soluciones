@@ -28,7 +28,7 @@
         <div class="col-sm-4 portfolio-static-item">
             <div class="grid">
                 <figure class="effect-oscar">
-                    <img src="images/routers/ISR2921W.png" alt="">
+                    <img src="images/routers/ISR2911.jpg" alt="">
                     <figcaption>
                         <a class="link icon-pentagon" href="routers-cisco-ISR2911.php"><i class="fa fa-link"></i></a>                                     
                     </figcaption>			
@@ -48,7 +48,7 @@
         <div class="col-sm-4 portfolio-static-item">
             <div class="grid">
                 <figure class="effect-oscar">
-                    <img src="images/routers/ISR1941W.png" alt="">
+                    <img src="images/routers/ISR2921.jpg" alt="">
                     <figcaption>
                         <a class="link icon-pentagon" href="routers-cisco-ISR2921.php"><i class="fa fa-link"></i></a>                                     
                     </figcaption>			
@@ -68,7 +68,7 @@
         <div class="col-sm-4 portfolio-static-item">
             <div class="grid">
                 <figure class="effect-oscar">
-                    <img src="images/routers/ISR1941W.png" alt="">
+                    <img src="images/routers/ISR2951.jpg" alt="">
                     <figcaption>
                         <a class="link icon-pentagon" href="routers-cisco-ISR2951.php"><i class="fa fa-link"></i></a>                                     
                     </figcaption>			
