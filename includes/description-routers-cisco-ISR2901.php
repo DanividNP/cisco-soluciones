@@ -77,8 +77,8 @@
                                     </li>
                                 </ul>
                                 Los routers de servicios integrados de la serie Cisco 2900 se basan en 25 años de innovación y liderazgo de productos de Cisco. Las nuevas plataformas están diseñadas para permitir la siguiente fase de la evolución de las sucursales, brindando colaboración de medios enriquecidos y virtualización a la sucursal mientras maximiza el ahorro de costos operativos. Las plataformas Integrated Services Router Generation 2 están habilitadas para el futuro con CPU multinúcleo, DSP (procesadores de señal digital) de alta capacidad para futuras capacidades de video mejoradas, módulos de servicio de alta potencia con disponibilidad mejorada, conmutación Gigabit Ethernet con POE mejorado y nuevas capacidades de monitoreo y control de energía al tiempo que mejora el rendimiento general del sistema.
-Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready Engine le permite desacoplar la implementación de hardware y software, proporcionando una base tecnológica flexible que puede adaptarse rápidamente a los requisitos de red en evolución. En general, la serie 2900 de Cisco ofrece ahorros en el costo total de propiedad y agilidad de la red sin precedentes a través de la integración inteligente de servicios de aplicaciones, inalámbricos, de comunicaciones unificadas y de seguridad líderes en el mercado.
-<br><br>
+                                Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready Engine le permite desacoplar la implementación de hardware y software, proporcionando una base tecnológica flexible que puede adaptarse rápidamente a los requisitos de red en evolución. En general, la serie 2900 de Cisco ofrece ahorros en el costo total de propiedad y agilidad de la red sin precedentes a través de la integración inteligente de servicios de aplicaciones, inalámbricos, de comunicaciones unificadas y de seguridad líderes en el mercado.
+                                <br><br>
                                 Cisco 2900 Series se basa en la mejor oferta de su clase de los enrutadores de servicios integrados Cisco 2800 Series existentes al ofrecer cuatro plataformas, los enrutadores de servicios integrados Cisco 2901, 2911, 2921 y 2951.
                                 <br><br>
                                 Todos los routers de servicios integrados de la serie 2900 de Cisco ofrecen aceleración de cifrado de hardware incorporado, ranuras de procesador de señal digital (DSP) con capacidad de voz y video, firewall opcional, prevención de intrusiones, procesamiento de llamadas, correo de voz y servicios de aplicaciones. Además, las plataformas admiten la gama más amplia de opciones de conectividad alámbrica e inalámbrica de la industria, como T1/E1, xDSL, cobre y fibra GE.
@@ -90,7 +90,7 @@ Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready 
                                 <p align="justify">Los routers de servicios integrados de segunda generación (ISR G2) brindan integración y agilidad de servicios superiores. Diseñada para la escalabilidad, la arquitectura modular de estas plataformas le permite crecer y adaptarse a las necesidades de su negocio.</p>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                     <tr>
-                                        <th colspan="2" style="text-align: center">Características y beneficios clave de la serie de routers de servicios integrados Cisco 1941</th>
+                                        <th colspan="2" style="text-align: center">Beneficios comerciales clave de los enrutadores de servicios integrados de la serie Cisco 2900</th>
                                     </tr>
                                     <tr>
                                         <td><strong>Beneficios</strong></td>
@@ -100,7 +100,7 @@ Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready 
                                         <td>Integración de servicios</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>La serie Cisco 1941 ofrece mayores niveles de integración de servicios con servicios de datos, seguridad, inalámbricos y de movilidad, lo que permite una mayor eficiencia en el ahorro de costos.</li>
+                                                <li>Los ISR de la serie 2900 de Cisco ofrecen mayores niveles de integración de servicios con servicios de voz, video, seguridad, inalámbricos, movilidad y datos, lo que permite una mayor eficiencia y ahorro de costos.</li>
                                             </ul>
                                         </td>
                                     </tr>
@@ -117,24 +117,24 @@ Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready 
                                         <td>Alto rendimiento con servicios integrados</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>La serie Cisco 1900 permite la implementación en entornos WAN de alta velocidad con servicios concurrentes habilitados hasta 25 Mbps.</li>
-                                                <li>Multi-Gigabit Fabric permite una comunicación de módulo a módulo de alto ancho de banda sin comprometer el rendimiento del enrutamiento</li>
+                                                <li>La serie Cisco 2900 permite la implementación en entornos WAN de alta velocidad con servicios concurrentes habilitados hasta 75 Mbps.</li>
+                                                <li>Una estructura multigigabit (MGF) permite la comunicación de módulo a módulo de alto ancho de banda sin comprometer el rendimiento del enrutamiento.</li>
                                             </ul>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Agilidad de la red</td>
                                         <td><ul class="listas">
-                                                <li>Diseñado para abordar los requisitos comerciales del cliente, la serie Cisco 1941 con arquitectura modular ofrece una gama de rendimiento de interfaces y servicios modulares a medida que crecen las necesidades de su red.</li>
+                                                <li>Diseñado para abordar los requisitos comerciales de los clientes, la arquitectura modular de la serie Cisco 2900 ofrece mayor capacidad y rendimiento a medida que crecen las necesidades de su red.</li>
                                                 <li>Las interfaces modulares ofrecen mayor ancho de banda, una diversidad de opciones de conexión y resistencia de la red.</li>
                                             </ul>
                                         </td>
                                     </tr>
                                     <tr>                                        
                                         <td>Eficiencia energética</td>
-                                        <td>La arquitectura de la serie Cisco 1941 proporciona características de ahorro de energía que incluyen lo siguiente:
+                                        <td>La arquitectura de la serie Cisco 2900 proporciona características de ahorro de energía que incluyen lo siguiente:
                                             <ul class="listas">
-                                                <li>La serie 1900 de Cisco ofrece administración de energía inteligente y permite que el cliente controle la energía de los módulos según la hora del día. La tecnología Cisco EnergyWise será compatible en el futuro.</li>
+                                                <li>La serie Cisco 2900 ofrece administración de energía inteligente y permite que el cliente controle la energía de los módulos según la hora del día. La tecnología Cisco EnergyWise será compatible en el futuro.</li>
                                                 <li>Integración de servicios y modularidad en una sola plataforma que realiza múltiples funciones, optimiza el consumo de materias primas y el uso de energía.</li>
                                                 <li>La flexibilidad de la plataforma y el desarrollo continuo de las capacidades de hardware y software conducen a un ciclo de vida más prolongado del producto, lo que reduce todos los aspectos del costo total de propiedad, incluidos los materiales y el uso de energía.</li>
                                                 <li>Se proporcionan fuentes de alimentación de alta eficiencia con cada plataforma.</li>
@@ -143,18 +143,18 @@ Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready 
                                     </tr>
                                     <tr>                                        
                                         <td>Protección de inversiones</td>
-                                        <td>La serie Cisco 1941 maximiza la protección de la inversión al admitir:
+                                        <td>La serie Cisco 2900 maximiza la protección de la inversión:
                                             <ul class="listas">
                                                 <li>La reutilización de una amplia gama de módulos existentes compatibles con los enrutadores de servicios integrados originales proporciona un menor costo de propiedad</li>
-                                                <li>Amplio conjunto de características del software Cisco IOS transferidas desde los enrutadores de servicios integrados originales y entregadas en la imagen universal.</li>
-                                                <li>Flexibilidad para crecer a medida que evolucionan las necesidades de su negocio</li>
+                                                <li>Un amplio conjunto de características del software Cisco IOS transferidas desde los enrutadores de servicios integrados originales y entregadas en una única imagen universal.</li>
+                                                <li>Flexibilidad para adaptarse a medida que evolucionan las necesidades de su negocio.</li>
                                             </ul>
                                         </td>
                                     </tr>
                                 </table>
                                 <br>
-                                <h3>Arquitectura y Modularidad</h3>
-                                <p align="justify">La serie 1941 de Cisco está diseñada para satisfacer las demandas de aplicaciones de las sucursales actuales con flexibilidad de diseño para aplicaciones futuras. La arquitectura modular está diseñada para admitir la expansión de los requisitos de los clientes, un mayor ancho de banda y una distribución de energía completamente integrada a los módulos que admiten 802.3af Power over Ethernet (PoE) y Cisco Enhanced PoE (ePoE). La Tabla 2 enumera las características arquitectónicas y los beneficios de Cisco 1941 Series</p>
+                                <h3>Arquitectura y modularidad de la plataforma</h3>
+                                <p align="justify">La serie Cisco 2900 está diseñada para satisfacer las demandas de aplicaciones de las sucursales actuales con flexibilidad de diseño para aplicaciones futuras. La arquitectura modular está diseñada para admitir requisitos de ancho de banda cada vez mayores, interconexiones de multiplexación por división de tiempo (TDM) y distribución de energía completamente integrada a módulos que admiten 802.3af Power over Ethernet (PoE) y Cisco Enhanced PoE (ePoE).</p>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                     <tr>
                                         <th colspan="2" style="text-align: center">Beneficios y características arquitectónicas</th>
@@ -167,8 +167,8 @@ Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready 
                                         <td>Plataforma Modular</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>Los Cisco 1941 Series ISR son plataformas altamente modulares con múltiples ranuras para módulos para proporcionar conectividad y servicios para diversos requisitos de redes de sucursales.</li>
-                                                <li>Los ISR ofrecen una amplitud líder en la industria de opciones de conectividad LAN y WAN a través de módulos para adaptarse a actualizaciones de campo a tecnologías futuras sin necesidad de reemplazar la plataforma.</li>
+                                                <li>Los ISR de la serie Cisco 2900 son plataformas altamente modulares con varios tipos de ranuras para módulos para agregar conectividad y servicios para diversos requisitos de red de sucursales.</li>
+                                                <li>Los ISR ofrecen una variedad líder en la industria de opciones de conectividad LAN y WAN a través de módulos para adaptarse a actualizaciones de campo para tecnologías futuras sin necesidad de reemplazar la plataforma.</li>
                                             </ul>
                                         </td>
                                     </tr>
@@ -176,7 +176,16 @@ Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready 
                                         <td>Procesadores</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>La serie Cisco 1941 está impulsada por procesadores multinúcleo de alto rendimiento que soportan las crecientes demandas de las redes de sucursales al admitir requisitos de WAN de alto rendimiento.</li>
+                                                <li>La serie Cisco 2900 está impulsada por procesadores multinúcleo de alto rendimiento que pueden soportar las crecientes demandas de conexiones WAN de alta velocidad a la sucursal mientras ejecutan múltiples servicios simultáneos.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Seguridad IP integrada con aceleración de hardware VPN de capa de sockets de seguridad (IPSec/SSL)</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>La aceleración de cifrado de hardware integrado se mejora para proporcionar una mayor escalabilidad, que combinada con una licencia opcional de Cisco IOS Security, habilita la seguridad del enlace WAN y los servicios VPN (aceleración IPSec y SSL).</li>
+                                                <li>El hardware de cifrado incorporado reemplaza y supera a los módulos de integración avanzada (AIM) de generaciones anteriores.</li>
                                             </ul>
                                         </td>
                                     </tr>
@@ -184,76 +193,110 @@ Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready 
                                         <td>MultiGigabit Fabric</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>El Cisco 1941 presenta un innovador MultiGigabit Fabric (MGF) que permite una comunicación eficiente de módulo a módulo, lo que permite interacciones directas de servicios entre módulos y reduce la sobrecarga en el procesador del enrutador.</li>
+                                                <li>La serie Cisco 2900 presenta una estructura multigigabit (MGF) innovadora que permite una comunicación eficiente de módulo a módulo, lo que permite interacciones de servicios más estrechas entre módulos y reduce la sobrecarga en el procesador de ruta.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>TDM interconnectivity fabric</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Los servicios de comunicaciones unificadas en la sucursal se mejoran significativamente con el uso de un tejido de interconectividad TDM en la arquitectura del sistema, lo que permite escalar la capacidad del canal DS-0.</li>
                                             </ul>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>Aceleración de hardware VPN IPSec/SSL integrada</td>
+                                        <td>Puertos Gigabit Ethernet integrados	</td>
                                         <td><ul class="listas">
-                                                <li>La aceleración de cifrado de hardware integrado se mejora para proporcionar una mayor escalabilidad que, combinada con una licencia opcional de Cisco IOS Security, permite la seguridad del enlace WAN y los servicios VPN (aceleración IPSec y SSL).</li>
-                                                <li>El hardware de cifrado integrado supera a los módulos de integración avanzada de generaciones anteriores.</li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>                                        
-                                        <td>Puertos Gigabit Ethernet integrados</td>
-                                        <td>
-                                            <ul class="listas">
                                                 <li>Todos los puertos WAN incorporados son puertos enrutados WAN 10/100/1000 Gigabit Ethernet.</li>
+                                                <li>Uno de los tres puertos WAN Ethernet 10/100/1000 en Cisco 2921 y 2951 admite conectividad basada en Small Form-Factor Pluggable (SFP) en lugar de un puerto RJ-45 y habilita la conectividad de fibra.</li>
                                             </ul>
                                         </td>
                                     </tr>
                                     <tr>                                        
-                                        <td>Innovador acceso a consola basado en universal  serial bus (USB)</td>
+                                        <td>Innovador acceso a consola basado en bus serie universal (USB)</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>Un nuevo e innovador puerto de consola USB mini-B admite conectividad de gestión cuando los puertos serie tradicionales no están disponibles.</li>
-                                                <li>La consola tradicional y los puertos auxiliares también están disponibles. Se puede usar la consola basada en USB o el puerto de consola basado en RJ-45 para configurar el enrutador.</li>
+                                                <li>Un nuevo e innovador puerto de consola USB ofrece conectividad de administración para dispositivos sin puerto serie, como las computadoras portátiles modernas.</li>
+                                                <li>Los puertos tradicionales de consola y auxiliares también están disponibles.</li>
                                             </ul>
                                         </td>
                                     </tr>
                                     <tr>                                        
-                                        <td>Fuente de alimentación integrada opcional para distribución de alimentación a través de Ethernet (PoE)</td>
+                                        <td>Fuente de alimentación integrada opcional para distribución de PoE y fuente de alimentación CC universal</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>Una actualización opcional de la fuente de alimentación interna proporciona alimentación en línea (alimentación a través de Ethernet [PoE] compatible con 802.3af y alimentación en línea estándar de Cisco) a módulos de conmutadores integrados opcionales.</li>
+                                                <li>Una actualización opcional de la fuente de alimentación interna proporciona alimentación en línea (PoE compatible con 802.3af y Cisco Inline Power) a los módulos de conmutación integrados.</li>
+                                                <li>En los Cisco 2911, 2921 y 2951, en el futuro estará disponible una fuente de alimentación de CC opcional que amplía la implementación a oficinas centrales y entornos industriales.</li>
                                             </ul>
                                         </td>
                                     </tr>
                                     <tr>                                        
-                                        <td>LAN inalámbrica integrada</td>
+                                        <td>Fuente de alimentación redundante externa opcional (RPS)</td>
                                         <td>
                                             <ul class="listas">
-                                                <li>El Cisco 1941 ofrece un punto de acceso integrado seguro en un solo dispositivo.</li>
-                                                <li>El punto de acceso integrado se basa en el estándar IEEE 802.11n borrador 2.0 que utiliza MIMO (Multi-Input, Multiple-output) para mejorar la cobertura de los clientes 802.11a/b/g existentes y los nuevos clientes 802.11n.</li>
-                                                <li>El Cisco 1941 admite radios duales 802.11 b/g/n y 802.11a/n, es capaz de operar tanto en modo autónomo como unificado.</li>
+                                                <li>Los Cisco 2911, 2921 y 2951 permiten la redundancia de energía mediante el uso de un dispositivo RPS externo, lo que reduce el tiempo de inactividad de la red y la protege de fallas en el suministro de energía.</li>
+                                                <li>La alimentación redundante en la serie Cisco 2900 se admite a través del sistema de alimentación redundante Cisco RPS 2300. Puede utilizar el Cisco RPS 2300 para proporcionar alimentación redundante para los ISR de la serie Cisco 2900, así como para los switches Cisco Catalyst®.</li>
+                                                <li>Para utilizar Cisco RPS 2300, se requiere un adaptador de RPS externo (opción configurable) para conectar la plataforma al RPS externo.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>PoE Boost</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>When connected to an external RPS device, the Cisco 2911, 2921, and 2951 can operate in a PoE boost configuration in lieu of redundant power mode-whereby the power capacity of the platform is increased to twice the normal level to power additional PoE ports.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>                                        
+                                        <td>Diseñado para implementaciones flexibles</td>
+                                        <td>
+                                            <ul class="listas">
+                                                <li>Los Cisco 2911 y 2951 están diseñados para entornos NEBS</li>
+                                                <li>El 2911 tiene 12" de profundidad y tiene un filtro de ventilador opcional para implementaciones en una variedad de entornos. También está disponible un conjunto que proporciona flujo de aire de adelante hacia atrás para racks de 23".</li>
                                             </ul>
                                         </td>
                                     </tr>
                                 </table>
                                 <br>
                                 <h3>Características y ventajas de la modularidad</h3>
-                                <p align="justify">El Cisco 1941 proporciona capacidades modulares significativamente mejoradas que ofrecen protección de inversión para los clientes. La mayoría de los módulos disponibles en las generaciones anteriores de enrutadores Cisco, como Cisco 1841 ISR, son compatibles con Cisco 1941. Además, los módulos utilizados en Cisco 1941 se pueden intercambiar fácilmente con otros enrutadores Cisco para brindar la máxima protección de la inversión. Aprovechar las tarjetas de interfaz comunes en una red reduce en gran medida la complejidad de administrar los requisitos de inventario, implementar grandes implementaciones de red y mantener configuraciones en una variedad de tamaños de sucursales.</p>
+                                <p align="justify">La serie Cisco 2900 proporciona capacidades modulares significativamente mejoradas (consulte la Tabla 3) que ofrecen protección de inversión para los clientes. La mayoría de los módulos disponibles en las generaciones anteriores de enrutadores Cisco, como la serie Cisco 2800, son compatibles con la serie Cisco 2900. Además, los módulos se pueden usar en otras plataformas Cisco compatibles para brindar la máxima protección de la inversión. Aprovechar las tarjetas de interfaz comunes en una red reduce en gran medida la complejidad de administrar los requisitos de inventario, implementar grandes implementaciones de red y mantener configuraciones en una variedad de tamaños de sucursales.</p>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                     <tr>
                                         <th colspan="2" style="text-align: center">Modularidad-Características y Beneficios</th>
                                     </tr>
                                     <tr>
-                                        <td><strong>Rasgo</strong></td>
+                                        <td><strong>Módulos ISR</strong></td>
                                         <td><strong>Beneficios</strong></td>
                                     </tr>
+                                    <tr>
+                                        <td>Módulo de servicio de Cisco
+                                    <center> <img class="img-responsive" src="images/routers/Cisco-Service-Module.jpg" alt=""></center>
+                                    </td>
+                                    <td>Cada ranura del módulo de servicio ofrece una capacidad de alto rendimiento de datos:
+                                        <ul class="listas">
+                                            <li>Agregado de hasta 4 Gbps hacia el procesador de ruta</li>
+                                            <li>Agregado de hasta 2 Gbps a otras ranuras de módulos a través de MGF</li>
+                                            <li>Las ranuras del módulo de servicio (SM) son muy flexibles y admiten módulos de servicio de doble ancho (SM-D), que son módulos de servicio que requieren dos ranuras SM. Los SM-D en Cisco 2921 y 2951 brindan flexibilidad para módulos de mayor densidad.</li>
+                                            <li>Una ranura de módulo de servicio reemplaza el módulo de red y el módulo de extensión para ranuras de voz/fax (EVM) y se ofrece en los ISR Cisco 2911, 2921 y 2951.</li>
+                                            <li>Un módulo adaptador permite la compatibilidad con versiones anteriores de módulos de red existentes, módulos de red mejorados (NME) y EVM.</li>
+                                            <li>Las ranuras para módulos de servicio brindan el doble de capacidades de potencia en relación con las ranuras para módulos de red, lo que permite flexibilidad para módulos de mayor escala y mejor rendimiento.</li>
+                                            <li>Las ranuras del módulo de alimentación al servicio se pueden administrar mediante extensiones similares al marco Cisco EnergyWise, de modo que su organización pueda reducir el consumo de energía en su infraestructura de red. El soporte completo de EnergyWise estará disponible en futuras versiones de software.</li>
+                                        </ul>
+                                    </td>
                                     <tr>
                                         <td>Tarjeta de interfaz WAN de alta velocidad mejorada de Cisco (EHWIC)
                                     <center> <img class="img-responsive" src="images/routers/EHWIC.jpg" alt=""></center>
                                     </td>
                                     <td>
                                         <ul class="listas">
-                                            <li>La ranura EHWIC reemplaza la ranura de la tarjeta de interfaz WAN de alta velocidad (HWIC) y puede admitir de forma nativa HWIC, tarjetas de interfaz WAN (WIC), tarjetas de interfaz de voz (VIC) y tarjetas de interfaz de voz/WAN (VWIC)</li>
-                                            <li>Dos ranuras EHWIC integradas están disponibles en el Cisco 1941 para configuraciones flexibles para admitir dos módulos: Se admite un módulo HWIC-D de ancho doble o EHWIC/HWIC de ancho simple y un segundo módulo E-HIC/HWIC de ancho simple</li>
-                                            <li>Cada ranura HWIC ofrece una alta capacidad de rendimiento de datos</li>
-                                            <li>Agregado de hasta 1,6 Gbps hacia el procesador del enrutador</li>
-                                            <li>Hasta 2 Gbps agregados a otras ranuras de módulos a través de MultiGigabit Fabric (MGF)</li>
+                                            <li>La ranura EHWIC proporciona mejoras a las ranuras para tarjetas de interfaz WAN de alta velocidad (HWIC) de la generación anterior, a la vez que proporciona la máxima protección de la inversión al admitir de forma nativa HWIC, tarjetas de interfaz WAN (WIC), tarjetas de interfaz de voz (VIC) y tarjetas de interfaz de voz/WAN ( VWIC).</li>
+                                            <li>Cuatro ranuras EHWIC integradas en Cisco 2901, 2911, 2921 y 2951 permiten configuraciones más flexibles.</li>
+                                            <li>Cada ranura HWIC ofrece una capacidad de alto rendimiento de datos:</li>
+                                            <li>Agregado de hasta 1,6 Gbps hacia el procesador de ruta</li>
+                                            <li>Agregado de hasta 2 Gbps a otras ranuras de módulos a través del MGF</li>
+                                            <li>La flexibilidad para admitir módulos de doble ancho se habilita al combinar dos ranuras EHWIC. Se admiten hasta 2 módulos HWIC de doble ancho (HWIC-D).</li>
                                         </ul>
                                     </td>
                                     </tr>
