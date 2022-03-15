@@ -184,47 +184,47 @@
                                 <ul>
                                     <li class="submenu"><a>Access Points<i class="fa fa-angle-down"></i></a>
                                         <ul class="uno">
-                                            <li><a href="wireless-access-points-100-series">Access Ponts Serie 100</a></li>
-                                            <li><a href="wireless-access-points-300-series">Access Ponts Serie 300</a></li>
-                                            <li><a href="wireless-access-points-500-series">Access Ponts Serie 500</a></li>
-                                            <li><a href="wireless-aironet-4800-series">Serie Aironet 4800</a></li>
-                                            <li><a href="wireless-aironet-1540-series">Serie Aironet 1540</a></li>
-                                            <li><a href="wireless-aironet-1560-series">Serie Aironet 1560</a></li>
-                                            <li><a href="wireless-aironet-1570-series">Serie Aironet 1570</a></li>
-                                            <li><a href="wireless-aironet-1815-series">Serie Aironet 1815</a></li>
-                                            <li><a href="wireless-aironet-1830-series">Serie Aironet 1830</a></li>
-                                            <li><a href="wireless-aironet-1840-series">Serie Aironet 1840</a></li>
-                                            <li><a href="wireless-aironet-1850-series">Serie Aironet 1850</a></li>
-                                            <li><a href="wireless-aironet-2800-series">Serie Aironet 2800</a></li>
-                                            <li><a href="wireless-aironet-3800-series">Serie Aironet 3800</a></li>
-                                            <li><a href="wireless-catalyst-9100-series">Serie Catalyst 9100</a></li>
-                                            <li><a href="wireless-aironet-active-sensor">Sensor Activo Aironet </a></li>
-                                            <li><a href="wireless-cisco-business-100-series">Cisco Business Serie 100</a></li>
-                                            <li><a href="wireless-cisco-business-200-series">Cisco Business Serie 200</a></li>
+                                            <li><a href="wireless-access-points-100-series.php">Access Ponts Serie 100</a></li>
+                                            <li><a href="wireless-access-points-300-series.php">Access Ponts Serie 300</a></li>
+                                            <li><a href="wireless-access-points-500-series.php">Access Ponts Serie 500</a></li>
+                                            <li><a href="wireless-aironet-4800-series.php">Serie Aironet 4800</a></li>
+                                            <li><a href="wireless-aironet-1540-series.php">Serie Aironet 1540</a></li>
+                                            <li><a href="wireless-aironet-1560-series.php">Serie Aironet 1560</a></li>
+                                            <li><a href="wireless-aironet-1570-series.php">Serie Aironet 1570</a></li>
+                                            <li><a href="wireless-aironet-1815-series.php">Serie Aironet 1815</a></li>
+                                            <li><a href="wireless-aironet-1830-series.php">Serie Aironet 1830</a></li>
+                                            <li><a href="wireless-aironet-1840-series.php">Serie Aironet 1840</a></li>
+                                            <li><a href="wireless-aironet-1850-series.php">Serie Aironet 1850</a></li>
+                                            <li><a href="wireless-aironet-2800-series.php">Serie Aironet 2800</a></li>
+                                            <li><a href="wireless-aironet-3800-series.php">Serie Aironet 3800</a></li>
+                                            <li><a href="wireless-catalyst-9100-series.php">Serie Catalyst 9100</a></li>
+                                            <li><a href="wireless-aironet-active-sensor.php">Sensor Activo Aironet </a></li>
+                                            <li><a href="wireless-cisco-business-100-series.php">Cisco Business Serie 100</a></li>
+                                            <li><a href="wireless-cisco-business-200-series.php">Cisco Business Serie 200</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Wireless Controllers<i class="fa fa-angle-down"></i></a>
                                         <ul class="r1">
-                                            <li><a href="wireless-2500-series">Serie 2500 </a></li>
-                                            <li><a href="wireless-3504-series">Serie 3504</a></li>
-                                            <li><a href="wireless-5520-series">Serie 5520</a></li>
-                                            <li><a href="wireless-5500-series">Serie 5500</a></li>
-                                            <li><a href="wireless-9800-series">Serie 9800</a></li>
-                                            <li><a href="wireless-8540-series">Serie 8540</a></li>
-                                            <li><a href="wireless-virtual-controller">Controlador Virtual</a></li>
-                                            <li><a href="wireless-mobility-express">Movilidad Express</a></li>
+                                            <li><a href="wireless-2500-series.php">Serie 2500 </a></li>
+                                            <li><a href="wireless-3504-series.php">Serie 3504</a></li>
+                                            <li><a href="wireless-5520-series.php">Serie 5520</a></li>
+                                            <li><a href="wireless-5500-series.php">Serie 5500</a></li>
+                                            <li><a href="wireless-9800-series.php">Serie 9800</a></li>
+                                            <li><a href="wireless-8540-series.php">Serie 8540</a></li>
+                                            <li><a href="wireless-virtual-controller.php">Controlador Virtual</a></li>
+                                            <li><a href="wireless-mobility-express.php">Movilidad Express</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a> Soluciones Wi-Fi 6<i class="fa fa-angle-down"></i></a>
                                         <ul class="r2">
-                                            <li><a href="wireless-catalyst-9800-series">Serie Catalyst 9800</a></li>
-                                            <li><a href="wireless-catalyst-9100-series">Serie Catalyst 9100</a></li>
+                                            <li><a href="wireless-catalyst-9800-series.php">Serie Catalyst 9800</a></li>
+                                            <li><a href="wireless-catalyst-9100-series.php">Serie Catalyst 9100</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Accesorios<i class="fa fa-angle-down"></i></a>
                                         <ul class="r3">
-                                            <li><a href="wireless-aironet-power-injector">Inyector de energía Aironet</a></li>
-                                            <li><a href="wireless-aironet-antennas-accessories">Accesorios Antenas Aironet</a></li>
+                                            <li><a href="wireless-aironet-power-injector.php">Inyector de energía Aironet</a></li>
+                                            <li><a href="wireless-aironet-antennas-accessories.php">Accesorios Antenas Aironet</a></li>
                                         </ul>
                                     </li>
                                 </ul>
