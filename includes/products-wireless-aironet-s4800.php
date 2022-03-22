@@ -11,803 +11,138 @@
                         </ul>
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
-                                <h3>Descripción general:</h3>
-                                <p align="justify">
-                                Conozca el primer firewall de próxima generación (NGFW) adaptable y centrado en amenazas de la industria, diseñado para una nueva 
-                                era de protección avanzada contra amenazas y malware. Cisco ASA con FirePOWER Services ofrece una defensa contra amenazas integrada 
-                                para todo el continuo del ataque, antes, durante y después de un ataque, al combinar las capacidades de seguridad probadas del firewall 
-                                Cisco ASA con las funciones de protección contra amenazas y malware avanzadas de Sourcefire, líder en la industria, juntas en una 
-                                dispositivo único. La solución amplía de manera única las capacidades de los firewalls de próxima generación Cisco ASA serie 5500-X más 
-                                allá de lo que las soluciones NGFW actuales son capaces de hacer.</p>
-
+                                <h3>Descripción del producto</h3>
+                                <p align="justify">El punto de acceso Cisco Aironet 4800 está repleto de una gran cantidad de funciones que ofrecen a los usuarios 
+                                    una mejor experiencia, seguridad de primer nivel y conectividad de alta velocidad. Aironet® 4800 facilita la resolución de problemas 
+                                    y mejora el contexto que se muestra en Cisco DNA™ Assurance.
+                                    
+                                <p align="justify">La funcionalidad del punto de acceso se distribuye en cuatro radios internas, por lo que estas funciones se ejecutan 
+                                    simultáneamente en su red. El Aironet 4800 amplía las ricas capacidades actuales de nuestra
+                                    cartera actual de Aironet (con funciones como asignación de radio flexible integrada, hiperubicación y Bluetooth de baja energía [BLE])
+                                    y agrega una cuarta radio interna para proporcionar un rendimiento y un análisis de seguridad y ubicación enriquecidos. 
+                                    Con más radios integrados en el punto de acceso, su red inalámbrica logra mayor seguridad y análisis de datos sin degradar el 
+                                    rendimiento; nunca más tendrá que cambiar la seguridad por el rendimiento de la red.
+                                    
+                                <p align="justify">¿Qué significa esto?
+                                    
+                                <p align="justify">Para empezar, tener una cuarta radio permite que las funciones de monitoreo de seguridad y BLE se ejecuten en sus propias 
+                                    radios individuales, mientras que las otras dos radios tienden al negocio de proporcionar Wi-Fi excepcional. Este nivel de
+                                    visibilidad proporciona capacidades más potentes de TI para ayudar a garantizar la experiencia del usuario para la productividad y el compromiso.
                                
-
-                                <h3>Protección superior multicapa</h3>
-
-                                <p align="justify">Cisco ASA con FirePOWER Services ofrece servicios de seguridad de próxima generación centrados en amenazas
-                                    distintivos a los productos de firewall de próxima generación Cisco ASA serie 5500-X y del dispositivo de seguridad adaptable 
-                                    Cisco ASA 5585-X. Proporciona protección integral contra amenazas conocidas y avanzadas, incluida la protección contra ataques 
-                                    de malware persistentes y dirigidos. Cisco ASA con FirePOWER Services presenta estas capacidades integrales:
+                                <p align="justify">Notas de precios:
                                     <ul>
-                                        <li align="justify">Cisco ASA es el firewall con estado de clase empresarial más ampliamente implementado del mundo con 
-                                            VPN de acceso remoto y agrupación en clústeres avanzada para un acceso altamente seguro y de alto rendimiento y alta
-                                            disponibilidad para ayudar a garantizar la continuidad del negocio.</li>
-                                        <li align="justify">El control y visibilidad de aplicaciones granulares (AVC) admite más de 3.000 controles basados ​​en 
-                                            riesgos y en la capa de aplicación que pueden invocar políticas de detección de amenazas del sistema de prevención de 
-                                            intrusiones (IPS) personalizadas para optimizar la eficacia de la seguridad.</li>
-                                        <li align="justify">Cisco ASA líder en la industria con IPS de próxima generación (NGIPS) de FirePOWER proporciona una
-                                            prevención de amenazas altamente efectiva y un conocimiento contextual completo de los usuarios, la infraestructura,
-                                            las aplicaciones y el contenido para detectar amenazas multivectoriales y automatizar la respuesta de defensa.</li>
-                                        <li align="justify">El filtrado de URL basado en reputación y categoría ofrece alertas y control completos sobre el
-                                            tráfico web sospechoso y hace cumplir las políticas en cientos de millones de URL en más de 80 categorías.</li>
-                                        <li align="justify">Advanced Malware Protection proporciona una eficacia de detección de infracciones líder en la industria,
-                                            un TCO bajo y un valor de protección superior que lo ayuda a descubrir, comprender y detener el malware y las amenazas
-                                            emergentes que pasan por alto otras capas de seguridad.</li>
+                                        <li align="justify">Precios y disponibilidad de productos sujetos a cambios sin previo aviso.</li>
                                     </ul><br>
-                                    <center><img src="images/firewalls-ngfw/FirePOWER-Services.jpg">
-                                    <figcaption>Cisco ASA con servicios FirePOWER</figcaption></center>
-                                </p>
-
-
-                                <h3>Visibilidad de red sin precedentes</h3>
-                                <p align="justify">Cisco ASA con FirePOWER Services es administrado de manera centralizada por Cisco FireSIGHT Management Center. Management 
-                                    Center proporciona a los equipos de seguridad una visibilidad completa y control sobre la actividad dentro de la red. Dicha visibilidad incluye 
-                                    usuarios, dispositivos, comunicación entre máquinas virtuales, vulnerabilidades, amenazas, aplicaciones del lado del cliente, archivos y sitios web. 
-                                    Las indicaciones de compromiso (IoC) integrales y procesables correlacionan la información detallada de eventos de la red y los endpoints y brindan 
-                                    mayor visibilidad de las infecciones de malware.</p>
-  <!--/ Panel Inicio -->
-  <div class="panel-group" id="accordionA">
-		              	<div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB, #accordionC,
-                                     #accordionD, #accordionE, #accordionF, #accordionG, #accordionH, #accordionI, #accordionH" href="#collapseOne">Cisco ASA 5585-X with FirePOWER Services</a> 
-				                </h4>
-			                </div>
-			                <div id="collapseOne" class="panel-collapse collapse in">
-			                  <div class="panel-body">
-                              <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                  
-                                    <h3 class="title-border"></h3></div>
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X chassis with SSP-10 and FirePOWER Services</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S10F10-K9<br>
-                                        <strong>Precio: $54,995.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X chassis (SFP+) with SSP-10 and FirePOWER Services</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S10F10XK9<br>
-                                        <strong>Precio: $74,995.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X chassis with SSP-20 and FirePOWER Services</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S20F20-K9<br>
-                                        <strong>Precio: $94,995.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X chassis (SFP+) with SSP-20 and FirePOWER Services</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S20F20XK9<br>
-                                        <strong>Precio: $114,995.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X chassis with SSP-40 and FirePOWER Services</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S40F40-K9<br>
-                                        <strong>Precio: $195,995.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X chassis with SSP-60 and FirePOWER Services</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S60F60-K9<br>
-                                        <strong>Precio: $269,995.00</strong></p>
-                                </div>
-			                </div>
-                            </div>
-		              	</div><!--/ Panel 1 end-->
-
-                          <div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title">
-				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC,
-                                     #accordionD, #accordionE, #accordionF, #accordionG, #accordionH, #accordionI, #accordionH" href="#collapseNine">Cisco ASA 5585-X with FirePOWER Services Bundles (Hardware and Subscription)</a>
-				            	</h4>
-			                </div>
-			                <div id="collapseNine" class="panel-collapse collapse">
-			                  <div class="panel-body">
-			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X SSP-10 with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S10F10-BUN<br>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X SSP-10X with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-    
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S10F10X-BN<br>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X EP S10F40 with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S10F40-BUN<br>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X SSP-20 with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S20F20-BUN<br>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X SSP-20X with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S20F20X-BN<br>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X EP S20F60 with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S20F60-BUN<br>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X SSP-40 with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S40F40-BUN<br>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA 5585-X SSP-60 with FirePOWER Services Chassis and Subscription Bundle</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#ASA5585-S60F60-BUN<br>
-                                    </div>
-			                  </div>
-			                </div>
-		              	</div><!--/ Panel 9 end-->
-
-		              	<div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title">
-				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC,
-                                     #accordionD, #accordionE, #accordionF, #accordionG, #accordionH, #accordionI, #accordionH" href="#collapseTwo">IPS and Apps Subscription</a>
-				            	</h4>
-			                </div>
-			                <div id="collapseTwo" class="panel-collapse collapse">
-			                  <div class="panel-body">
-			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS and Apps 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TA-1Y<br>
-                                        <strong>Precio: $7,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS and Apps 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TA-3Y<br>
-                                        <strong>Precio: $16,800.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS and Apps 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TA-1Y<br>
-                                        <strong>Precio: $10,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS and Apps 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TA-3Y<br>
-                                        <strong>Precio: $24,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS and Apps 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TA-1Y<br>
-                                        <strong>Precio: $18,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS and Apps 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TA-3Y<br>
-                                        <strong>Precio: $43,200.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS and Apps 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TA-1Y<br>
-                                        <strong>Precio: $33,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS and Apps 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TA-3Y<br>
-                                        <strong>Precio: $79,200.00</strong></p>
-                                </div>
-			                  </div>
-			                </div>
-		              	</div><!--/ Panel 2 end-->
-
-                          <div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title">
-				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC,
-                                     #accordionD, #accordionE, #accordionF, #accordionG, #accordionH, #accordionI, #accordionH" href="#collapseThree">IPS, Apps and URL Subscription</a>
-				            	</h4>
-			                </div>
-			                <div id="collapseThree" class="panel-collapse collapse">
-			                  <div class="panel-body">
-			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS, Apps and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TAC-1Y<br>
-                                        <strong>Precio: $11,900.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS, Apps and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TAC-3Y<br>
-                                        <strong>Precio: $28,560.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS, Apps and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TAC-1Y<br>
-                                        <strong>Precio:  $17,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS, Apps and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TAC-3Y<br>
-                                        <strong>Precio: $40,800.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS, Apps and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TAC-1Y<br>
-                                        <strong>Precio: $30,600.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS, Apps and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TAC-3Y<br>
-                                        <strong>Precio: $73,440.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS, Apps and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TAC-1Y<br>
-                                        <strong>Precio: $56,100.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS, Apps and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TAC-3Y<br>
-                                        <strong>Precio: $134,640.00</strong></p>
-                                </div>
-			                  </div>
-			                </div>
-		              	</div><!--/ Panel 3 end-->
-
-                          <div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title">
-				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC,
-                                     #accordionD, #accordionE, #accordionF, #accordionG, #accordionH, #accordionI, #accordionH" href="#collapseFour">IPS, Apps and AMP Subscription</a>
-				            	</h4>
-			                </div>
-			                <div id="collapseFour" class="panel-collapse collapse">
-			                  <div class="panel-body">
-			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS, Apps and AMP 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TAM-1Y<br>
-                                        <strong>Precio: $11,900.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS, Apps and AMP 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TAM-3Y<br>
-                                        <strong>Precio: $28,560.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS, Apps and AMP 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TAM-1Y<br>
-                                        <strong>Precio: $17,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS, Apps and AMP 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TAM-3Y<br>
-                                        <strong>Precio: $40,800.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS, Apps and AMP 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TAM-1Y<br>
-                                        <strong>Precio: $30,600.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS, Apps and AMP 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TAM-3Y<br>
-                                        <strong>Precio: $73,440.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS, Apps and AMP 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TAM-1Y<br>
-                                        <strong>Precio: $56,100.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS, Apps and AMP 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TAM-3Y<br>
-                                        <strong>Precio: $134,640.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS, Apps, AMP and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TAMC-1Y<br>
-                                        <strong>Precio: $17,850.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER IPS, Apps, AMP and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-TAMC-3Y<br>
-                                        <strong>Precio: $42,840.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS, Apps, AMP and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TAMC-1Y<br>
-                                        <strong>Precio: $25,500.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER IPS, Apps, AMP and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-TAMC-3Y<br>
-                                        
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS, Apps, AMP and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TAMC-1Y<br>
-                                        <strong>Precio: $45,900.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER IPS, Apps, AMP and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-TAMC-3Y<br>
-                                        <strong>Precio: $110,160.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS, Apps, AMP and URL 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TAMC-1Y<br>
-                                        <strong>Precio: $84,150.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER IPS, Apps, AMP and URL 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-TAMC-3Y<br>
-                                        <strong>Precio: $201,960.00</strong></p>
-                                </div>
-			                  </div>
-			                </div>
-		              	</div><!--/ Panel 4 end-->
-
-                          <div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title">
-				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC,
-                                     #accordionD, #accordionE, #accordionF, #accordionG, #accordionH, #accordionI, #accordionH" href="#collapseFive">URL Filtering Subscription</a>
-				            	</h4>
-			                </div>
-			                <div id="collapseFive" class="panel-collapse collapse">
-			                  <div class="panel-body">
-			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER URL Filtering 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-URL-1Y<br>
-                                        <strong>Precio:  $7,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-10 FirePOWER URL Filtering 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-10-URL-3Y<br>
-                                        <strong>Precio: $16,800.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER URL Filtering 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-URL-1Y<br>
-                                        <strong>Precio:  $10,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-20 FirePOWER URL Filtering 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-20-URL-3Y<br>
-                                        <strong>Precio: $24,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER URL Filtering 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-URL-1Y<br>
-                                        <strong>Precio: $18,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-40 FirePOWER URL Filtering 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-40-URL-3Y<br>
-                                        <strong>Precio: $43,200.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER URL Filtering 1 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-URL-1Y<br>
-                                        <strong>Precio:  $33,000.00</strong></p>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco ASA5585-60 FirePOWER URL Filtering 3 Year Subscription</strong></p>
-                                	</div>
-
-                                	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#L-ASA5585-60-URL-3Y<br>
-                                        <strong>Precio: $79,200.00</strong></p>
-                                </div>
-			                  </div>
-			                </div>
-		              	</div><!--/ Panel 5 end-->
-                                <p align="justify">Cisco Security Manager proporciona una gestión de flujo de trabajo de operaciones de red centralizada y escalable. Integra un poderoso 
-                                    conjunto de capacidades; incluida la gestión de políticas y objetos, la gestión de eventos, la generación de informes y la resolución de problemas para 
-                                    las funciones de firewall de Cisco ASA. Para implementaciones simples y de pequeña escala, el Administrador de dispositivos de seguridad adaptable de Cisco 
-                                    (ASDM) está disponible para proporcionar administración de operaciones de red de firewall basada en GUI en el dispositivo.</p>
-                                
-                                <p align="justify">Las herramientas de administración de clase empresarial de Cisco ayudan a los administradores a reducir la complejidad con una visibilidad y 
-                                    un control inigualables en las implementaciones de NGFW.</p>
-                                    <center> <img src="images/firewalls-ngfw/FirePOWER-Services-statistics.jpg">
-                                    <figcaption><strong>Centro de administración de Cisco FireSIGHT:</strong><br>Paneles de control intuitivos de alto nivel y detallados</figcaption></center>
-
-                                <h3>Costos y complejidad reducidos</h3>
-                                <p align="justify">Cisco ASA con FirePOWER Services incorpora un enfoque integrado para la defensa contra amenazas, lo que reduce los costos operativos y de 
-                                    capital y la complejidad administrativa. Se integra sin problemas con el entorno de TI, el flujo de trabajo y la estructura de red existentes. La 
-                                    familia de dispositivos especialmente diseñados es altamente escalable, funciona a velocidades de hasta multigigabit y proporciona una seguridad 
-                                    consistente y sólida en todas las sucursales, el perímetro de Internet y los centros de datos en entornos físicos y virtuales.</p>
-
-                                <p align="justify">Con Cisco FireSIGHT Management Center, los administradores pueden optimizar las operaciones para correlacionar las amenazas, 
-                                    evaluar su impacto, ajustar automáticamente la política de seguridad y atribuir fácilmente las identidades de los usuarios a los eventos de 
-                                    seguridad. Management Center monitorea continuamente cómo la red cambia con el tiempo. Las nuevas amenazas se evalúan automáticamente para 
-                                    determinar cuáles pueden afectar su negocio. Luego, los esfuerzos de respuesta se centran en la reparación y las defensas de la red se adaptan a las 
-                                    condiciones cambiantes de las amenazas. Las actividades de seguridad críticas, como el ajuste de políticas, se automatizan, lo que ahorra tiempo y esfuerzo,
-                                    mientras que las protecciones y contramedidas se mantienen en un estado óptimo.</p>
-
-                                <p align="justify">Cisco FireSIGHT Management Center se integra fácilmente con soluciones de seguridad de terceros a través de la API eStreamer para agilizar los 
-                                    flujos de trabajo operativos y adaptarse a los tejidos de red existentes.</p>
-
                             </div>
 
                             <div class="tab-pane" id="tab4">
                                 <h2>Características y Beneficios:</h2>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                     <tr>
-                                        <th>Característica</th>
+                                        <th>Rasgo</th>
                                         <th>Beneficios</th>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Firewall de próxima generación</td>
-                                        <td align="justify">El primer NGFW centrado en amenazas de la industria; proporciona funcionalidad de firewall ASA, 
-                                            protección avanzada contra amenazas y detección y corrección avanzadas de brechas combinadas en un solo dispositivo</td>
+                                        <td align="justify">Compatibilidad con 802.11ac Wave 2</td>
+                                        <td align="justify">Proporciona una tasa de conexión teórica de hasta 2,6 Gbps por radio, aproximadamente el doble de las tasas 
+                                        que ofrecen los puntos de acceso 802.11ac de gama alta de la actualidad.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Firewall ASA probado</td>
-                                        <td align="justify">Enrutamiento enriquecido, firewall con estado, traducción de direcciones de red y agrupamiento dinámico
-                                            para un acceso confiable, altamente seguro y de alto rendimiento con Cisco AnyConnect VPN</td>
+                                        <td align="justify">Experiencia de alta densidad</td>
+                                        <td align="justify">La mejor arquitectura de RF de su clase que proporciona una cobertura de alto rendimiento para una alta densidad de 
+                                        dispositivos cliente, lo que brinda al usuario final una experiencia inalámbrica perfecta. Las características incluyen hardware 
+                                        personalizado en radios 802.11ac Wave 2, Cisco CleanAir ® , Cisco ® ClientLink 4.0, reducción de ruido en puntos de acceso cruzado y una
+                                        experiencia optimizada de itinerancia del cliente.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">NGIPS líderes en el mercado</td>
-                                        <td align="justify">Prevención y mitigación de amenazas superiores para amenazas conocidas y desconocidas</td>
+                                        <td align="justify">Tecnología multiusuario de múltiples entradas y múltiples salidas (MU-MIMO)</td>
+                                        <td align="justify">Al admitir tres flujos espaciales, MU-MIMO permite que los puntos de acceso dividan los flujos espaciales entre los dispositivos del cliente para maximizar el rendimiento.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Protección avanzada contra malware</td>
-                                        <td align="justify">Detección, bloqueo, seguimiento, análisis y reparación para proteger a la empresa contra ataques de malware persistentes 
-                                            y dirigidos</td>
+                                        <td align="justify">Compatibilidad con Ethernet multigigabit</td>
+                                        <td align="justify">Proporciona velocidades de enlace ascendente de 2,5 Gbps y 5 Gbps además de velocidades de 100 Mbps y 1 Gbps. Todas las velocidades son compatibles con 
+                                            cableado de Categoría 5e por primera vez en la industria, así como con cableado 10GBASE-T (IEEE 802.3bz).</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Conciencia contextual completa</td>
-                                        <td align="justify">Aplicación de políticas basada en una visibilidad completa de los usuarios, dispositivos móviles, aplicaciones del lado del cliente, 
-                                            comunicación entre máquinas virtuales, vulnerabilidades, amenazas y URL.</td>
+                                        <td align="justify">Captura inteligente</td>
+                                        <td align="justify">Intelligent Capture sondea la red y proporciona a Cisco DNA Center ™ un análisis profundo. El software puede rastrear más de 240 anomalías y revisar 
+                                            instantáneamente todos los paquetes a pedido, emulando al administrador de red en el sitio. Con estos datos, los administradores pueden tomar decisiones más informadas 
+                                            sobre sus redes inalámbricas. El software básicamente "detecta" todos los paquetes instantáneamente y envía toda esa información al Centro de ADN para un análisis profundo.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Control de aplicaciones y filtrado de URL</td>
-                                        <td align="justify">Control de la capa de aplicación (sobre aplicaciones, geolocalizaciones, usuarios, sitios web) y capacidad para hacer cumplir el uso y 
-                                            adaptar las políticas de detección basadas en aplicaciones personalizadas y URL.</td>
+                                        <td align="justify">Asignación de radio flexible</td>
+                                        <td align="justify">Permite que los puntos de acceso determinen de forma inteligente el modo de funcionamiento de las radios de servicio en función del entorno de RF. 
+                                            Los puntos de acceso pueden operar en los siguientes modos:
+                                            <ul>
+                                                    <li> Modo de 2,4 GHz y 5 GHz: una radio atiende a clientes en modo de 2,4 GHz, mientras que la otra atiende a clientes en modo de 5 GHz. </li>
+                                                    <li> Modo dual de 5 GHz: ambas radios funcionan en la banda de 5 GHz, lo que maximiza los beneficios de 802.11ac Wave 2 y aumenta la capacidad del dispositivo cliente.  </li>
+                                                    <li>Sensor de red Cisco DNA Assurance: proporciona monitoreo de red proactivo, detectando problemas de red antes que su usuario.  </li>
+                                            </ul>
+                                        </td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Gestión de clase empresarial</td>
-                                        <td align="justify">Paneles e informes detallados de hosts descubiertos, aplicaciones, amenazas e indicaciones de compromiso para una visibilidad completa</td>
+                                        <td align="justify">Hiperlocalización</td>
+                                        <td align="justify">Una solución de ubicación ultraprecisa que combina tecnologías Wi-Fi y BLE para identificar balizas, inventario y dispositivos móviles personales.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Automatización de operaciones simplificada</td>
-                                        <td align="justify">Menor costo operativo y complejidad administrativa con correlación de amenazas, evaluación de impacto, ajuste automatizado de políticas de 
-                                            seguridad e identificación de usuarios</td>
+                                        <td align="justify">Monitoreo de seguridad total 24x7</td>
+                                        <td align="justify">Monitoreo de seguridad dedicado: Dedica su radio de seguridad para escanear tanto 2.4 GHz como 5 GHz en busca de interferencias no Wi-Fi de Cisco CleanAir, amenazas 
+                                            de seguridad y dispositivos no autorizados a medida que se unen a la red.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Diseñado específico, escalable</td>
-                                        <td align="justify">Arquitectura de dispositivo de seguridad altamente escalable que funciona a velocidades de hasta multigigabit; Seguridad consistente y 
-                                            sólida en las sucursales, el perímetro de Internet y los centros de datos en entornos físicos y virtuales.</td>
+                                        <td align="justify">Bluetooth de baja energía (BLE)</td>
+                                        <td align="justify">Tecnología de proximidad para mejorar los servicios de localización para dispositivos móviles.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Gestión en el dispositivo</td>
-                                        <td align="justify">Simplifica la gestión avanzada de defensa contra amenazas para pequeñas y medianas empresas con implementaciones a pequeña escala.</td>
+                                        <td align="justify">cuatro radios</td>
+                                        <td align="justify">Permite que ambas radios Wi-Fi funcionen en modo de servicio al cliente de 5 GHz, lo que permite una velocidad inalámbrica líder en la industria de 5,2 Gbps 
+                                            (2 x 2,6 Gbps) al tiempo que aumenta la capacidad del cliente.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">VPN de acceso remoto</td>
-                                        <td align="justify">Extiende el acceso seguro a la red corporativa más allá de las computadoras portátiles corporativas a los dispositivos móviles 
-                                            personales, independientemente de la ubicación física; Compatibilidad con la solución de movilidad segura Cisco AnyConnect, con capacidad VPN granular 
-                                            a nivel de aplicación, así como clientes VPN nativos de Apple iOS y Android.</td>
+                                        <td align="justify">Compatibilidad con canales de 160 MHz</td>
+                                        <td align="justify">Al admitir canales de hasta 160 MHz de ancho, la selección dinámica de ancho de banda permite que el punto de acceso cambie dinámicamente entre canales de 20, 40, 80 y 160 MHz, según las condiciones del canal de RF, 
+                                            proporcionando la red inalámbrica de mejor rendimiento de la industria.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">VPN de sitio a sitio</td>
-                                        <td align="justify">Proteja el tráfico, incluidos los datos de aplicaciones de VoIP y cliente-servidor, en la empresa distribuida y las sucursales.</td>
+                                        <td align="justify">Visibilidad y control de aplicaciones de impacto cero *</td>
+                                        <td align="justify">Utiliza aceleración de hardware dedicada para mejorar el rendimiento de las aplicaciones de velocidad de línea, como Cisco Application Visibility and Control.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Ecosistema de tecnología de terceros</td>
-                                        <td align="justify">API abierta que permite que el ecosistema de tecnología de terceros se integre con los flujos de trabajo de los clientes existentes</td>
+                                        <td align="justify">Cisco ClientLink 4.0</td>
+                                        <td align="justify">La tecnología Cisco ClientLink 4.0 mejora el rendimiento del enlace descendente para todos los dispositivos móviles, incluidos los dispositivos de uno, dos y tres flujos espaciales en 802.11a/b/g/n/ac, al tiempo que mejora la
+                                            duración de la batería en dispositivos móviles como teléfonos inteligentes y tabletas .</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Integración con Snort y OpenAppID</td>
-                                        <td align="justify">Integración de seguridad de código abierto con Snort y OpenAppID para acceder a los recursos de la comunidad y la capacidad de personalizar 
-                                            fácilmente la seguridad para abordar amenazas y aplicaciones nuevas y específicas rápidamente</td>
+                                        <td align="justify">Cisco Clean Air 160 MHz *</td>
+                                        <td align="justify">La tecnología Cisco CleanAir, mejorada con soporte de canal de 160 MHz, proporciona inteligencia de espectro proactiva y de alta velocidad en canales de 20, 40, 80 y 160 MHz de ancho para combatir 
+                                            los problemas de rendimiento debido a la interferencia inalámbrica.</td>
                                     </tr>
                                     <tr>
-                                        <td align="justify">Inteligencia de seguridad colectiva (CSI)</td>
-                                        <td align="justify">Inteligencia de reputación web y seguridad mundialmente aclamada para la protección de la seguridad en tiempo real</td>
+                                        <td align="justify">Reducción de ruido de punto de acceso cruzado</td>
+                                        <td align="justify">Una innovación de Cisco que permite que los puntos de acceso colaboren de manera inteligente en tiempo real con respecto a las condiciones de RF para que los usuarios se conecten con una calidad de señal 
+                                            y un rendimiento optimizados.</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="justify">Itinerancia optimizada del punto de acceso</td>
+                                        <td align="justify">Ayuda a garantizar que los dispositivos cliente se asocien con el punto de acceso en su rango de cobertura que ofrece la velocidad de datos más rápida disponible.</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="justify">Compatibilidad con la agregación automática de enlaces (LAG)</td>
+                                        <td align="justify">Compatible con 802.3ad (protocolo de control de agregación de enlaces [LACP]), lo que permite que ambas interfaces Ethernet habiliten automáticamente LAG, lo que aumenta el 
+                                            rendimiento general del punto de acceso.</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="justify">Cisco Movilidad Express</td>
+                                        <td align="justify">El modo de implementación flexible a través de la solución Cisco Mobility Express es ideal para entornos de alta densidad y puede admitir hasta 100 puntos de acceso. La configuración sencilla 
+                                            permite implementar el Aironet 4800 en redes sin un controlador físico.</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="justify">funciones de manzana</td>
+                                        <td align="justify">Apple y Cisco se han asociado para crear una experiencia móvil óptima para dispositivos iOS en redes corporativas basadas en tecnologías de Cisco. Con las nuevas funciones de iOS 10, en combinación 
+                                            con el último software y hardware de Cisco, las empresas ahora pueden usar su infraestructura de red de manera más efectiva para brindar una experiencia de usuario mejorada en todas las aplicaciones comerciales.
+                                            En el centro de la colaboración se encuentra un apretón de manos único entre la WLAN de Cisco y los dispositivos de Apple. Este apretón de manos permite que la WLAN de Cisco brinde una experiencia de roaming Wi-Fi 
+                                            óptima a los dispositivos Apple. Además, Cisco WLAN confía en los dispositivos de Apple y da prioridad a las aplicaciones críticas para el negocio especificadas por el dispositivo de Apple.Una innovación de Cisco 
+                                            que permite que los puntos de acceso colaboren de manera inteligente en tiempo real con respecto a las condiciones de RF para que los usuarios se conecten con una calidad de señal y un rendimiento optimizados.</td>
                                     </tr>
                                 </table>   
                             </div>
