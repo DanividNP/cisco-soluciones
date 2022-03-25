@@ -10,7 +10,7 @@
                     <figure class="effect-oscar">
                         <img src="images/Wireless/WAP125.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="access-wap125.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="wireless-access-wap125.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">

@@ -15,10 +15,10 @@
         <!--/ Header end -->
 
         <!-- Slider start -->
-        <?php include("includes/banner-cisco-firewalls.php") ?>
+        <?php include("includes/banner-cisco-accespoint.php") ?>
         <!--/ Slider end -->
   
-        <?php include("includes/description-access-wap125.php") ?>
+        <?php include("includes/description-wireless-access-wap125.php") ?>
        
 <!--        <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->
