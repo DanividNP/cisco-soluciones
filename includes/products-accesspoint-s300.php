@@ -10,7 +10,7 @@
                     <figure class="effect-oscar">
                         <img src="images/Wireless/WAP361.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9300fu.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="wireless-access-wap361.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                         <img src="images/Wireless/WAP351.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9300mu.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-access-wap351.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -51,7 +51,7 @@
                 <figure class="effect-oscar">
                         <img src="images/Wireless/WAP321.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9300mm.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-access-wap321.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>

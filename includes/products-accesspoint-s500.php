@@ -10,7 +10,7 @@
                     <figure class="effect-oscar">
                         <img src="images/Wireless/WAP581.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9300fu.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="wireless-access-wap581.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
@@ -30,7 +30,7 @@
                 <figure class="effect-oscar">
                         <img src="images/Wireless/WAP571.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9300mu.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-access-wap571.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -51,7 +51,7 @@
                 <figure class="effect-oscar">
                         <img src="images/Wireless/WAP571E.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9300mm.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-access-wap571E.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -72,7 +72,7 @@
                 <figure class="effect-oscar">
                         <img src="images/Wireless/WAP551.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="switch-cat-s9300mu.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-access-wap551.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
