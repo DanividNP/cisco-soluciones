@@ -2,20 +2,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 heading text-center">
-                <h1 class="title2">Cisco Aironet serie 1540<br>
-                    <span class="title-desc">Pequeño pero poderoso, compatible con Wave 2</span>
+                <h2 class="title2">Cisco Aironet serie 1540<br>
+                    <span class="title-desc">SPequeño pero poderoso, compatible con Wave 2</span>
                 </h2>
             </div>
-        </div> <!-- Title row end -->
-        <div class="row">
-                <div class="tab-content">
-                        <center><img class="img-responsive" src="images/Wireless/Aironet1540.png" alt=""></center>
-                        <p align="justify">Robustos y elegantes, los puntos de acceso Cisco Aironet 1540 brindan a los clientes la última funcionalidad 802.11ac Wave 2 junto con una fácil instalación. Alojado en una carcasa compacta, este punto de acceso permite enlaces extraordinariamente rápidos con gran flexibilidad.</p>
-
-                        
-                </div><!-- tab content -->
-				</div><!-- Content row end -->
+       		</div> <!-- Title row end -->
 				<div class="row">
+						<div class="tab-content">
+								<center><img class="img-responsive" src="images/Wireless/Aironet1540.png" alt=""></center>
+								<div class="row">
 						<div class="col-md-12">
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".2s">
 						<div class="service-content text-center">
@@ -49,8 +44,14 @@
 							<p>Permite una variedad de implementaciones, incluso como puntos de acceso tradicionales y en redes de malla. Estos puntos de acceso también se pueden implementar a través de la solución Cisco Mobility Express.</p>
 						</div>
 					</div><!--/ End 4th service -->
-				</div>
+
+						</div><!-- tab content -->
+				</div><!-- Content row end -->
 			</div><!-- Content 1st row end -->
     </div><!-- Container end -->
 </section>
- 
+
+
+
+
+
