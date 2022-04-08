@@ -17,9 +17,9 @@
         <!-- Slider start -->
         <?php include("includes/banner-cisco-accespoint.php") ?>
         <!--/ Slider end -->
-        <?php include("includes/accespoint-s100.php") ?>
+        <?php include("includes/wireless-accespoint-s100.php") ?>
   
-        <?php include("includes/products-accesspoint-s100.php") ?>
+        <?php include("includes/products-wireless-accesspoint-s100.php") ?>
        
 <!--        <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->

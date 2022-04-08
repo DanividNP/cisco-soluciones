@@ -9,7 +9,7 @@
        		</div> <!-- Title row end -->
 				<div class="row">
 						<div class="tab-content">
-								<center><img class="img-responsive" src="images/Wireless/Aironet1815 .png" alt=""></center>
+								<center><img class="img-responsive" src="images/Wireless/Aironet1815.png" alt=""></center>
 								
 						</div><!-- tab content -->
 				</div><!-- Content row end -->

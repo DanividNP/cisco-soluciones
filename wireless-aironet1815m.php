@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
     <head>
 
@@ -17,11 +17,10 @@
         <!-- Slider start -->
         <?php include("includes/banner-cisco-accespoint.php") ?>
         <!--/ Slider end -->
-        <?php include("includes/wireless-accespoint-s500.php") ?>
   
-        <?php include("includes/products-wireless-accesspoint-s500.php") ?>
+        <?php include("includes/description-wireless-aironet-1815m.php") ?>
        
-<!--        <div class="gap-60"></div>
+<!--    <div class="gap-60"></div>
         <div class="gap-60"></div>       Verifivar si se deja el espaciado o lo quitamos!!!-->
         <!-- Footer start -->
         <?php include("includes/footer.php") ?>

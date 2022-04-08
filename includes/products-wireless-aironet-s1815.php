@@ -8,19 +8,19 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP125.png" alt="">
+                        <img src="images/Wireless/Aironet1815i.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="wireless-access-wap125.php"><i class="fa fa-link"></i></a>                                     
+                            <a class="link icon-pentagon" href="wireless-aironet1815i.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
                     </figure>
                     <div class="portfolio-static-desc">
                         
                         <h3 align="center">Aironet 1815i</h3><br>
                             <ul>
-                                <li>RAM de 256 MB</li>
-                                <li>Memoria flash de 128 MB</li>
-                                <li>Hasta 867 Mbps de tasa de transferencia de datos</li> 
-                                <li>1 Ethernet 10BASE-T/100BASE-TX/1000BASE-T; RJ-45</li>                               
+                              <li>2x2 MU-MIMO, 2 flujos espaciales
+                              <li>Implementación flexible a través de Mobility Express
+                              <li>Radio Bluetooth 4.1 de bajo consumo integrado
+                              <li>Diseñado con opciones de montaje flexibles                              
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -29,9 +29,9 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP150.png" alt="">
+                        <img src="images/Wireless/Aironet1815w.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="wireless-access-wap150.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-aironet1815w.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -39,10 +39,10 @@
                         
                         <h3 align="center">Aironet 1815w</h3><br>
                             <ul>
-                                <li>RAM de 256 MB</li>
-                                <li>Memoria flash de 128 MB</li>
-                                <li>Hasta 867 + 300 Mbps de tasa de transferencia de datos</li> 
-                                <li>1 Ethernet 10BASE-T/100BASE-TX/1000BASE-T; RJ-45</li>  
+                              <li>2x2 MU-MIMO, 2 flujos espaciales
+                              <li><li>Estilo elegante ideal para unidades de viviendas múltiples
+                              <li>Implementación flexible a través de Mobility Express
+                              <li>Radio Bluetooth 4.1 de bajo consumo integrado 
                                 
                             </ul>
                     </div>					
@@ -52,9 +52,9 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP131.png" alt="">
+                        <img src="images/Wireless/Aironet1815t.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="wireless-access-wap131.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-aironet1815t.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -62,9 +62,10 @@
                         
                         <h3 align="center">Aironet 1815t</h3><br>
                             <ul>
-                                <li>RAM de 128 MB</li>
-                                <li>Memoria flash de 128 MB </li>
-                                <li>Hasta 300 Mbps por radio de tasa de transferencia de datos </li>
+                               <li>2x2 MU-MIMO, 2 flujos espaciales
+                               <li>Extiende los servicios en tiempo real a ubicaciones remotas
+                               <li>Enlace DTLS seguro entre AP y controlador
+                               <li>Tres puertos GE para conectarse a la red
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
@@ -72,9 +73,9 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP131.png" alt="">
+                        <img src="images/Wireless/Aironet1815m.png" alt="">
                         <figcaption>
-                            <a class="link icon-pentagon" href="wireless-access-wap131.php"><i class="fa fa-link"></i></a>
+                            <a class="link icon-pentagon" href="wireless-aironet1815m.php"><i class="fa fa-link"></i></a>
                                      
                         </figcaption>			
                     </figure>
@@ -82,9 +83,10 @@
                         
                         <h3 align="center">Aironet 1815m</h3><br>
                             <ul>
-                                <li>RAM de 128 MB</li>
-                                <li>Memoria flash de 128 MB </li>
-                                <li>Hasta 300 Mbps por radio de tasa de transferencia de datos </li>
+                              <li>2x2 MU-MIMO, 2 flujos espaciales
+                              <li>3 dB más de potencia de transmisión que el 1815i
+                              <li>Radio Bluetooth 4.1 de bajo consumo integrado
+                              <li>Implementación flexible a través de Mobility Expressi>
                             </ul>
                     </div>					
                 </div><!--/ grid end -->
