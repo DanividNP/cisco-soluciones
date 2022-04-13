@@ -1,18 +1,12 @@
 <section id="main-container">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Puntos de acceso Cisco Aironet 3800e </h3>
-                <h5>Prepare su red para manejar muchos más  dispositivos </h5>
-                <center> <img class="img-responsive" src="images/Wireless/Aironet3800ePA.png" alt=""></center>
-
-
-                <!--/ Panel Inicio -->
-                <div class="panel-group" id="accordionA">
+       <!--/ Panel Inicio -->
+       <div class="panel-group" id="accordionA">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Serie Cisco Aironet 3800</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">
+Sensor activo Cisco Aironet</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -21,41 +15,51 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Aironet 3800e IEEE 802.11ac 2,80 Gbit/s<br></strong></p>
+                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Aironet IEEE 802.11ac 5,20 Gbit/s - 2,40 GHz, 5 GHz</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#AIR-AP3802E-B-K9<br>
-                                        <strong>Precio: $2,560.95</strong></p>
+                                    <p align='justify'>#AIR-AP1800S-B-K9<br>
+                                        <strong>Precio:  $156.34
+                                        </strong></p>
                                 </div>
                             </div>
                         </div>
                     </div><!--/ Panel 1 end-->
                    
-                <div class="gap-40"></div>
-                <div class="widget widget-tab">
-                    <ul class="nav nav-tabs">
-                        <li class="active"><a href="#tab1" data-toggle="tab">Visión de conjunto:</a></li>
-                        <li><a href="#tab4" data-toggle="tab">Características y beneficios</a></li>
-                        <li><a href="#tab2" data-toggle="tab">Especificaciones</a></li>
-                        <li><a href="#tab3" data-toggle="tab">Documentación</a></li>
-                    </ul>
-                    <div class="tab-content">
-                        <div class="tab-pane active" id="tab1">
-                            <h2>Visión de conjunto:</h2>
-                    
-                            <p align="justify">Para las organizaciones que allanan el camino para el nuevo estándar 802.11ac Wave 2, Cisco Aironet 3800 Series es la solución perfecta. Los puntos de acceso van más allá de la preparación para el nuevo estándar y brindan lo último en flexibilidad y versatilidad.
+                    <div class="gap-40"></div>
+                    <div class="widget widget-tab">
+                        <ul class="nav nav-tabs">
+                            <li class="active"><a href="#tab1" data-toggle="tab">Visión de conjunto</a></li>
+                            <li><a href="#tab4" data-toggle="tab">Características </a></li>
+                            <li><a href="#tab2" data-toggle="tab">Especificaciones</a></li>
+                            <li><a href="#tab3" data-toggle="tab">Documentación</a></li>
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="tab1">
+                                <h3>Descripción del producto</h3>
+                                <p align="justify">El punto de acceso Cisco Aironet 4800 está repleto de una gran cantidad de funciones que ofrecen a los usuarios 
+                                    una mejor experiencia, seguridad de primer nivel y conectividad de alta velocidad. Aironet® 4800 facilita la resolución de problemas 
+                                    y mejora el contexto que se muestra en Cisco DNA™ Assurance.
+                                    
+                                <p align="justify">La funcionalidad del punto de acceso se distribuye en cuatro radios internas, por lo que estas funciones se ejecutan 
+                                    simultáneamente en su red. El Aironet 4800 amplía las ricas capacidades actuales de nuestra
+                                    cartera actual de Aironet (con funciones como asignación de radio flexible integrada, hiperubicación y Bluetooth de baja energía [BLE])
+                                    y agrega una cuarta radio interna para proporcionar un rendimiento y un análisis de seguridad y ubicación enriquecidos. 
+                                    Con más radios integrados en el punto de acceso, su red inalámbrica logra mayor seguridad y análisis de datos sin degradar el 
+                                     rendimiento; nunca más tendrá que cambiar la seguridad por el rendimiento de la red.
+                                    
+                                <p align="justify">¿Qué significa esto?
+                                    
+                                <p align="justify">Para empezar, tener una cuarta radio permite que las funciones de monitoreo de seguridad y BLE se ejecuten en sus propias 
+                                    radios individuales, mientras que las otras dos radios tienden al negocio de proporcionar Wi-Fi excepcional. Este nivel de
+                                    visibilidad proporciona capacidades más potentes de TI para ayudar a garantizar la experiencia del usuario para la productividad y el compromiso.
+                              
+                            </div>
 
-<br>Para las grandes organizaciones empresariales que confían en Wi-Fi para interactuar con los clientes, la serie 3800 es un producto que no requiere intervención y que es lo suficientemente inteligente como para tomar decisiones basadas en las actividades y el uso del dispositivo final. Esta automatización le permite dedicar tiempo a otros asuntos urgentes, con la certeza de que su red Wi-Fi está funcionando al máximo de su potencial.
-
-<br>La serie Aironet 3800 está repleta de características y capacidades que han convertido a Cisco en el líder de la industria, a un precio ideal para administrar el crecimiento inalámbrico, la capacidad y las brechas de cobertura en entornos interiores densos.
-
-                        </div>
-
-                        <div class="tab-pane" id="tab4">
-                            <h2>Características y Beneficios:</h2>
-                            
-                            <table class="table table-hover table-bordered table-responsive">
+                         <div class="tab-pane" id="tab4">
+                                <h2>Características y Beneficios:</h2>
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
             <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></p></td>
@@ -69,7 +73,7 @@
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Experiencia de alta densidad</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La mejor arquitectura de RF de su clase que proporciona una cobertura de alto rendimiento para una alta densidad de dispositivos cliente, lo que brinda al usuario final una experiencia inalámbrica perfecta. </font><font style="vertical-align: inherit;">Las características incluyen hardware personalizado en radios 802.11ac Wave 2, Cisco CleanAir® , Cisco </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ClientLink</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 4.0, reducción de ruido en puntos de acceso cruzado y una experiencia optimizada de roaming de clientes.</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La mejor arquitectura de RF de su clase que proporciona una cobertura de alto rendimiento para una alta densidad de dispositivos cliente, lo que brinda al usuario final una experiencia inalámbrica perfecta. </font><font style="vertical-align: inherit;">Las características incluyen hardware personalizado en radios 802.11ac Wave 2, Cisco CleanAir </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">®</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , Cisco </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">®</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ClientLink 4.0, reducción de ruido en puntos de acceso cruzado y una experiencia optimizada de itinerancia del cliente.</font></font></span></span></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tecnología multiusuario de múltiples entradas y múltiples salidas (MU-MIMO)</font></font></p></td>
@@ -77,74 +81,79 @@
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con Ethernet multigigabit</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ofrece múltiples velocidades de enlace ascendente de gigabits de 2,5 Gbps y 5 Gbps, además de velocidades de 100 Mbps y 1 Gbps. </font><font style="vertical-align: inherit;">Todas las velocidades son compatibles con cableado de Categoría 5e por primera vez en la industria, así como con cableado 10GBASE-T (IEEE 802.3bz).</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Proporciona velocidades de enlace ascendente de 2,5 Gbps y 5 Gbps además de velocidades de 100 Mbps y 1 Gbps. </font><font style="vertical-align: inherit;">Todas las velocidades son compatibles con cableado de Categoría 5e por primera vez en la industria, así como con cableado 10GBASE-T (IEEE 802.3bz).</font></font></p></td>
+            </tr>
+            <tr>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Captura inteligente</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Intelligent Capture sondea la red y proporciona a Cisco DNA Center </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">™</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> un análisis profundo. </font><font style="vertical-align: inherit;">El software puede rastrear más de 240 anomalías y revisar instantáneamente todos los paquetes a pedido, emulando al administrador de red en el sitio. </font><font style="vertical-align: inherit;">Con estos datos, los administradores pueden tomar decisiones más informadas sobre sus redes inalámbricas. </font><font style="vertical-align: inherit;">El software básicamente "detecta" todos los paquetes instantáneamente y envía toda esa información al Centro de ADN para un análisis profundo.</font></font></span></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Asignación de radio flexible</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que los puntos de acceso determinen de forma inteligente el modo de funcionamiento de las radios de servicio en función del entorno de RF. </font><font style="vertical-align: inherit;">Los puntos de acceso pueden operar en los siguientes modos:</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Modo de 2,4 GHz y 5 GHz:</font></b><font style="vertical-align: inherit;"> una radio atiende a clientes en modo de 2,4 GHz, mientras que la otra atiende a clientes en modo de 5 GHz</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Modo dual de 5 GHz:</font></b><font style="vertical-align: inherit;"> ambas radios dentro del punto de acceso funcionan en la banda de 5 GHz, lo que maximiza los beneficios de 802.11ac Wave 2 y aumenta la capacidad del dispositivo cliente</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Supervisión de seguridad inalámbrica y modo de 5 GHz:</font></b><font style="vertical-align: inherit;"> una radio atiende a clientes de 5 GHz mientras que la otra escanea todo el espectro en busca de atacantes, interferencias de RF y dispositivos no autorizados.</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div></td>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Modo de 2,4 GHz y 5 GHz:</font></b><font style="vertical-align: inherit;"> una radio atiende a clientes en modo de 2,4 GHz, mientras que la otra atiende a clientes en modo de 5 GHz.</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Modo dual de 5 GHz:</font></b><font style="vertical-align: inherit;"> ambas radios funcionan en la banda de 5 GHz, lo que maximiza los beneficios de 802.11ac Wave 2 y aumenta la capacidad del dispositivo cliente.</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Sensor de red Cisco DNA Assurance:</font></b><font style="vertical-align: inherit;"> proporciona monitoreo de red proactivo, detectando problemas de red antes que su usuario.</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con radio dual de 5 GHz</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que ambas radios funcionen en modo de servicio al cliente de 5 GHz, lo que permite una velocidad inalámbrica líder en la industria de 5,2 Gbps (2 x 2,6 Gbps) al tiempo que aumenta la capacidad del cliente.</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hiperlocalización</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Una solución de ubicación ultraprecisa que combina tecnologías Wi-Fi y BLE para identificar balizas, inventario y dispositivos móviles personales.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector de antena inteligente</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Se incluye un segundo conector de antena física inteligente en los modelos de la serie 3800 con una antena externa. </font><font style="vertical-align: inherit;">Este conector brinda flexibilidad de diseño de red avanzada para entornos de áreas abiertas grandes y de alta densidad, como auditorios, centros de convenciones, bibliotecas, cafeterías y arenas/estadios, lo que permite conectar y activar dos juegos de antenas en un único punto de acceso.</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monitoreo de seguridad total 24x7</font></font></p></td>
+              <td><p><b>Dedicated security monitoring:</b> Dedicates your security radio to scan both 2.4 GHz and 5 GHz for Cisco CleanAir non-Wi-Fi interference, security threats, and rogue devices as they join the network.</p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arquitectura modular</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Arquitectura modular de segunda generación introducida por primera vez por los puntos de acceso de la serie 3600. </font><font style="vertical-align: inherit;">La nueva conexión de montaje lateral permite a las empresas agregar y quitar módulos según sea necesario sin tener que desmontar el punto de acceso del techo, lo que simplifica aún más el tiempo y el dinero del cliente al realizar actualizaciones de red.</font></font></p>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La nueva arquitectura de montaje lateral permite flexibilidad adicional en el factor de forma de un módulo de la serie 3800 y en la elección de soluciones con antenas integradas o incluso externas propias.</font></font></p>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hemos duplicado la cantidad de energía disponible para los módulos de la serie 3800 de 9 W a 18 W, ampliando las posibles aplicaciones y soluciones de los módulos.</font></font></p></td>
+              <td><p>Bluetooth Low Energy (BLE) </p></td>
+              <td><p>Proximity technology to enhance location services for mobile devices. </p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con canales de 160 MHz</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al admitir canales de hasta 160 MHz de ancho, la selección dinámica de ancho de banda permite que el punto de acceso cambie dinámicamente entre canales de 20, 40, 80 y 160 MHz, según las condiciones del canal de RF, proporcionando la red inalámbrica de mejor rendimiento de la industria.</font></font></p></td>
+              <td><p>Four radios </p></td>
+              <td><p>Enables both Wi-Fi radios to operate in 5-GHz client serving mode, allowing an industry-leading 5.2 Gbps (2 x 2.6 Gbps) over-the-air speed while increasing client capacity. </p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Visibilidad y control de aplicaciones de impacto cero </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></span></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utiliza aceleración de hardware dedicada para mejorar el rendimiento de las aplicaciones de velocidad de línea, como Cisco Application Visibility and Control.</font></font></p></td>
+              <td><p>160-MHz channel support</p></td>
+              <td><p>Supporting channels up to 160 MHz wide, Dynamic Bandwidth Selection allows the access point to dynamically switch between 20-, 40-, 80-, and 160-MHz channels, depending on the RF channel conditions, providing the industry’s best-performing wireless network.</p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco ClientLink 4.0</font></font></p></td>
-              <td><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La tecnología Cisco ClientLink 4.0 mejora el rendimiento del enlace descendente para todos los dispositivos móviles, incluidos los dispositivos de uno, dos y tres flujos espaciales en 802.11a/b/g/n/ac, al tiempo que mejora la duración de la batería en dispositivos móviles como teléfonos inteligentes y tabletas.</font></font></span></p></td>
+              <td><p>Zero-impact Application Visibility and Control<span><sup>*</sup></span></p></td>
+              <td><p>Uses dedicated hardware acceleration to improve the performance of line-speed applications such as Cisco Application Visibility and Control.</p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Clean Air 160 MHz </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></span></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La tecnología Cisco CleanAir, mejorada con soporte de canal de 160 MHz, proporciona inteligencia de espectro proactiva y de alta velocidad en canales de 20, 40, 80 y 160 MHz de ancho para combatir los problemas de rendimiento debido a la interferencia inalámbrica.</font></font></p></td>
+              <td><p>Cisco ClientLink 4.0</p></td>
+              <td><p><span style="background:white">Cisco ClientLink 4.0 technology improves downlink performance to all mobile devices, including one-, two-, and three-spatial-stream devices on 802.11a/b/g/n/ac, while improving battery life on mobile devices such as smartphones and tablets.</span></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reducción de ruido de punto de acceso cruzado</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Una innovación de Cisco que permite que los puntos de acceso colaboren de manera inteligente en tiempo real sobre las condiciones de RF para que los usuarios se conecten con una calidad de señal y un rendimiento optimizados.</font></font></p></td>
+              <td><p>Cisco CleanAir 160 MHz<span><sup>*</sup></span></p></td>
+              <td><p>Cisco CleanAir technology, enhanced with 160-MHz channel support, provides proactive, high-speed spectrum intelligence across 20-, 40-, 80-, and 160-MHz-wide channels to combat performance problems due to wireless interference.</p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Itinerancia optimizada del punto de acceso</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ayuda a garantizar que los dispositivos cliente se asocien con el punto de acceso en su rango de cobertura que ofrece la velocidad de datos más rápida disponible.</font></font></p></td>
+              <td><p>Cross-access point noise reduction</p></td>
+              <td><p>A Cisco innovation that enables access points to intelligently collaborate in real time regarding RF conditions so that users connect with optimized signal quality and performance.</p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con la agregación automática de enlaces (LAG)</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatible con 802.3ad (protocolo de control de agregación de enlaces [LACP]), lo que permite que ambas interfaces Ethernet habiliten automáticamente LAG, lo que aumenta el rendimiento general del punto de acceso.</font></font></p></td>
+              <td><p>Optimized access point roaming</p></td>
+              <td><p>Helps ensure that client devices associate with the access point in their coverage range that offers the fastest data rate available.</p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Movilidad Express</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El modo de implementación flexible a través de la solución Cisco Mobility Express es ideal para entornos de alta densidad y puede admitir hasta 100 puntos de acceso. </font><font style="vertical-align: inherit;">La configuración sencilla permite que los puntos de acceso de la serie 3800 se implementen en redes sin un controlador físico.</font></font></p></td>
+              <td><p>Automatic link aggregation (LAG) support</p></td>
+              <td><p>802.3ad (Link Aggregation Control Protocol [LACP]) compliant, allowing both Ethernet interfaces to automatically enable LAG, increasing overall throughput to the access point.</p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Características de Apple</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apple y Cisco han respondido a este desafío asociándose para crear una experiencia móvil óptima para dispositivos iOS en redes corporativas basadas en tecnologías </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco®</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Específicamente, al usar las nuevas funciones en iOS 10 en combinación con el último software y hardware de Cisco, las empresas ahora pueden usar su infraestructura de red de manera más efectiva para brindar una experiencia de usuario mejorada en todas las aplicaciones comerciales.</font></font></p>
-                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">En el centro de la colaboración se encuentra un apretón de manos único entre Cisco WLAN y los dispositivos de Apple. </font><font style="vertical-align: inherit;">Este protocolo de enlace permite a Cisco WLAN brindar una experiencia óptima de roaming Wi-Fi a los dispositivos Apple. </font><font style="vertical-align: inherit;">Además, Cisco WLAN confía en los dispositivos de Apple y da prioridad a las aplicaciones críticas para el negocio especificadas por el dispositivo de Apple.</font></font></span></p></td>
+              <td><p>Cisco Mobility Express</p></td>
+              <td><p>Flexible deployment mode through the Cisco Mobility Express solution is ideal for high-density environments and can support up to 100 access points. Easy setup allows the Aironet 4800 to be deployed on networks without a physical controller.</p></td>
+            </tr>
+            <tr>
+              <td><p>Apple features</p></td>
+              <td><p>Apple and Cisco have partnered to create an optimal mobile experience for iOS devices on corporate networks based on Cisco technologies. Using new features in iOS 10, in combination with the latest software and hardware from Cisco, businesses can now more effectively use their network infrastructure to deliver an enhanced user experience across all business applications.</p>
+                <p><span>At the center of the collaboration is a unique handshake between the Cisco WLAN and Apple devices. This handshake enables the Cisco WLAN to provide an optimal Wi-Fi roaming experience to Apple devices. Additionally, the Cisco WLAN trusts Apple devices and gives priority treatment for business-critical applications specified by the Apple device.</span></p></td>
             </tr>
           </tbody>
         </table>
-</div> 
-
-                        
-                        <div class="tab-pane" id="tab2">
-                                <h3>Especificaciones Tecnicas:</h3>
-                                <br>
+     </div>
+                            
+                      <div class="tab-pane" id="tab2">
+                                <h3>Especificaciones Técnicas:</h3>
+                                <br> 
                                 <table class="table table-bordered table-hover table-responsive">
           <thead>
             <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
@@ -155,39 +164,19 @@
           <tbody>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800i: entornos interiores, con antenas internas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: banda dual, 802.11a/b/g/n/ac basado en controlador</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: paquete ecológico (doble banda 802.11a/b/g/n/ac) 10 puntos de acceso de cantidad</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I-D-K9I: banda dual, 802.11a/b/g/n/ac basado en controlador (solo India)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800i Configurable: entornos interiores, con antenas internas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I-x-K9C: 802.11a/g/n/ac de doble banda, basado en controlador, configurable</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I-xK910C: paquete ecológico (doble banda 802.11a/g/n/ac) 10 puntos de acceso de cantidad, configurable</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800e: interiores, entornos desafiantes, con antenas externas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802e- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: 802.11a/b/g/n/ac basado en controlador de doble banda</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802e- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: Paquete ecológico (doble banda 802.11a/b/g/n/ac), 10 puntos de acceso de cantidad</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800e Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9C: 802.11a/g/n/ac basado en controlador de doble banda, configurable</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910C: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad, configurable</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800p: interiores, entornos desafiantes, con antenas externas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: 802.11a/b/g/n/ac basado en controlador de doble banda</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: paquete ecológico (doble banda 802.11a/b/g/n/ac), 10 puntos de acceso de cantidad</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800p Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9C: 802.11a/g/n/ac basado en controlador de doble banda, configurable</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910C: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad, configurable</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">™</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> para el punto de acceso Cisco Aironet 3800i con antenas internas</font></font></p>
+              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 4800: entornos interiores, con antenas internas</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP4800- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -K9: banda dual, 802.11a/b/g/n/ac basado en controlador</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP4800- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x-</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K9C: 802.11a/b/g/n/ac de doble banda, basado en controlador, configurable</font></font></div>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Servicio Cisco Smart Net Total Care </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">®</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> para el Aironet 4800 con antenas internas</font></font></span></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CON-SNT-AIRPIBK9: SNTC-8X5XNBD 802.11ac Ctrlr AP 4x Duración: 12 mes(es)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care para el punto de acceso Cisco Aironet 3800e con antenas externas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CON-SNT-AIRPID38E: SNTC-8X5XNBD 802.11ac Ctrlr AP 4x4:3SS con CleanAir; </font><font style="vertical-align: inherit;">Ex Duración: 12 Mes(es)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care para el punto de acceso Cisco Aironet 3800p con antenas externas</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CON-SNT-AIRAP382: SNTC-8X5XNBD 802.11ac Ctrlr AP 4x Duración: 12 mes(es)</font></font></div></td>
+                <p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dominios regulatorios: (x = dominio regulatorio)</font></font></b></p></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software y controladores de LAN inalámbrica compatibles</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software de red inalámbrica unificada de Cisco, versión 8.2.111.0 o posterior</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● Versión 16.3 del software </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IOS®</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> XE</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de la serie Cisco 2500, Controladores inalámbricos de la serie Cisco 3500, Módulo de controlador inalámbrico de Cisco para ISR G2, Módulo de servicios inalámbricos de Cisco 2 (WiSM2) para switches Catalyst® de la </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">serie</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 6500, Controladores inalámbricos de la serie Cisco 5500, Controladores inalámbricos de la serie Cisco Flex® </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7500</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , Controladores inalámbricos de la serie Cisco 8500, controlador inalámbrico virtual de Cisco</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● Conmutadores </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst serie 3850 y serie 3650</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Mobility Express</font></font></div></td>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software de red inalámbrica unificada de Cisco, versión 8.7 o posterior</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de la serie 3500 de Cisco, controladores inalámbricos de la serie 5520, controladores inalámbricos de la serie 8540 y controlador inalámbrico virtual</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● Versión 16.9 del software </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IOS®</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> XE</font></font></span></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● Conmutadores </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst® serie </font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3850</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> y serie 3650</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11n versión 2.0 (y relacionadas)</font></font></p></td>
@@ -223,42 +212,33 @@
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte de CSD</font></font></div></td>
             </tr>
             <tr>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Certificación de la Alianza Wi-Fi</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Certificaciones de la Alianza Wi-Fi</font></font></p></td>
               <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wi-Fi certificado a, b, g, n, ac</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● Ventaja </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wi-Fi</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MMM</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wi-Fi multimedia (WMM)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contraseña</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena integrada</font></font></p></td>
               <td colspan="6"><p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio flexible (ya sea 2,4 GHz o 5 GHz)</font></font></b></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz, ganancia 4 dBi, antena interna, omnidireccional en acimut</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia de 6 dBi, antena direccional interna, ancho de haz del plano de elevación 90°</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz, ganancia 2,5 dBi, antena interna, omnidireccional en acimut</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia de 5 dBi, antena direccional interna, ancho de haz del plano de elevación de 90°</font></font></div>
                 <p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio dedicada de 5 GHz</font></font></b></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia 5 dBi, antena interna, omnidireccional en acimut</font></font></div></td>
-            </tr>
-            <tr>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena externa (se vende por separado)</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso de la serie 3802e están certificados para su uso con ganancias de antena de hasta 6 dBi (2,4 GHz y 5 GHz)</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso de la serie 3802p están certificados para su uso con ganancias de antena de hasta 13 dBi (2,4 GHz y 5 GHz) con la antena AIR‑ANT2513-P4M-N=</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco ofrece la selección de antenas más amplia de la industria, brindando una cobertura óptima para una variedad de escenarios de implementación</font></font></div></td>
-            </tr>
-            <tr>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector de antena inteligente</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disponible solo en los puntos de acceso de las series 3802e y 3802p</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requiere el conector de antena inteligente AIR-CAB002-DART-R= de 2 pies para conectores RP-TNC para conectar una segunda antena al punto de acceso</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requerido cuando se ejecuta la radio flexible como:</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Segunda radio de servicio de 5 GHz</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio de monitoreo de seguridad inalámbrica</font></font></div></td>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia 3,5 dBi, antena interna, omnidireccional en acimut</font></font></div>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tercera radio dedicada</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatible con 2,4 GHz y 5 GHz</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conjunto de antenas de hiperubicación</font></font></div>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio BLE</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz, ganancia 2,5 dBi, antena interna, omnidireccional en acimut</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 puertos Ethernet</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">100/1000/2500/5000 Multigigabit Ethernet (RJ-45) – IEEE 802.3bz</font></font></div>
-                <div> <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦</font></font><span>&nbsp;&nbsp; </span></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Cableado CAT 5e</font></font></div>
-                <div> <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦</font></font><span>&nbsp;&nbsp; </span></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Cableado 10GBASE-T (CAT 6/6a) de mayor calidad</font></font></div>
-                <div> <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span></span> <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detección automática 100/1000BASE-T (RJ-45 - puerto AUX)</font></font></span> </div>
-                <div> <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦</font></font><span>&nbsp;&nbsp; </span></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Puerto de la consola de gestión (RJ-45)</font></font></div></td>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 puertos Ethernet</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">100/1000/2500/5000 Multigigabit Ethernet (RJ-45) – IEEE 802.3bz</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ Cableado de </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">categoría 5e</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cableado 10GBASE-T (Categoría 6/6a) de mayor calidad</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">Detección automática 100/1000BASE-T (puerto RJ-45 AUX)</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicadores</font></font></p></td>
@@ -266,43 +246,30 @@
             </tr>
             <tr>
               <td colspan="2"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones (ancho x largo x alto)</font></font></span></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso (sin soportes de montaje): 3802I: 22 x 22 x 6,25 cm (8,66 x 8,68 x 2,46 pulg.), 3802E: 22 x 22 x 6,7 cm (8,66 x 8,68 x 2,62 pulg.), 3802P: 8,66 x 8,68 x 2,62 pulg. (22 x 22 x 6,7 cm)</font></font></div></td>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso (sin soportes de montaje): 22 x 25 x 7,35 cm (8,68 x 9,9 x 2,9 pulg.)</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4,6 libras (2,09 kg)</font></font></div></td>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,6 libras (2,5 kg)</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requisitos de potencia de entrada</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3at PoE+, Cisco Universal Power over Ethernet (Cisco </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UPOE®</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></div>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3at PoE+, Cisco Universal Power over Ethernet (Cisco </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UPOE®</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></span></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inyector de alimentación 802.3at (AIR-PWRINJ6=)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuente de alimentación de 50W (AIR-PWR-50=)</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Poder de dibujo</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25,8 W en el PSE (22,5 W en el PD) con todas las funciones habilitadas excepto el puerto USB 2.0</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30 W en el PSE (25,5 W en el PD) con el puerto USB 2.0 habilitado</font></font></div></td>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30 W en el equipo de fuente de alimentación (PSE) con todas las funciones habilitadas excepto Multigigabit, AUX Ethernet y compatibilidad con USB</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">31 W en el PSE con funcionalidad completa</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Aironet 3800i</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></div>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: 32° a 104°F (0° a 40°C)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad de funcionamiento: 10 % a 90 % por ciento (sin condensación)</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud operativa: 40˚C, 9843 pies.</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Aironet 3800e</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: -4° a 122°F (-20° a 50°C)</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad de funcionamiento: del 10 % al 90 % (sin condensación)</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud operativa: 40˚C, 9843 pies.</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Aironet 3800p</font></font></p>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: -4° a 122°F (-20° a 50°C)</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad de funcionamiento: del 10 % al 90 % (sin condensación)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud operativa: 40˚C, 9843 pies.</font></font></p></td>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud operativa: 40 ˚C, 9843 pies (sin condensación)</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memoria del sistema</font></font></p></td>
@@ -353,8 +320,8 @@
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">E (dominio regulador E):</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  (excluye 5.600 a 5.640 GHz)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(excluye 5.600 a 5.640 GHz)</font></font></div>
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">F (dominio regulador F):</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></div>
@@ -394,18 +361,15 @@
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">T (dominio regulador T):</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,280 a 5,320 GHz; </font><font style="vertical-align: inherit;">3 canales</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  (excluye 5.600 a 5.640 GHz)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></div>
+                <div style="text-indent:0in"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(excluye 5.600 a 5.640 GHz)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></div>
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Z (dominio regulador Z):</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  (excluye 5.600 a 5.640 GHz)</font></font></div>
-                <div style="page-break-before:always"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></div></td>
-            </tr>
-            <tr>
-              <td colspan="8"><p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nota:</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Los clientes son responsables de verificar la aprobación de uso en sus países individuales. </font><font style="vertical-align: inherit;">Para verificar la aprobación e identificar el dominio regulatorio que corresponde a un país en particular, visite </font></font><a href="https://www.cisco.com/go/aironet/compliance"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.cisco.com/go/aironet/compliance</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p></td>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(excluye 5.600 a 5.640 GHz)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de canales que no se superponen</font></font></p></td>
@@ -430,13 +394,13 @@
               <td colspan="8"><p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nota:</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Esto varía según el dominio regulatorio. </font><font style="vertical-align: inherit;">Consulte la documentación del producto para obtener detalles específicos de cada dominio regulatorio.</font></font></p></td>
             </tr>
             <tr>
-              <td colspan="2"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cumplimiento</font></font></span></p></td>
-              <td colspan="6" rowspan="2"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦UL </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">60950-1</font></font></div>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cumplimiento</font></font></p></td>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦UL </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">60950-1</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.º 60950-1</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦UL </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2043</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 50155 para 3800e (temperatura de funcionamiento -20° a 50°C)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 50155</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aprobaciones de radio:</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC Parte 15.107, 15.109, 15.247, 15.407, 14-30</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-247 (Canadá)</font></font></div>
@@ -454,7 +418,7 @@
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad:</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, acceso Wi-Fi protegido 2 (WPA2), WPA</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cifrado avanzado (AES), Protocolo de integridad de clave temporal (TKIP)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES), </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolo de integridad de clave temporal (TKIP)</font></font></span> </div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipos de protocolo de autenticación extensible (EAP):</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Seguridad de la capa de transporte (TLS)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Tunneled TLS (TTLS) o Microsoft Challenge Handshake Authentication Protocol versión 2 (MSCHAPv2)</font></font></div>
@@ -463,13 +427,10 @@
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PEAP v1 o EAP-Tarjeta de token genérica (GTC)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Módulo de identidad del suscriptor (SIM)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Multimedios:</font></font></div>
-                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wi-Fi multimedia (WMM)</font></font></div>
-                <div style="page-break-before:always"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Otro:</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WMM</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Otro:</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Boletín de la FCC OET-65C</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-102</font></font></div></td>
-            </tr>
-            <tr>
-              <td colspan="2"><p>&nbsp;</p></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía</font></font></p></td>
@@ -526,22 +487,22 @@
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1Mbps</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-101</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11Mbps</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-88</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
             </tr>
             <tr>
               <td colspan="8"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a/g</font></font></p></td>
@@ -848,12 +809,12 @@
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></p></td>
@@ -1356,15 +1317,16 @@
             </tr>
           </tbody>
         </table>
-
-
-</div>
-                            <div class="tab-pane" id="tab3">
+                                </div>
+        
+        
+        <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                                    Descargue la <a href="datasheets/Aironet3800.pdf" target="_blank">
-                                    hoja de datos Cisco Aironet 3800 Access Point </a> (PDF)
+                                    Descargue la <a href="datasheets/aironet-4800.pdf" target="_blank">
+                                    hoja de datos de accesspoint Cisco Aironet 4800 </a> (PDF)
                 
+                        </div>
                         </div>
                     </div><!-- End default tabs -->
                     <br>
@@ -1373,3 +1335,4 @@
         </div>
     </div>
 </section>
+
