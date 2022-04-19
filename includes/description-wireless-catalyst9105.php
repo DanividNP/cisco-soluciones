@@ -81,7 +81,7 @@
 			                </div>
                             </div>
 		              	</div><!--/ Panel 4 end-->
-                    </div>  
+                  
 
                     <div class="gap-40"></div>
                     <div class="widget widget-tab">
@@ -115,8 +115,10 @@
                                    <li>Compatibilidad con OFDMA y MU-MIMO</li>
                                    <li>Modelos de montaje en techo y montaje en pared (Catalyst 9105i y Catalyst 9105w)</li>
                                 </ul> 
-</div>
 
+</div>
+</div>
+</div>
                             <div class="tab-pane" id="tab4">
                                 <h2>Caracteristicas y Beneficios:</h2>
                                    
@@ -213,7 +215,7 @@
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXIT-x: Cisco Catalyst 9105 Series (se envía junto con el kit de infraestructura: inyector de alimentación y cables Ethernet) Punto de acceso para teletrabajadores Cisco Catalyst 9105AX: placa de pared, con antenas internas</font></font></li>
                 </ul>
-                <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXWT-x: Cisco Catalyst serie 9105 (se envía junto con el kit de placa de pared, base y cables Ethernet) Punto de acceso Cisco Catalyst 9105AX: entornos interiores, con antenas internas, con controlador inalámbrico incorporado</font></font></strong></p>
+                <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXWT-x: Cisco Catalyst serie 9105 (se envía junto con el kit de placa de pared, base y cables Ethernet) Punto de acceso Cisco Catalyst 9105AX: entornos interiores, con antenas internas, con controlador inalámbrico integrado</font></font></strong></p>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI-EWC-x: Cisco Catalyst serie 9105</font></font></li>
                 </ul>
@@ -307,14 +309,14 @@
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 interfaz de enlace ascendente 100/1000/2500 Base-T (Ethernet)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de enlace descendente 3x 10/100/1000 Base-T (Ethernet) (LAN1, LAN2 y LAN3, LAN1 admite un presupuesto de energía PSE de 10,5 W)</font></font></li>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de gestión (RJ-45)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">USB 2.0 a 4,5W</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de paso</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105AXW</font></font></strong></p>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 interfaz de enlace ascendente 10/100/1000 Base-T (Ethernet)</font></font></li>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de gestión (RJ-45)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></li>
               </ul></td>
             </tr>
             <tr>
@@ -403,6 +405,125 @@
             </tr>
           </tbody>
         </table>
+              </div>
+              <div>
+        <table class="table table-bordered table-hover table-responsive">
+          <tbody>
+            <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento</font></font></strong></td>
+              <td style="width:37%;"><ul>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 62368-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 62368-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL/CUL 62368 – 1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.º 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS60950.1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 2043: solo para C9105AXI</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Equipo de clase III</font></font></li>
+                  </ul>
+                </li>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 32 (rev. 2015)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2012/AC:2013)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2015)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-2 (rev. 2014)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-3 (rev. 2013)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN61000-3-2</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN61000-3-3</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS CISPR 32 Clase B (rev. 2015)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47 CFR FCC Parte 15B</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICES-003 (rev. 2016 Número 6, Clase B)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VCCI-CISPR 32</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNC (rev. 13438)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN-32</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QCVN 118:2018/BTTTT</font></font></li>
+                  </ul>
+                </li>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 24 (rev. 2010)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55024 + AMD 1 (rev. 2010)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55035: 2017</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN35</font></font></li>
+                  </ul>
+                </li>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones e inmunidad:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-1 (v2.1.1 2017-02)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-17 (v3.1.1 2017-02)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QCVN (18:2014)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QCVN 112:2017/BTTTT</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN 489-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN 489-17</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60601-1-2:2015</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 61000-6-1: 2007</font></font></li>
+                  </ul>
+                </li>
+              </ul>              </td>
+              <td style="width:37%;"><ul>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 328 (v2.1.1)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 893 (v2.1.1)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 4268 (rev. 2017)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47 CFR FCC Parte 15C, 15.247, 15.407</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSP-100</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-GEN</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-247</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Regulaciones de China SRRC</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LP0002 (rev. 2018.1.10)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">estándar de Japón </font><font style="vertical-align: inherit;">33a, estándar. </font><font style="vertical-align: inherit;">66 y estándar. </font><font style="vertical-align: inherit;">71</font></font></li>
+                  </ul>
+                </li>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad RF:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 50385 (rev. agosto 2002)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARPANSA</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 2772 (rev. 2016)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 62209-1 (rev. 2016)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 62209-2 (rev. 2010)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47 CFR Parte 1.1310 y 2.1091</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-102</font></font></li>
+                    </ul>
+                </li>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas IEEE:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE802.3</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3ab</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3af/en</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11a/b/g/n/ac/ax</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11h, 802.11d</font></font></li>
+                    </ul>
+                </li>
+                <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad:</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, Acceso Wi-Fi protegido 2 (WPA2), WPA3</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES)</font></font></li>
+                    </ul>
+                </li>
+                <li>                  <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipos de protocolo de autenticación extensible (EAP):</font></font></strong>
+                  <ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Seguridad de la capa de transporte (TLS)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Tunneled TLS (TTLS) o Microsoft Challenge Handshake Authentication Protocol (MSCHAP) v2</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP protegido (PEAP) v0 o EAP-MSCHAP v2</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación EAP-Flexible a través de Túnel Seguro (EAP-FAST)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PEAP v1 o EAP-Tarjeta token genérica (GTC)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Módulo de identidad del suscriptor (SIM)</font></font></li>
+                    </ul>
+                </li>
+              </ul>              </td>
+            </tr>
+              
+            
+          </tbody>
+        </table>
+
                             </div>
                             <div class="tab-pane" id="tab5">
                                 <h3>Potencia de transmisión y sensibilidad de recepción:</h3>
@@ -761,28 +882,25 @@
         </tbody></table>
 </div>
                              <div class="tab-pane" id="tab6">
-                                 <h2></h2>
-
-
-
-
+                                 <h2>Patrón de antena:</h2>
+                                 <center><img  src="images/Wireless/C9105AXW-antenna01.jpg" alt=""></center>
+                                 <center><img  src="images/Wireless/C9105AXW-antenna02.jpg" alt=""></center>
+                                 <center><img  src="images/Wireless/C9105AXI-antenna01.jpg" alt=""></center>
+                                 <center><img  src="images/Wireless/C9105AXI-antenna02.jpg" alt=""></center>
+              </div>
                              <div class="tab-pane" id="tab7">
-
-
-
-
-
-
+                             <h2>Licenciamiento y paquete de software</h2>
+                             <p align="justify">La serie Cisco Catalyst 9100 requiere una licencia inteligente obligatoria. Esto proporciona facilidad de uso para la gestión, el consumo y el seguimiento de licencias de Cisco DNA. La serie Cisco Catalyst 9100 utiliza paquetes que incluyen paquetes de red base muy simplificados (Network Essentials y Network Advantage) y paquetes de software basados ​​en términos (Cisco DNA Essentials, Cisco DNA Advantage) como complementos. Los paquetes Cisco DNA, además de las capacidades en la caja, también desbloquean funcionalidades adicionales en Cisco DNA Center, lo que permite la automatización y la seguridad definidas por software basadas en controladores en su red.
+                             <p align="justify">La serie Cisco Catalyst 9100 admite 3 tipos de licencia de Cisco DNA: Cisco DNA Essentials, Cisco DNA Advantage y Cisco DNA Premier. Las licencias de Cisco DNA brindan innovaciones de Cisco en el AP. La licencia de Cisco DNA también incluye las opciones de licencia Network Essentials y Network Advantage que cubren los fundamentos inalámbricos, como autenticación 802.1x, QoS, PnP, etc., telemetría y visibilidad, SSO, así como controles de seguridad. Estos elementos esenciales de la red y los componentes de ventaja de la red son perpetuos y son válidos hasta la vida útil del AP. Las licencias de suscripción de Cisco DNA deben comprarse por un período de suscripción de 3, 5 o 7 años. Sin embargo, al vencimiento de la licencia de Cisco DNA, las funciones de Cisco DNA caducan, mientras que las funciones esenciales de la red y las ventajas de la red permanecerán.
+              </div>
                             <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" > <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                                    Descargue la <a href="datasheets/Aironet-1570.pdf" target="_blank">
-                                     a hoja de datos del punto de acceso para exteriores de la serie Cisco Aironet 1570</a> (PDF)
+                                    Descargue la <a href="datasheets/C9105AX.pdf" target="_blank">
+                                     a hoja de datos de los puntos de acceso de la serie Cisco Catalyst 9105</a> (.PDF)
                 
                         </div>
-                    </div><!-- End default tabs -->
-                    
-                </div><!--aqui es el final de la sección del panel-->
+                    !--aqui es el final de la sección del panel-->
             </div>
         </div>
     </div>
