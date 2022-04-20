@@ -205,26 +205,26 @@
                                     </li>
                                     <li class="submenu"><a>Wireless Controllers<i class="fa fa-angle-down"></i></a>
                                         <ul class="r1">
-                                            <li><a href="wireless-2500-series.php">Serie 2500 </a></li>
-                                            <li><a href="wireless-3504-series.php">Serie 3504</a></li>
-                                            <li><a href="wireless-5520-series.php">Serie 5520</a></li>
-                                            <li><a href="wireless-5500-series.php">Serie 5500</a></li>
-                                            <li><a href="wireless-9800-series.php">Serie 9800</a></li>
-                                            <li><a href="wireless-8540-series.php">Serie 8540</a></li>
+                                            <li><a href="wireless-Cs2500-series.php">Serie 2500 </a></li>
+                                            <li><a href="wireless-Cs3504-series.php">Serie 3504</a></li>
+                                            <li><a href="wireless-Cs5520-series.php">Serie 5520</a></li>
+                                            <li><a href="wireless-Cs5500-series.php">Serie 5500</a></li>
+                                            <li><a href="wireless-Cs9800-series.php">Serie 9800</a></li>
+                                            <li><a href="wireless-Cs8540-series.php">Serie 8540</a></li>
                                             <li><a href="wireless-virtual-controller.php">Controlador Virtual</a></li>
                                             <li><a href="wireless-mobility-express.php">Movilidad Express</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a> Soluciones Wi-Fi 6<i class="fa fa-angle-down"></i></a>
                                         <ul class="r2">
-                                            <li><a href="wireless-catalyst-9800-series.php">Serie Catalyst 9800</a></li>
-                                            <li><a href="wireless-catalyst-9100-series.php">Serie Catalyst 9100</a></li>
+                                            <li><a href="wireless-cata-9800-series.php">Serie Catalyst 9800</a></li>
+                                            <li><a href="wireless-cata-9100-series.php">Serie Catalyst 9100</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a>Accesorios<i class="fa fa-angle-down"></i></a>
                                         <ul class="r3">
-                                            <li><a href="wireless-aironet-power-injector.php">Inyector de energía Aironet</a></li>
-                                            <li><a href="wireless-aironet-antennas-accessories.php">Accesorios Antenas Aironet</a></li>
+                                            <li><a href="wireless-air-power-injector.php">Inyector de energía Aironet</a></li>
+                                            <li><a href="wireless-air-ante-acce.php">Accesorios Antenas Aironet</a></li>
                                         </ul>
                                     </li>
                                 </ul>
