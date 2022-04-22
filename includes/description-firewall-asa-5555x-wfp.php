@@ -654,7 +654,7 @@
                             <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> Descargue la <a href="https://www.secureitstore.com/datasheets/ASA/ASA-with-FirePOWER-Services.pdf" target="_blank">Ficha técnica de los servicios de la serie Cisco ASA 5500-X con FirePOWER</a> (PDF)<br><br>
-                                
+</div>
                             </div>
                         </div>
                     </div><!-- End default tabs -->
