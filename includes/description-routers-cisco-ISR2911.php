@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Router de Servicios Integrados Cisco 2901</h3>
+                <h3 class="title-border">Router de Servicios Integrados Cisco 2911</h3>
                 <h5>Habilitación de redes sin fronteras en la sucursal</h5>
-                <center> <img class="img-responsive" src="images/routers/Cisco 2901 Integrated Services Router.png" alt=""></center>
+                <center> <img class="img-responsive" src="images/routers/Cisco 2911 Integrated Services Router.png" alt=""></center>
 
 
                 <!--/ Panel Inicio -->
@@ -21,12 +21,12 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco 2901 Integrated Services Router</strong></p>
+                                    <p align='justify'><strong>Cisco 2911 Integrated Services Router</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CISCO2901/K9<br>
-                                        <strong></strong></p>
+                                    <p align='justify'>#CISCO2911/K9<br>
+                                        <strong>Precio Lista: $3,550.00</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -52,18 +52,18 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
                                 <h2>Descripción general:</h2>
-                                <p align="justify">El router de servicios integrados (ISR) Cisco 2901 ofrece servicios de datos, voz, video y aplicaciones altamente seguros para oficinas pequeñas. Las características clave incluyen:
+                                <p align="justify">El router de servicios integrados (ISR) Cisco 2911 ofrece servicios de datos, voz, video y aplicaciones altamente seguros. Las características clave incluyen:</p>
                                 <ul>
-                                    <li>2 puertos Ethernet 10/100/1000 integrados</li>
+                                    <li>2 puertos Ethernet 10/100/1000 integrados (solo RJ-45)</li>
+                                    <li>1 ranura para módulo de servicio</li>
                                     <li>4 ranuras para tarjetas de interfaz WAN de alta velocidad mejoradas</li>
                                     <li>2 ranuras de procesador de señal digital (DSP) integradas</li>
-                                    <li>1 módulo de servicio interno integrado para servicios de aplicaciones</li>
+                                    <li>1 ranura de módulo de servicio interno para servicios de aplicaciones</li>
                                     <li>Distribución de energía totalmente integrada a módulos compatibles con 802.3af Power over Ethernet (PoE) y Cisco Enhanced PoE</li>
                                     <li>Seguridad
                                         <ul>
-                                            <li>Cifrado VPN acelerado por hardware incorporado para comunicaciones VPN colaborativas seguras</li>
-                                            <li>Control de amenazas integrado mediante Cisco IOS Firewall, Cisco IOS Zone-Based Firewall, Cisco IOS IPS y Cisco IOS Content Filtering</li>
-                                            <li>Gestión de identidades que utiliza autenticación, autorización y contabilidad (AAA) e infraestructura de clave pública</li>
+                                            <li>Cifrado VPN acelerado por hardware integrado para una conectividad segura y comunicaciones colaborativas Control de amenazas integrado mediante Cisco IOS Firewall, Cisco IOS Zone-Based Firewall, Cisco IOS IPS y Cisco IOS Content Filtering</li>
+                                            <li>Gestión de identidad mediante autenticación, autorización y contabilidad (AAA) e infraestructura de clave pública</li>
                                         </ul>
                                     </li>
                                     <li>Voz
@@ -76,13 +76,6 @@
                                         </ul>
                                     </li>
                                 </ul>
-                                Los routers de servicios integrados de la serie Cisco 2900 se basan en 25 años de innovación y liderazgo de productos de Cisco. Las nuevas plataformas están diseñadas para permitir la siguiente fase de la evolución de las sucursales, brindando colaboración de medios enriquecidos y virtualización a la sucursal mientras maximiza el ahorro de costos operativos. Las plataformas Integrated Services Router Generation 2 están habilitadas para el futuro con CPU multinúcleo, DSP (procesadores de señal digital) de alta capacidad para futuras capacidades de video mejoradas, módulos de servicio de alta potencia con disponibilidad mejorada, conmutación Gigabit Ethernet con POE mejorado y nuevas capacidades de monitoreo y control de energía al tiempo que mejora el rendimiento general del sistema.
-                                Además, un nuevo módulo Cisco IOS Software Universal image and Services Ready Engine le permite desacoplar la implementación de hardware y software, proporcionando una base tecnológica flexible que puede adaptarse rápidamente a los requisitos de red en evolución. En general, la serie 2900 de Cisco ofrece ahorros en el costo total de propiedad y agilidad de la red sin precedentes a través de la integración inteligente de servicios de aplicaciones, inalámbricos, de comunicaciones unificadas y de seguridad líderes en el mercado.
-                                <br><br>
-                                Cisco 2900 Series se basa en la mejor oferta de su clase de los enrutadores de servicios integrados Cisco 2800 Series existentes al ofrecer cuatro plataformas, los enrutadores de servicios integrados Cisco 2901, 2911, 2921 y 2951.
-                                <br><br>
-                                Todos los routers de servicios integrados de la serie 2900 de Cisco ofrecen aceleración de cifrado de hardware incorporado, ranuras de procesador de señal digital (DSP) con capacidad de voz y video, firewall opcional, prevención de intrusiones, procesamiento de llamadas, correo de voz y servicios de aplicaciones. Además, las plataformas admiten la gama más amplia de opciones de conectividad alámbrica e inalámbrica de la industria, como T1/E1, xDSL, cobre y fibra GE.
-                                </p>
                             </div>
 
                             <div class="tab-pane" id="tab4">
@@ -259,6 +252,7 @@
                                         </td>
                                     </tr>
                                 </table>
+                                
                                 <br>
                                 <h3>Características y ventajas de la modularidad</h3>
                                 <p align="justify">La serie Cisco 2900 proporciona capacidades modulares significativamente mejoradas (consulte la Tabla 3) que ofrecen protección de inversión para los clientes. La mayoría de los módulos disponibles en las generaciones anteriores de enrutadores Cisco, como la serie Cisco 2800, son compatibles con la serie Cisco 2900. Además, los módulos se pueden usar en otras plataformas Cisco compatibles para brindar la máxima protección de la inversión. Aprovechar las tarjetas de interfaz comunes en una red reduce en gran medida la complejidad de administrar los requisitos de inventario, implementar grandes implementaciones de red y mantener configuraciones en una variedad de tamaños de sucursales.</p>
@@ -475,7 +469,7 @@
                                     </tr>
                                     <tr>                                        
                                         <td><strong>Escenificación, configuración y cumplimiento en toda la red</strong></td>
-                                        <td>CiscoWorks NCM</td>
+                                        <td>CiscoWorks NMC</td>
                                         <td class="listas">CiscoWorks Network Compliance Manager (NCM) realiza un seguimiento y regula los cambios de configuración y software en una infraestructura de red de múltiples proveedores. Proporciona una visibilidad superior de los cambios en la red y puede realizar un seguimiento del cumplimiento de una amplia variedad de requisitos normativos, de TI, de gobierno corporativo y tecnológicos.
                                         </td>
                                     </tr>
@@ -765,19 +759,19 @@
                                     </tr>
                                     <tr>
                                         <td>Sesiones SRST unificadas de Cisco</td>
-                                        <td>35</td>
+                                        <td>50</td>
                                     </tr>
                                     <tr>
                                         <td>Sesiones CCME unificadas de Cisco</td>
-                                        <td>35</td>
+                                        <td>50</td>
                                     </tr>
                                     <tr>
                                         <td>Puertos WAN 10/100/1000 integrados totales</td>
-                                        <td>2</td>
+                                        <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Puertos basados ​​en RJ-45</td>
-                                        <td>2</td>
+                                        <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Puertos basados ​​en SFP (el uso del puerto SFP desactiva el puerto RJ-45 correspondiente)</td>
@@ -785,7 +779,7 @@
                                     </tr>
                                     <tr>
                                         <td>Ranuras para módulos de servicio</td>
-                                        <td>0</td>
+                                        <td>1</td>
                                     </tr>
                                     <tr>
                                         <td>Ranuras de módulo de servicio de doble ancho (el uso de una ranura de doble ancho ocupará todas las ranuras de módulo de servicio de ancho simple en un 2900)</td>
@@ -843,11 +837,11 @@
                                     </tr>
                                     <tr>
                                         <td>Opciones de fuente de alimentación</td>
-                                        <td>CA y PoE</td>
+                                        <td>CA y PoE y CC*</td>
                                     </tr>
                                     <tr>
                                         <td>Compatibilidad con RPS (externa)</td>
-                                        <td>No</td>
+                                        <td>Cisco RPS 2300</td>
                                     </tr>
                                     <tr>
                                         <th colspan="2" style="text-align: center">Especificaciones de energía</th>
@@ -862,7 +856,7 @@
                                     </tr>
                                     <tr>
                                         <td>Rango de corriente de entrada de CA Fuente de alimentación de CA (máxima)</td>
-                                        <td>1.5 a 0.6A</td>
+                                        <td>2.2 a 1.0A</td>
                                     </tr>
                                     <tr>
                                         <td>Corriente transitoria de entrada de CA</td>
@@ -870,34 +864,34 @@
                                     </tr>
                                     <tr>
                                         <td>Potencia típica (sin módulos)(Watts)</td>
-                                        <td>40</td>
+                                        <td>50</td>
                                     </tr>
                                     <tr>
                                         <td>Potencia máxima con fuente de alimentación de CA(Watts)</td>
-                                        <td>150</td>
+                                        <td>210</td>
                                     </tr>
                                     <tr>
                                         <td>Potencia máxima con fuente de alimentación PoE (solo plataforma) (Watts)</td>
-                                        <td>175</td>
+                                        <td>250</td>
                                     </tr>
                                     <tr>
                                         <td>Máxima potencia PoE de punto final disponible desde la fuente de alimentación PoE (Watts)</td>
-                                        <td>130</td>
+                                        <td>200</td>
                                     </tr>
                                     <tr>
                                         <td>Capacidad máxima de alimentación PoE de punto final con PoE Boost (Watts)</td>
-                                        <td>N/A</td>
+                                        <td>750</td>
                                     </tr>
                                     <tr>
                                         <th colspan="2" style="text-align: center">Especificaciones físicas</th>
                                     </tr>
                                     <tr>
                                         <td>Dimensiones (Al. x An. x Pr.)</td>
-                                        <td>44,5 x 438,2 x 439,4 mm (1,75 x 17,25 x 17,3 pulg.)</td>
+                                        <td>88,9 x 438,2 x 304,8 mm (3,5 x 17,25 x 12 pulg.)</td>
                                     </tr>
                                     <tr>
                                         <td>Altura del estante</td>
-                                        <td>1RU (unidad de bastidor)</td>
+                                        <td>2RU</td>
                                     </tr>
                                     <tr>
                                         <td>Montaje en rack de 19 pulg. (48,3 cm) AIE</td>
@@ -913,15 +907,15 @@
                                     </tr>
                                     <tr>
                                         <td>Peso con fuente de alimentación de AC (sin módulos)</td>
-                                        <td>6,1 kg (13,4 libras)</td>
+                                        <td>18 libras (8,2 kg)</td>
                                     </tr>
                                     <tr>
                                         <td>Peso con fuente de alimentación AC POE (sin módulos)</td>
-                                        <td>14,3 libras (6,5 kg)</td>
+                                        <td>19 libras (8,6 kg)</td>
                                     </tr>
                                     <tr>
                                         <td>Peso típico completamente configurado</td>
-                                        <td>16 libras (7,3 kg)</td>
+                                        <td>21 libras (9,5 kg)</td>
                                     </tr>
                                     <tr>
                                         <td>Flujo de aire</td>
@@ -929,7 +923,7 @@
                                     </tr>
                                     <tr>
                                         <td>Kit de flujo de aire opcional</td>
-                                        <td>N / A</td>
+                                        <td>Desde el frente hacia atras</td>
                                     </tr>
                                     <tr>
                                         <th colspan="2" style="text-align: center">Condición de uso</th>
@@ -940,42 +934,42 @@
                                     </tr>
                                     <tr>
                                         <td>Temperatura-9843 pies (3000 m) máx. altitud</td>
-                                        <td>32 a 77°F (0 a 25°C)</td>
+                                        <td>32 a 104°F (0 a 40°C)</td>
                                     </tr>
                                     <tr>
                                         <td>Temperatura: 13,123 pies (4,000 m) de altitud máxima</td>
-                                        <td>N / A</td>
+                                        <td>32 a 86°F (0 a 30°C)</td>
                                     </tr>
                                     <tr>
                                         <td>Temperatura: A corto plazo (según NEBS) 5906 pies (1800 m) de altitud máxima</td>
-                                        <td>N / A</td>
+                                        <td>23 °F a 122 °F (-5 a 50 °C</td>
                                     </tr>
                                     <tr>
                                         <td>Altitud</td>
-                                        <td>10.000 pies (3.000 m)</td>
+                                        <td>13.000 pies (4.000 m)</td>
                                     </tr>
                                     <tr>
                                         <td>Humedad relativa</td>
-                                        <td>10 a 85%</td>
+                                        <td>5 a 85%</td>
                                     </tr>
                                     <tr>
                                         <td>Humedad a corto plazo (según NEBS)</td>
-                                        <td>N / A</td>
+                                        <td>5% a 90%, pero sin exceder 0,024 kg de agua/kg de aire seco</td>
                                     </tr>
                                     <tr>
                                         <td>Acústica: presión sonora (típ./máx.)</td>
-                                        <td>41/53 dBA</td>
+                                        <td>51,8/62,9 dBA</td>
                                     </tr>
                                     <tr>
                                         <td>Acústica: potencia de sonido (típ./máx.)</td>
-                                        <td>49/61 dBA</td>
+                                        <td>58,5/70,3 dBA</td>
                                     </tr>
                                     <tr>
                                         <th colspan="2" style="text-align: center">Condiciones no operativas</th>
                                     </tr>
                                     <tr>
                                         <td>Temperatura</td>
-                                        <td>-40 a 158°F (-40 a 70°C)</td>
+                                        <td>-40 a 176 °F (-40 a 80 °C)</td>
                                     </tr>
                                     <tr>
                                         <td>Humedad</td>
