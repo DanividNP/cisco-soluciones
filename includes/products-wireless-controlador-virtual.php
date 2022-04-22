@@ -4,7 +4,7 @@
 		              	<div class="panel panel-default">
 			                <div class="panel-heading">
 				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Controlador inalámbrico Cisco 3504</a> 
+				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Controlador inalámbrico virtual de Cisco</a> 
 				                </h4>
 			                </div>
 			                <div id="collapseOne" class="panel-collapse collapse in">
@@ -13,71 +13,66 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Controlador inalámbrico 3504 Controlador inalámbrico
-                                        <br>Cisco 3504
+                                    <p align='justify'><strong>Controlador inalámbrico virtual de Cisco para hasta 5 puntos de acceso de Cisco
                                     </strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#AIR-CT3504-K9<br>
-                                        <strong>Precio: $5,587.00</strong></p>
+                                    <p align='justify'>#L-AIR-CTVM-5-K9<br>
+                                        <strong>Precio: $885.84</strong></p>
                                 </div>
 			                  </div>
 			                </div>
 		              	</div><!--/ Panel 1 end-->
 
-                          <div class="panel-group" id="accordionA">
+                          <div class="panel-group" id="accordionB">
 		              	<div class="panel panel-default">
 			                <div class="panel-heading">
 				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Licencias perpetuas de Cisco 3504</a> 
+				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseTwo">Licencias de capacidad adicional del controlador inalámbrico virtual de Cisco (e-Delivery PAK)</a> 
 				                </h4>
 			                </div>
-			                <div id="collapseOne" class="panel-collapse collapse in">
+			                <div id="collapseTwo" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Licencia de agregador de punto de acceso del controlador inalámbrico Cisco 3504
+                                    <p align='justify'><strong>1 licencia de complemento de punto de acceso para el controlador virtual (e-Delivery)
                                     </strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#LIC-CT3504-1A<br>
-                                        <strong>Precio: $236.58</strong></p>
+                                    <p align='justify'>#L-LIC-CTVM-1A<br>
+                                        <strong>Precio: $177.17</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>5 Licencia de adición de punto de acceso para el controlador virtual (e-Delivery)
+                                    </strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#L-LIC-CTVM-5A<br>
+                                        <strong>Precio: $885.84</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>25 Licencia de complemento de punto de acceso para el controlador virtual (e-Delivery)
+                                    </strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#L-LIC-CTVM-25A<br>
+                                        <strong>Precio: $4,429.20</strong></p>
                                 </div>
 			                  </div>
 			                </div>
 		              	</div><!--/ Panel 2 end-->
-
-                          <div class="panel-group" id="accordionA">
-		              	<div class="panel panel-default">
-			                <div class="panel-heading">
-				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Accesorios Cisco 3504</a> 
-				                </h4>
-			                </div>
-			                <div id="collapseOne" class="panel-collapse collapse in">
-			                  <div class="panel-body">
-			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
-                                    <h3 class="title-border"></h3></div>
-
-                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Fuente de alimentación de repuesto del controlador inalámbrico Cisco 3504
-                                    </strong></p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#PWR-115W-AC=<br>
-                                        <strong>Precio: $117.29</strong></p>
-                                </div>
-			                  </div>
-			                </div>
-		              	</div><!--/ Panel 4 end-->
-
-                          
-
 		              
                     <div class="gap-40"></div>
                     <div class="widget widget-tab">

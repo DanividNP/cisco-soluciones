@@ -1,10 +1,10 @@
 <section id="main-container">
     <div class="container"> <!--/ Panel Inicio -->
-                <div class="panel-group" id="accordionA">
+    <div class="panel-group" id="accordionA">
 		              	<div class="panel panel-default">
 			                <div class="panel-heading">
 				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Controlador inalámbrico Cisco 3504</a> 
+				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB,#accordionC, #accordionD" href="#collapseOne">Controlador inalámbrico Cisco 8540</a> 
 				                </h4>
 			                </div>
 			                <div id="collapseOne" class="panel-collapse collapse in">
@@ -13,64 +13,142 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Controlador inalámbrico 3504 Controlador inalámbrico
-                                        <br>Cisco 3504
+                                    <p align='justify'><strong>Controlador inalámbrico Cisco 8540
                                     </strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#AIR-CT3504-K9<br>
-                                        <strong>Precio: $5,587.00</strong></p>
+                                    <p align='justify'>#AIR-CT8540-K9<br>
+                                        <strong>Precio: $57,458.20</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Controlador inalámbrico Cisco 8540 compatible con 1000 puntos de acceso
+                                    </strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#AIR-CT8540-1K-K9<br>
+                                        <strong>Precio: $255,000.00</strong></p>
                                 </div>
 			                  </div>
 			                </div>
 		              	</div><!--/ Panel 1 end-->
 
-                          <div class="panel-group" id="accordionA">
+                  
 		              	<div class="panel panel-default">
 			                <div class="panel-heading">
 				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Licencias perpetuas de Cisco 3504</a> 
+				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC, #accordionD" href="#collapseTwo">Licencias perpetuas de Cisco 8540</a> 
 				                </h4>
 			                </div>
-			                <div id="collapseOne" class="panel-collapse collapse in">
+			                <div id="collapseTwo" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Licencia de agregador de punto de acceso del controlador inalámbrico Cisco 3504
+                                    <p align='justify'><strong>Licencia de agregador de punto de acceso del controlador inalámbrico Cisco 8540 1
                                     </strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#LIC-CT3504-1A<br>
+                                    <p align='justify'>#LIC-CT8540-1A<br>
                                         <strong>Precio: $236.58</strong></p>
                                 </div>
 			                  </div>
 			                </div>
 		              	</div><!--/ Panel 2 end-->
 
-                          <div class="panel-group" id="accordionA">
-		              	<div class="panel panel-default">
+                    <div class="panel panel-default">
 			                <div class="panel-heading">
 				                <h4 class="panel-title"> 
-				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Accesorios Cisco 3504</a> 
+				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC, #accordionD" href="#collapseThree">Licencias basadas en plazos de Cisco</a> 
 				                </h4>
 			                </div>
-			                <div id="collapseOne" class="panel-collapse collapse in">
+                    <div id="collapseThree" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Fuente de alimentación de repuesto del controlador inalámbrico Cisco 3504
+                                    <p align='justify'><strong>Cisco Digital Network Architecture Essentials - Licencia a plazo - 1 Licencia - 3 años
+                                      <br>CISCO Aironet CISCO DNA Essentials Licencia a plazo de 3 años TOP LVL: AIR-DNA
                                     </strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#PWR-115W-AC=<br>
-                                        <strong>Precio: $117.29</strong></p>
+                                    <p align='justify'>#AIR-DNA-E-3Y<br>
+                                        <strong>Precio: $241.95</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Cisco DNA Essentials Licencia de 5 años por año por punto de acceso para redes inalámbricas</strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#AIR-DNA-E-5Y<br>
+                                        <strong>Precio: $403.26</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Cisco DNA Essentials Licencia de 7 años por año por punto de acceso para redes inalámbricas</strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#AIR-DNA-E-7Y<br>
+                                        <strong>Precio: $621.02</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Cisco DNA Advantage Licencia de 3 años por año por punto de acceso para redes inalámbricas</strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#AIR-DNA-A-3Y<br>
+                                        <strong>Precio: $596.82</strong></p>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Cisco DNA Advantage Licencia de 5 años por año por punto de acceso para redes inalámbricas</strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#AIR-DNA-A-5Y<br>
+                                        <strong>Precio: $994.70</strong></p>
+                                </div>
+			                  </div>
+</div>
+</div>
+                    
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB, #accordionC, #accordionD" href="#collapseFour">Accesorios Cisco 8540</a> 
+				                </h4>
+			                </div>
+			                <div id="collapseFour" class="panel-collapse collapse">
+			                  <div class="panel-body">
+			                    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Kit de montaje en riel
+                                    </strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#UCSC-RAILB-M4=<br>
+                                        <strong>Precio: $260.23</strong></p>
                                 </div>
 			                  </div>
 			                </div>

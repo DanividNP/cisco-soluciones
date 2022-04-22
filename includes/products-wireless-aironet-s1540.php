@@ -9,7 +9,7 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                                 <figure class="effect-oscar">
-                                    <img src="images/Wireless/Aironet1542I.png" alt="">
+                                    <img src="images/Wireless/Aironet1542I.jpg" alt="">
                                     <figcaption>
                                         <a class="link icon-pentagon" href="wireless-aironet-1542I.php"><i class="fa fa-link"></i></a>                                     
                                     </figcaption>			

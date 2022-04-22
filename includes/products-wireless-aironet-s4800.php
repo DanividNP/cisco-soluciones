@@ -153,17 +153,16 @@
                       <div class="tab-pane" id="tab2">
                                 <h3>Especificaciones Técnicas:</h3>
                                 <br> 
-                                <table class="table table-bordered table-hover table-responsive">
-          <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></td>
-            </tr>
-          </thead>
+          <table class="tabla" border="1" cellspacing="5" cellpadding="5" width="100%">
+          
+          <tr>
+              <th colspan="2">Articulo</th>
+              <th colspan="6">Especificación</th>
+</tr>
           <tbody>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 4800: entornos interiores, con antenas internas</font></font></p>
+              <td colspan="6" class="listas"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 4800: entornos interiores, con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP4800- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -K9: banda dual, 802.11a/b/g/n/ac basado en controlador</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP4800- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x-</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K9C: 802.11a/b/g/n/ac de doble banda, basado en controlador, configurable</font></font></div>
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Servicio Cisco Smart Net Total Care </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">®</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> para el Aironet 4800 con antenas internas</font></font></span></p>
