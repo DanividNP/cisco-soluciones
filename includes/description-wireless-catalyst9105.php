@@ -157,6 +157,23 @@
                                 </tr>
 
                                 </tbody></table>
+
+
+                                <h3>Infraestructura segura</h3>
+                                <p align="justify">Los sistemas confiables creados con Cisco Trust Anchor Technologies  brindan una base altamente segura para los productos de Cisco. Con los puntos de acceso Cisco Catalyst 9100, estas tecnologías permiten garantizar la autenticidad del hardware y el software para la confianza de la cadena de suministro y una fuerte defensa contra los ataques de intermediarios que comprometen el software y el firmware. Las capacidades de Trust Anchor incluyen:
+                                  <ul>
+                                    <li>Firma de imagen</li>
+                                    <li>Arranque seguro</li>
+                                    <li>Módulo ancla de confianza de Cisco</li>
+                                  </ul>
+                                  <h3>Soporte de ADN de Cisco</h3>
+                                <p align="justify">El emparejamiento de los puntos de acceso de la serie Cisco Catalyst 9105 con Cisco DNA permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización. Los puntos de acceso de la serie Cisco Catalyst 9105 son compatibles con SD-Access, la arquitectura empresarial líder de Cisco.</p>
+                                <p align="justify">Trabajando juntos, Cisco Catalyst 9105 Series y Cisco DNA ofrecen características tales como:</p>
+                                <ul>
+                                    <li>Espacios de ADN de Cisco</li>
+                                    <li>Motor de servicios de identidad de Cisco</li>
+                                    <li>Análisis y garantía de ADN de Cisco</li>
+                                  </ul>
                             </div>
                             
                             <div class="tab-pane" id="tab3">
