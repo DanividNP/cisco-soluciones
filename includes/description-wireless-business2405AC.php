@@ -22,12 +22,36 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong> Punto de acceso Cisco Business Wireless 145AC, IEEE 802.11ac 2x2 Wave 2, placa de pared</strong></p>
+                                    <p align='justify'><strong> Punto de acceso Cisco Business Wireless 240AC, IEEE 802.11ac 4x4 Wave 2, montaje en techo</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                                    <p align='justify'>#CBW145AC-B<br>
-                                        <strong>Precio: $177.04</strong></p>
+                                    <p align='justify'>#CBW240AC-B<br>
+                                        <strong>Precio: $207.54</strong></p>
+                                </div>
+
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Punto de acceso Cisco Business Wireless 240AC, IEEE 802.11ac 4x4 Wave 2, montaje en techo, paquete de 3</strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#3-CBW240AC-B<br>
+                                        <strong>Precio: $610.58</strong></p>
+                                </div>
+
+                                <div class="col-lg-12 col-md-12 col-sm-9 col-xs-9">
+                                    <h3 class="title-border"></h3></div>
+
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                                    <p align='justify'><strong>Punto de acceso Cisco Business Wireless 240AC, IEEE 802.11ac 4x4 Wave 2, montaje en techo: paquete de 5</strong></p>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <p align='justify'>#5-CBW240AC-B<br>
+                                        <strong>Precio: $1,017.57</strong></p>
                                 </div>
                             </div>
                             </div>
@@ -42,6 +66,7 @@
                         <li class="active"><a href="#tab1" data-toggle="tab">Visión de conjunto:</a></li>
                         <li><a href="#tab4" data-toggle="tab">Características y beneficios</a></li>
                         <li><a href="#tab2" data-toggle="tab">Especificaciones</a></li>
+                        <li><a href="#tab5" data-toggle="tab">Patrones de antena</a></li>
                         <li><a href="#tab3" data-toggle="tab">Documentación</a></li>
                     </ul>
                         <div class="tab-content">
@@ -73,7 +98,7 @@
 
                                         <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".9s">
                                             <div class="service-content text-center">
-                                            <a><img src="images/iconos/Securitity.png"></a> 
+                                            <a><img src="images/iconos/Security1.png"></a> 
                                                 <h3>Seguridad </h3>
                                                 <p>Application Visibility and Control (AVC) y Cisco Umbrella brindan seguridad y control integrales para ayudar a proteger la privacidad de sus clientes.</p>
                                             </div>
@@ -537,6 +562,17 @@ Soporte de tecnología de malla	</font></font></td>
           </tbody>
         </table>
 </div>
+
+
+                                  <div class="tab-pane" id="tab5">
+                                       <h2>Patrones de antena:</h2>
+                                       <center><img  src="images/Wireless/CBW240AC-2GHz-patterns.png" alt=""></center>
+                                        <center><img  src="images/Wireless/CBW240AC-5GHz-patterns.png" alt=""></center>
+                                  </div>
+
+
+
+
                             <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" > <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
