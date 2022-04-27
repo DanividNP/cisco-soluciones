@@ -866,10 +866,10 @@
 
                             <div class="tab-pane" id="tab5">
                                 <h2>Patrón de antena: </h2>
-                                <center><img  src="images/Wireless/C9105AXW-antenna01.png" alt=""></center>
-                                <center><img  src="images/Wireless/C9105AXW-antenna02.png" alt=""></center>
-                                <center><img  src="images/Wireless/C9105AXI-antenna01.png" alt=""></center>
-                                <center><img  src="images/Wireless/C9105AXI-antenna02.png" alt=""></center>
+                                <center><img  src="images/Wireless/C9105AXW-antenna01.png" width="100%" height="100%" alt=""></center>
+                                <center><img  src="images/Wireless/C9105AXW-antenna02.png" width="100%" height="100%" alt=""></center>
+                                <center><img  src="images/Wireless/C9105AXI-antenna01.png" width="100%" height="100%" alt=""></center>
+                                <center><img  src="images/Wireless/C9105AXI-antenna02.png" width="100%" height="100%" alt=""></center>
                             </div>
                             <div class="tab-pane" id="tab6">
                                 <h2>Licenciamiento y Paquete de Software: </h2>

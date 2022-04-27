@@ -26,7 +26,7 @@
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                                     <p align='justify'>#WAP351-A-K9<br>
-                                        <strong>Precio: 
+                                        <strong> 
                                         </strong></p>
                                 </div>
                             </div>

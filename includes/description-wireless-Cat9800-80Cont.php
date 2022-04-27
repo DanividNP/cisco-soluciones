@@ -77,15 +77,15 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de puntos de acceso</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hasta 2000</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hasta 6000</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de clientes</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">32,000</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">64.000</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rendimiento máximo</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hasta 40 Gb/s</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hasta 80 Gb/s</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WLAN máximas</font></font></strong></td>
@@ -96,52 +96,65 @@
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4096</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiquetas máximas del sitio</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2000</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Máximo de etiquetas de sitio</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6000</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Max Flex AP por sitio</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puntos de acceso flexibles máximos por sitio</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">100</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiquetas máximas de política</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2000</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Máximo de etiquetas de política</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6000</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiquetas máximas de RF</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2000</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Máximo de etiquetas de RF</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6000</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perfiles máximos de RF</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4000</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12000</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perfiles máximos de políticas</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1000</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perfiles Max Flex</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2000</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perfiles de flexión máxima</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6000</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x 10 GE/1 GE SFP+/SFP</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlaces ascendentes fijos</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8x 10 GE o 6x 10 GE + 2x 1 GE SFP+/SFP</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuente de alimentación</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alimentación de CA con alimentación de CA redundante opcional</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlaces ascendentes modulares (opcional)</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los módulos de enlace ascendente soportados son:
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-18X1GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-10X10GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-1X40GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-2X40GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-1X100GE(=)</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Los módulos de enlace ascendente son intercambiables en caliente. </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Admite transceptores QSFP de 10 GE, 40 GE y 100 GE</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Consumo máximo de energía</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">381W</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuente de alimentación redundante</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuente de alimentación de CA o CC</font></font></td>
+            </tr>
+            <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Consumo máximo de energía con módulos</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">600W</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modos de implementación</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Centralizado, Cisco FlexConnect y Fabric Wireless (SD-Access)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Centralizado, Cisco FlexConnect® y Fabric Wireless (SD-Access)</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Factor de forma</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1RU</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2RU</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Licencia</font></font></strong></td>
@@ -153,7 +166,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco DNA Center, Cisco Prime Infrastructure, WebUI integrado y terceros (API de estándares abiertos)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco DNA Center 1.2.8, Cisco Prime Infrastructure 3.5, WebUI integrada y terceros (API de estándares abiertos)</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">interoperabilidad</font></font></strong></td>
@@ -165,7 +178,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Plataforma de ubicación</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Experiencias móviles conectadas de Cisco (CMX), espacios de ADN de Cisco</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Experiencias móviles conectadas de Cisco (CMX)/Cisco DNA Spaces</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puntos de acceso</font></font></strong></td>
@@ -176,15 +189,17 @@
 
 
                                 <h3>Siempre encendido</h3>
-                                <p align="justify">Las actualizaciones de software transparentes permiten una resolución más rápida de problemas críticos, la introducción de nuevos puntos de acceso sin tiempo de inactividad y actualizaciones de software flexibles. La conmutación con estado (SSO) con modo de espera activo 1:1 y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados.
+                                <p align="justify">Las actualizaciones de software transparentes permiten una resolución más rápida de problemas críticos, la introducción de nuevos puntos de acceso sin tiempo de inactividad y actualizaciones de software flexibles. La conmutación con estado (SSO) con modo de espera activo 1:1 y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados. Cisco Advanced Wireless Intrusion Prevention System (aWIPS) es una solución de seguridad inalámbrica completa que utiliza la infraestructura Cisco Unified Access® para detectar, ubicar, mitigar y contener rogues y amenazas inalámbricas y por cable.
                                 <h3>Seguro</h3>
-                                <p align="justify">Proteja el aire, los dispositivos y los usuarios con el controlador inalámbrico Cisco Catalyst 9800-40. La infraestructura inalámbrica se convierte en la primera línea de defensa más sólida con ETA y SD-Access. El controlador viene con seguridad integrada: Arranque seguro, defensas en tiempo de ejecución, firma de imágenes, verificación de integridad y autenticidad de hardware. Cisco Advanced Wireless Intrusion Prevention System (aWIPS) es una solución de seguridad inalámbrica completa que utiliza la infraestructura Cisco Unified Access® para detectar, ubicar, mitigar y contener rogues y amenazas inalámbricas y por cable.</p>
+                                <p align="justify">Proteja el aire, los dispositivos y los usuarios con el controlador inalámbrico Cisco Catalyst 9800-80. La infraestructura inalámbrica se convierte en la primera línea de defensa más sólida con ETA y SD-Access. El controlador viene con seguridad integrada: arranque seguro, defensas en tiempo de ejecución, firma de imágenes, verificación de integridad y autenticidad del hardware.</p>
                                 <h3>Abierto y programable</h3>
                                 <p align="justify">El controlador se basa en el sistema operativo Cisco IOS XE, que ofrece un amplio conjunto de API programables basadas en estándares abiertos y telemetría basada en modelos que brindan una manera fácil de automatizar las operaciones de red del día 0 al día N.</p>
                             </div>
                             
                             <div class="tab-pane" id="tab3">
-                                <h3>Detalles</h3>
+                                <h2>Detalles</h2>
+
+
                                 <div role="tabpanel" class="tab-pane active" id="details">
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones físicas:</font></font></h3>
         <table class="table table-bordered table-hover table-responsive">
@@ -199,15 +214,15 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Profundidad</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">19,5 pulgadas (49,53 cm)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20,5 pulgadas (52,07 cm)</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Altura</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1,72 pulgadas (4,37 cm)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3,47 pulgadas (8,81 cm)</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">22,8 libras (10,34 kg)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">31,5 libras (14,29 kg)</font></font></td>
             </tr>
           </tbody>
         </table>
@@ -246,8 +261,21 @@
                 </ul></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4 puertos 10 GE/1 GE SFP+ o SFP</font></font></strong></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puertos utilizados para enviar y recibir tráfico entre los puntos de acceso y el controlador, tráfico en dirección norte, tráfico de administración en banda y tráfico de clientes inalámbricos. </font><font style="vertical-align: inherit;">Debe estar conectado al interruptor</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlace ascendente fijo: puertos 10 GE SFP+/1 GE SFP</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puertos son enlaces ascendentes fijos, que se pueden usar como 8x10 GE SFP+ o 6x 10 GE más 2x 1 GE</font></font></td>
+            </tr>
+            <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlace ascendente modular</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los módulos de enlace ascendente soportados son:
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-18X1GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-10X10GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-1X40GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-2X40GE(=)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-1X100GE(=)</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Los módulos de enlace ascendente son intercambiables en caliente. </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Admite transceptores QSFP de 10 GE, 40 GE y 100 GE</font></font></td>
             </tr>
           </tbody>
         </table>
@@ -274,13 +302,28 @@
             </tr>
             <tr>
               <td rowspan="3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ámbar</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Encendido: IOS ha completado el arranque</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Encendido: bloqueo del sistema</font></font></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeando: error de arranque seguro</font></font></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Desactivado: arranque ROMMON</font></font></td>
+            </tr>
+            <tr>
+              <td rowspan="4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ALARMA</font></font></strong></td>
+              <td rowspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Encendido: Arranque ROMMON completo</font></font></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeando: actualización del sistema en curso</font></font></td>
+            </tr>
+            <tr>
+              <td rowspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ámbar</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Encendido: arranque ROMMON y arranque SYSTEM</font></font></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeando: error de temperatura y falla de arranque seguro</font></font></td>
             </tr>
             <tr>
               <td rowspan="4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alta disponibilidad</font></font></strong></td>
@@ -298,129 +341,113 @@
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeo rápido: mantenimiento HA</font></font></td>
             </tr>
             <tr>
-              <td rowspan="4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alarma</font></font></strong></td>
-              <td rowspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Encendido: Arranque ROMMON completo</font></font></td>
-            </tr>
-            <tr>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeando: actualización del sistema en curso</font></font></td>
-            </tr>
-            <tr>
-              <td rowspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ámbar</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Encendido: arranque ROMMON y arranque SYSTEM</font></font></td>
-            </tr>
-            <tr>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeando: error de temperatura y error de arranque seguro</font></font></td>
-            </tr>
-            <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">consola USB</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Consola USB habilitada</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cuando el LED está encendido, la consola USB está habilitada (la consola RJ-45 está desactivada)</font></font></td>
+            </tr>
+            <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ENLACE I/F 10/100/1000 RJ45</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde sólido indica enlace</font></font></td>
+            </tr>
+            <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10/100/1000 RJ45 I/F ACTIVIDAD</font></font></strong></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El verde intermitente indica actividad</font></font></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Actividad de SSD</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indica el uso activo de los dispositivos de memoria SSD del disco duro en la unidad</font></font></td>
             </tr>
-            <tr>
-              <td rowspan="2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">enlace de red</font></font></strong></td>
-              <td rowspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verde sólido indica enlace</font></font></td>
-            </tr>
-            <tr>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El verde intermitente indica actividad</font></font></td>
-            </tr>
           </tbody>
         </table>
-        <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED del panel trasero</font></font></h3>
+        <h3>Panel trasero</h3>
+        <ul>
+          <li>El chasis tiene un flujo de aire de adelante hacia atrás.</li>
+          <li>Cuatro ventiladores internos extraen aire de refrigeración a través de la parte frontal del chasis y de los componentes internos para mantener una temperatura de funcionamiento aceptable.</li>
+          <li>Los ventiladores están ubicados en la parte trasera del chasis.</li>
+          <li>Los ventiladores están numerados del 0 al 3, de derecha a izquierda.</li>
+        </ul>
+        <p align="justify">El controlador 9800-80 se envía con unidades de fuente de alimentación redundantes, ya sea de CA o CC, según la elección del cliente.</p>
+        <p align="justify">El Módulo de Entrada de Energía (PEM) proporciona energía redundante al sistema, y ​​el 9800-80 puede operar continuamente con solo un PEM instalado. Los PEM son intercambiables en caliente y el reemplazo de un solo PEM se puede realizar sin interrumpir la alimentación del sistema. Todas las conexiones externas a los PEM se realizan desde el panel posterior del chasis y se retiran o insertan desde la parte posterior. El interruptor de alimentación principal de la unidad se encuentra justo al lado de los PEM en la parte trasera del chasis.</p>
+        <h3>Energía</h3>
+
         <table class="table table-bordered table-hover table-responsive">
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED verde</font></font></th>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED ámbar</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estado de la fuente de alimentación</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estado del LED verde (OK)</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estado del LED ámbar (fallo)</font></font></th>
             </tr>
             <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">No hay alimentación de CA en todas las fuentes de alimentación</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apagado</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apagado</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">No hay alimentación de CA en todas las fuentes de alimentación</font></font></td>
             </tr>
             <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Falla de la fuente de alimentación (incluye sobrevoltaje, sobrecorriente, sobretemperatura y falla del ventilador)</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apagado</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sobre</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Falla de la fuente de alimentación (incluye sobrevoltaje, sobrecorriente, sobretemperatura y falla del ventilador)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rojo si falla la fuente de alimentación </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Ámbar si falla el ventilador</font></font></td>
             </tr>
             <tr>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eventos de advertencia de fuente de alimentación en los que la fuente de alimentación sigue funcionando (alta temperatura, alta potencia y ventilador lento)</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apagado</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeo de 1 Hz</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eventos de advertencia de fuente de alimentación en los que la fuente de alimentación sigue funcionando (alta temperatura, alta potencia y ventilador lento)</font></font></td>
-            </tr>
-            <tr>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Parpadeo de 1 Hz</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apagado</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CA presente, 12VSB encendido (fuente de alimentación apagada)</font></font></td>
-            </tr>
-            <tr>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sobre</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apagado</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuente de alimentación encendida y OK</font></font></td>
             </tr>
           </tbody>
         </table>
-        <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Energía</font></font></h3>
-        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El controlador 9800-40 admite una fuente de alimentación de CA redundante opcional.</font></font></p>
-        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los rangos de entrada de CA son los siguientes:</font></font></p>
-        <ul>
-          <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rango de entrada de CA de alcance mundial (90 a 264 VCA)</font></font></li>
-        </ul>
-        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los módulos de entrada de energía (PEM) proporcionan energía redundante al sistema y el 9800-40 puede funcionar continuamente con solo un PEM instalado. </font><font style="vertical-align: inherit;">Los PEM son intercambiables en caliente y el reemplazo de un solo PEM se puede realizar sin interrumpir la alimentación del sistema. </font><font style="vertical-align: inherit;">Todas las conexiones externas a los PEM se realizan desde el panel posterior del chasis y se retiran o insertan desde la parte posterior. </font><font style="vertical-align: inherit;">El interruptor de alimentación principal de la unidad se encuentra justo al lado de los PEM en la parte trasera del chasis.</font></font></p>
-      </div>
               </div>
-              
-
-                        
+</div>
                             <div class="tab-pane" id="tab4">
                                 <h2>Beneficios:</h2>
                                 <h3>Cisco IOS XE</h3>
                                 <p align="justify">Abre un paradigma completamente nuevo en la configuración, operación y monitoreo de redes a través de la automatización de redes. La solución de automatización de Cisco es abierta, basada en estándares y extensible a lo largo de todo el ciclo de vida de un dispositivo de red. Los diversos mecanismos que provocan la automatización de la red se describen a continuación, en función del ciclo de vida de un dispositivo.</p>
                                     <ul>
-                                         <li>Aprovisionamiento automatizado de dispositivos: esta es la capacidad de automatizar el proceso de actualización de imágenes de software e instalación de archivos de configuración en los puntos de acceso de Cisco cuando se implementan en la red por primera vez. Cisco proporciona soluciones llave en mano como Plug and Play (PnP) que permiten una implementación automatizada y sin esfuerzo.</li>
-                                         <li>Configuración impulsada por API: los controladores inalámbricos modernos, como el controlador inalámbrico Cisco Catalyst 9800-40, admiten una amplia gama de funciones de automatización y proporcionan API abiertas sólidas sobre el protocolo de configuración de red (NETCONF) utilizando modelos de datos YANG para herramientas externas, estante y hecho a la medida, para aprovisionar automáticamente los recursos de la red.</li>
-                                         <li>Visibilidad granular: la telemetría basada en modelos proporciona un mecanismo para transmitir datos desde un controlador inalámbrico a un destino. Los datos que se transmiten se controlan mediante la suscripción a un conjunto de datos en un modelo YANG. El conjunto de datos suscritos se transmite al destino a intervalos configurados. Además, Cisco IOS XE habilita el modelo push, que proporciona un monitoreo de la red casi en tiempo real, lo que lleva a una rápida detección y rectificación de fallas.</li>
-                                         <li>Actualizaciones y parches de software sin inconvenientes: para mejorar la resiliencia del sistema operativo, Cisco IOS XE admite parches, que proporcionan correcciones para errores críticos y vulnerabilidades de seguridad entre las versiones de mantenimiento regulares. Este soporte permite a los clientes agregar parches sin tener que esperar a la próxima versión de mantenimiento.</li>
+                                         <li><b>Aprovisionamiento automatizado de dispositivos:</b> esta es la capacidad de automatizar el proceso de actualización de imágenes de software e instalación de archivos de configuración en los puntos de acceso de Cisco cuando se implementan en la red por primera vez. Cisco proporciona soluciones llave en mano como Plug and Play (PnP) que permiten una implementación automatizada y sin esfuerzo.</li>
+                                         <li><b>Configuración impulsada por API:</b> los controladores inalámbricos modernos, como el controlador inalámbrico Cisco Catalyst 9800-40, admiten una amplia gama de funciones de automatización y proporcionan API abiertas sólidas sobre el protocolo de configuración de red (NETCONF) utilizando modelos de datos YANG para herramientas externas, estante y hecho a la medida, para aprovisionar automáticamente los recursos de la red.</li>
+                                         <li><b>Visibilidad granular:</b> la telemetría basada en modelos proporciona un mecanismo para transmitir datos desde un controlador inalámbrico a un destino. Los datos que se transmiten se controlan mediante la suscripción a un conjunto de datos en un modelo YANG. El conjunto de datos suscritos se transmite al destino a intervalos configurados. Además, Cisco IOS XE habilita el modelo push, que proporciona un monitoreo de la red casi en tiempo real, lo que lleva a una rápida detección y rectificación de fallas.</li>
+                                         <li><b>Actualizaciones y parches de software sin inconvenientes: </b>para mejorar la resiliencia del sistema operativo, Cisco IOS XE admite parches, que proporcionan correcciones para errores críticos y vulnerabilidades de seguridad entre las versiones de mantenimiento regulares. Este soporte permite a los clientes agregar parches sin tener que esperar a la próxima versión de mantenimiento.</li>
 </ul>
                                     <h3>siempre encendido</h3>
                                     <ul>
-                                        <li>Alta disponibilidad: la conmutación con estado con un modo de espera activo 1:1 y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados.</li>
-                                        <li>Actualizaciones de mantenimiento de software (SMU, por sus siglas en inglés) con aplicación de parches en caliente y en frío: la aplicación de parches permite instalar un parche como corrección de errores sin desconectar toda la red y elimina la necesidad de volver a calificar una imagen de software completa. La SMU es un paquete que se puede instalar en un sistema para proporcionar una solución de parche o una resolución de seguridad para una imagen publicada. Las SMU le permiten abordar el problema de la red rápidamente mientras reducen el tiempo y el alcance de las pruebas requeridas. La plataforma Cisco IOS XE valida internamente la compatibilidad de SMU y no le permite instalar SMU incompatibles. Todas las SMU están integradas en las versiones posteriores de mantenimiento del software Cisco IOS XE.</li>
-                                        <li>Actualizaciones de puntos de acceso móviles inteligentes y actualizaciones multisitio sin interrupciones: el controlador inalámbrico Cisco Catalyst 9800-40 viene equipado con actualizaciones de puntos de acceso móviles inteligentes para simplificar las operaciones de red. Las actualizaciones multisitio ahora se pueden realizar en etapas y los puntos de acceso se pueden actualizar de manera inteligente sin reiniciar toda la red.</li>
-                                        <li>El monitoreo en espera de los controladores inalámbricos Cisco Catalyst 9800 en modo de alta disponibilidad permite monitorear el estado del sistema en un controlador en espera en un par de alta disponibilidad mediante interfaces programáticas (NETCONF/YANG, RESTCONF) y CLI sin pasar por el controlador activo. Para más detalles consulte la documentación técnica.</li>
-                                        <li>Actualización de software en servicio (ISSU): ISSU es una actualización/actualización de imagen completa sin tiempo de inactividad mientras la red aún está activa. La imagen del software o un parche se inserta en el controlador inalámbrico mientras el reenvío de tráfico continúa sin interrupciones. Todas las sesiones de clientes y puntos de acceso se conservan durante el proceso de actualización.</li>
+                                        <li><b>Alta disponibilidad:</b> la conmutación con estado con un modo de espera activo 1:1 y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados.</li>
+                                        <li><b>Actualizaciones de mantenimiento de software (SMU, por sus siglas en inglés) con aplicación de parches en caliente y en frío:</b> la aplicación de parches permite instalar un parche como corrección de errores sin desconectar toda la red y elimina la necesidad de volver a calificar una imagen de software completa. La SMU es un paquete que se puede instalar en un sistema para proporcionar una solución de parche o una resolución de seguridad para una imagen publicada. Las SMU le permiten abordar el problema de la red rápidamente mientras reducen el tiempo y el alcance de las pruebas requeridas. La plataforma Cisco IOS XE valida internamente la compatibilidad de SMU y no le permite instalar SMU incompatibles. Todas las SMU están integradas en las versiones posteriores de mantenimiento del software Cisco IOS XE.</li>
+                                        <li><b>Actualizaciones de puntos de acceso móviles inteligentes y actualizaciones multisitio sin interrupciones:</b> el controlador inalámbrico Cisco Catalyst 9800-40 viene equipado con actualizaciones de puntos de acceso móviles inteligentes para simplificar las operaciones de red. Las actualizaciones multisitio ahora se pueden realizar en etapas y los puntos de acceso se pueden actualizar de manera inteligente sin reiniciar toda la red.</li>
+                                        <li><b>El monitoreo </b>en espera de los controladores inalámbricos Cisco Catalyst 9800 en modo de alta disponibilidad permite monitorear el estado del sistema en un controlador en espera en un par de alta disponibilidad mediante interfaces programáticas (NETCONF/YANG, RESTCONF) y CLI sin pasar por el controlador activo. Para más detalles consulte la documentación técnica.</li>
+                                        <li><b>Actualización de software en servicio (ISSU):</b> ISSU es una actualización/actualización de imagen completa sin tiempo de inactividad mientras la red aún está activa. La imagen del software o un parche se inserta en el controlador inalámbrico mientras el reenvío de tráfico continúa sin interrupciones. Todas las sesiones de clientes y puntos de acceso se conservan durante el proceso de actualización.</li>
                                     </ul>
                                     <h3>Seguridad</h3>
                                     <ul>
-                                        <li>Análisis de tráfico cifrado (ETA): ETA es una capacidad única para identificar malware en el tráfico cifrado procedente de la capa de acceso. Dado que se cifra cada vez más el tráfico, la visibilidad que proporciona esta característica relacionada con la detección de amenazas es fundamental para mantener su red segura en diferentes capas.</li>
-                                        <li>Sistemas confiables: Cisco Trust Anchor Technologies proporciona una base altamente segura para los productos de Cisco. Con Cisco Catalyst 9800-40, estos sistemas confiables ayudan a garantizar la autenticidad del hardware y el software para la confianza de la cadena de suministro y una fuerte mitigación contra los ataques de intermediarios en el software y el firmware. Las capacidades de Trust Anchor incluyen:</li>
+                                        <li><b>Análisis de tráfico cifrado (ETA):</b> ETA es una capacidad única para identificar malware en el tráfico cifrado procedente de la capa de acceso. Dado que se cifra cada vez más el tráfico, la visibilidad que proporciona esta característica relacionada con la detección de amenazas es fundamental para mantener su red segura en diferentes capas.</li>
+                                        <li><b>Sistemas confiables:</b> Cisco Trust Anchor Technologies proporciona una base altamente segura para los productos de Cisco. Con Cisco Catalyst 9800-40, estos sistemas confiables ayudan a garantizar la autenticidad del hardware y el software para la confianza de la cadena de suministro y una fuerte mitigación contra los ataques de intermediarios en el software y el firmware. Las capacidades de Trust Anchor incluyen:</li>
+                                         <ul>
+                                           <li><b>Firma de imágenes:</b> las imágenes firmadas criptográficamente garantizan que el firmware, el BIOS y otro software son auténticos y no están modificados. A medida que se inicia el sistema, se verifica la integridad de sus firmas de software.</li>
+                                           <li><b>Arranque seguro:</b> la tecnología de arranque seguro de Cisco ancla la cadena de confianza de la secuencia de arranque al hardware inmutable, lo que mitiga las amenazas contra el estado fundamental de un sistema y el software que se va a cargar, independientemente del nivel de privilegio del usuario. Proporciona protección en capas contra la persistencia de firmware modificado ilícitamente.</li>
+                                           <li><b>Módulo Cisco Trust Anchor:</b> una solución criptográfica fuerte, resistente a manipulaciones y de un solo chip que identifica de manera única el producto para que Cisco pueda confirmar su origen, lo que garantiza que el producto es genuino.</li>
+                                           <li><b>Sistema de prevención de intrusiones inalámbricas de Cisco (WIPS):</b>  WIPS ofrece seguridad de red avanzada para detectar, localizar, mitigar y contener cualquier intrusión o amenaza en su red inalámbrica. Puede monitorear y detectar anomalías en la red inalámbrica, acceso no autorizado y ataques de RF. Un nuevo motor de clasificación dedicado para pícaros y aWIPS se basa en Cisco DNA Center. Una pila completamente integrada para la solución WIPS incluye Cisco DNA Center, un controlador Cisco Catalyst 9800, Wave 2 y Cisco Catalyst 9100 Access Point. Esta nueva arquitectura proporciona detección y seguridad mejoradas, simplicidad y facilidad de uso, y reduce las falsas alarmas positivas.</li>
+                                        </ul>
                                     </ul>
                                     <h3>Flujo de red flexible</h3>
                                     <ul>
-                                        <li>Flexible NetFlow (FNF): Cisco IOS Software FNF es la próxima generación en tecnología de visibilidad de flujo, lo que permite optimizar la infraestructura de la red, reducir los costos operativos y mejorar la planificación de la capacidad y la detección de incidentes de seguridad con mayor flexibilidad y escalabilidad.</li>
+                                        <li><b>Flexible NetFlow (FNF):</b> Cisco IOS Software FNF es la próxima generación en tecnología de visibilidad de flujo, lo que permite optimizar la infraestructura de la red, reducir los costos operativos y mejorar la planificación de la capacidad y la detección de incidentes de seguridad con mayor flexibilidad y escalabilidad.</li>
                                     </ul>
 
                                     <h3>Visibilidad y control de aplicaciones</h3>
                                     <ul>
-                                        <li>Reconocimiento de aplicaciones basado en red de última generación (NBAR2):NBAR2 permite técnicas avanzadas de clasificación de aplicaciones, con hasta 1400 firmas de aplicaciones conocidas y predefinidas y hasta 150 aplicaciones cifradas en Cisco Catalyst 9800-40. Algunas de las aplicaciones más populares incluidas son Skype, Office 365, Microsoft Lync, Cisco Webex® y Facebook. Muchos otros ya están predefinidos y son fáciles de configurar. NBAR2 proporciona al administrador de la red una herramienta importante para identificar, controlar y monitorear el uso de la aplicación del usuario final mientras ayuda a garantizar una experiencia de usuario de calidad y protege la red de ataques maliciosos. Utiliza FNF para informar el rendimiento de las aplicaciones y las actividades dentro de la red a cualquier recopilador de NetFlow compatible, como Cisco Prime, Stealthwatch® o cualquier herramienta de terceros compatible.</li>
+                                        <li><b>Reconocimiento de aplicaciones basado en red de última generación (NBAR2):</b>NBAR2 permite técnicas avanzadas de clasificación de aplicaciones, con hasta 1400 firmas de aplicaciones conocidas y predefinidas y hasta 150 aplicaciones cifradas en Cisco Catalyst 9800-40. Algunas de las aplicaciones más populares incluidas son Skype, Office 365, Microsoft Lync, Cisco Webex® y Facebook. Muchos otros ya están predefinidos y son fáciles de configurar. NBAR2 proporciona al administrador de la red una herramienta importante para identificar, controlar y monitorear el uso de la aplicación del usuario final mientras ayuda a garantizar una experiencia de usuario de calidad y protege la red de ataques maliciosos. Utiliza FNF para informar el rendimiento de las aplicaciones y las actividades dentro de la red a cualquier recopilador de NetFlow compatible, como Cisco Prime, Stealthwatch® o cualquier herramienta de terceros compatible.</li>
                                     </ul>
 
                                     <h3>Calidad de servicio</h3>
                                     <ul>
-                                        <li>Calidad de servicio superior (QoS): las tecnologías de QoS son herramientas y técnicas para administrar los recursos de la red y se consideran las tecnologías habilitadoras clave para la convergencia transparente de las redes de voz, video y datos. QoS en el Cisco Catalyst 9800-40 consiste en la clasificación del tráfico en función de los datos del paquete, así como el reconocimiento de aplicaciones y las acciones de control del tráfico, como la caída, el marcado y la vigilancia. Un marco de línea de comandos de QoS modular proporciona un comportamiento de configuración flexible e independiente de la plataforma. El 9800-40 también admite políticas en dos niveles de destino: BSSID y cliente. La asignación de políticas puede ser granular hasta el nivel del cliente.</li>
+                                        <li><b>Calidad de servicio superior (QoS):</b> las tecnologías de QoS son herramientas y técnicas para administrar los recursos de la red y se consideran las tecnologías habilitadoras clave para la convergencia transparente de las redes de voz, video y datos. QoS en el Cisco Catalyst 9800-40 consiste en la clasificación del tráfico en función de los datos del paquete, así como el reconocimiento de aplicaciones y las acciones de control del tráfico, como la caída, el marcado y la vigilancia. Un marco de línea de comandos de QoS modular proporciona un comportamiento de configuración flexible e independiente de la plataforma. El 9800-40 también admite políticas en dos niveles de destino: BSSID y cliente. La asignación de políticas puede ser granular hasta el nivel del cliente.</li>
                                     </ul>
 
                                    <h3>Operación inteligente</h3>
                                     <ul>
-                                        <li>Listo para Bluetooth: Cisco Catalyst 9800-40 tiene soporte de hardware para conectar un dongle Bluetooth al controlador, lo que le permite usar esta interfaz inalámbrica como un puerto de administración. Este puerto funciona como una interfaz de administración de IP y se puede usar para la configuración y la resolución de problemas mediante WebUI o la interfaz de línea de comandos (CLI), y para transferir imágenes y configuraciones.</li>
-                                        <li>WebUI: WebUI es una herramienta de administración de dispositivos basada en GUI integrada que brinda la capacidad de aprovisionar el dispositivo, simplificar la implementación y administración del dispositivo y mejorar la experiencia del usuario. WebUI viene con la imagen predeterminada. No es necesario habilitar nada ni instalar ninguna licencia en el dispositivo. Puede usar WebUI para crear una configuración de día 0 y día 1 y, a partir de ahí, monitorear y solucionar problemas del dispositivo sin tener que saber cómo usar la CLI.</li>
+                                        <li><b>Listo para Bluetooth: </b>Cisco Catalyst 9800-40 tiene soporte de hardware para conectar un dongle Bluetooth al controlador, lo que le permite usar esta interfaz inalámbrica como un puerto de administración. Este puerto funciona como una interfaz de administración de IP y se puede usar para la configuración y la resolución de problemas mediante WebUI o la interfaz de línea de comandos (CLI), y para transferir imágenes y configuraciones.</li>
+                                        <li><b>WebUI: </b>WebUI es una herramienta de administración de dispositivos basada en GUI integrada que brinda la capacidad de aprovisionar el dispositivo, simplificar la implementación y administración del dispositivo y mejorar la experiencia del usuario. WebUI viene con la imagen predeterminada. No es necesario habilitar nada ni instalar ninguna licencia en el dispositivo. Puede usar WebUI para crear una configuración de día 0 y día 1 y, a partir de ahí, monitorear y solucionar problemas del dispositivo sin tener que saber cómo usar la CLI.</li>
                                     </ul>
                                         </div>
 
@@ -552,106 +579,105 @@
                 </ul></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unidades de disco duro (HDD)</font></font></strong></td>
+              <td><strong>Unidades de disco duro (HDD)</strong></td>
               <td><ul>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unidad de estado sólido SATA (SSD)</font></font></li>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">240 GB de memoria</font></font></li>
+                  <li>Unidad de estado sólido SATA (SSD) </li>
+                  <li>240 GB de memoria</li>
                 </ul></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Condiciones ambientales soportadas</font></font></strong></td>
+              <td><strong>Condiciones ambientales soportadas</strong></td>
               <td><ul>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normal: 5° a 40° C (41° a 104° F)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corto plazo: 5° a 50° C (41° a 122°F)
-                      </font></font></li>
-                    </ul>
-                  </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Temperatura no operativa:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-40° a 65° C (-104° a 149° F)</font></font></li>
-                    </ul>
-                  </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Humedad de funcionamiento:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nominal: 5% a 85% sin condensación</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corto plazo: 5% a 90% sin condensación</font></font></li>
-                    </ul>
-                  </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Humedad de temperatura no operativa:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5% a 93% a 82°F (28°C)</font></font></li>
-                    </ul>
-                  </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Altitud de funcionamiento:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aparato en funcionamiento: 0 a 3000 m (0 a 10 000 pies)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dispositivo no operativo: 0 a 12 192 m (0 a 40 000 pies)</font></font></li>
-                  </ul>
-                  </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Entrada eléctrica:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rango de frecuencia de entrada de CA: 47 a 63 Hz</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rango de entrada de CA: 90 a 264 VCA con PEM de CA</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CA de 1100 W con fuente de alimentación redundante opcional (intercambiable en caliente)</font></font></li>
+                <li> Temperatura de funcionamiento:
+                  <ul>
+                    <li>Normal: 0° a 40° C(32° a 104°F) </li>
+                    <li>Corto plazo: 0° a 50° C (32° a 122°F) </li>
                   </ul>
                 </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Potencia máxima: 381W</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disipación de calor: 1300 BTU/h</font></font></li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Medida del nivel de potencia sonora: 
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El nivel de potencia de sonido con ponderación A es de 74,1 LpAm (dBA) a 27 °C de funcionamiento nominal</font></font></li>
+                <li> Temperatura no operativa:
+                  <ul>
+                    <li>-40°a 65° C (-104° a 149°F)</li>
                   </ul>
                 </li>
-                </ul></td>
+                <li> Humedad de funcionamiento:
+                  <ul>
+                    <li>Nominal: 10% a 90% sin condensación </li>
+                    <li>Corto plazo: 10% a 90% sin condensación</li>
+                  </ul>
+                </li>
+                <li> Humedad de temperatura no operativa:
+                  <ul>
+                    <li>5% a 93% a 82°F (28°C)</li>
+                  </ul>
+                </li>
+                <li> Altitud de funcionamiento:
+                  <ul>
+                    <li>Aparato en funcionamiento: 0 a 3000 m (0 a 10 000 pies)</li>
+                    <li>Dispositivo no operativo: 0 a 12 192 m (0 a 40 000 pies)</li>
+                  </ul>
+                </li>
+                <li> Entrada eléctrica:
+                  <ul>
+                    <li>Rango de frecuencia de entrada de CA: 47 a 63 Hz</li>
+                    <li>Rango de entrada de CA: 90 a 264 VCA con PEM de CA</li>
+                    <li>Rango de entrada de CC: -40 a -72 V CC con PEM de CC</li>
+                  </ul>
+                </li>
+                <li> Potencia máxima: 600W</li>
+                <li>Disipación de calor: 2047 BTU/hr</li>
+                <li>Medida de nivel de potencia sonora:
+                  <ul>
+                    <li>El nivel de potencia de sonido con ponderación A es de 70,5 LpAm (dBA) a 27 °C de funcionamiento nominal</li>
+                  </ul>
+                </li>
+              </ul></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento normativo</font></font></strong></td>
+              <td><strong>Cumplimiento normativo</strong></td>
               <td><ul>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL/CSA 60950-1</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI/EN 60950-1</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 60950.1</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.º 60950-1</font></font></li>
-                    </ul>
+                <li> La seguridad:
+                  <ul>
+                    <li>UL/CSA 60950-1 </li>
+                    <li>IEC/EN 60950-1 </li>
+                    <li>AS/NZS 60950.1 </li>
+                    <li>CAN/CSA-C22.2 No. 60950-1</li>
+                  </ul>
                 </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM - Emisiones:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC 47CFR15</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS CISPR 22</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 22</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN55022/EN55032 (EMI-1)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CIEM-003</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VCCI</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN 32 (EMI-2)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNC-13438</font></font></li>
-</ul>
+                <li>CEM - Emisiones:
+                  <ul>
+                    <li>FCC 47CFR15 </li>
+                    <li>AS/NZS CISPR 22 </li>
+                    <li>CISPR 22 </li>
+                    <li>EN55022/EN55032 (EMI-1) </li>
+                    <li>ICES-003 </li>
+                    <li>VCCI </li>
+                    <li>KN 32 (EMI-2) </li>
+                    <li>CNS-13438</li>
+                  </ul>
                 </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM - Emisiones:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-2 Armónicos de línea eléctrica (EMI-3)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-3 Cambios de voltaje, fluctuaciones y parpadeo (EMI-3)</font></font></li>
-                    </ul>
+                <li>CEM - Emisiones:
+                  <ul>
+                    <li>EN61000-3-2 Armónicos de línea eléctrica (EMI-3) </li>
+                    <li>EN61000-3-3 Cambios de voltaje, fluctuaciones y parpadeo (EMI-3)</li>
+                  </ul>
                 </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM – Inmunidad:
-                  </font></font><ul>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC/EN61000-4-2 Inmunidad a descargas electrostáticas</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad radiada IEC/EN61000-4-3</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad IEC/EN61000-4-4 EFT-B (cables de alimentación de CA)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad IEC/EN61000-4-4 EFT-B (conductores de alimentación de CC)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad IEC/EN61000-4-4 EFT-B (cables de señal)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de CA de sobretensión IEC/EN61000-4-5</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de CC de sobretensión IEC/EN61000-4-5</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de señal de sobretensión IEC/EN61000-4-5</font></font></li>
+                <li>CEM – Inmunidad:
+                  <ul>
+                    <li>IEC/EN61000-4-2 Inmunidad a descargas electrostáticas</li>
+                    <li>Inmunidad radiada IEC/EN61000-4-3</li>
+                    <li>Inmunidad IEC/EN61000-4-4 EFT-B (cables de alimentación de CA)</li>
+                    <li>Inmunidad IEC/EN61000-4-4 EFT-B (conductores de alimentación de CC)</li>
+                    <li>Inmunidad IEC/EN61000-4-4 EFT-B (cables de señal)</li>
+                    <li>Puerto de CA de sobretensión IEC/EN61000-4-5</li>
+                    <li>Puerto de CC de sobretensión IEC/EN61000-4-5</li>
+                    <li>Puerto de señal de sobretensión IEC/EN61000-4-5</li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC/EN61000-4-6 Inmunidad a perturbaciones conducidas</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC/EN61000-4-8 Inmunidad a campos magnéticos de frecuencia de potencia</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC/EN61000-4-11 Caídas de voltaje, interrupciones breves y variaciones de voltaje</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K35 (EMI-2)                </font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K35 (EMI-2)</font></font></li>
                   </ul>
                 </li>
-                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM (ETSI/ES)
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM (ETSI/EN)
                   </font></font><ul>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 386 Equipo de red de telecomunicaciones (EMC) (EMC-3)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN55022 Equipos de tecnología de la información (emisiones)</font></font></li>
@@ -669,20 +695,22 @@
                                 <p align="justify">No se requieren licencias para iniciar un  controlador inalámbrico de la serie Cisco Catalyst 9800 . Sin embargo, para conectar cualquier punto de acceso al  controlador , se requieren suscripciones al software Cisco DNA. Para poder conectarse a un controlador de la serie Cisco Catalyst 9800, cada punto de acceso requiere una licencia de suscripción de Cisco DNA.</p>
                                 <center><img  src="images/Wireless/Catalyst-9800-Licensing.png" alt=""></center>
 
-                                <p align="justify">Determinación de los requisitos de licencia para los puntos de acceso que se conectan a los controladores inalámbricos de la serie Cisco Catalyst 9800</p>
+                                <p align="center"><b>Determinación de los requisitos de licencia para los puntos de acceso que se conectan a los controladores inalámbricos de la serie Cisco Catalyst 9800</b></p>
                                 <p align="justify">Los puntos de acceso que se conectan a la serie Cisco Catalyst 9800 tienen paquetes de suscripción de software nuevos y simplificados.</p>
                                 <p align="justify">Pueden admitir tres niveles de software Cisco DNA: Cisco DNA Essentials, Cisco DNA Advantage y Cisco DNA Premier.</p>
                                 <p align="justify">Las suscripciones al software Cisco DNA brindan innovaciones de Cisco en el punto de acceso. También incluyen opciones de licencias perpetuas de Network Essentials y Network Advantage, que cubren los fundamentos inalámbricos como la autenticación 802.1X, QoS y PnP; telemetría y visibilidad; e inicio de sesión único, así como controles de seguridad.</p>
                                 <p align="justify">El software de suscripción Cisco DNA debe comprarse por un período de suscripción de 3, 5 o 7 años. Al vencimiento de la suscripción, las características de Cisco DNA vencerán, mientras que las características de Network Essentials y Network Advantage permanecerán.</p>
                                 <p align="justify">Hay dos modos de licencia disponibles:</p>
-<ul>
+                                   <ul>
                                     <li>Cisco Smart Licensing es un modelo de licencia flexible que le brinda una forma más fácil, rápida y conveniente de comprar y administrar software en toda la cartera de Cisco y en toda su organización. Y es seguro: usted controla a qué pueden acceder los usuarios. Con Smart Licensing obtienes:</li>
-
-
-                                    
+                                      <ul>
+                                        <li>Fácil activación: las licencias inteligentes establecen un conjunto de licencias de software que se pueden usar en toda la organización, no más PAK (claves de activación de productos).</li>
+                                        <li>Administración unificada: My Cisco Entitlements (MCE) brinda una vista completa de todos sus productos y servicios de Cisco en un portal fácil de usar, para que siempre sepa lo que tiene y lo que está usando.</li>
+                                        <li>Flexibilidad de licencia: su software no está bloqueado por nodos de su hardware, por lo que puede usar y transferir licencias fácilmente según sea necesario. Para usar Smart Licensing, primero debe configurar una cuenta inteligente en Cisco Software Central (software.cisco.com). Para obtener una descripción general más detallada sobre las licencias de Cisco, visite cisco.com/go/licensingguide</li>
+                                      </ul>
                                 <li>La reserva de licencia específica (SLR) es una característica utilizada en redes altamente seguras. Proporciona un método para que los clientes implementen una licencia de software en un dispositivo (instancia de producto) sin comunicar la información de uso a Cisco. No hay comunicación con Cisco o un satélite. Las licencias están reservadas para cada controlador. Se trata de licencias basadas en nodos.</li>
-</ul>
-                                <p align="justify">Se admiten cuatro niveles de licencia en los  controladores inalámbricos de la serie Cisco Catalyst 9800.  Los controladores se pueden configurar para funcionar en cualquiera de los cuatro niveles.</p>
+                                </ul>
+                                <p align="justify">Se admiten cuatro niveles de licencia en los <b> controladores inalámbricos de la serie Cisco Catalyst 9800</b>.  Los controladores se pueden configurar para funcionar en cualquiera de los cuatro niveles.</p>
                                     <ul>
                                         <li>Cisco DNA Essentials: en este nivel, se admitirá el conjunto de características de Cisco DNA Essentials.</p>
                                         <li>Cisco DNA Advantage: en este nivel, se admitirá el conjunto de características de Cisco DNA Advantage.</p>
@@ -705,8 +733,8 @@
                             <div class="tab-pane" id="tab7">
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
-                                    Descargue la <a href="datasheets/catalyst9800-40.pdf" target="_blank">
-                                    hoja de datos del controlador inalámbrico Cisco Catalyst 9800-40  </a> (PDF)
+                                    Descargue la <a href="datasheets/C9800-80-ds.pdf" target="_blank">
+                                    hoja de datos del controlador inalámbrico Cisco Catalyst 9800-80  </a> (PDF)
                 
                             </div>
                     </div><!-- End default tabs -->
