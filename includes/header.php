@@ -212,7 +212,6 @@
                                             <li><a href="wireless-Cs9800-series.php">Serie 9800</a></li>
                                             <li><a href="wireless-Cs8540-series.php">Serie 8540</a></li>
                                             <li><a href="wireless-virtual-controller.php">Controlador Virtual</a></li>
-                                            <li><a href="wireless-mobility-express.php">Movilidad Express</a></li>
                                         </ul>
                                     </li>
                                     <li class="submenu"><a> Soluciones Wi-Fi 6<i class="fa fa-angle-down"></i></a>
@@ -224,7 +223,6 @@
                                     <li class="submenu"><a>Accesorios<i class="fa fa-angle-down"></i></a>
                                         <ul class="r3">
                                             <li><a href="wireless-air-power-injector.php">Inyector de energía Aironet</a></li>
-                                            <li><a href="wireless-air-ante-acce.php">Accesorios Antenas Aironet</a></li>
                                         </ul>
                                     </li>
                                 </ul>

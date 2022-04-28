@@ -34,13 +34,13 @@
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
                                     <p align='justify'><strong>Punto de acceso inalámbrico Cisco Catalyst 9130AXE 802.11ax 10 Gbit/s con antenas externas
-                                      <br>*Pedido pendiente
+                                      <br><b>*Pedido pendiente</b>
                                     </strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                                     <p align='justify'>#C9130AXE-B<br>
-                                        <strong>Precio: $</strong></p>
+                                        <strong> </strong></p>
                                 </div>
 			                  </div>
 			                </div>
