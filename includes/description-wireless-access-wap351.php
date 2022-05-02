@@ -102,9 +102,9 @@
                                 <br>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descripción</font></font></p></td>
+            <tr>
+              <th><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones</font></font></p></th>
+              <th colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descripción</font></font></p></th>
             </tr>
           </thead>
           <tbody>
@@ -129,7 +129,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">linux</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces físicas</font></font></p></td>
+              <th colspan="3" style="text-align: center">Interfaces físicas</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puertos</font></font></p></td>
@@ -148,7 +148,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ranura para candado Kensington</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones físicas</font></font></p></td>
+              <th colspan="3" style="text-align: center">Especificaciones físicas</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones físicas (An. x Pr. x Al.)</font></font></p></td>
@@ -159,7 +159,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1,34 libras o 0,607 kg</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades de red</font></font></p></td>
+              <th colspan="3" style="text-align: center">Capacidades de red</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte de VLAN</font></font></p></td>
@@ -200,7 +200,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VLAN basadas en 802.1Q, 16 VLAN activas más 1 VLAN de administración</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad</font></font></p></td>
+              <th colspan="3" style="text-align: center">Seguridad</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WPA/WPA2</font></font></p></td>
@@ -223,7 +223,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Montaje y Seguridad Física</font></font></p></td>
+              <th colspan="3" style="text-align: center">Montaje y Seguridad Física</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Múltiples opciones de montaje</font></font></p></td>
@@ -234,14 +234,14 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ranura de bloqueo Kensington</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Calidad de servicio</font></font></p></td>
+              <th colspan="3" style="text-align: center">Calidad de servicio</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Calidad de servicio (QoS)</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación de tráfico y multimedia Wi-Fi (WMM TSPEC), QoS del cliente</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rendimiento</font></font></p></td>
+              <th colspan="3" style="text-align: center">Rendimiento</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rendimiento inalámbrico</font></font></p></td>
@@ -252,7 +252,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">32 clientes/usuarios activos por radio</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestión de múltiples puntos de acceso</font></font></p></td>
+              <th colspan="3" style="text-align: center">Gestión de múltiples puntos de acceso</th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración de un solo punto</font></font></p></td>
@@ -267,14 +267,14 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">240</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración</font></font></p></td>
+              <th colspan="3" style="text-align: center">Configuración</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de usuario web</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de usuario web integrada para una fácil configuración basada en navegador (HTTP/HTTPS)</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestión</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestión</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolos de manejo</font></font></p></td>
@@ -309,7 +309,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inalámbrica</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inalámbrica</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Frecuencia</font></font></p></td>
@@ -405,14 +405,14 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí, con ahorro de energía automático no programado</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modos de funcionamiento</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modos de funcionamiento</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso</font></font><a name="wp9000035"></a></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modo de punto de acceso, puente WDS, modo de puente de grupo de trabajo</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opciones de poder</font></font></p></td>
@@ -461,7 +461,7 @@
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flash de 128 MB</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contenidos del paquete</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contenidos del paquete</font></font></p></th>
             </tr>
             <tr>
               <td colspan="3"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● Punto de acceso de radio dual </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WAP351 Wireless-N</font></font></span></div>
@@ -471,14 +471,14 @@
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cable de red Ethernet</font></font></div></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requerimientos mínimos</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requerimientos mínimos</font></font></p></th>
             </tr>
             <tr>
               <td colspan="3"><div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conmutador o enrutador compatible con PoE, inyector PoE o adaptador de alimentación de CA</font></font></span></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración basada en web: navegador web habilitado para Java</font></font></div></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso</font></font></p></td>

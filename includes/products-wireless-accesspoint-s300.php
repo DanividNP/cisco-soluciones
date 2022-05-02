@@ -8,7 +8,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP361.png" alt="">
+                        <img src="images/Wireless/wap361.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-access-wap361.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
@@ -28,7 +28,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP351.png" alt="">
+                        <img src="images/Wireless/wap351.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-access-wap351.php"><i class="fa fa-link"></i></a>
                                      
@@ -49,7 +49,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP321.png" alt="">
+                        <img src="images/Wireless/wap321.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-access-wap321.php"><i class="fa fa-link"></i></a>
                                      
