@@ -20,7 +20,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Aironet 1562E, doble banda 802.11a/g/n/ac, onda 2, antenas externas</strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico Cisco Aironet 1562E, doble banda 802.11a/g/n/ac, onda 2, antenas externas</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -103,26 +103,26 @@
                                 <h2>Caracteristicas y Beneficios:</h2>
                                    
                                     
-                                        <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></td>
+            <tr>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></th>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio 802.11ac onda 2</font></font></strong></td>
+              <td>radio 802.11ac onda 2</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Proporciona velocidades de datos de hasta 1,3 Gbps con entrada múltiple, salida múltiple (MIMO) 3 x 3 y hasta tres flujos espaciales</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto conectable de factor de forma pequeño (SFP)</font></font></strong></td>
+              <td>Puerto conectable de factor de forma pequeño (SFP)</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admite conectividad de red basada en fibra óptica para ubicaciones remotas</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIMO multiusuario (MU-MIMO)</font></font></strong></td>
+              <td>MIMO multiusuario (MU-MIMO)</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite la transmisión de datos a múltiples clientes compatibles con 802.11ac Wave 2 simultáneamente para mejorar la experiencia del cliente; antes de 802.11ac Wave 2, los puntos de acceso podían transmitir datos a un solo cliente a la vez, generalmente denominado MIMO de usuario único</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modos de implementación flexibles</font></font></strong></td>
+              <td>Modos de implementación flexibles</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite la implementación del 1560 en una variedad de formas, incluidas redes punto a punto y de malla; también se puede implementar con Cisco Mobility Express Solution, que es ideal para implementaciones de tamaño pequeño a mediano que admite múltiples puntos de acceso sin un controlador físico; todos los modos de implementación son fáciles de instalar y configurar</font></font></td>
             </tr>
           </tbody>
@@ -144,16 +144,16 @@
                                 <h3>Especificaciones:</h3>
                                 <br>
 
-                                <table class="table table-hover table-bordered table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></p></td>
-              <td colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></td>
+            <tr>
+              <th><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></p></th>
+              <th colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11ac Wave 1 y 2</font></font></strong></p></td>
+              <td>Capacidades 802.11ac Wave 1 y 2</td>
               <td colspan="9"><ul>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1562I: 3 x 3 MIMO con tres secuencias espaciales</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1562E/D 2 x 2 MIMO con dos flujos espaciales</font></font></li>
@@ -168,7 +168,7 @@
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11n (y relacionadas)</font></font></strong></p></td>
+              <td>Capacidades 802.11n (y relacionadas)</td>
               <td colspan="9"><ul>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1562I: 3 x 3 MIMO con tres secuencias espaciales</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1562E/D: 2 x 2 MIMO con dos flujos espaciales</font></font></li>
@@ -181,7 +181,7 @@
               </ul></td>
             </tr>
             <tr>
-              <td rowspan="28"><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidades de datos admitidas</font></font></strong></p></td>
+              <td rowspan="28">Velocidades de datos admitidas</td>
               <td colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a: 6, 9, 12, 18, 24, 36, 48 y 54 Mbps </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
               802.11b/g: 1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48 y 54 Mbps</font></font></p></td>
             </tr>
@@ -245,12 +245,12 @@
 			  <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6</font></font></p></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">121.5</font></font></td>
-			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></td>
+			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></td>
             </tr>
             <tr>
 			  <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7</font></font></p></td>
-              <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></td>
+              <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></td>
 			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">72.2</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">150</font></font></td>
@@ -329,7 +329,7 @@
 			  <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18</font></font></p></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">121.5</font></font></td>
-			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></td>
+			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></td>
             </tr>
 			<tr>
@@ -403,7 +403,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14.4</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
@@ -451,14 +451,14 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">121.5</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">263.3</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">292.5</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">292.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">72.2</font></font></p></td>
@@ -493,7 +493,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14.4</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>

@@ -141,14 +141,14 @@
               <td COLSPAN=2>1 LED multifunción</td>
             </tr>
             <tr>
-              <td>>Sistema operativo</td>
+              <td>Sistema operativo</td>
               <td COLSPAN=2>linux</td>
             </tr>
             <tr>
               <th colspan="3" style="text-align: center">Interfaces físicas</th>
             </tr>
             <tr>
-              <td>>Puertos</td>
+              <td>Puertos</td>
               <td colspan="2">10/100/1000 Ethernet, compatible con 802.3af/at PoE, puerto de alimentación para adaptador de CA (incluido)</td>
             </tr>
             <tr>

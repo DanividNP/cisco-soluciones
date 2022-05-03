@@ -5,7 +5,7 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title"> 
-                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Punto de acceso Cisco Aironet 4800</a> 
+                                <a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">Access point Cisco Aironet 4800</a> 
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in">
@@ -14,7 +14,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Aironet IEEE 802.11ac 5,20 Gbit/s - 2,40 GHz, 5 GHz</strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico Cisco Aironet IEEE 802.11ac 5,20 Gbit/s - 2,40 GHz, 5 GHz</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -37,15 +37,15 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
                                 <h3>Descripción del producto</h3>
-                                <p align="justify">El punto de acceso Cisco Aironet 4800 está repleto de una gran cantidad de funciones que ofrecen a los usuarios 
+                                <p align="justify">El Access point Cisco Aironet 4800 está repleto de una gran cantidad de funciones que ofrecen a los usuarios 
                                     una mejor experiencia, seguridad de primer nivel y conectividad de alta velocidad. Aironet® 4800 facilita la resolución de problemas 
                                     y mejora el contexto que se muestra en Cisco DNA™ Assurance.
                                     
-                                <p align="justify">La funcionalidad del punto de acceso se distribuye en cuatro radios internas, por lo que estas funciones se ejecutan 
+                                <p align="justify">La funcionalidad del Access Point se distribuye en cuatro radios internas, por lo que estas funciones se ejecutan 
                                     simultáneamente en su red. El Aironet 4800 amplía las ricas capacidades actuales de nuestra
                                     cartera actual de Aironet (con funciones como asignación de radio flexible integrada, hiperubicación y Bluetooth de baja energía [BLE])
                                     y agrega una cuarta radio interna para proporcionar un rendimiento y un análisis de seguridad y ubicación enriquecidos. 
-                                    Con más radios integrados en el punto de acceso, su red inalámbrica logra mayor seguridad y análisis de datos sin degradar el 
+                                    Con más radios integrados en el access point, su red inalámbrica logra mayor seguridad y análisis de datos sin degradar el 
                                      rendimiento; nunca más tendrá que cambiar la seguridad por el rendimiento de la red.
                                     
                                 <p align="justify">¿Qué significa esto?
@@ -60,9 +60,9 @@
                                 <h2>Características y Beneficios:</h2>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></p></td>
+            <tr>
+              <th><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></p></th>
+              <th><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></p></th>
             </tr>
           </thead>
           <tbody>
@@ -99,52 +99,52 @@
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monitoreo de seguridad total 24x7</font></font></p></td>
-              <td><p><b>Dedicated security monitoring:</b> Dedicates your security radio to scan both 2.4 GHz and 5 GHz for Cisco CleanAir non-Wi-Fi interference, security threats, and rogue devices as they join the network.</p></td>
+              <td><p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monitoreo de seguridad dedicado:</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Dedica su radio de seguridad para escanear tanto 2.4 GHz como 5 GHz en busca de interferencias no Wi-Fi de Cisco CleanAir, amenazas de seguridad y dispositivos no autorizados a medida que se unen a la red.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Bluetooth Low Energy (BLE) </p></td>
-              <td><p>Proximity technology to enhance location services for mobile devices. </p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bluetooth de baja energía (BLE)</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tecnología de proximidad para mejorar los servicios de localización para dispositivos móviles.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Four radios </p></td>
-              <td><p>Enables both Wi-Fi radios to operate in 5-GHz client serving mode, allowing an industry-leading 5.2 Gbps (2 x 2.6 Gbps) over-the-air speed while increasing client capacity. </p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cuatro radios</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que ambas radios Wi-Fi funcionen en modo de servicio al cliente de 5 GHz, lo que permite una velocidad inalámbrica líder en la industria de 5,2 Gbps (2 x 2,6 Gbps) al tiempo que aumenta la capacidad del cliente.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>160-MHz channel support</p></td>
-              <td><p>Supporting channels up to 160 MHz wide, Dynamic Bandwidth Selection allows the access point to dynamically switch between 20-, 40-, 80-, and 160-MHz channels, depending on the RF channel conditions, providing the industry’s best-performing wireless network.</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con canales de 160 MHz</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al admitir canales de hasta 160 MHz de ancho, la selección dinámica de ancho de banda permite que el punto de acceso cambie dinámicamente entre canales de 20, 40, 80 y 160 MHz, según las condiciones del canal de RF, proporcionando la red inalámbrica de mejor rendimiento de la industria.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Zero-impact Application Visibility and Control<span><sup>*</sup></span></p></td>
-              <td><p>Uses dedicated hardware acceleration to improve the performance of line-speed applications such as Cisco Application Visibility and Control.</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Visibilidad y control de aplicaciones de impacto cero </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></span></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utiliza aceleración de hardware dedicada para mejorar el rendimiento de las aplicaciones de velocidad de línea, como Cisco Application Visibility and Control.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Cisco ClientLink 4.0</p></td>
-              <td><p><span style="background:white">Cisco ClientLink 4.0 technology improves downlink performance to all mobile devices, including one-, two-, and three-spatial-stream devices on 802.11a/b/g/n/ac, while improving battery life on mobile devices such as smartphones and tablets.</span></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco ClientLink 4.0</font></font></p></td>
+              <td><p><span style="background:white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La tecnología Cisco ClientLink 4.0 mejora el rendimiento del enlace descendente para todos los dispositivos móviles, incluidos los dispositivos de uno, dos y tres flujos espaciales en 802.11a/b/g/n/ac, al tiempo que mejora la duración de la batería en dispositivos móviles como teléfonos inteligentes y tabletas .</font></font></span></p></td>
             </tr>
             <tr>
-              <td><p>Cisco CleanAir 160 MHz<span><sup>*</sup></span></p></td>
-              <td><p>Cisco CleanAir technology, enhanced with 160-MHz channel support, provides proactive, high-speed spectrum intelligence across 20-, 40-, 80-, and 160-MHz-wide channels to combat performance problems due to wireless interference.</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Clean Air 160 MHz </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></span></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La tecnología Cisco CleanAir, mejorada con soporte de canal de 160 MHz, proporciona inteligencia de espectro proactiva y de alta velocidad en canales de 20, 40, 80 y 160 MHz de ancho para combatir los problemas de rendimiento debido a la interferencia inalámbrica.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Cross-access point noise reduction</p></td>
-              <td><p>A Cisco innovation that enables access points to intelligently collaborate in real time regarding RF conditions so that users connect with optimized signal quality and performance.</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reducción de ruido de punto de acceso cruzado</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Una innovación de Cisco que permite que los puntos de acceso colaboren de manera inteligente en tiempo real con respecto a las condiciones de RF para que los usuarios se conecten con una calidad de señal y un rendimiento optimizados.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Optimized access point roaming</p></td>
-              <td><p>Helps ensure that client devices associate with the access point in their coverage range that offers the fastest data rate available.</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Itinerancia optimizada del punto de acceso</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ayuda a garantizar que los dispositivos cliente se asocien con el punto de acceso en su rango de cobertura que ofrece la velocidad de datos más rápida disponible.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Automatic link aggregation (LAG) support</p></td>
-              <td><p>802.3ad (Link Aggregation Control Protocol [LACP]) compliant, allowing both Ethernet interfaces to automatically enable LAG, increasing overall throughput to the access point.</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con la agregación automática de enlaces (LAG)</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatible con 802.3ad (Protocolo de control de agregación de enlaces [LACP]), lo que permite que ambas interfaces Ethernet habiliten automáticamente LAG, lo que aumenta el rendimiento general del punto de acceso.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Cisco Mobility Express</p></td>
-              <td><p>Flexible deployment mode through the Cisco Mobility Express solution is ideal for high-density environments and can support up to 100 access points. Easy setup allows the Aironet 4800 to be deployed on networks without a physical controller.</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Movilidad Express</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El modo de implementación flexible a través de la solución Cisco Mobility Express es ideal para entornos de alta densidad y puede admitir hasta 100 puntos de acceso. </font><font style="vertical-align: inherit;">La configuración sencilla permite implementar el Aironet 4800 en redes sin un controlador físico.</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Apple features</p></td>
-              <td><p>Apple and Cisco have partnered to create an optimal mobile experience for iOS devices on corporate networks based on Cisco technologies. Using new features in iOS 10, in combination with the latest software and hardware from Cisco, businesses can now more effectively use their network infrastructure to deliver an enhanced user experience across all business applications.</p>
-                <p><span>At the center of the collaboration is a unique handshake between the Cisco WLAN and Apple devices. This handshake enables the Cisco WLAN to provide an optimal Wi-Fi roaming experience to Apple devices. Additionally, the Cisco WLAN trusts Apple devices and gives priority treatment for business-critical applications specified by the Apple device.</span></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">funciones de manzana</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apple y Cisco se han asociado para crear una experiencia móvil óptima para dispositivos iOS en redes corporativas basadas en tecnologías de Cisco. </font><font style="vertical-align: inherit;">Con las nuevas funciones de iOS 10, en combinación con el último software y hardware de Cisco, las empresas ahora pueden usar su infraestructura de red de manera más efectiva para brindar una experiencia de usuario mejorada en todas las aplicaciones comerciales.</font></font></p>
+                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">En el centro de la colaboración se encuentra un apretón de manos único entre la WLAN de Cisco y los dispositivos de Apple. </font><font style="vertical-align: inherit;">Este apretón de manos permite que la WLAN de Cisco brinde una experiencia de roaming Wi-Fi óptima a los dispositivos Apple. </font><font style="vertical-align: inherit;">Además, Cisco WLAN confía en los dispositivos de Apple y da prioridad a las aplicaciones críticas para el negocio especificadas por el dispositivo de Apple.</font></font></span></p></td>
             </tr>
           </tbody>
         </table>
@@ -156,7 +156,7 @@
           <table class="tabla" border="1" cellspacing="5" cellpadding="5" width="100%">
           
           <tr>
-              <th colspan="2">Articulo</th>
+              <th colspan="2">Artículo</th>
               <th colspan="6">Especificación</th>
 </tr>
           <tbody>
@@ -1164,7 +1164,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">22</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18</font></font></p></td>
@@ -1257,7 +1257,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20</font></font></p></td>

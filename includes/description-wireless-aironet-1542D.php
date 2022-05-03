@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Punto de acceso para exteriores Cisco Aironet 1542D Banda </h3>
+                <h3 class="title-border">Access Point para exteriores Cisco Aironet 1542D Banda </h3>
                 <h5>dual 802.11a/g/n/ac, onda 2, antenas direccionales internas </h5>
                 <center> <img class="img-responsive" src="images/Wireless/Aironet1542D.png" alt=""></center>
                 
@@ -20,7 +20,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Aironet 1542D, doble banda 802.11a/g/n/ac, onda 2, antenas direccionales internas</strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico Cisco Aironet 1542D, doble banda 802.11a/g/n/ac, onda 2, antenas direccionales internas</strong></p>
                                 	</div>
 
                                 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -45,11 +45,11 @@
                             <div class="tab-pane active" id="tab1">
                                 <h2>Visión de conjunto:</h2>
                                 <h3> Pequeño pero potente, compatible con Wave 2</h3>
-                                <p align="justify">Los puntos de acceso para exteriores de la serie Cisco Aironet 1540 ofrecen las últimas funciones 802.11ac Wave 2 en una carcasa robusta y de perfil ultrabajo que los proveedores de servicios y las empresas pueden implementar fácilmente.</p>
+                                <p align="justify">Los Access point para exteriores de la serie Cisco Aironet 1540 ofrecen las últimas funciones 802.11ac Wave 2 en una carcasa robusta y de perfil ultrabajo que los proveedores de servicios y las empresas pueden implementar fácilmente.</p>
 
                                 <p align="justify">La serie Cisco Aironet 1540 es ideal para aplicaciones que requieren una cobertura Wi-Fi resistente para exteriores y es compatible con el último estándar de radio 802.11ac Wave 2. Alojada en un paquete compacto, estéticamente agradable y fácil de implementar, la serie 1540 ofrece opciones de implementación flexibles para proveedores de servicios y redes empresariales que necesitan los enlaces más rápidos posibles para clientes móviles al aire libre (teléfonos inteligentes, tabletas y computadoras portátiles) y backhaul inalámbrico. Los puntos de acceso de la serie 1540 brindan a los operadores de red la flexibilidad de equilibrar la cobertura inalámbrica deseada con su necesidad de una implementación sencilla..</p>
 
-                                <p align="justify">Ya sea que se implemente como un punto de acceso tradicional o como un punto de acceso de malla inalámbrica, la serie 1540 proporciona la capacidad de rendimiento necesaria para los dispositivos actuales que consumen mucho ancho de banda..</p>
+                                <p align="justify">Ya sea que se implemente como un Access point tradicional o como un Access point de malla inalámbrica, la serie 1540 proporciona la capacidad de rendimiento necesaria para los dispositivos actuales que consumen mucho ancho de banda..</p>
 
                                 <div class="col-md-12">
                                         <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".3s">
@@ -98,26 +98,26 @@
                                     <p align="justify">Al adherirse al estándar 802.11ac Wave 2, la serie 1540 proporciona una velocidad de datos de hasta 867 Mbps en la radio de 5 GHz. Esto supera las velocidades de datos que ofrecen los puntos de acceso que admiten el estándar 802.11n. También permite una velocidad de datos total agregada de radio dual de hasta 1,1 Gbps. Esto proporciona la base necesaria para que las redes empresariales y de proveedores de servicios se mantengan a la vanguardia de las expectativas de rendimiento y las necesidades de sus usuarios inalámbricos.</p>  
                                     <p align="justify">En los últimos años, los usuarios corporativos han preferido cada vez más el acceso inalámbrico como forma de conectividad de red debido a su conveniencia. Con este cambio, existe la expectativa de que la tecnología inalámbrica no debería ralentizar el trabajo diario de los usuarios, sino que debería permitir una experiencia de alto rendimiento. La serie 1540 ofrece este rendimiento con conexiones inalámbricas altamente seguras y confiables para usuarios finales móviles.</p>    
                                     
-                                        <table class="table table-bordered table-hover table-responsive">
+                                    <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></td>
+            <tr>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></th>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tamaño compacto</font></font></strong></td>
+              <td>Tamaño compacto</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite la implementación del punto de acceso donde se necesita. </font><font style="vertical-align: inherit;">La serie 1540 se monta fácilmente en paredes o postes de luz sin alterar la estética del área.</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio 802.11ac onda 2</font></font></strong></td>
+              <td>radio 802.11ac onda 2</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Proporciona velocidades de datos de hasta 867 Mbps con 2 x 2 multiusuario de entrada múltiple, salida múltiple (MU-MIMO) con hasta dos flujos espaciales.</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIMO multiusuario (MU-MIMO)</font></font></strong></td>
+              <td>MIMO multiusuario (MU-MIMO)</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite la transmisión de datos a múltiples clientes compatibles con 802.11ac Wave 2 simultáneamente para mejorar la experiencia del cliente. </font><font style="vertical-align: inherit;">Antes del estándar 802.11ac Wave 2, los puntos de acceso podían transmitir datos a un solo cliente a la vez, generalmente denominado MIMO de usuario único.</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modos de implementación flexibles</font></font></strong></td>
+              <td>Modos de implementación flexibles</td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite la implementación en una variedad de formas, incluso como puntos de acceso tradicionales y en redes de malla. </font><font style="vertical-align: inherit;">Los puntos de acceso también se pueden implementar con Cisco Mobility Express Solution. </font><font style="vertical-align: inherit;">Esta implementación es ideal para redes pequeñas y medianas que requieren 50 puntos de acceso o menos sin un controlador físico. </font><font style="vertical-align: inherit;">Todos los modos de implementación son fáciles de instalar y configurar.</font></font></td>
             </tr>
           </tbody>
@@ -135,17 +135,17 @@
                             <div class="tab-pane" id="tab2">
                                 <h3>Especificaciones:</h3>
                                 <br>
-
-                                <table class="table table-hover table-bordered table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+                                
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></p></td>
-              <td colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></td>
+            <tr>
+              <th><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></p></th>
+              <th colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11ac Wave 1 y 2</font></font></strong></p></td>
+              <td>Capacidades 802.11ac Wave 1 y 2</td>
               <td colspan="9"><ul>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I/D: 2 x 2 MIMO con dos flujos espaciales</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIMO multiusuario y monousuario</font></font></li>
@@ -159,7 +159,7 @@
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11n (y relacionadas)</font></font></strong></p></td>
+              <td>Capacidades 802.11n (y relacionadas)</td>
               <td colspan="9"><ul>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I/D: 2 x 2 MIMO con dos flujos espaciales</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MRC</font></font></li>
@@ -171,7 +171,7 @@
               </ul></td>
             </tr>
             <tr>
-              <td rowspan="20"><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidades de datos admitidas</font></font></strong></p></td>
+              <td rowspan="20">Velocidades de datos admitidas</td>
               <td colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a: 6, 9, 12, 18, 24, 36, 48 y 54 Mbps </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
               802.11b/g: 1, 2, 5.5, 6, 9, 11, 12, 18, 24, 36, 48 y 54 Mbps</font></font></p></td>
             </tr>
@@ -235,12 +235,12 @@
 			  <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6</font></font></p></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">121.5</font></font></td>
-			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></td>
+			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></td>
             </tr>
             <tr>
 			  <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7</font></font></p></td>
-              <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></td>
+              <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></td>
 			  <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">72.2</font></font></td>
               <td colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">150</font></font></td>
@@ -337,7 +337,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14.4</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
@@ -385,14 +385,14 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">121.5</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">263.3</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">292.5</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">292.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">72.2</font></font></p></td>
@@ -427,7 +427,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14.4</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>
@@ -520,7 +520,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">866.7</font></font></p></td>
             </tr>
             <tr>
-              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de canales que no se superponen</font></font></strong></p></td>
+              <td>Número máximo de canales que no se superponen</td>
               <td colspan="4"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A (un dominio regulador):</font></font></p>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.412 a 2.462 GHz, 11 canales</font></font></li>
@@ -608,209 +608,209 @@
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Q (dominio regulador Q):</font></font></p>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.412 a 2.472 GHz, 13 canales</font></font></li>
-                  <li>5.500 to 5.700 GHz,         11 channels</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz, 11 canales</font></font></li>
                 </ul>
                 
-                <p><span>R (R regulatory domain):</span></p>
+                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">R (dominio regulador R):</font></font></span></p>
                 <ul>
-                  <li>2.412 to 2.472 GHz, 13 channels</li>
-                  <li>5.260 to 5.320 GHz,         4 channels</li>
-                  <li>5.660 to 5.700 GHz,         3 channels</li>
-                  <li>5.745 to 5.825 GHz,         5 channels</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.412 a 2.472 GHz, 13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.260 a 5.320 GHz, 4 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.660 a 5.700 GHz, 3 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.745 a 5.825 GHz, 5 canales</font></font></li>
                 </ul>
                 
-                <p><span>S (S regulatory domain):</span></p>
+                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">S (dominio regulador S):</font></font></span></p>
                 <ul>
-                  <li>2.412 to 2.472 GHz, 13 channels</li>
-                  <li>5.500 to 5.700 GHz,         11 channels</li>
-                  <li>5.745 to 5.825 GHz,         5 channels</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.412 a 2.472 GHz, 13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz, 11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.745 a 5.825 GHz, 5 canales</font></font></li>
                 </ul>
                
-                <p>T (T regulatory domain):</p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">T (dominio regulador T):</font></font></p>
                 <ul>
-                  <li>2.412 to 2.462 GHz,         11 channels</li>
-                  <li>5.500 to 5.580 GHz,         5 channels</li>
-                  <li>5.660 to 5.700 GHz,         3 channels</li>
-                  <li>5.745 to 5.825 GHz,         5 channels</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.412 a 2.462 GHz, 11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.580 GHz, 5 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.660 a 5.700 GHz, 3 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.745 a 5.825 GHz, 5 canales</font></font></li>
                 </ul>
-                <p>Z (Z regulatory domain):</p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Z (dominio regulador Z):</font></font></p>
                 <ul>
-                  <li>2.412 to 2.462 GHz,         11 channels</li>
-                  <li>5.500 to 5.580 GHz,         5 channels</li>
-                  <li>5.660 to 5.700 GHz,         3 channels</li>
-                  <li>5.745 to 5.825 GHz,         5 channels</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.412 a 2.462 GHz, 11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.580 GHz, 5 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.660 a 5.700 GHz, 3 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.745 a 5.825 GHz, 5 canales</font></font></li>
                 </ul></td>
             </tr>
             <tr>
-              <td colspan="10"><p><b>Note:</b> This varies by regulatory domain. Refer to the product documentation for specific details for each regulatory domain.</p></td>
+              <td colspan="10"><b>Nota:</b> Esto varía según el dominio regulatorio. Consulte la documentación del producto para obtener detalles específicos de cada dominio regulatorio.</td>
             </tr>
             <tr>
-              <td><strong>Maximum Number of Non-overlapping Channels</strong></td>
-              <td colspan="5"><strong>2.4 GHz</strong>
+              <td>Número máximo de canales no superpuestos</td>
+              <td colspan="5"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz</font></font></strong>
                 <ul>
-                  <li>802.11b/g:
-                    <ul>
-                      <li>20 MHz:    3</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b/g:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
-                  <li>802.11n:
-                    <ul>
-                      <li>20 MHz:    3</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
                 </ul></td>
-              <td colspan="4"><strong>5 GHz</strong>
+              <td colspan="4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz</font></font></strong>
                 <ul>
-                  <li>802.11a:
-                    <ul>
-                      <li>20 MHz:      27</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 27</font></font></li>
                     </ul>
                   </li>
-                  <li>802.11n:
-                    <ul>
-                      <li>20 MHz:      27</li>
-                      <li>40 MHz:      13</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 27</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 13</font></font></li>
                     </ul>
                   </li>
-                  <li>802.11ac:
-                    <ul>
-                      <li>20 MHz:      27</li>
-                      <li>40 MHz:      13</li>
-                      <li>80 MHz:      6</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 27</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 13</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">80 MHz: 6</font></font></li>
                     </ul>
                   </li>
                 </ul></td>
             </tr>
             <tr>
-              <td colspan="10"><p><b>Note:</b> The maximum power setting will vary by channel and according to individual country regulations. Refer to the product documentation for specific details.</p></td>
+              <td colspan="10"><b>Nota:</b>Consulte la documentación del producto para obtener detalles específicos.</td>
             </tr>
             <tr>
-              <td><strong>Maximum conducted transmit power</strong></td>
-              <td colspan="5"><strong>1542I</strong>
+              <td>Máxima potencia de transmisión conducida</td>
+              <td colspan="5"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I</font></font></strong>
                 <ul>
-                  <li> 2.4 GHz: 27 dBm with 2 antennas</li>
-                  <li>5 GHz: 25 dBm with 2 antennas</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz: 27 dBm con 2 antenas</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz: 25 dBm con 2 antenas</font></font></li>
               </ul></td>
-              <td colspan="4"><strong>1542D</strong>
+              <td colspan="4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542D</font></font></strong>
                 <ul>
-                  <li>2.4 GHz: 27 dBm with 2 antennas</li>
-                  <li>5 GHz: 25 dBm with 2 antennas</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz: 27 dBm con 2 antenas</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz: 25 dBm con 2 antenas</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><strong>Interface</strong></td>
+              <td>Interfaz</td>
               <td colspan="9"><ul>
-                <li>WAN port 10/100/1000BASE-T Ethernet, autosensing (RJ-45), PoE in</li>
-                <li>Management console port (RJ-45)</li>
-                <li>Multicolor LED/Reset button</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto WAN Ethernet 10/100/1000BASE-T, detección automática (RJ-45), entrada PoE</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de gestión (RJ-45)</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED multicolor/botón de reinicio</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><strong>Uplink options</strong></td>
-              <td colspan="9">Ethernet and wireless mesh</td>
+              <td>Opciones de enlace ascendente</td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ethernet y malla inalámbrica</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Dimensions (W&nbsp;x&nbsp;L&nbsp;x&nbsp;H)</strong></p></td>
-              <td colspan="9">7.9 x 5.9 x 2.4 in.(20 x 15 x 6.1 cm)</td>
+              <td>Dimensiones (ancho x largo x alto)</td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7,9 x 5,9 x 2,4 pulgadas (20 x 15 x 6,1 cm)</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Weight</strong></p></td>
-              <td colspan="9">2.75 lb (1.25 kg)</td>
+              <td>Peso</td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,75 libras (1,25 kg)</font></font></td>
             </tr>
             <tr>
-              <td><strong>Environmental</strong></td>
+              <td>Ambiental</td>
               <td colspan="9"><ul>
-                <li>Operating temperature
-                  <ul>
-                    <li>-40 to 65°C (-40 to 149°F) ambient air with no solar loading</li>
-                    <li>-40 to 55°C (-40 to 131°F) ambient air with solar loading</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento
+                  </font></font><ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-40 a 65 °C (-40 a 149 °F) aire ambiente sin carga solar</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-40 a 55 °C (-40 a 131 °F) aire ambiente con carga solar</font></font></li>
                   </ul>
                 </li>
-                <li>Storage temperature: -50 to 85°C (-40 to 185°F)</li>
-                <li>Humidity: 5 - 95%, non-condensing</li>
-                <li>Wind resistance:
-                  <ul>
-                    <li>Up to 100-MPH sustained winds</li>
-                    <li>Up to 165-MPH wind gusts</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de almacenamiento: -50 a 85 °C (-40 a 185 °F)</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad: 5 - 95%, sin condensación</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Resistencia al viento:
+                  </font></font><ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vientos sostenidos de hasta 100 MPH</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ráfagas de viento de hasta 165 MPH</font></font></li>
                   </ul>
                 </li>
               </ul></td>
             </tr>
             <tr>
-              <td><strong>Environmental Ratings</strong></td>
+              <td>Calificaciones Ambientales</td>
               <td colspan="9"><ul>
-                <li>IEC 60529 IP67</li>
-                <li>Icing protection:            NEMA 250-2008</li>
-                <li>Corrosion:                     NEMA 250-2008 (600 hours)</li>
-                <li>Solar radiation:             EN 60068-2-5 (1200 W/ m2)</li>
-                <li>Vibration:                       MIL-STD-810</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60529 IP67</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protección contra formación de hielo: NEMA 250-2008</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corrosión: NEMA 250-2008 (600 horas)</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radiación solar: EN 60068-2-5 (1200 W/m2)</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vibración: MIL-STD-810</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><strong>Antennas</strong></td>
+              <td>Antenas</td>
               <td colspan="9"><ul>
-                <li>1542I: Integrated dual-band, vertical polarization, omnidirectional antenna radome, 5 dBi (2.4 Ghz) and 5dBi (5.8 GHz) **</li>
-                <li>1542D: Integrated dual-band, dual polarization, directional antenna radome, vertically polarized 8 dBi (2.4 GHz), 9 dBi (5 GHz)</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I: radomo de antena omnidireccional integrada de doble banda con polarización vertical, 5 dBi (2,4 Ghz) y 5 dBi (5,8 GHz) **</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542D: radomo de antena direccional integrada de doble banda y doble polarización, polarizada verticalmente 8 dBi (2,4 GHz), 9 dBi (5 GHz)</font></font></li>
                 </ul>
-              <p class="smallText">** This model can be mounted horizontally on a wall or pole, to provide omni-directional coverage; or can be mounted vertically to provide semi-omni coverage.</p></td>
+              <p class="smallText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">** Este modelo se puede montar horizontalmente en una pared o poste, para brindar cobertura omnidireccional; </font><font style="vertical-align: inherit;">o se puede montar verticalmente para proporcionar una cobertura semi-omni.</font></font></p></td>
             </tr>
             <tr>
-              <td><strong>Powering options</strong></td>
+              <td>Opciones de alimentación</td>
               <td colspan="9"><ul>
-                  <li>802.3af, 802.3at</li>
-                  <li>Cisco power injectors:
-                    <ul>
-                      <li>AIR-PWRINJ-60RGD1= (outdoor rated, 60W, with NEMA 5-15 AC plug)</li>
-                      <li>AIR-PWRINJ-60RGD2= (outdoor rated, 60W, unterminated AC cable)</li>
-                      <li>AIR-PWRINJ5= (indoor, 802.3af)</li>
-                      <li>AIR-PWRINJ6= (indoor, 802.3at)</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3af, 802.3at</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inyectores de potencia Cisco:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-PWRINJ-60RGD1= (nominal para exteriores, 60 W, con enchufe de CA NEMA 5-15)</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-PWRINJ-60RGD2= (exterior nominal, 60 W, cable de CA sin terminación)</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-PWRINJ5= (interior, 802.3af)</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-PWRINJ6= (interior, 802.3at)</font></font></li>
                     </ul>
                   </li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>Power draw</strong></p></td>
-              <td colspan="9">Max power draw is 13.9W with 100 meters Category 5 cable</td>
+              <td>Poder de dibujo</td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El consumo máximo de energía es de 13,9 W con un cable de categoría 5 de 100 metros</font></font></td>
             </tr>
             <tr>
-              <td><strong>Compliance</strong></td>
+              <td>Cumplimiento</td>
               <td colspan="9"><ul>
-                <li>Safety
-                  <ul>
-                    <li>UL60950,       2nd Edition</li>
-                    <li>CAN/CSA-C22.2&nbsp;  No.&nbsp; 60950,&nbsp; 2&nbsp;nd&nbsp;Edition</li>
-                    <li>IEC 60950,  2nd Edition</li>
-                    <li>EN 60950, 2nd Edition</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad
+                  </font></font><ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL60950, 2.ª edición</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.º 60950, 2ª edición</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC 60950, 2.ª edición</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950, 2.ª edición</font></font></li>
                   </ul>
                 </li>
-                <li>Immunity
-                  <ul>
-                    <li>&lt;= 5 mJ f or 6kV/3kA @ 8/20 ms waveform</li>
-                    <li> ANSI/IEEE C62.41</li>
-                    <li>EN61000-4-5 Level 4 AC Surge Immunity</li>
-                    <li>EN61000-4-4 Level 4 Electrical Fast Transient Burst Immunity</li>
-                    <li>EN61000-4-3 Level 4 EMC Field Immunity</li>
-                    <li>EN61000-4-2 Level 4 ESD Immunity</li>
-                    <li>EN60950 Overvoltage Category IV</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad
+                  </font></font><ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&lt;= 5 mJ para 6kV/3kA a 8/20 ms de forma de onda</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ANSI/IEEE C62.41</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-4-5 Inmunidad a sobretensiones de CA de nivel 4</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-4-4 Nivel 4 Inmunidad a ráfagas transitorias eléctricas rápidas</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-4-3 Inmunidad de campo EMC de nivel 4</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-4-2 Nivel 4 Inmunidad ESD</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN60950 Categoría de sobretensión IV</font></font></li>
                     </ul>
                 </li>
-                <li>Radio approvals
-                  <ul>
-                    <li>FCC Part 15.247, 15.407</li>
-                    <li>FCC Bulletin OET-65C</li>
-                    <li>RSS-247</li>
-                    <li>RSS-102</li>
-                    <li>AS/NZS 4268.2003</li>
-                    <li>ARIB-STD 66 (Japan)</li>
-                    <li>ARIB-STD T71 (Japan)</li>
-                    <li>EN 300 328</li>
-                    <li>EN 301 893</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">aprobaciones de radio
+                  </font></font><ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC Parte 15.247, 15.407</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Boletín de la FCC OET-65C</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-247</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-102</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 4268.2003</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARIB-STD 66 (Japón)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARIB-STD T71 (Japón)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ES 300 328</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ES 301 893</font></font></li>
                     </ul>
                 </li>
-                <li>EMI and susceptibility
-                  <ul>
-                    <li>FCC part 15.107, 15.109</li>
-                    <li>ICES-003</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EMI y susceptibilidad
+                  </font></font><ul>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC parte 15.107, 15.109</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CIEM-003</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-1, -17</font></font></li>
                     </ul>
                 </li>
@@ -835,7 +835,7 @@
               </ul></td>
             </tr>
 			<tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía</font></font></strong></td>
+              <td>Garantía</td>
               <td colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía limitada de hardware de 1 año</font></font></p></td>
             </tr>
           </tbody>
@@ -845,25 +845,25 @@
                             <div class="tab-pane" id="tab5">
                                 <h3>Potencia de transmisión y sensibilidad de recepción:</h3>
                                 <br>
-                            <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
 		  <tbody><tr>
 		    <th colspan="2">&nbsp;</th>
-		    <th colspan="2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio de 2,4 GHz</font></font></strong></th>
-		    <th colspan="2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio de 5 GHz</font></font></strong></th>
+		    <th colspan="2">Radio de 2,4 GHz</th>
+		    <th colspan="2">Radio de 5 GHz</th>
 	      </tr>
 		  <tr>
 		    <th>&nbsp;</th>
-		    <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corrientes espaciales</font></font></th>
-		    <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potencia total de transmisión (dBm)</font></font></th>
-		    <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sensibilidad RX (dBm)</font></font></th>
-		    <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potencia total de transmisión (dBm)</font></font></th>
-		    <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sensibilidad RX (dBm)</font></font></th>
+		    <th>Corrientes espaciales</th>
+		    <th>Potencia total de transmisión (dBm)</th>
+		    <th>Sensibilidad RX (dBm)</th>
+		    <th>Potencia total de transmisión (dBm)</th>
+		    <th>Sensibilidad RX (dBm)</th>
 	      </tr>
 		  <tr class="row-header">
-		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11/11b</font></font></td>
+		    <th colspan="6" style="text-align: center">802.11/11b</th>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1Mbps</font></font></strong></td>
+		    <td>1Mbps</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-100</font></font></td>
@@ -871,7 +871,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11Mbps</font></font></strong></td>
+		    <td>11Mbps</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-92</font></font></td>
@@ -879,10 +879,10 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N / A</font></font></td>
 	      </tr>
 		  <tr class="row-header">
-		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a/g</font></font></td>
+		    <th colspan="6" style="text-align: center">802.11a/g</th>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6Mbps</font></font></strong></td>
+		    <td>6Mbps</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-95</font></font></td>
@@ -890,7 +890,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-93</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">24Mbps</font></font></strong></td>
+		    <td>24Mbps</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-89</font></font></td>
@@ -898,7 +898,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-87</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">54Mbps</font></font></strong></td>
+		    <td>54Mbps</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-79</font></font></td>
@@ -906,10 +906,10 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-77</font></font></td>
 	      </tr>
 		  <tr class="row-header">
-		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11nHT20</font></font></td>
+		    <th colspan="6" style="text-align: center">802.11nHT20</th>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-95</font></font></td>
@@ -917,7 +917,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-92</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-84</font></font></td>
@@ -925,7 +925,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-82</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-76</font></font></td>
@@ -933,7 +933,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-74</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-94</font></font></td>
@@ -941,7 +941,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-91</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS12</font></font></strong></td>
+		    <td>MCS12</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-82</font></font></td>
@@ -949,7 +949,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-80</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS15</font></font></strong></td>
+		    <td>MCS15</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-74</font></font></td>
@@ -957,10 +957,10 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr class="row-header">
-		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11nHT40</font></font></td>
+		    <th colspan="6" style="text-align: center">802.11nHT40</th>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -968,7 +968,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-90</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -976,7 +976,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-79</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -984,7 +984,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -992,7 +992,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-89</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS12</font></font></strong></td>
+		    <td>MCS12</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1000,7 +1000,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-77</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS15</font></font></strong></td>
+		    <td>MCS15</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1008,10 +1008,10 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-70</font></font></td>
 	      </tr>
 		  <tr class="row-header">
-		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac VHT20</font></font></td>
+		    <th colspan="6" style="text-align: center">802.11ac VHT20</th>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1019,7 +1019,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-92</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1027,7 +1027,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-82</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1035,7 +1035,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-74</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1043,7 +1043,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-70</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1051,7 +1051,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-91</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1059,7 +1059,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-80</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1067,7 +1067,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1075,10 +1075,10 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-68</font></font></td>
 	      </tr>
 		  <tr class="row-header">
-		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac VHT40</font></font></td>
+		    <th colspan="6" style="text-align: center">802.11ac VHT40</th>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1086,7 +1086,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-90</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1094,7 +1094,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-79</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1102,7 +1102,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1110,7 +1110,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-68</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></strong></td>
+		    <td>MCS9</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1118,7 +1118,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-66</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1126,7 +1126,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-89</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1134,7 +1134,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-77</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1142,7 +1142,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-70</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1150,7 +1150,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-66</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></strong></td>
+		    <td>MCS9</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1158,10 +1158,10 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-64</font></font></td>
 	      </tr>
 		  <tr class="row-header">
-		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac VHT80</font></font></td>
+		    <th colspan="6" style="text-align: center">802.11ac VHT80</th>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1169,7 +1169,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-87</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1177,7 +1177,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-76</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1185,7 +1185,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-69</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1193,7 +1193,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-64</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></strong></td>
+		    <td>MCS9</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1201,7 +1201,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-62</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
+		    <td>MCS0</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1209,7 +1209,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-86</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS4</font></font></strong></td>
+		    <td>MCS4</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1217,7 +1217,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-74</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7</font></font></strong></td>
+		    <td>MCS7</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1225,7 +1225,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-67</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></strong></td>
+		    <td>MCS8</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
@@ -1233,7 +1233,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-62</font></font></td>
 	      </tr>
 		  <tr>
-		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></strong></td>
+		    <td>MCS9</td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>

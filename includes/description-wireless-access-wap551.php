@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Cisco WAP551 Wireless-N Dual Radio Punto de acceso</h3>
+                <h3 class="title-border">Cisco WAP551 Wireless-N Dual Radio Access Point</h3>
                 <h5>de banda seleccionable Alto rendimiento, fácil de implementar, conectividad inalámbrica N de clase empresarial segura</h5>
                 <center> <img class="img-responsive" src="images/Wireless/WAP551.png" alt=""></center>
 
@@ -21,7 +21,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong> Punto de acceso inalámbrico Cisco WAP551 IEEE 802.11ac 1,90 Gbit/s </strong></p>
+                                    <p align='justify'><strong> Access Point inalámbrico Cisco WAP551 IEEE 802.11ac 1,90 Gbit/s </strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -49,24 +49,24 @@
                               <li>Las interfaces LAN Gigabit Ethernet con PoE permiten una instalación flexible</li>
                               <li>La tecnología SmartSignal Antenna optimiza la cobertura y recepción inalámbrica</li>
                               <li>El portal cautivo permite el acceso de invitados altamente seguro con roles y derechos personalizados</li>
-                              <li>La configuración de un solo punto no requiere controlador, para una implementación fácil y rentable de múltiples puntos de acceso</li>
+                              <li>La configuración de un solo punto no requiere controlador, para una implementación fácil y rentable de múltiples Access point</li>
                               <li>Funciona nada más sacarlo de la caja con una instalación fácil y una configuración y un asistente sencillos basados ​​en la web</li>
                             </ul>
                             <h3>Descripción del producto</h3>
-                            <p align="justify">En el dinámico entorno empresarial actual, los empleados se vuelven más móviles y colaborativos que nunca. Para mantenerse productivos, necesitan un acceso confiable y de clase empresarial a las aplicaciones de red en toda la oficina. Los puntos de acceso inalámbricos Cisco Small Business 550/560 brindan una manera simple y rentable de extender redes móviles seguras y de alto rendimiento a sus empleados e invitados, para que puedan permanecer conectados en cualquier lugar de la oficina. Esta solución flexible le permite conectar a docenas de empleados y puede escalar para adaptarse a usuarios adicionales y necesidades comerciales cambiantes. </p>
+                            <p align="justify">En el dinámico entorno empresarial actual, los empleados se vuelven más móviles y colaborativos que nunca. Para mantenerse productivos, necesitan un acceso confiable y de clase empresarial a las aplicaciones de red en toda la oficina. Los Access points inalámbricos Cisco Small Business 550/560 brindan una manera simple y rentable de extender redes móviles seguras y de alto rendimiento a sus empleados e invitados, para que puedan permanecer conectados en cualquier lugar de la oficina. Esta solución flexible le permite conectar a docenas de empleados y puede escalar para adaptarse a usuarios adicionales y necesidades comerciales cambiantes. </p>
 
-                            <p align="justify">Los puntos de acceso Cisco 550/560 utilizan radios de banda dual seleccionables o concurrentes para mejorar la cobertura y la capacidad del usuario. Las interfaces LAN Gigabit Ethernet con Power over Ethernet (PoE) admiten una instalación flexible y reducen los costos de cableado y cableado. Las funciones inteligentes de calidad de servicio (QoS) le permiten priorizar el tráfico sensible al ancho de banda para aplicaciones de video y voz sobre IP (VoIP). La tecnología SmartSignal Antenna le permite ampliar el alcance de su red inalámbrica optimizando la cobertura, la recepción y el rendimiento.</p>
+                            <p align="justify">Los Access points Cisco 550/560 utilizan radios de banda dual seleccionables o concurrentes para mejorar la cobertura y la capacidad del usuario. Las interfaces LAN Gigabit Ethernet con Power over Ethernet (PoE) admiten una instalación flexible y reducen los costos de cableado y cableado. Las funciones inteligentes de calidad de servicio (QoS) le permiten priorizar el tráfico sensible al ancho de banda para aplicaciones de video y voz sobre IP (VoIP). La tecnología SmartSignal Antenna le permite ampliar el alcance de su red inalámbrica optimizando la cobertura, la recepción y el rendimiento.</p>
 
-                            <p align="justify">Para brindar acceso seguro a los visitantes y otros usuarios, los puntos de acceso Cisco 550/560 admiten un portal cautivo con múltiples opciones de autenticación y la capacidad de configurar derechos, roles y ancho de banda. Una página de inicio de sesión de invitado personalizada le permite presentar un mensaje de bienvenida y detalles de acceso, y refuerza su marca con los logotipos de la empresa.</p>
+                            <p align="justify">Para brindar acceso seguro a los visitantes y otros usuarios, los Access points Cisco 550/560 admiten un portal cautivo con múltiples opciones de autenticación y la capacidad de configurar derechos, roles y ancho de banda. Una página de inicio de sesión de invitado personalizada le permite presentar un mensaje de bienvenida y detalles de acceso, y refuerza su marca con los logotipos de la empresa.</p>
 
-                            <p align="justify">Los puntos de acceso Cisco 550/560 son fáciles de configurar y usar, con una configuración intuitiva basada en un asistente para que pueda comenzar a trabajar en minutos. Un diseño atractivo con opciones de montaje flexibles permite que los puntos de acceso se integren sin problemas en cualquier entorno de pequeña empresa.</p>
+                            <p align="justify">Los Access points Cisco 550/560 son fáciles de configurar y usar, con una configuración intuitiva basada en un asistente para que pueda comenzar a trabajar en minutos. Un diseño atractivo con opciones de montaje flexibles permite que los Access points se integren sin problemas en cualquier entorno de pequeña empresa.</p>
 
-                            <p align="justify">Para mejorar la confiabilidad y salvaguardar la información comercial confidencial, los puntos de acceso Cisco 550/560 son compatibles con Wi-Fi Protected Access (WPA) Personal y Enterprise, codificando todas sus transmisiones inalámbricas con un potente cifrado. Además, la autenticación 802.1X RADIUS ayuda a mantener alejados a los usuarios no autorizados. </p>
+                            <p align="justify">Para mejorar la confiabilidad y salvaguardar la información comercial confidencial, Access points Cisco 550/560 son compatibles con Wi-Fi Protected Access (WPA) Personal y Enterprise, codificando todas sus transmisiones inalámbricas con un potente cifrado. Además, la autenticación 802.1X RADIUS ayuda a mantener alejados a los usuarios no autorizados. </p>
 
-                            <p align="justify">Diseñados para escalar sin problemas a medida que crece su organización, los puntos de acceso cuentan con una configuración de punto único sin controlador que simplifica la implementación de múltiples puntos de acceso sin hardware adicional. Con los puntos de acceso Cisco 550/560, puede extender las redes inalámbricas de clase empresarial a empleados e invitados en cualquier lugar de la oficina, con la flexibilidad para satisfacer las nuevas necesidades comerciales en los años venideros. </p>
+                            <p align="justify">Diseñados para escalar sin problemas a medida que crece su organización, los Access points cuentan con una configuración de punto único sin controlador que simplifica la implementación de múltiples puntos de acceso sin hardware adicional. Con los Access points Cisco 550/560, puede extender las redes inalámbricas de clase empresarial a empleados e invitados en cualquier lugar de la oficina, con la flexibilidad para satisfacer las nuevas necesidades comerciales en los años venideros. </p>
                           
 
-                            <p style="font-weight: bold;">Figura 1.</p> <p>Configuración típica del punto de acceso inalámbrico</p>
+                            <p style="font-weight: bold;">Figura 1.</p> <p>Configuración típica del Access points inalámbrico</p>
                             <center> <img class="img-responsive" src="images/Wireless/fig551-1.jpg" alt=""></center>
 
                             <p style="font-weight: bold;">Figura 2.</p> <p>Panel frontal</p>
@@ -101,11 +101,11 @@
                                 <h3>Especificaciones Tecnicas:</h3>
                                 <br>
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
-                                <table class="table table-bordered table-hover table-responsive">
+                                
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descripción</font></font></p></td>
+            <tr>
+              <th><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones</font></font></p></th>
+              <th colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descripción</font></font></p></th>
             </tr>
           </thead>
           <tbody>
@@ -134,7 +134,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">linux</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces físicas</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces físicas</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puertos</font></font></p></td>
@@ -153,7 +153,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alimentación, Inalámbrico, Ethernet</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones físicas</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones físicas</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones físicas (An. x Pr. x Al.)</font></font></p></td>
@@ -164,11 +164,11 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WAP561: 1,51 libras o 685 g; </font><font style="vertical-align: inherit;">WAP551: 1,41 libras o 640 g</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades de red</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades de red</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte de VLAN</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número de VLAN</font></font></p></td>
@@ -176,27 +176,27 @@
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">suplicante 802.1X</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Asignación de SSID a VLAN</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Selección automática de canales</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Árbol de expansión</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">árbol de expansión</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Balanceo de carga</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IPv6</font></font></p></td>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sí</font></font></p>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con host IPv6</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IPv6 RADIUS, syslog, protocolo de tiempo de red (NTP), etc.</font></font></div></td>
             </tr>
@@ -205,365 +205,365 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VLAN basadas en 802.1Q, 16 VLAN activas más 1 VLAN de administración</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad</font></font></p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad</font></font></p></th>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WPA/WPA2</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí, incluida la autenticación empresarial</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Access control</p></td>
-              <td colspan="2"><p>Yes, management access control list (ACL) plus MAC ACL</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Control de acceso</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí, lista de control de acceso de administración (ACL) más MAC ACL</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Secure management</p></td>
-              <td colspan="2"><p>HTTPS</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestión segura</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTTPS</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Wi-Fi Protected Setup (WPS)</p></td>
-              <td colspan="2"><p>Yes (soft WPS, no hardware push button)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración Wi-Fi Protegida (WPS)</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí (WPS suave, sin pulsador de hardware)</font></font></p></td>
             </tr>
             <tr>
-              <td><p>SSID broadcast</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SSID Broadcast</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Rogue access point detection</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detección de puntos de acceso no autorizados</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Mounting and Physical Security</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Montaje y Seguridad Física</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Multiple mounting options</p></td>
-              <td colspan="2"><p>Mounting bracket included for easy ceiling or wall mounting </p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Múltiples opciones de montaje</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte de montaje incluido para un fácil montaje en techo o pared</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Physical security lock</p></td>
-              <td colspan="2"><p>Kensington lock slot</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cerradura de seguridad física</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ranura de bloqueo Kensington</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Quality of Service</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Calidad de servicio</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Quality of service (QoS)</p></td>
-              <td colspan="2"><p>Wi-Fi Multimedia and Traffic Specification (WMM TSPEC)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Calidad de servicio (QoS)</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación de tráfico y multimedia Wi-Fi (WMM TSPEC)</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Performance</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Actuación</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Wireless throughput</p></td>
-              <td colspan="2"><p>Up to 450 Mbps data rate (real-world throughput will vary)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rendimiento inalámbrico</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidad de datos de hasta 450 Mbps (el rendimiento en el mundo real variará)</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Recommended user support</p></td>
-              <td colspan="2"><p>Up to 64 connective users, 30 active users per radio</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte de usuario recomendado</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hasta 64 usuarios conectados, 30 usuarios activos por radio</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Multiple-Access Point Management</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestión de múltiples puntos de acceso</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Single Point Setup</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración de un solo punto</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Number of access points per cluster</p></td>
-              <td colspan="2"><p>16</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número de puntos de acceso por clúster</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Active clients per cluster</p></td>
-              <td colspan="2"><p>480</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Clientes activos por clúster</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">480</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Configuration</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Web user interface</p></td>
-              <td colspan="2"><p>Built-in web user interface for easy browser-based configuration (HTTP/HTTPS)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de usuario web</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de usuario web integrada para una fácil configuración basada en navegador (HTTP/HTTPS)</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Management</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Management protocols</p></td>
-              <td colspan="2"><p>Web browser, Simple Network Management Protocol (SNMP) v3, Bonjour</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolos de manejo</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Navegador web, Protocolo simple de administración de redes (SNMP) v3, Bonjour</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Remote management</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestión remota</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Event logging</p></td>
-              <td colspan="2"><p>Local, remote syslog, email alerts</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El registro de eventos</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Syslog local, remoto, alertas por correo electrónico</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Network diagnostics</p></td>
-              <td colspan="2"><p>Logging and packet capture</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Diagnóstico de red</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Registro y captura de paquetes</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Web firmware upgrade</p></td>
-              <td colspan="2"><p>Firmware upgradable through web browser, imported/exported configuration file</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Actualización de firmware web</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firmware actualizable a través del navegador web, archivo de configuración importado/exportado</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Dynamic Host Configuration Protocol (DHCP)</p></td>
-              <td colspan="2"><p>DHCP client</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolo de configuración dinámica de host (DHCP)</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cliente DHCP</font></font></p></td>
             </tr>
             <tr>
-              <td><p>IPv6 host</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">servidor IPv6</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>HTTP redirect</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">redirección HTTP</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Wireless</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inalámbrico</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Frequency</p></td>
-              <td colspan="2"><p>WAP551: Selectable radio band (2.4 or 5 GHz) WAP561: Dual concurrent radios (2.4 and 5 GHz)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Frecuencia</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WAP551: banda de radio seleccionable (2,4 o 5 GHz) WAP561: radios duales simultáneas (2,4 y 5 GHz)</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Radio and modulation type</p></td>
-              <td colspan="2"><p>Single radio (WAP551) or dual radio (WAP561), orthogonal frequency division multiplexing (OFDM)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo de radio y modulación</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio simple (WAP551) o radio dual (WAP561), multiplexación por división de frecuencia ortogonal (OFDM)</font></font></p></td>
             </tr>
             <tr>
-              <td><p>WLAN</p></td>
-              <td colspan="2"><p>802.11b/g/n</p>
-                <p>3x3 multiple-input multiple-output (MIMO) with 3 spatial streams</p>
-                <p>20 and 40 MHz channels</p>
-                <p>PHY data rate up to 450 Mbps</p>
-                <p>802.11 dynamic frequency selection (DSF), EU version only </p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WiFi</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b/g/n</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3x3 entradas múltiples salidas múltiples (MIMO) con 3 flujos espaciales</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Canales de 20 y 40 MHz</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidad de datos PHY de hasta 450 Mbps</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Selección de frecuencia dinámica (DSF) 802.11, solo versión de la UE</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Data rates supported</p></td>
-              <td colspan="2"><p>802.11a/b/g: </p>
-                <div>●<span>&nbsp; </span>54, 48, 36, 24, 18, 12, 9, 6, 11, 5.5, 2, and 1 Mbps </div>
-                <div>●<span>&nbsp; </span>802.11n: </div>
-                <div>◦<span>&nbsp;&nbsp; </span>20-MHz bandwidth: MCS 0-15 for supported data rates </div>
-                <div>◦<span>&nbsp;&nbsp; </span>40-MHz bandwidth: MCS 0-15 for supported data rates </div></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidades de datos admitidas</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a/b/g:</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">54, 48, 36, 24, 18, 12, 9, 6, 11, 5,5, 2 y 1 Mbps</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">:</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ancho de banda de 20 MHz: MCS 0-15 para velocidades de datos admitidas</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ancho de banda de 40 MHz: MCS 0-15 para velocidades de datos admitidas</font></font></div></td>
             </tr>
             <tr>
-              <td><p>Frequency band and operating channels</p></td>
-              <td><p>802.11b</p>
-                <p>2412</p>
-                <p>2437</p>
-                <p>2462</p>
-                <p>802.11g</p>
-                <p>2412</p>
-                <p>2437</p>
-                <p>2462</p>
-                <p>802.11n 20 MHz (2.4 GHz band)</p>
-                <p>2412</p>
-                <p>2437</p>
-                <p>2462</p>
-                <p>802.11n 40 MHz (2.4 GHz band)</p>
-                <p>2422</p>
-                <p>2437</p>
-                <p>2452</p></td>
-              <td><p>802.11a </p>
-                <p>5180</p>
-                <p>5320</p>
-                <p>5500</p>
-                <p>5700</p>
-                <p>802.11n 20 MHz (5 GHz band)</p>
-                <p>5180</p>
-                <p>5320</p>
-                <p>5500</p>
-                <p>5700</p>
-                <p>5825</p>
-                <p>802.11n 40 MHz (5 GHz band)</p>
-                <p>5190</p>
-                <p>5510</p>
-                <p>5795</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Banda de frecuencia y canales operativos</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2412</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2437</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2462</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11g</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2412</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2437</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2462</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n 20 MHz (banda de 2,4 GHz)</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2412</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2437</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2462</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n 40 MHz (banda de 2,4 GHz)</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2422</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2437</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2452</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5180</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5320</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5500</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5700</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n 20 MHz (banda de 5 GHz)</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5180</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5320</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5500</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5700</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5825</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n 40 MHz (banda de 5 GHz)</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5190</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5510</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5795</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Nonoverlapping channels</p></td>
-              <td colspan="2"><p>2.4 GHz</p>
-                <div>●<span>&nbsp; </span>802.11b/g </div>
-                <div>◦<span>&nbsp;&nbsp; </span>20 MHz: 3 </div>
-                <div>●<span>&nbsp; </span>802.11n </div>
-                <div>◦<span>&nbsp;&nbsp; </span>20 MHz: 3 </div>
-                <p>5 GHz</p>
-                <div>●<span>&nbsp; </span>802.11a </div>
-                <div>◦<span>&nbsp;&nbsp; </span>20 MHz: 24 </div>
-                <div>●<span>&nbsp; </span>802.11n </div>
-                <div>◦<span>&nbsp;&nbsp; </span>20 MHz: 24 </div>
-                <div>◦<span>&nbsp;&nbsp; </span>40 MHz: 11 </div></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Canales no superpuestos</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b/g</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></div>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 24</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 24</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 11</font></font></div></td>
             </tr>
             <tr>
-              <td><p>Transmitted output power</p></td>
-              <td colspan="2"><div>●<span>&nbsp; </span><span>WAP551:</span> </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11a@54Mbps">802.11a@54Mbps</a>: 13dBm&nbsp;&nbsp; </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11b@11Mbps">802.11b@11Mbps</a>: 19dBm&nbsp;&nbsp; </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11g@54Mbps">802.11g@54Mbps</a>: 16dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11n@HT20">802.11n@HT20</a>, HT40, MCS15: 14dBm </div>
-                <div>●<span>&nbsp; </span><span>WAP561:</span> </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11a@54Mbps">802.11a@54Mbps</a>: 13dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11b@11Mbps">802.11b@11Mbps</a>: 19dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11g@54Mbps">802.11g@54Mbps</a>: 16dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span><a href="mailto:802.11n@HT20">802.11n@HT20</a>, HT40, MCS15: 14dBm </div></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potencia de salida transmitida</font></font></p></td>
+              <td colspan="2"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">WAP551:</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11a@54Mbps"><font style="vertical-align: inherit;">802.11a@54Mbps</font></a><font style="vertical-align: inherit;"> : 13dBm&nbsp;&nbsp; </font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11a@54Mbps"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11b@11Mbps"><font style="vertical-align: inherit;">802.11b</font></a><font style="vertical-align: inherit;"> a 11 Mbps : 19 dBm&nbsp;&nbsp; </font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11b@11Mbps"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11g@54Mbps"><font style="vertical-align: inherit;">802.11g@54Mbps</font></a><font style="vertical-align: inherit;"> : 16dBm</font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11g@54Mbps"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11n@HT20"><font style="vertical-align: inherit;">802.11n@HT20</font></a><font style="vertical-align: inherit;"> , HT40, MCS15: 14dBm</font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11n@HT20"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">WAP561:</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11a@54Mbps"><font style="vertical-align: inherit;">802.11a@54Mbps</font></a><font style="vertical-align: inherit;"> : 13dBm</font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11a@54Mbps"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11b@11Mbps"><font style="vertical-align: inherit;">802.11b</font></a><font style="vertical-align: inherit;"> a 11 Mbps : 19 dBm</font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11b@11Mbps"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11g@54Mbps"><font style="vertical-align: inherit;">802.11g@54Mbps</font></a><font style="vertical-align: inherit;"> : 16dBm</font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11g@54Mbps"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font><a href="mailto:802.11n@HT20"><font style="vertical-align: inherit;">802.11n@HT20</font></a><font style="vertical-align: inherit;"> , HT40, MCS15: 14dBm</font></font><span>&nbsp;&nbsp; </span><a href="mailto:802.11n@HT20"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></div></td>
             </tr>
             <tr>
-              <td><p>Wireless isolation</p></td>
-              <td colspan="2"><p>Wireless isolation between clients</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aislamiento inalambrico</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aislamiento inalámbrico entre clientes</font></font></p></td>
             </tr>
             <tr>
-              <td><p>External antennas</p></td>
-              <td colspan="2"><p>None</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antenas externas</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ninguna</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Internal antennas</p></td>
-              <td colspan="2"><p>5 internal dipole antennas for the WAP551 and 10 antennas for the WAP561</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antenas internas</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 antenas dipolo internas para el WAP551 y 10 antenas para el WAP561</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Antenna gain in dBi</p></td>
-              <td colspan="2"><p>5 dBi each antenna</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ganancia de antena en dBi</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 dBi cada antena</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Receiver sensitivity</p></td>
-              <td colspan="2"><p>2.4 GHz </p>
-                <div>●<span>&nbsp; </span><span>802.11b/g</span> </div>
-                <div>◦<span>&nbsp;&nbsp; </span>1 Mbps: –91 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>11 Mbps: –85 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>6 Mbps: –86 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>54 Mbps: –69 dBm </div>
-                <div><span>●<span>&nbsp; </span><span>802.11n/20 MHz </span> </span></div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS0: –86 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS7: –70 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS8: –85 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS15: –68 dBm </div>
-                <div><span>●<span>&nbsp; </span><span>802.11n/40 MHz </span> </span></div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS0: –84 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS7: –66 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS8: –83 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS15: –65 dB </div>
-                <p>5 GHz </p>
-                <div>●<span>&nbsp; </span><span>802.11a</span> </div>
-                <div>◦<span>&nbsp;&nbsp; </span>6 Mbps: –82 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>54 Mbps: –67 dBm </div>
-                <div><span>●<span>&nbsp; </span><span>802.11n/20 MHz</span> </span></div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS0: –83 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS7: –68 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS8: –82 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS15: –66 dBm </div>
-                <div><span>●<span>&nbsp; </span><span>802.11n/40 MHz </span> </span></div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS0: –82 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS7: –64 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS8: –81 dBm </div>
-                <div>◦<span>&nbsp;&nbsp; </span>MCS15: –62 dBm </div></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sensibilidad del receptor</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">802.11b/g</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 Mbps: –91 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11 Mbps: –85 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 Mbps: –86 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">54 Mbps: –69 dBm</font></font></div>
+                <div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">802.11n/20 MHz</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </span></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0: –86 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7: –70dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8: –85dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS15: –68 dBm</font></font></div>
+                <div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">802.11n/40 MHz</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </span></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0: –84 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7: –66 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8: –83 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS15: –65dB</font></font></div>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">802.11a</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 Mbps: –82 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">54 Mbps: –67 dBm</font></font></div>
+                <div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">802.11n/20 MHz</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </span></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0: –83 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7: –68 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8: –82dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS15: –66 dBm</font></font></div>
+                <div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><span><font style="vertical-align: inherit;">802.11n/40 MHz</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span> </span></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0: –82 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS7: –64 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8: –81 dBm</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">◦ </font></font><span>&nbsp;&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS15: –62 dBm</font></font></div></td>
             </tr>
             <tr>
-              <td><p>Wireless distribution system (WDS)</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sistema de distribución inalámbrico (WDS)</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Fast roaming</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Itinerancia rápida</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Multiple SSIDs</p></td>
-              <td colspan="2"><p>WAP551: 16</p>
-                <p>WAP561: 16 x 2</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Múltiples SSID</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WAP551: 16</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WAP561: 16x2</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Wireless VLAN map</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mapa de VLAN inalámbrica</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>WLAN security</p></td>
-              <td colspan="2"><p>Yes</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">seguridad WLAN</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Wi-Fi Multimedia (WMM)</p></td>
-              <td colspan="2"><p>Yes, with unscheduled automatic power save</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wi-Fi multimedia (WMM)</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí, con ahorro de energía automático no programado</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Operating Modes</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modos de funcionamiento</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Access point</p></td>
-              <td colspan="2"><p>Access Point mode, WDS Bridging, Workgroup Bridge mode</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modo de punto de acceso, puente WDS, modo de puente de grupo de trabajo</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Environmental</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Power options</p></td>
-              <td colspan="2"><p>IEEE 802.3af Ethernet switch</p>
-                <p>Cisco SB-PWR-INJ2-xx</p>
-                <p>POE power:</p>
-                <p>Peak power: </p>
-                <div>●<span>&nbsp; </span>WAP551: 7.872W </div>
-                <div>●<span>&nbsp; </span><span>WAP561: </span>11.1W </div></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opciones de poder</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conmutador Ethernet IEEE 802.3af</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco SB-PWR-INJ2-xx</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">POE poder:</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La punta del Poder:</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WAP551: 7.872W</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><font style="vertical-align: inherit;">WAP561 </font><span><font style="vertical-align: inherit;">: 11,1 W</font></span></font><span>&nbsp; </span><span><font style="vertical-align: inherit;"></font></span><font style="vertical-align: inherit;"></font></div></td>
             </tr>
             <tr>
-              <td><p>Compliance</p></td>
-              <td colspan="2"><p>Safety: </p>
-                <div>●<span>&nbsp; </span>UL 60950-1 </div>
-                <div>●<span>&nbsp; </span>CAN/CSA-C22.2 No. 60950-1 </div>
-                <div>●<span>&nbsp; </span>IEC 60950-1 </div>
-                <div>●<span>&nbsp; </span>EN 60950-1&nbsp; </div>
-                <p>Radio approvals: </p>
-                <div>●<span>&nbsp; </span>FCC Part 15.247, 15.407 </div>
-                <div>●<span>&nbsp; </span>RSS-210 (Canada) </div>
-                <div>●<span>&nbsp; </span>EN 300.328, EN 301.893 (Europe) </div>
-                <div>●<span>&nbsp; </span>AS/NZS 4268.2003 (Australia and New Zealand) </div>
-                <p>EMI and susceptibility (Class B): </p>
-                <div>●<span>&nbsp; </span>FCC Part 15.107 and 15.109 </div>
-                <div>●<span>&nbsp; </span>ICES-003 (Canada) </div>
-                <div>●<span>&nbsp; </span>EN 301.489-1 and -17 (Europe) </div></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.° 60950-1</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1&nbsp; </font></font></div>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aprobaciones de radio:</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC Parte 15.247, 15.407</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-210 (Canadá)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300.328, EN 301.893 (Europa)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 4268.2003 (Australia y Nueva Zelanda)</font></font></div>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EMI y susceptibilidad (Clase B):</font></font></p>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC Partes 15.107 y 15.109</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICES-003 (Canadá)</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301.489-1 y -17 (Europa)</font></font></div></td>
             </tr>
             <tr>
-              <td><p>Operating temperature</p></td>
-              <td colspan="2"><p>0° to 40°C (32° to 104°F)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0° a 40°C (32° a 104°F)</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Storage temperature</p></td>
-              <td colspan="2"><p>–20° to 70°C (–4° to 158°F)</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de almacenamiento</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–20° a 70°C (–4° a 158°F)</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Operating humidity</p></td>
-              <td colspan="2"><p>10% to 85% noncondensing</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad de funcionamiento</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10% a 85% sin condensación</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Storage humidity</p></td>
-              <td colspan="2"><p>5% to 90% noncondensing</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad de almacenamiento</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5% a 90% sin condensación</font></font></p></td>
             </tr>
             <tr>
-              <td><p>System memory</p></td>
-              <td colspan="2"><p>64 MB RAM</p>
-                <p>32 MB flash</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memoria del sistema</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">64MB RAM</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flash de 32MB</font></font></p></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Package Contents</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contenidos del paquete</font></font></p></th>
             </tr>
             <tr>
-              <td colspan="3"><div>●<span>&nbsp; </span>Cisco WAP551 or WAP561 Wireless-N access point</div>
-                <div>●<span>&nbsp; </span>Ceiling/wall mounting kit</div>
-                <div>●<span>&nbsp; </span>User guide on CD-ROM</div>
-                <div>●<span>&nbsp; </span>Quick-start guide </div>
-                <div>●<span>&nbsp; </span>Ethernet network cable</div></td>
+              <td colspan="3"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco WAP551 o WAP561 Wireless-N</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kit de montaje en techo/pared</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Guía del usuario en CD-ROM</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Guía de inicio rápido</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cable de red Ethernet</font></font></div></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Minimum Requirements</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requerimientos mínimos</font></font></p></th>
             </tr>
             <tr>
-              <td colspan="3"><div><span>●<span>&nbsp; </span>802.11b, 802.11g, 802.11n wireless adapter with TCP/IP protocol installed per PC </span></div>
-                <div>●<span>&nbsp; </span>Switch/router with PoE support or PoE injector </div>
-                <div>●<span>&nbsp; </span>Web-based configuration: Java-enabled web browser </div></td>
+              <td colspan="3"><div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adaptador inalámbrico 802.11b, 802.11g, 802.11n con protocolo TCP/IP instalado por PC</font></font></span></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Switch/router con soporte PoE o inyector PoE</font></font></div>
+                <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración basada en web: navegador web habilitado para Java</font></font></div></td>
             </tr>
             <tr class="row-header">
-              <td colspan="3"><p>Warranty</p></td>
+              <th colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía</font></font></p></th>
             </tr>
             <tr>
-              <td><p>Access point</p></td>
-              <td colspan="2"><p>Limited lifetime</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tiempo de vida limitado</font></font></p></td>
             </tr>
             <tr>
-              <td><p>Power supply</p></td>
-              <td colspan="2"><p>1 year warranty</p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuente de alimentación</font></font></p></td>
+              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 año de garantía</font></font></p></td>
             </tr>
           </tbody>
         </table>

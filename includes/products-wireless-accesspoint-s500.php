@@ -8,7 +8,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP581.png" alt="">
+                        <img src="images/Wireless/wap581.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-access-wap581.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
@@ -25,31 +25,11 @@
                 </div><!--/ grid end -->
             </div><!--/ item 1 end -->
 
+           
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP571.png" alt="">
-                        <figcaption>
-                            <a class="link icon-pentagon" href="wireless-access-wap571.php"><i class="fa fa-link"></i></a>
-                                     
-                        </figcaption>			
-                    </figure>
-                    <div class="portfolio-static-desc">
-                        
-                        <h3 align="center">WAP571</h3><br>
-                            <ul>
-                                <li>RAM de 256 MB</li>
-                                <li>Memoria flash de 128 MB</li>
-                                <li>1.300 + 600 Mbps de tasa de transferencia de datos</li>
-                            </ul>
-                    </div>					
-                </div><!--/ grid end -->
-            </div><!--/ item 2 end -->
-
-            <div class="col-sm-4 portfolio-static-item">
-                <div class="grid">
-                <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP571E.png" alt="">
+                        <img src="images/Wireless/wap571e.jpeg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-access-wap571E.php"><i class="fa fa-link"></i></a>
                                      
@@ -70,7 +50,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/WAP551.png" alt="">
+                        <img src="images/Wireless/wap551.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-access-wap551.php"><i class="fa fa-link"></i></a>
                                      
