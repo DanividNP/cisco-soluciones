@@ -8,7 +8,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet1815i.png" alt="">
+                        <img src="images/Wireless/air1815i.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet1815i.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
@@ -29,7 +29,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet1815w.png" alt="">
+                        <img src="images/Wireless/1815w.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet1815w.php"><i class="fa fa-link"></i></a>
                                      
@@ -52,7 +52,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet1815t.png" alt="">
+                        <img src="images/Wireless/1815t.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet1815t.php"><i class="fa fa-link"></i></a>
                                      
@@ -73,7 +73,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet1815m.png" alt="">
+                        <img src="images/Wireless/1815m.png" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet1815m.php"><i class="fa fa-link"></i></a>
                                      

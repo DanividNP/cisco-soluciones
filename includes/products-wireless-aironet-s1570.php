@@ -9,7 +9,7 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                                 <figure class="effect-oscar">
-                                    <img src="images/Wireless/Aironet1572EAC.png" alt="">
+                                    <img src="images/Wireless/wap1572eac.png" alt="">
                                     <figcaption>
                                         <a class="link icon-pentagon" href="wireless-aironet-1572EAC.php"><i class="fa fa-link"></i></a>                                     
                                     </figcaption>			
@@ -30,7 +30,7 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/Wireless/Aironet1572EC.png" alt="">
+                                    <img src="images/Wireless/1572.jpeg" alt="">
                                     <figcaption>
                                         <a class="link icon-pentagon" href="wireless-aironet-1572EC.php"><i class="fa fa-link"></i></a>
                                                 
@@ -52,7 +52,7 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/Wireless/Aironet1572IC.png" alt="">
+                                    <img src="images/Wireless/1572.jpeg" alt="">
                                     <figcaption>
                                         <a class="link icon-pentagon" href="wireless-aironet-1572IC.php"><i class="fa fa-link"></i></a>
                                                 
