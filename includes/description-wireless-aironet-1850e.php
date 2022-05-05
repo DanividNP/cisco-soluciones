@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Los puntos de acceso Cisco Aironet 1850e admiten</h3>
+                <h3 class="title-border">Los Access Points Cisco Aironet 1850e admiten</h3>
                 <h5>Wave 2 en redes de misión crítica</h5>
                 <center> <img class="img-responsive" src="images/Wireless/Aironet1850e.png" alt=""></center>
 
@@ -21,7 +21,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>El punto de acceso inalámbrico Cisco Aironet 1850i IEEE 802.11ac 1,7 Gbit/s incluye el controlador Mobility Express - 5,83 GHz, 2,46 GHz<br></strong></p>
+                                    <p align='justify'><strong>El access point inalámbrico Cisco Aironet 1850i IEEE 802.11ac 1,7 Gbit/s incluye el controlador Mobility Express - 5,83 GHz, 2,46 GHz<br></strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -31,7 +31,7 @@
                             </div>
                         </div>
                     </div><!--/ Panel 1 end-->
-                   
+                     
                 <div class="gap-40"></div>
                 <div class="widget widget-tab">
                     <ul class="nav nav-tabs">
@@ -67,11 +67,12 @@
                         <div class="tab-pane" id="tab2">
                                 <h3>Especificaciones Tecnicas:</h3>
                                 <br>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
+        
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></p></td>
-              <td colspan="5"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones</font></font></p></td>
+            <tr>
+              <th>Rasgo</th>
+              <th colspan="5">Especificaciones</th>
             </tr>
           </thead>
           <tbody>
@@ -182,7 +183,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">121.5</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></p></td>
             </tr>
             <tr>

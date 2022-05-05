@@ -8,7 +8,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet1850i.png" alt="">
+                        <img src="images/Wireless/1850i.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet1850i.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
@@ -29,7 +29,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet1850e.png" alt="">
+                        <img src="images/Wireless/1850e.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet1850e.php"><i class="fa fa-link"></i></a>
                                      

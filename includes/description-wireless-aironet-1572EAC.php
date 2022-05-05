@@ -78,7 +78,7 @@
                                     <li>Cisco Aironet 1572EAC</li>
                                         <li>Modelo de antena externa con alimentación de CA</li>
                                     <li>Cisco Aironet 1572IC</li>
-                                         <li>Antenas internas con modelo cable modem</li>
+                                         <li>Antenas internas con modelo cable módem</li>
                                     <li>Cisco Aironet 1572EC</li>
                                          <li>Antena externa con modelo de módem por cable</li>
 

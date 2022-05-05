@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h2 class="title">Punto de acceso de la serie Aironet 1815 </h2>
+                <h2 class="title">Access Point de la serie Aironet 1815 </h2>
             </div>
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">

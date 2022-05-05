@@ -3,12 +3,12 @@
         <div class="row">
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h2 class="title">Punto de acceso de la serie Aironet 2800</h2>
+                <h2 class="title">Access Point de la serie Aironet 2800</h2>
             </div>
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                     <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet2800i.png" alt="">
+                        <img src="images/Wireless/2800.jpeg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet2800i.php"><i class="fa fa-link"></i></a>                                     
                         </figcaption>			
@@ -29,7 +29,7 @@
             <div class="col-sm-4 portfolio-static-item">
                 <div class="grid">
                 <figure class="effect-oscar">
-                        <img src="images/Wireless/Aironet2800e.png" alt="">
+                        <img src="images/Wireless/2800e.jpg" alt="">
                         <figcaption>
                             <a class="link icon-pentagon" href="wireless-aironet2800e.php"><i class="fa fa-link"></i></a>
                                      

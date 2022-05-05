@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Los puntos de acceso Cisco Aironet 2800i admiten</h3>
+                <h3 class="title-border">Los access point Cisco Aironet 2800i admiten</h3>
                 <h5>Wave 2 en redes de misión crítica</h5>
                 <center> <img class="img-responsive" src="images/Wireless/Aironet2800i.png" alt=""></center>
 
@@ -21,7 +21,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Aironet 2800i IEEE 802.11ac 5,20 Gbit/s - 2,40 GHz, 5 GHz<br></strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico Cisco Aironet 2800i IEEE 802.11ac 5,20 Gbit/s - 2,40 GHz, 5 GHz<br></strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -52,11 +52,11 @@
                         <div class="tab-pane" id="tab4">
                             <h2>Características y Beneficios:</h2>
                             
-                            <table class="table table-bordered table-hover table-responsive">
+                            <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></p></td>
+            <tr>
+              <th>Rasgo</th>
+              <th>Beneficio</th>
             </tr>
           </thead>
           <tbody>
@@ -138,13 +138,13 @@
 
                         
                         <div class="tab-pane" id="tab2">
-                                <h3>Especificaciones Tecnicas:</h3>
+                                <h3>Especificaciones Técnicas:</h3>
                                 <br>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></td>
+            <tr>
+              <th colspan="2">Artículo</th>
+              <th colspan="6">Especificación</th>
             </tr>
           </thead>
           <tbody>
@@ -1150,7 +1150,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">22</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18</font></font></p></td>
@@ -1243,7 +1243,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20</font></font></p></td>
