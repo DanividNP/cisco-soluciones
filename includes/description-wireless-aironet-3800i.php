@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Puntos de acceso Cisco Aironet 3800i </h3>
+                <h3 class="title-border">Access Point Cisco Aironet 3800i </h3>
                 <h5>Prepare su red para manejar muchos más  dispositivos </h5>
                 <center> <img class="img-responsive" src="images/Wireless/Aironet3800i.png" alt=""></center>
 
-
+ 
                 <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
                     <div class="panel panel-default">
@@ -21,7 +21,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Aironet 3800i IEEE 802.11ac 2,80 Gbit/s<br></strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico Cisco Aironet 3800i IEEE 802.11ac 2,80 Gbit/s<br></strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -55,11 +55,11 @@
                         <div class="tab-pane" id="tab4">
                             <h2>Características y Beneficios:</h2>
                             
-                            <table class="table table-hover table-bordered table-responsive">
+                            <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></p></td>
+            <tr>
+              <th>Rasgo</th>
+              <th>Beneficio</th>
             </tr>
           </thead>
           <tbody>
@@ -145,40 +145,40 @@
                         <div class="tab-pane" id="tab2">
                                 <h3>Especificaciones Tecnicas:</h3>
                                 <br>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></td>
+            <tr >
+              <th colspan="2">Artículo</th>
+              <th colspan="6">Especificación</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800i: entornos interiores, con antenas internas</font></font></p>
+              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 3800i: entornos interiores, con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: banda dual, 802.11a/b/g/n/ac basado en controlador</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: paquete ecológico (doble banda 802.11a/b/g/n/ac) 10 puntos de acceso de cantidad</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I-D-K9I: banda dual, 802.11a/b/g/n/ac basado en controlador (solo India)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800i Configurable: entornos interiores, con antenas internas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 3800i Configurable: entornos interiores, con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I-x-K9C: 802.11a/g/n/ac de doble banda, basado en controlador, configurable</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802I-xK910C: paquete ecológico (doble banda 802.11a/g/n/ac) 10 puntos de acceso de cantidad, configurable</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800e: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 3800e: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802e- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: 802.11a/b/g/n/ac basado en controlador de doble banda</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802e- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: Paquete ecológico (doble banda 802.11a/b/g/n/ac), 10 puntos de acceso de cantidad</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800e Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 3800e Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9C: 802.11a/g/n/ac basado en controlador de doble banda, configurable</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910C: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad, configurable</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800p: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 3800p: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: 802.11a/b/g/n/ac basado en controlador de doble banda</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: paquete ecológico (doble banda 802.11a/b/g/n/ac), 10 puntos de acceso de cantidad</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 3800p Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 3800p Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9C: 802.11a/g/n/ac basado en controlador de doble banda, configurable</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP3802p- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910C: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad, configurable</font></font></div>
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care </font></font><span><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">™</font></font></sup></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> para el punto de acceso Cisco Aironet 3800i con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CON-SNT-AIRPIBK9: SNTC-8X5XNBD 802.11ac Ctrlr AP 4x Duración: 12 mes(es)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care para el punto de acceso Cisco Aironet 3800e con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care para el access point Cisco Aironet 3800e con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CON-SNT-AIRPID38E: SNTC-8X5XNBD 802.11ac Ctrlr AP 4x4:3SS con CleanAir; </font><font style="vertical-align: inherit;">Ex Duración: 12 Mes(es)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care para el punto de acceso Cisco Aironet 3800p con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Smart Net Total Care para el access point Cisco Aironet 3800p con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CON-SNT-AIRAP382: SNTC-8X5XNBD 802.11ac Ctrlr AP 4x Duración: 12 mes(es)</font></font></div></td>
             </tr>
             <tr>
@@ -1205,7 +1205,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">22</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18</font></font></p></td>
@@ -1298,7 +1298,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20</font></font></p></td>

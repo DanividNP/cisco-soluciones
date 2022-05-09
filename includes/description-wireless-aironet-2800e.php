@@ -43,7 +43,7 @@
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
                             <h2>Visión de conjunto:</h2>
-                            <h4>Los puntos de acceso Wi-Fi de la serie Cisco® Aironet® 2800 son muy versátiles y ofrecen la mayor funcionalidad de la industria.</h4>
+                            <h4>Los Access Points Wi-Fi de la serie Cisco® Aironet® 2800 son muy versátiles y ofrecen la mayor funcionalidad de la industria.</h4>
                     
                             <p align="justify">Ideal para redes pequeñas y medianas, la serie Cisco® Aironet® 1850 ofrece un rendimiento líder en la industria para empresas y mercados de proveedores de servicios a través de MIMO 4x4 de clase empresarial, cuatro puntos de acceso de flujo espacial que admiten el nuevo IEEE 802.11ac Wave 2 especificación. La serie Aironet 1850 amplía el soporte a una nueva generación de clientes Wi-Fi, como teléfonos inteligentes, tabletas y computadoras portátiles de alto rendimiento que tienen soporte integrado 802.11ac Wave 1 o Wave 2.
 
@@ -150,17 +150,17 @@
           <tbody>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800i: entornos interiores, con antenas internas</font></font></p>
+              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Aironet 2800i: entornos interiores, con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-x-K9: banda dual, 802.11a/g/n/ac basado en controlador</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-xK910: paquete ecológico (doble banda 802.11a/g/n/ac) 10 puntos de acceso de cantidad</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-D-K9I: banda dual, 802.11a/g/n/ac basado en controlador (solo India)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800i Configurable: entornos interiores, con antenas internas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 2800i Configurable: entornos interiores, con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-x-K9C: 802.11a/g/n/ac de doble banda, basado en controlador, configurable</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-xK910C: paquete ecológico (doble banda 802.11a/g/n/ac) 10 puntos de acceso de cantidad, configurable</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800e: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 2800e: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: 802.11a/g/n/ac basado en controlador de doble banda</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800e Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 2800e Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9C: 802.11a/g/n/ac basado en controlador de doble banda, configurable</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910C: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad, configurable</font></font></div></td>
             </tr>
@@ -1150,7 +1150,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">22</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18</font></font></p></td>
@@ -1243,7 +1243,7 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS8</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></p></td>
               <td><p>&nbsp;</p></td>
               <td><p>&nbsp;</p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20</font></font></p></td>

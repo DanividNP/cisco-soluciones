@@ -9,7 +9,7 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                                 <figure class="effect-oscar">
-                                    <img src="images/Wireless/Aironet3800i.png" alt="">
+                                    <img src="images/Wireless/3800i.jpg" alt="">
                                     <figcaption>
                                         <a class="link icon-pentagon" href="wireless-aironet3800i.php"><i class="fa fa-link"></i></a>                                     
                                     </figcaption>			
@@ -30,7 +30,7 @@
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">
                             <figure class="effect-oscar">
-                                    <img src="images/Wireless/Aironet3800ePA.png" alt="">
+                                    <img src="images/Wireless/3800e.jpg" alt="">
                                     <figcaption>
                                         <a class="link icon-pentagon" href="wireless-aironet3800ePA.php"><i class="fa fa-link"></i></a>
                                                 

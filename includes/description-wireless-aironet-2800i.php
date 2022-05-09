@@ -43,7 +43,7 @@
                     <div class="tab-content">
                         <div class="tab-pane active" id="tab1">
                             <h2>Visión de conjunto:</h2>
-                            <h4>Los puntos de acceso Wi-Fi de la serie Cisco® Aironet® 2800 son muy versátiles y ofrecen la mayor funcionalidad de la industria.</h4>
+                            <h4>Los Access Point Wi-Fi de la serie Cisco® Aironet® 2800 son muy versátiles y ofrecen la mayor funcionalidad de la industria.</h4>
                     
                             <p align="justify">Ideal para redes pequeñas y medianas, la serie Cisco® Aironet® 1850 ofrece un rendimiento líder en la industria para empresas y mercados de proveedores de servicios a través de MIMO 4x4 de clase empresarial, cuatro puntos de acceso de flujo espacial que admiten el nuevo IEEE 802.11ac Wave 2 especificación. La serie Aironet 1850 amplía el soporte a una nueva generación de clientes Wi-Fi, como teléfonos inteligentes, tabletas y computadoras portátiles de alto rendimiento que tienen soporte integrado 802.11ac Wave 1 o Wave 2.
 
@@ -61,58 +61,58 @@
           </thead>
           <tbody>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con 802.11ac Wave 2</font></font></p></td>
+              <td>Compatibilidad con 802.11ac Wave 2</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Proporciona una tasa de conexión teórica de hasta 2,6 Gbps por radio, aproximadamente el doble de las tasas que ofrecen los puntos de acceso 802.11ac de gama alta de la actualidad.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Experiencia de alta densidad (HDX)</font></font></p></td>
+              <td>Experiencia de alta densidad (HDX)</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La mejor arquitectura de RF de su clase, que proporciona una cobertura de alto rendimiento para una alta densidad de dispositivos cliente, lo que brinda al usuario final una experiencia inalámbrica perfecta. </font><font style="vertical-align: inherit;">HDX incluye funciones como hardware personalizado en radios 802.11ac Wave 2, Cisco CleanAir® , </font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ClientLink</font></font></sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 4.0, reducción de ruido en puntos de acceso cruzado y una experiencia optimizada de roaming de clientes.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tecnología multiusuario de múltiples entradas y múltiples salidas (MU-MIMO)</font></font></p></td>
+              <td>Tecnología multiusuario de múltiples entradas y múltiples salidas (MU-MIMO)</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al admitir tres flujos espaciales, MU-MIMO permite que los puntos de acceso dividan los flujos espaciales entre los dispositivos del cliente para maximizar el rendimiento.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Asignación de radio flexible</font></font></p></td>
+              <td>Asignación de radio flexible</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que los puntos de acceso determinen de forma inteligente el modo de funcionamiento de las radios de servicio en función del entorno de RF. </font><font style="vertical-align: inherit;">Los puntos de acceso pueden operar en los siguientes modos:</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Modo de 2,4 GHz y 5 GHz:</font></b><font style="vertical-align: inherit;"> una radio atenderá a los clientes en el modo de 2,4 GHz, mientras que la otra atenderá a los clientes en el modo de 5 GHz.</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Modo dual de 5 GHz:</font></b><font style="vertical-align: inherit;"> ambas radios dentro del punto de acceso funcionan en la banda de 5 GHz, lo que maximiza los beneficios de 802.11ac Wave 2 y aumenta la capacidad del dispositivo cliente.</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font><b><font style="vertical-align: inherit;">Supervisión de seguridad y modo de 5 GHz.</font></b><font style="vertical-align: inherit;"> Una radio atenderá a clientes de 5 GHz, mientras que la otra escaneará todo el espectro en busca de atacantes wIPS, interferidores de CleanAir y dispositivos no autorizados.</font></font><span>&nbsp; </span><b><font style="vertical-align: inherit;"></font></b><font style="vertical-align: inherit;"></font></div></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con radio dual de 5 GHz</font></font></p></td>
+              <td>Compatibilidad con radio dual de 5 GHz</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que ambas radios funcionen en modo de servicio al cliente de 5 GHz, lo que permite velocidades inalámbricas de 5,2 Gbps (2 x 2,6 Gbps) líderes en la industria al tiempo que aumenta la capacidad del cliente.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector de antena inteligente</font></font></p></td>
+              <td>Conector de antena inteligente</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Se incluye un segundo conector de antena física inteligente en los modelos de la serie 2800 con una antena externa. </font><font style="vertical-align: inherit;">Este conector brinda flexibilidad de diseño de red avanzada para entornos de áreas abiertas grandes y de alta densidad, como auditorios, centros de convenciones, bibliotecas, cafeterías y arenas/estadios, lo que permite conectar y activar dos juegos de antenas en un solo punto de acceso.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con canales de 160 MHz</font></font></p></td>
+              <td>Compatibilidad con canales de 160 MHz</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al admitir canales de hasta 160 MHz de ancho, la selección dinámica de ancho de banda permite que el punto de acceso cambie dinámicamente entre canales de 20, 40, 80 y 160 MHz, según las condiciones del canal de RF, proporcionando la red inalámbrica de mejor rendimiento de la industria.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Itinerancia optimizada del punto de acceso</font></font></p></td>
+              <td>Itinerancia optimizada del punto de acceso</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ayuda a garantizar que los dispositivos cliente se asocien con el punto de acceso en su rango de cobertura que ofrece la velocidad de datos más rápida disponible.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Visibilidad y control de aplicaciones de impacto cero </font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></p></td>
+              <td>Visibilidad y control de aplicaciones de impacto cero </font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utiliza aceleración de hardware dedicada para mejorar el rendimiento de las aplicaciones de velocidad de línea, como Visibilidad y control de aplicaciones.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compatibilidad con agregación automática de enlaces (LAG)</font></font></p></td>
+              <td>Compatibilidad con agregación automática de enlaces (LAG)</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumple con 802.3ad (LACP), lo que permite que ambas interfaces Gigabit Ethernet se LAG automáticamente, lo que aumenta el rendimiento general del punto de acceso.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ClientLink 4.0</font></font></p></td>
+              <td>ClientLink 4.0</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tecnología Cisco ClientLink 4.0 para mejorar el rendimiento del enlace descendente a todos los dispositivos móviles, incluidos los dispositivos de uno, dos y tres flujos espaciales en 802.11a/b/g/n/ac, al tiempo que mejora la duración de la batería en dispositivos móviles como teléfonos inteligentes y tabletas .</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aire limpio 160 MHz </font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></p></td>
+              <td>Aire limpio 160 MHz </font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*</font></font></sup></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La tecnología Cisco CleanAir, mejorada con soporte de canal de 160 MHz, proporciona inteligencia de espectro proactiva y de alta velocidad en canales de 20, 40, 80 o 160 MHz de ancho para combatir los problemas de rendimiento debido a la interferencia inalámbrica.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Movilidad Express</font></font></p></td>
+              <td>Cisco Movilidad Express</font></font></p></td>
               <td><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El modo de implementación flexible a través de Cisco Mobility Express Solution es ideal para implementaciones de tamaño mediano y puede admitir hasta 100 puntos de acceso. </font><font style="vertical-align: inherit;">La configuración sencilla permite que los puntos de acceso de la serie 2800 se implementen en redes sin un controlador físico.</font></font></span></p></td>
             </tr>
           </tbody>
@@ -149,18 +149,18 @@
           </thead>
           <tbody>
             <tr>
-              <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></p></td>
-              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800i: entornos interiores, con antenas internas</font></font></p>
+              <td colspan="2">Números de parte</td>
+              <td colspan="6"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 2800i: entornos interiores, con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-x-K9: banda dual, 802.11a/g/n/ac basado en controlador</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-xK910: paquete ecológico (doble banda 802.11a/g/n/ac) 10 puntos de acceso de cantidad</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-D-K9I: banda dual, 802.11a/g/n/ac basado en controlador (solo India)</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800i Configurable: entornos interiores, con antenas internas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 2800i Configurable: entornos interiores, con antenas internas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-x-K9C: 802.11a/g/n/ac de doble banda, basado en controlador, configurable</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802I-xK910C: paquete ecológico (doble banda 802.11a/g/n/ac) 10 puntos de acceso de cantidad, configurable</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800e: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Aironet 2800e: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9: 802.11a/g/n/ac basado en controlador de doble banda</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad</font></font></div>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Aironet 2800e Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisc</font></font></p>o Aironet 2800e Configurable: interiores, entornos desafiantes, con antenas externas</font></font></p>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - K9C: 802.11a/g/n/ac basado en controlador de doble banda, configurable</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-AP2802E- </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> K910C: paquete ecológico (doble banda 802.11a/g/n/ac), 10 puntos de acceso de cantidad, configurable</font></font></div></td>
             </tr>
@@ -218,12 +218,12 @@
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena externa (se vende por separado)</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso de la serie 2802e están certificados para su uso con ganancias de antena de hasta 6 dBi (2,4 GHz y 5 GHz)</font></font></div>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los access point de la serie 2802e están certificados para su uso con ganancias de antena de hasta 6 dBi (2,4 GHz y 5 GHz)</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco ofrece la selección de antenas más amplia de la industria, brindando una cobertura óptima para una variedad de escenarios de implementación</font></font></div></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector de antena inteligente</font></font></p></td>
-              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disponible solo en los puntos de acceso de la serie 2802e</font></font></div>
+              <td colspan="6"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disponible solo en los access point de la serie 2802e</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requiere el conector de antena inteligente AIR-CAB002-DART-R= de 2 pies para conectores RP-TNC para conectar una segunda antena al punto de acceso</font></font></div>
                 <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">● </font></font><span>&nbsp; </span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requerido cuando se ejecuta la radio flexible como una segunda radio de servicio de 5 GHz o una radio de monitoreo de seguridad inalámbrica</font></font></div></td>
             </tr>
