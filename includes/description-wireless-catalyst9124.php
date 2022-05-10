@@ -2,8 +2,8 @@
     <div class="container"> 
     <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Puntos de acceso Cisco Catalyst 9124AX Wi-Fi 6 Series</h3>
-                <h5>La próxima generación de puntos de acceso empresariales: resistentes, seguros e inteligentes</h5>
+                <h3 class="title-border">Access point Cisco Catalyst 9124AX Wi-Fi 6 Series</h3>
+                <h5>La próxima generación de access point empresariales: resistentes, seguros e inteligentes</h5>
                 <center> <img class="img-responsive" src="images/Wireless/Catalyst9124AXWi-Fi6.png" alt=""></center>
 
     <!--/ Panel Inicio -->
@@ -20,7 +20,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 9124AXI Dual Band 802.11ax 5.38 Gbit/s Punto de acceso inalámbrico para exteriores con antena omnidireccional interna</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 9124AXI Dual Band 802.11ax 5.38 Gbit/s Access point inalámbrico para exteriores con antena omnidireccional interna</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -31,7 +31,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 9124AXD Dual Band 802.11ax 5.38 Gbit/s Punto de acceso inalámbrico para exteriores con antena direccional interna</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 9124AXD Dual Band 802.11ax 5.38 Gbit/s Access point inalámbrico para exteriores con antena direccional interna</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -58,10 +58,10 @@
 </div>
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
-                                <h3>Los puntos de acceso de la serie Cisco Catalyst 9124AX son el punto de acceso de próxima generación más versátil en el nivel empresarial. Son resistentes, seguros e inteligentes.</h3>
-                                <p align="justify">Con la aparición de las redes de alta densidad y el Internet de las cosas (IoT), dependemos más que nunca de las redes inalámbricas. Un número cada vez mayor de dispositivos se conectan a la red cada año, desde dispositivos cliente de alto rendimiento hasta dispositivos IoT de bajo ancho de banda. Los puntos de acceso para exteriores de la serie Cisco® Catalyst® 9124AX brindan una experiencia perfecta, con un alto escalamiento y un rendimiento inigualable en diversas implementaciones de red. Más allá del estándar Wi-Fi 6 (802.11ax), la serie Catalyst 9124AX proporciona seguridad integrada, resistencia y flexibilidad operativa, así como una mayor inteligencia de red.</p>
+                                <h3>Los access points de la serie Cisco Catalyst 9124AX son el punto de acceso de próxima generación más versátil en el nivel empresarial. Son resistentes, seguros e inteligentes.</h3>
+                                <p align="justify">Con la aparición de las redes de alta densidad y el Internet de las cosas (IoT), dependemos más que nunca de las redes inalámbricas. Un número cada vez mayor de dispositivos se conectan a la red cada año, desde dispositivos cliente de alto rendimiento hasta dispositivos IoT de bajo ancho de banda. Los access points para exteriores de la serie Cisco® Catalyst® 9124AX brindan una experiencia perfecta, con un alto escalamiento y un rendimiento inigualable en diversas implementaciones de red. Más allá del estándar Wi-Fi 6 (802.11ax), la serie Catalyst 9124AX proporciona seguridad integrada, resistencia y flexibilidad operativa, así como una mayor inteligencia de red.</p>
                                 <p align="justify">La serie Catalyst 9124AX ofrece opciones de implementación flexibles para proveedores de servicios y redes empresariales que necesitan los enlaces más rápidos posibles para clientes móviles al aire libre (teléfonos inteligentes, tabletas y computadoras portátiles) y backhaul inalámbrico. Con opciones para antenas internas o externas, la serie 9124AX brinda a los operadores de red la flexibilidad de equilibrar la cobertura inalámbrica deseada con su necesidad de una implementación sencilla.</p>
-                                <p align="justify">Los puntos de acceso de la serie Catalyst 9124AX, combinados con la arquitectura de red digital de Cisco (Cisco DNA), son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Son el primer paso en la actualización de su red para aprovechar mejor todas las funciones y beneficios que brinda Wi-Fi 6.</p>
+                                <p align="justify">Los access points de la serie Catalyst 9124AX, combinados con la arquitectura de red digital de Cisco (Cisco DNA), son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Son el primer paso en la actualización de su red para aprovechar mejor todas las funciones y beneficios que brinda Wi-Fi 6.</p>
                                 
                                <h3>Características clave:</h3>
                               <ul>
@@ -75,7 +75,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características y beneficios  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                 <tbody><tr>
                                     <th style="width:30%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Características</font></font></th>
                                     <th style="width:70%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficios</font></font></th>
@@ -126,7 +126,7 @@
                                     <li>Módulo ancla de confianza de Cisco</li>
                                   </ul>
                                   <h3>Soporte de ADN de Cisco</h3>
-                                <p align="justify">El emparejamiento de los puntos de acceso de la serie Cisco Catalyst 9124AX con Cisco DNA permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización. Los puntos de acceso de la serie Cisco Catalyst 9105 son compatibles con SD-Access, la arquitectura empresarial líder de Cisco.</p>
+                                <p align="justify">El emparejamiento de los access points de la serie Cisco Catalyst 9124AX con Cisco DNA permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización. Los access points de la serie Cisco Catalyst 9105 son compatibles con SD-Access, la arquitectura empresarial líder de Cisco.</p>
                                 <p align="justify">Trabajando juntos, Cisco Catalyst 9124AX Series y Cisco DNA ofrecen características tales como:</p>
                                 <ul>
                                     <li>Espacios de ADN de Cisco</li>
@@ -137,15 +137,15 @@
                             
                             <div class="tab-pane" id="tab3">
                                 <h3>Especificaciones Tecnicas:</h3>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
               <td style="width:25%;"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></strong></td>
-              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puntos de acceso de la serie Cisco Catalyst 9124AX: entornos al aire libre, con antenas internas</font></font></strong></p>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point de la serie Cisco Catalyst 9124AX: entornos al aire libre, con antenas internas</font></font></strong></p>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9124AXI-x: Cisco Catalyst 9124AX Series (antena omnidireccional interna)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9124AXD-x: Cisco Catalyst 9124AX Series (antena direccional interna)</font></font></li>
@@ -311,7 +311,7 @@
         </table>
                            
                             
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento</font></font></strong></td>
@@ -428,7 +428,7 @@
                         
                             <div class="tab-pane" id="tab4">
                                 <h2>Potencia de transmisión y sensibilidad de recepción:</h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
 		  <tbody><tr>
 		    <th colspan="2">&nbsp;</th>
 		    <th colspan="2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio de 5 GHz</font></font></strong></th>
@@ -985,7 +985,7 @@
 		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS11</font></font></strong></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">26</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-66</font></font></td>
 	      </tr>
@@ -1003,7 +1003,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">26</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-64</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></td>
 	      </tr>
 		  <tr class="row-header">
 		    <td colspan="6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ax HE40</font></font></td>
@@ -1038,7 +1038,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">26</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></td>
 	      </tr>
 		  <tr>
 		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS0</font></font></strong></td>
@@ -1205,7 +1205,7 @@
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
                                     Descargue la <a href="datasheets/C9124.pdf" target="_blank">
-                                    hoja de datos de los puntos de acceso de la serie Cisco Catalyst 9124AX </a> (PDF)
+                                    hoja de datos de los access points de la serie Cisco Catalyst 9124AX </a> (PDF)
                 
                             </div>
                     </div><!-- End default tabs -->

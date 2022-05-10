@@ -2,8 +2,8 @@
     <div class="container"> 
     <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Puntos de acceso Cisco Catalyst serie 9120 Wi-Fi 6</h3>
-                <h4>La próxima generación de puntos de acceso empresariales: resistentes, seguros e inteligentes</h4>
+                <h3 class="title-border">Access point Cisco Catalyst serie 9120 Wi-Fi 6</h3>
+                <h4>La próxima generación de access point empresariales: resistentes, seguros e inteligentes</h4>
                 <center> <img class="img-responsive" src="images/Wireless/Cata9120.png" alt=""></center>
 
     <!--/ Panel Inicio -->
@@ -63,10 +63,10 @@
 </div>
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
-                                <h3>Los puntos de acceso Wi-Fi 6 Cisco® Catalyst® serie 9120 son la próxima generación de puntos de acceso empresariales. Son resistentes, seguros e inteligentes.</h3>
-                                <p align="justify">Dependemos más que nunca de nuestras redes inalámbricas. Los dispositivos adicionales se conectan a la red cada año y los puntos de acceso de la serie Cisco Catalyst 9120 proporcionarán una experiencia perfecta en cualquier lugar para todos. Al ir más allá del estándar Wi-Fi 6 (802.11ax), Catalyst 9120 proporciona seguridad integrada, resiliencia y flexibilidad operativa, así como una mayor inteligencia de red.</p>
+                                <h3>Los access point Wi-Fi 6 Cisco® Catalyst® serie 9120 son la próxima generación de access point empresariales. Son resistentes, seguros e inteligentes.</h3>
+                                <p align="justify">Dependemos más que nunca de nuestras redes inalámbricas. Los dispositivos adicionales se conectan a la red cada año y los access point de la serie Cisco Catalyst 9120 proporcionarán una experiencia perfecta en cualquier lugar para todos. Al ir más allá del estándar Wi-Fi 6 (802.11ax), Catalyst 9120 proporciona seguridad integrada, resiliencia y flexibilidad operativa, así como una mayor inteligencia de red.</p>
                                 <p align="justify">El Catalyst 9120, que amplía la red basada en la intención de Cisco y es perfecto para redes de todos los tamaños, se adapta a las crecientes demandas de IoT y, al mismo tiempo, es totalmente compatible con las últimas innovaciones y nuevas tecnologías. No solo eso, sino que Catalyst 9120 es líder en rendimiento, seguridad y análisis.</p>
-                                <p align="justify">Los puntos de acceso de la serie Catalyst 9120, combinados con Cisco DNA, son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Estos puntos de acceso son el primer paso para actualizar su red y pueden aprovechar mejor todas las funciones y beneficios que brinda Wi-Fi 6.
+                                <p align="justify">Los access points de la serie Catalyst 9120, combinados con Cisco DNA, son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Estos access point son el primer paso para actualizar su red y pueden aprovechar mejor todas las funciones y beneficios que brinda Wi-Fi 6.
 
 
                                <h3>Características clave:</h3>
@@ -77,7 +77,7 @@
                                     <li>Soporte multigigabit</li>
                                     <li>Antena interna, externa y también antena externa para instalaciones profesionales</li>
                                 </ul>
-                                <p align="justify">Los puntos de acceso de la serie Cisco Catalyst 9120 admiten acceso múltiple por división de frecuencia ortogonal (OFDMA) y entrada múltiple, salida múltiple multiusuario (MU-MIMO), lo que brinda un rendimiento más predecible para aplicaciones avanzadas e IoT. Además, con hasta 2,5 Gbps con NBASE-T y compatibilidad con Ethernet IEEE 802.3bz, la serie Cisco Catalyst 9120 puede descargar tráfico de red sin problemas y sin cuellos de botella. Con la tecnología Multigigabit de Cisco, puede usar su cableado existente de categoría 5e o 6 para lograr velocidades de hasta 2,5 Gbps, lo que permite un mayor rendimiento con un costo mínimo.</p>
+                                <p align="justify">Los access points de la serie Cisco Catalyst 9120 admiten acceso múltiple por división de frecuencia ortogonal (OFDMA) y entrada múltiple, salida múltiple multiusuario (MU-MIMO), lo que brinda un rendimiento más predecible para aplicaciones avanzadas e IoT. Además, con hasta 2,5 Gbps con NBASE-T y compatibilidad con Ethernet IEEE 802.3bz, la serie Cisco Catalyst 9120 puede descargar tráfico de red sin problemas y sin cuellos de botella. Con la tecnología Multigigabit de Cisco, puede usar su cableado existente de categoría 5e o 6 para lograr velocidades de hasta 2,5 Gbps, lo que permite un mayor rendimiento con un costo mínimo.</p>
 
                             </div>
 
@@ -85,7 +85,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características y beneficios  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Características</font></font></th>
@@ -170,13 +170,13 @@
                                   </ul>
                                   
                                 <h3>Estéticamente rediseñado para la empresa de próxima generación</h3>
-                                <p align="justify">Los puntos de acceso de la serie Catalyst 9100 están construidos desde cero, con una nueva apariencia aerodinámica y un acabado suave, integrando la excelencia de RF y las tecnologías de próxima generación para brindar la mejor experiencia inalámbrica de su clase sin compromiso. Si bien incluye varias características de alto rendimiento, el hardware se rediseñó para ofrecer mayores eficiencias en un factor de forma más compacto para hacer que las implementaciones de Wi-Fi visualmente atractivas sean comunes.
+                                <p align="justify">Los access points de la serie Catalyst 9100 están construidos desde cero, con una nueva apariencia aerodinámica y un acabado suave, integrando la excelencia de RF y las tecnologías de próxima generación para brindar la mejor experiencia inalámbrica de su clase sin compromiso. Si bien incluye varias características de alto rendimiento, el hardware se rediseñó para ofrecer mayores eficiencias en un factor de forma más compacto para hacer que las implementaciones de Wi-Fi visualmente atractivas sean comunes.
                             </div>
                             
                             <div class="tab-pane" id="tab3">
                                 <h3>Soporte de ADN de Cisco</h3>
                                 
-                                <p align="justify">El emparejamiento de los puntos de acceso de la serie Cisco Catalyst 9120 con la arquitectura de red digital de Cisco (Cisco DNA) permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización.
+                                <p align="justify">El emparejamiento de los access points de la serie Cisco Catalyst 9120 con la arquitectura de red digital de Cisco (Cisco DNA) permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización.
 
                                 <p align="justify">Cisco DNA con acceso definido por software (SD-Access) es el tejido de red que impulsa el negocio. Es una arquitectura abierta y extensible impulsada por software que acelera y simplifica las operaciones de red de su empresa. La arquitectura programable libera a su personal de TI de tareas de configuración de red repetitivas y que consumen mucho tiempo para que puedan concentrarse en la innovación que transforma positivamente su negocio. Al desacoplar las funciones de red del hardware, puede crear y administrar toda su red cableada e inalámbrica desde una sola interfaz de usuario. SD-Access permite la automatización basada en políticas desde el borde hasta la nube con capacidades fundamentales. Éstos incluyen:</p>
                               
@@ -188,7 +188,7 @@
                                  <li>Analítica basada en el contexto</li>
                                </ul>
                                  
-                                <p align="justify">Los puntos de acceso de la serie Cisco Catalyst 9120 son compatibles con el acceso definido por software, la arquitectura empresarial líder de Cisco.
+                                <p align="justify">Los access points de la serie Cisco Catalyst 9120 son compatibles con el acceso definido por software, la arquitectura empresarial líder de Cisco.
 Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen características tales como:</p>
                                 
                                 <ul>
@@ -204,23 +204,23 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                         
                             <div class="tab-pane" id="tab4">
                                 <h2>Especificaciones del producto:</h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></td>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Catalyst 9120I: entornos interiores, con antenas internas</font></font></strong>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9120I: entornos interiores, con antenas internas</font></font></strong>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9120AXI-x: Cisco Catalyst serie 9120</font></font></li>
                 </ul>
-                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Catalyst 9120E: interiores, entornos desafiantes, con antenas externas</font></font></strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9120E: interiores, entornos desafiantes, con antenas externas</font></font></strong>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9120AXE-x: Cisco Catalyst serie 9120</font></font></li>
                 </ul>
-                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Catalyst 9120P: instalaciones profesionales para interiores</font></font></strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9120P: instalaciones profesionales para interiores</font></font></strong>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9120AXP-x: Cisco Catalyst serie 9120</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -288,456 +288,453 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena integrada</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio flexible (ya sea en 2,4 GHz o en 5 GHz)
                 </font></font><ul>
-                  <li>2.4 GHz, peak gain 4 dBi, internal antenna, omnidirectional in azimuth</li>
-                  <li>5 GHz, peak gain 5 dBi, internal antenna, omnidirectional in azimuth</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz, ganancia máxima de 4 dBi, antena interna, omnidireccional en acimut</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia máxima de 5 dBi, antena interna, omnidireccional en acimut</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Radio dedicada de 5 GHz
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia máxima de 4 dBi, antena interna, omnidireccional en acimut</font></font></li>
+                </ul></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena externa (se vende por separado)</font></font></td>
+              <td><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso Cisco Catalyst 9120E están certificados para su uso con ganancias de antena de hasta 6 dBi (2,4 GHz y 5 GHz)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso Cisco Catalyst 9120P) están certificados para su uso con ganancias de antena de hasta 13 dBi (2,4 GHz y 5 GHz) con la antena AIR-ANT2513-P4M-N=</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco ofrece la selección de antenas más amplia de la industria, brindando una cobertura óptima para una variedad de escenarios de implementación</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admite antenas autoidentificables (SIA) en un puerto RP-TNC</font></font></li>
+                </ul></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector de antena inteligente</font></font></td>
+              <td><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disponible solo en el 9120E y en el 9120P</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector multi RF compacto con interfaz DART</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requiere el conector de antena inteligente AIR-CAB002-DART-R= de 2 pies cuando se usa con antenas con conector RP-TNC</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requerido cuando se ejecuta la radio flexible como una segunda radio de servicio de 5 GHz o una radio de monitoreo de seguridad inalámbrica</font></font></li>
+                </ul></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces</font></font></td>
+              <td><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1x 100, 1000, 2500 Multigigabit Ethernet (RJ-45) – IEEE 802.3bz</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">USB 2.0 @ 3.75W (habilitado a través de software futuro)</font></font></li>
+                </ul></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicadores</font></font></td>
+              <td><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El LED de estado indica el estado del cargador de arranque, el estado de asociación, el estado operativo, las advertencias del cargador de arranque y los errores del cargador de arranque</font></font></li>
+                </ul></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones (ancho x largo x alto)</font></font></td>
+              <td><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso (sin soportes de montaje): C9120I: 8,5 x 8,5 x 1,7 pulgadas (21,6 x 21,6 x 4,3 cm), C9120E y C9120P: 8,5 x 8,05 x 2,0 pulgadas (21,6 x 21,6 x 5,1 cm)</font></font></li>
+                </ul></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco catalizador 9120I</font></font></strong>
+                <ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,87 libras (1,3 kg)</font></font></li>
                 </ul>
-                Dedicated 5GHz radio
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst 9120E/P</font></font></strong>
                 <ul>
-                  <li>5 GHz, peak gain 4 dBi, internal antenna, omnidirectional in azimuth</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 libras (1,36 kg)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
-              <td>External antenna (sold separately)</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requisitos de potencia de entrada</font></font></td>
               <td><ul>
-                  <li>Cisco Catalyst 9120E Access Points are certified for use with antenna gains up to 6 dBi (2.4 GHz and 5 GHz)</li>
-                  <li>Cisco Catalyst 9120P Access Points) are certified for use with antenna gains up to 13 dBi (2.4 GHz and 5 GHz) with the AIR-ANT2513-P4M-N= antenna</li>
-                  <li>Cisco offers the industry's broadest selection of antennas, delivering optimal coverage for a variety of deployment scenarios</li>
-                  <li>Supports Self-Identifiable Antennas (SIA) on one RP-TNC port</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3at Alimentación a través de Ethernet Plus (PoE+), Cisco Universal PoE (Cisco UPOE®)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inyector de corriente Cisco, AIR-PWRINJ6=</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PoE 802.3af</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inyector de corriente Cisco, AIR-PWRINJ5= (Nota: este inyector solo admite 802.3af)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
-              <td>Smart Antenna Connector</td>
-              <td><ul>
-                  <li>Available on the 9120E and on the 9120P only</li>
-                  <li>Compact multi RF connector with DART interface</li>
-                  <li>Requires the AIR-CAB002-DART-R= 2 ft smart antenna connector when used with antennas with RP-TNC connector</li>
-                  <li>Required when running the flexible radio as either a second 5-GHz serving radio or a Wireless Security Monitoring radio</li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td>Interfaces</td>
-              <td><ul>
-                  <li>1x 100, 1000, 2500 Multigigabit Ethernet (RJ-45) – IEEE 802.3bz</li>
-                  <li>Management console port (RJ-45)</li>
-                  <li>USB 2.0 @ 3.75W (enabled via future software)</li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td>Indicators</td>
-              <td><ul>
-                  <li>Status LED indicates boot loader status, association status, operating status, boot loader warnings, and boot loader errors</li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td>Dimensions (W x L x H)</td>
-              <td><ul>
-                  <li>Access point (without mounting brackets): C9120I: 8.5 x 8.5 x 1.7 in (21.6 x 21.6 x 4.3 cm), C9120E and C9120P: 8.5 x 8.05x 2.0 in (21.6 x 21.6 x 5.1 cm)</li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td>Weight</td>
-              <td><strong>Cisco Catalyst 9120I</strong>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst 9120AXI</font></font></strong>
                 <ul>
-                  <li> 2.87 lbs (1.3 kg)</li>
-                </ul>
-                <strong>Cisco Catalyst 9120E/P</strong>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: 32° a 122°F (0° a 50°C)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad de funcionamiento: 10 % a 90 % (sin condensación)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud operativa: 40˚C, 9843 pies.</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Nota: cuando la temperatura ambiente de funcionamiento supere los 40 °C, el punto de acceso cambiará de 4x4 a 2x2 en las radios de 2,4 GHz y 5 GHz, el enlace ascendente Ethernet se degradará a 1 Gigabit Ethernet; sin embargo, la interfaz USB permanecerá habilitada </font></font><br>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst 9120AXE y 9120AXP</font></font></strong>
                 <ul>
-                  <li>3 lbs (1.36 kg)</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: -4° a 122°F (-20° a 50°C)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad de funcionamiento: 10 % a 90 % (sin condensación)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud operativa: 40˚C, 9843 pies.</font></font></li>
                 </ul></td>
             </tr>
             <tr>
-              <td>Input power requirements</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memoria del sistema</font></font></td>
               <td><ul>
-                  <li>802.3at Power over Ethernet Plus (PoE+), Cisco Universal PoE (Cisco UPOE ®) </li>
-                  <li>Cisco power injector, AIR-PWRINJ6= </li>
-                  <li>802.3af PoE </li>
-                  <li>Cisco power injector, AIR-PWRINJ5= (Note: This injector supports only 802.3af)</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2048MB DRAM</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flash de 1024 MB</font></font></li>
                 </ul></td>
             </tr>
             <tr>
-              <td>Environmental</td>
-              <td><strong>Cisco Catalyst 9120AXI</strong>
-                <ul>
-                  <li>Nonoperating (storage) temperature: -22° to 158°F (-30° to 70°C) </li>
-                  <li>Nonoperating (storage) altitude test: 25˚C, 15,000 ft. </li>
-                  <li>Operating temperature: 32° to 122°F (0° to 50°C) </li>
-                  <li>Operating humidity: 10% to 90% (noncondensing) </li>
-                  <li>Operating altitude test: 40˚C, 9843 ft.</li>
-                </ul>
-                Note: When the ambient operating temperature exceeds 40°C, the access point will shift from 4x4 to 2x2 on both the 2.4-GHz and 5-GHz radios, uplink Ethernet will downgrade to 1 Gigabit Ethernet, however, the USB interface will remain enabled<br>
-                <strong>Cisco Catalyst 9120AXE and 9120AXP</strong>
-                <ul>
-                  <li>Nonoperating (storage) temperature: -22° to 158°F (-30° to 70°C) </li>
-                  <li>Nonoperating (storage) altitude test: 25˚C, 15,000 ft. </li>
-                  <li>Operating temperature: -4° to 122°F (-20° to 50°C)</li>
-                  <li>Operating humidity: 10% to 90% (noncondensing) </li>
-                  <li>Operating altitude test: 40˚C, 9843 ft.</li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td>System memory</td>
-              <td><ul>
-                  <li>2048 MB DRAM </li>
-                  <li>1024 MB flash</li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td>Warranty</td>
-              <td>Limited lifetime hardware warranty</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía de hardware limitada de por vida</font></font></td>
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th>Item</th>
-              <th colspan="7">Specification</th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
+              <th colspan="7"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
-              <td rowspan="11">Power draw</td>
-              <td colspan="6"><strong>Catalyst 9120AXI</strong></td>
+              <td rowspan="11"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Poder de dibujo</font></font></td>
+              <td colspan="6"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9120AXI</font></font></strong></td>
             </tr>
             <tr>
-              <td><strong>PoE Power Consumption</strong></td>
-              <td><strong>2.4-GHz radio</strong></td>
-              <td><strong>5-GHz radio</strong></td>
-              <td><strong>Link speed</strong></td>
-              <td><strong>USB</strong></td>
-              <td><strong>LLDP</strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Consumo de energía PoE</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio de 2,4 GHz</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio de 5 GHz</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidad de enlace</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">USB</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LLDP</font></font></strong></td>
             </tr>
             <tr>
-              <td>802.3at (PoE+)</td>
-              <td>4x4</td>
-              <td>4x4</td>
-              <td>2.5G</td>
-              <td>Y</td>
-              <td>25.5W</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3at (PoE+)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x4</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x4</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.5G</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Y</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25,5 W</font></font></td>
             </tr>
             <tr>
-              <td colspan="7"><strong>Catalyst 9120AXE / 9120AXP</strong></td>
+              <td colspan="7"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9120AXE / 9120AXP</font></font></strong></td>
             </tr>
             <tr>
-              <td><strong>PoE Power Consumption</strong></td>
-              <td><strong>2.4-GHz radio</strong></td>
-              <td><strong>5-GHz radio</strong></td>
-              <td><strong>Link speed</strong></td>
-              <td><strong>USB</strong></td>
-              <td><strong>LLDP</strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Consumo de energía PoE</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio de 2,4 GHz</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio de 5 GHz</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidad de enlace</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">USB</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LLDP</font></font></strong></td>
             </tr>
             <tr>
-              <td>802.3at (PoE+)</td>
-              <td>PoE</td>
-              <td>4x4</td>
-              <td>4x4</td>
-              <td>2.5G</td>
-              <td>Y</td>
-              <td>25.5W</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3at (PoE+)</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PoE</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x4</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x4</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.5G</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Y</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25,5 W</font></font></td>
             </tr>
             <tr>
-              <td colspan="7"><strong>Catalyst 9120AXI / 9120AXE / 9120AXP</strong></td>
+              <td colspan="7"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9120AXI / 9120AXE / 9120AXP</font></font></strong></td>
             </tr>
             <tr>
-              <td><strong>PoE Power Consumption</strong></td>
-              <td><strong>2.4-GHz radio</strong></td>
-              <td><strong>5-GHz radio</strong></td>
-              <td><strong>Link speed</strong></td>
-              <td><strong>USB</strong></td>
-              <td><strong>LLDP</strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Consumo de energía PoE</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio de 2,4 GHz</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">radio de 5 GHz</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidad de enlace</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">USB</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LLDP</font></font></strong></td>
             </tr>
             <tr>
-              <td>802.3af</td>
-              <td>1x1</td>
-              <td>1x1</td>
-              <td>1G</td>
-              <td>N</td>
-              <td>13.4W</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3af</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1x1</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1x1</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1G</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">norte</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">13,4 W</font></font></td>
             </tr>
             <tr>
-              <td>802.3af</td>
-              <td>2x2</td>
-              <td>N</td>
-              <td>1G</td>
-              <td>N</td>
-              <td>13.4W</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3af</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2x2</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">norte</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1G</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">norte</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">13,4 W</font></font></td>
             </tr>
             <tr>
-              <td>802.3af</td>
-              <td>N</td>
-              <td>2x2</td>
-              <td>1G</td>
-              <td>N</td>
-              <td>13.4W</td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3af</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">norte</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2x2</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1G</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">norte</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">13,4 W</font></font></td>
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th>Item</th>
-              <th colspan="2">Specification</th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
+              <th colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
-              <td>Available transmit power settings</td>
-              <td>2.4 GHz
-                <ul>
-                  <li>23 dBm (200 mW) </li>
-                  <li>20 dBm (100 mW) </li>
-                  <li>17 dBm (50 mW) </li>
-                  <li>14 dBm (25 mW) </li>
-                  <li>11 dBm (12.5 mW) </li>
-                  <li>8 dBm (6.25 mW) </li>
-                  <li>5 dBm (3.13 mW) </li>
-                  <li>2 dBm (1.56 mW) </li>
-                  <li>-1dBm (0.79mW) </li>
-                  <li>-4dBm (0.39mW)</li>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuraciones de potencia de transmisión disponibles</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23 dBm (200 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17 dBm (50 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14 dBm (25 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11 dBm (12,5 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8 dBm (6,25 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 dBm (3,13 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 dBm (1,56 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-1dBm (0,79 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-4dBm (0,39 mW)</font></font></li>
                 </ul></td>
-              <td>5 GHz
-                <ul>
-                  <li> 26 dBm (400 mW)</li>
-                  <li>23 dBm (200 mW) </li>
-                  <li>20 dBm (100 mW) </li>
-                  <li>17 dBm (50 mW) </li>
-                  <li>14 dBm (25 mW) </li>
-                  <li>11 dBm (12.5 mW) </li>
-                  <li>8 dBm (6.25 mW) </li>
-                  <li>5 dBm (3.13 mW) </li>
-                  <li>2 dBm (1.56 mW) </li>
-                  <li>-1dBm (0.79mW) </li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td>Frequency band and 20-MHz operating channels</td>
-              <td>A (A regulatory domain):
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.700 GHz; 8 channels 
-                    (excludes 5.600 to 5.640 GHz) </li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
-                </ul>
-                B (B regulatory domain):
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.700 GHz; 11 channels </li>
-                  <li>5.745 to 5.865 GHz; 7 channels</li>
-                </ul>
-                C (C regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
-                </ul>
-                D (D regulatory domain):
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.700 GHz; 11 channels</li>
-                  <li>5.745 to 5.865 GHz; 7 channels</li>
-                </ul>
-                E (E regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.150 to 5.350 GHz; 8 channels</li>
-                  <li>5.470 to 5.725 GHz; 8 channels</li>
-                </ul>
-                F (F regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.745 to 5.805 GHz; 4 channels</li>
-                </ul>
-                G (G regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.745 to 5.865 GHz; 7 channels</li>
-                </ul>
-                H (H regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
-                </ul></td>
-              <td>I (I regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                </ul>
-                K (K regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.620 GHz; 7 channels </li>
-                  <li>5.745 to 5.805 GHz; 4 channels</li>
-                </ul>
-                N (N regulatory domain):
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
-                </ul>
-                Q (Q regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.700 GHz; 11 channels</li>
-                </ul>
-                R (R regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.660 to 5,850 GHz; 8 channels 
-                    (excludes 5.480 to 5.640 GHz)</li>
-                </ul>
-                S (S regulatory domain):
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.700 GHz; 11 channels </li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
-                </ul>
-                T (T regulatory domain):
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.700 GHz; 12 channels </li>
-                  <li>5.745 to 5.850 GHz; 7 channels</li>
-                </ul>
-                Z (Z regulatory domain):
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels </li>
-                  <li>5.180 to 5.320 GHz; 8 channels </li>
-                  <li>5.500 to 5.700 GHz; 8 channels 
-                    (excludes 5.600 to 5.640 GHz) </li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">26 dBm (400 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23 dBm (200 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17 dBm (50 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14 dBm (25 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11 dBm (12,5 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8 dBm (6,25 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 dBm (3,13 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 dBm (1,56 mW)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-1dBm (0,79 mW)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
-              <td>Maximum number of nonoverlapping channels</td>
-              <td>2.4 GHz
-                <ul>
-                  <li>802.11b/g:
-                    <ul>
-                      <li>20 MHz: 3</li>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Banda de frecuencia y canales operativos de 20 MHz</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A (un dominio regulador):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                B (dominio regulador B):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,865 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                C (dominio regulador C):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                D (dominio regulador D):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,865 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                E (dominio regulador E):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,150 a 5,350 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,470 a 5,725 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                F (dominio regulador F):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                G (dominio regulador G):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,865 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                H (dominio regulador H):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
+                </ul></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">I (I dominio regulador):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                K (dominio regulador K):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.620 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                N (N dominio regulador):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Q (dominio regulador Q):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                R (dominio regulador R):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,660 a 5850 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.480 a 5.640 GHz)</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                S (dominio regulador S):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                T (dominio regulador T):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">12 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,850 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
+                </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Z (dominio regulador Z):
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
+                </ul></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de canales que no se superponen</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b/g:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
-                  <li>802.11n:
-                    <ul>
-                      <li>20 MHz: 3</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
-                  <li>802.11ax:
-                    <ul>
-                      <li>20 MHz: 3</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ax:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
                 </ul></td>
-              <td>5 GHz
-                <ul>
-                  <li>802.11a:
-                    <ul>
-                      <li>20 MHz: 26 FCC, 16 EU</li>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz
+                </font></font><ul>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
                     </ul>
                   </li>
-                  <li>802.11n:
-                    <ul>
-                      <li>20 MHz: 26 FCC, 16 EU</li>
-                      <li>40 MHz: 12 FCC, 7 EU</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 12 FCC, 7 UE</font></font></li>
                     </ul>
                   </li>
-                  <li>802.11ac/ax:
-                    <ul>
-                      <li>20 MHz: 26 FCC, 16 EU</li>
-                      <li>40 MHz: 12 FCC, 7 EU</li>
-                      <li>80 MHz: 5 FCC, 3 EU</li>
-                      <li>160 MHz 2 FCC, 1 EU</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac/hacha:
+                    </font></font><ul>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 12 FCC, 7 UE</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">80 MHz: 5 FCC, 3 UE</font></font></li>
+                      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">160 MHz 2 FCC, 1 UE</font></font></li>
                     </ul>
                   </li>
                 </ul></td>
             </tr><tr>
-              <td>Compliance standards</td>
-              <td><strong>Safety:</strong>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cumplimiento</font></font></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:</font></font></strong>
                 <ul>
-                  <li>IEC 60950-1 </li>
-                  <li>EN 60950-1 </li>
-                  <li>UL 60950-1 </li>
-                  <li>CAN/CSA-C22.2 No. 60950-1 </li>
-                  <li>AS/NZS 60950-1 </li>
-                  <li>UL 2043 </li>
-                  <li>Class III equipment</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.º 60950-1</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 60950-1</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 2043</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Equipo de clase III</font></font></li>
                 </ul>
-                <strong>Emissions:</strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones:</font></font></strong>
                 <ul>
-                  <li>CISPR 32 (rev. 2015) </li>
-                  <li>EN 55032 (rev. 2012/AC:2013) </li>
-                  <li>EN 55032 (rev. 2015) </li>
-                  <li>EN 55035 2010</li>
-                  <li>EN61000-3-2 (rev. 2014) </li>
-                  <li>EN61000-3-3 (rev. 2013) </li>
-                  <li>KN61000-3-2 </li>
-                  <li>KN61000-3-3 </li>
-                  <li>AS/NZS CISPR 32 Class B (rev. 2015) </li>
-                  <li>47 CFR FCC Part 15B </li>
-                  <li>ICES-003 (rev. 2016 Issue 6, Class B) </li>
-                  <li>VCCI-CISPR 32:2016</li>
-                  <li>VCCI (V3) </li>
-                  <li>CNS (rev. 13438) </li>
-                  <li>KN-32 </li>
-                  <li>KN-35 </li>
-                  <li>TCVN 7189 (rev. 2009)</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 32 (rev. 2015)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2012/AC:2013)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2015)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55035 2010</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-2 (rev. 2014)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-3 (rev. 2013)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN61000-3-2</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN61000-3-3</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS CISPR 32 Clase B (rev. 2015)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47 CFR FCC Parte 15B</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICES-003 (rev. 2016 Número 6, Clase B)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VCCI-CISPR 32:2016</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VCCI (V3)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNC (rev. 13438)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN-32</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN-35</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TCVN 7189 (rev. 2009)</font></font></li>
                 </ul>
-                <strong>Immunity:</strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad:</font></font></strong>
                 <ul>
-                  <li>CISPR 24 (rev. 2010) </li>
-                  <li>EN 55024/EN 55035 (rev. 2010)</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 24 (rev. 2010)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55024/EN 55035 (rev. 2010)</font></font></li>
                 </ul>
-                <strong>Emissions and immunity:</strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones e inmunidad:</font></font></strong>
                 <ul>
-                  <li>EN 301 489-1 (v2.1.1 2017-02) </li>
-                  <li>EN 301 489-17 (v3.1.1 2017-02) </li>
-                  <li>QCVN (18:2014) </li>
-                  <li>KN 489-1 </li>
-                  <li>KN 489-17 </li>
-                  <li>EN 60601 (1-1:2015)</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-1 (v2.1.1 2017-02)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-17 (v3.1.1 2017-02)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QCVN (18:2014)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN 489-1</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN 489-17</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60601 (1-1:2015)</font></font></li>
                 </ul></td>
-              <td><strong>Radio:</strong>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio:</font></font></strong>
                 <ul>
-                  <li>EN 300 328 (v2.1.1) </li>
-                  <li>EN 301 893 (v2.1.1) </li>
-                  <li>AS/NZS 4268 (rev. 2017) </li>
-                  <li>47 CFR FCC Part 15C, 15.247, 15.407 </li>
-                  <li>RSP-100 </li>
-                  <li>RSS-GEN </li>
-                  <li>RSS-247 </li>
-                  <li>China regulations SRRC </li>
-                  <li>LP0002 (rev 2018.1.10) </li>
-                  <li>Japan Std. 33a, Std. 66, and Std. 71</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 328 (v2.1.1)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 893 (v2.1.1)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 4268 (rev. 2017)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47 CFR FCC Parte 15C, 15.247, 15.407</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSP-100</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-GEN</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-247</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Regulaciones de China SRRC</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LP0002 (rev. 2018.1.10)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">estándar de Japón </font><font style="vertical-align: inherit;">33a, estándar. </font><font style="vertical-align: inherit;">66 y estándar. </font><font style="vertical-align: inherit;">71</font></font></li>
                 </ul>
-                <strong>RF safety:</strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad RF:</font></font></strong>
                 <ul>
-                  <li>EN 50385 (rev. Aug 2002) </li>
-                  <li>ARPANSA </li>
-                  <li>AS/NZS 2772 (rev. 2016) </li>
-                  <li>EN 62209-1 (rev. 2016) </li>
-                  <li>EN 62209-2 (rev. 2010) </li>
-                  <li>47 CFR Part 1.1310 and 2.1091 </li>
-                  <li>RSS-102</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 50385 (rev. agosto 2002)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARPANSA</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 2772 (rev. 2016)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 62209-1 (rev. 2016)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 62209-2 (rev. 2010)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47 CFR Parte 1.1310 y 2.1091</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-102</font></font></li>
                 </ul>
-                <strong>IEEE standards:</strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas IEEE:</font></font></strong>
                 <ul>
-                  <li>IEEE 802.3 </li>
-                  <li>IEEE 802.3ab </li>
-                  <li>IEEE 802.3af/at </li>
-                  <li>IEEE 802.11 a/b/g/n/ac/ax </li>
-                  <li>IEEE 802.11h, 802.11d</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE802.3</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3ab</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3af/en</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11a/b/g/n/ac/ax</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11h, 802.11d</font></font></li>
                 </ul>
-                <strong>Security:</strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad:</font></font></strong>
                 <ul>
-                  <li> 802.11i, Wi-Fi Protected Access 2 (WPA2), WPA </li>
-                  <li>802.1X </li>
-                  <li>Advanced Encryption Standard (AES)</li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, Acceso Wi-Fi protegido 2 (WPA2), WPA</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES)</font></font></li>
                 </ul>
-                <strong>Extensible Authentication Protocol (EAP) types:</strong>
+                <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipos de protocolo de autenticación extensible (EAP):</font></font></strong>
                 <ul>
-                  <li>EAP-Transport Layer Security (TLS) </li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Seguridad de la capa de transporte (TLS)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Tunneled TLS (TTLS) o Microsoft Challenge Handshake Authentication Protocol versión 2 (MSCHAPv2)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP protegido (PEAP) v0 o EAP-MSCHAPv2</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación EAP-Flexible a través de Túnel Seguro (EAP-FAST)</font></font></li>
@@ -766,7 +763,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
                                     Descargue la <a href="datasheets/C9120.pdf" target="_blank">
-                                    hoja de datos de los puntos de acceso de la serie Cisco Catalyst 9120 </a> (PDF)
+                                    hoja de datos de los access point de la serie Cisco Catalyst 9120 </a> (PDF)
                 
                             </div>
                     </div><!-- End default tabs -->

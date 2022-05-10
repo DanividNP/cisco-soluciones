@@ -2,9 +2,9 @@
     <div class="container"> 
     <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Puntos de acceso Cisco Catalyst 9105AX Wi-Fi 6 Series</h3>
-                <h5>La próxima generación de puntos de acceso empresariales: resistentes, seguros e inteligentes</h5>
-                <center> <img class="img-responsive" src="images/Wireless/Catalyst 9105AXWi-Fi6.png" alt=""></center>
+                <h3 class="title-border">Access Point Cisco Catalyst 9105AX Wi-Fi 6 Series</h3>
+                <h5>La próxima generación de access point empresariales: resistentes, seguros e inteligentes</h5>
+                <center> <img class="img-responsive" src="images/Wireless/Cata9105AX.png" alt=""></center>
 
     <!--/ Panel Inicio -->
                 <div class="panel-group" id="accordionA">
@@ -20,7 +20,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Catalyst 9105AXI 802.11ax 1,45 Gbit/s con antena interna</strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico Cisco Catalyst 9105AXI 802.11ax 1,45 Gbit/s con antena interna</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -31,7 +31,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico Cisco Catalyst 9105AXW 802.11ax 1,49 Gbit/s con placa de pared y antenas internas</strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico Cisco Catalyst 9105AXW 802.11ax 1,49 Gbit/s con placa de pared y antenas internas</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -42,7 +42,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Cisco Catalyst 9105AXI 802.11ax 1,45 Gbit/s Punto de acceso inalámbrico para teletrabajadores con antenas internas</strong></p>
+                                    <p align='justify'><strong>Cisco Catalyst 9105AXI 802.11ax 1,45 Gbit/s Access Point inalámbrico para teletrabajadores con antenas internas</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -53,7 +53,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso inalámbrico para teletrabajadores Cisco Catalyst 9105AXW 802.11ax 1,49 Gbit/s con placa de pared y antenas internas</strong></p>
+                                    <p align='justify'><strong>Access Point inalámbrico para teletrabajadores Cisco Catalyst 9105AXW 802.11ax 1,49 Gbit/s con placa de pared y antenas internas</strong></p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
@@ -80,11 +80,11 @@
 </div>
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
-                                <h3>Los puntos de acceso de la serie Cisco Catalyst 9105AX son el punto de acceso de próxima generación más versátil en el nivel empresarial. Son resistentes, seguros e inteligentes.</h3>
-                                <p align="justify">Los puntos de acceso Catalyst 9105, que amplían la red basada en la intención de Cisco y son perfectos para redes de todos los tamaños, se escalan para satisfacer las crecientes demandas de IoT y, al mismo tiempo, son totalmente compatibles con las últimas innovaciones y nuevas tecnologías. El Catalyst 9105 viene en diferentes opciones de montaje: el Catalyst 9105i, que se puede montar en el techo usando un soporte de montaje diseñado específicamente o se puede colocar sobre el escritorio. El Catalyst 9105w está diseñado específicamente para montarse en la pared y es ideal para hostelería, residencias universitarias y otras unidades de viviendas múltiples.</p><br>
-                                <p align="justify">Con la aparición de muchos dispositivos IOT y compatibles con Wi-Fi, la mayoría se conecta a través de Wi-Fi. Dado que la mayoría de las aplicaciones dependen de la red, requieren un uso intensivo del ancho de banda y son sensibles a la latencia, dependemos más que nunca de la red inalámbrica. Un número cada vez mayor de dispositivos se conectan a la red cada año, desde dispositivos cliente de alto rendimiento hasta dispositivos IoT de bajo ancho de banda, lo que pone a su red actual en riesgo de velocidades más lentas. Los puntos de acceso Catalyst 9105 brindan una experiencia perfecta en cualquier lugar para todos, con un alto escalamiento y un rendimiento inigualable en diversas implementaciones de red. Más allá del estándar Wi-Fi 6 (802.11 ax), los puntos de acceso Catalyst 9105 brindan seguridad integrada, resistencia y flexibilidad operativa, así como una mayor inteligencia de red.</p><br>
-                                <p align="justify">Con los puntos de acceso Catalyst 9105, puede proteger a los trabajadores remotos o la microoficina. El punto de acceso Catalyst 9105 es perfecto para la implementación de teletrabajadores debido a su factor de forma pequeño y bajo consumo de energía. Este punto de acceso para teletrabajadores fácil de instalar proporciona acceso seguro por cable e inalámbrico para organizaciones con empleados que trabajan desde casa. Los puntos de acceso para teletrabajadores Catalyst 9105 se incluyen con los accesorios necesarios para una fácil implementación en el hogar.</p><br>
-                                <p align="justify">Los puntos de acceso de la serie Cisco Catalyst 9105, combinados con la arquitectura de red digital de Cisco (Cisco DNA), son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Son el primer paso en la actualización de su red para aprovechar mejor todas las funciones y beneficios que brinda Wi-Fi 6.</p><br>
+                                <h3>Los access point de la serie Cisco Catalyst 9105AX son el punto de acceso de próxima generación más versátil en el nivel empresarial. Son resistentes, seguros e inteligentes.</h3>
+                                <p align="justify">Los access point Catalyst 9105, que amplían la red basada en la intención de Cisco y son perfectos para redes de todos los tamaños, se escalan para satisfacer las crecientes demandas de IoT y, al mismo tiempo, son totalmente compatibles con las últimas innovaciones y nuevas tecnologías. El Catalyst 9105 viene en diferentes opciones de montaje: el Catalyst 9105i, que se puede montar en el techo usando un soporte de montaje diseñado específicamente o se puede colocar sobre el escritorio. El Catalyst 9105w está diseñado específicamente para montarse en la pared y es ideal para hostelería, residencias universitarias y otras unidades de viviendas múltiples.</p><br>
+                                <p align="justify">Con la aparición de muchos dispositivos IOT y compatibles con Wi-Fi, la mayoría se conecta a través de Wi-Fi. Dado que la mayoría de las aplicaciones dependen de la red, requieren un uso intensivo del ancho de banda y son sensibles a la latencia, dependemos más que nunca de la red inalámbrica. Un número cada vez mayor de dispositivos se conectan a la red cada año, desde dispositivos cliente de alto rendimiento hasta dispositivos IoT de bajo ancho de banda, lo que pone a su red actual en riesgo de velocidades más lentas. Los access point Catalyst 9105 brindan una experiencia perfecta en cualquier lugar para todos, con un alto escalamiento y un rendimiento inigualable en diversas implementaciones de red. Más allá del estándar Wi-Fi 6 (802.11 ax), los access point Catalyst 9105 brindan seguridad integrada, resistencia y flexibilidad operativa, así como una mayor inteligencia de red.</p><br>
+                                <p align="justify">Con los access point Catalyst 9105, puede proteger a los trabajadores remotos o la microoficina. El punto de acceso Catalyst 9105 es perfecto para la implementación de teletrabajadores debido a su factor de forma pequeño y bajo consumo de energía. Este punto de acceso para teletrabajadores fácil de instalar proporciona acceso seguro por cable e inalámbrico para organizaciones con empleados que trabajan desde casa. Los puntos de acceso para teletrabajadores Catalyst 9105 se incluyen con los accesorios necesarios para una fácil implementación en el hogar.</p><br>
+                                <p align="justify">Los access point de la serie Cisco Catalyst 9105, combinados con la arquitectura de red digital de Cisco (Cisco DNA), son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Son el primer paso en la actualización de su red para aprovechar mejor todas las funciones y beneficios que brinda Wi-Fi 6.</p><br>
                                <p align="justify">La red definida por el usuario de Cisco permite que TI brinde a los usuarios finales el control de su propia partición de red inalámbrica en una red compartida. Luego, los usuarios finales pueden implementar de forma remota y segura sus dispositivos en esta red. Perfecta para residencias universitarias o estadías prolongadas en hospitales, la red definida por el usuario de Cisco brinda seguridad y control del dispositivo, lo que permite que cada usuario elija quién puede conectarse a su red.</p><br>
                                <h3>Características clave:</h3>
                                <ul>
@@ -99,7 +99,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características y beneficios  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                 <tbody><tr>
                                     <th style="width:30%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Características</font></font></th>
                                     <th style="width:70%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficios</font></font></th>
@@ -133,7 +133,7 @@
                                 </tr>
                                 <tr>
                                     <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alojamiento de aplicaciones en Catalyst 9100 Access</font></font></strong></td>
-                                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El alojamiento de aplicaciones en los puntos de acceso Catalyst 9100 ayuda a preparar y simplificar las implementaciones de IoT para el futuro al eliminar la necesidad de instalar y administrar redes superpuestas. Al utilizar la interfaz USB, se pueden implementar aplicaciones en contenedores y módulos de hardware para reducir los costos y la complejidad. Agregar Cisco DNA Center proporciona flujos de trabajo y administración del ciclo de vida de la aplicación en toda la implementación.</font></font></td>
+                                    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El alojamiento de aplicaciones en los access point Catalyst 9100 ayuda a preparar y simplificar las implementaciones de IoT para el futuro al eliminar la necesidad de instalar y administrar redes superpuestas. Al utilizar la interfaz USB, se pueden implementar aplicaciones en contenedores y módulos de hardware para reducir los costos y la complejidad. Agregar Cisco DNA Center proporciona flujos de trabajo y administración del ciclo de vida de la aplicación en toda la implementación.</font></font></td>
                                 </tr>
 
                                 <tr>
@@ -143,7 +143,7 @@
 
                                 <tr>
                                     <td class="smallText"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controlador inalámbrico integrado de Cisco</font></font></strong></td>
-                                    <td class="smallText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso Wi-Fi 6 de la serie 9105AX están disponibles con un controlador integrado. El controlador inalámbrico integrado de Cisco en los puntos de acceso Catalyst 9100 proporciona una opción fácil de implementar y administrar que no requiere un dispositivo físico. El control reside en el punto de acceso, por lo que no hay espacio ni complejidad adicional. Y, debido a que utiliza el código de la serie Cisco Catalyst 9800, es fácil migrar su red a medida que crecen sus necesidades.</font></font></td>
+                                    <td class="smallText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los access point Wi-Fi 6 de la serie 9105AX están disponibles con un controlador integrado. El controlador inalámbrico integrado de Cisco en los access point Catalyst 9100 proporciona una opción fácil de implementar y administrar que no requiere un dispositivo físico. El control reside en el punto de acceso, por lo que no hay espacio ni complejidad adicional. Y, debido a que utiliza el código de la serie Cisco Catalyst 9800, es fácil migrar su red a medida que crecen sus necesidades.</font></font></td>
                                 </tr>
                                 <tr>
                                     <td class="smallText"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte de contenedores para aplicaciones</font></font></strong></td>
@@ -177,26 +177,26 @@
                             </div>
                             
                             <div class="tab-pane" id="tab3">
-                                <h3>Especificaciones Tecnicas:</h3>
-                                <br><table class="table table-bordered table-hover table-responsive">
+                                <h3>Especificaciones Técnicas:</h3>
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
+              <th>Artículo</th>
+              <th>Especificación</th>
             </tr>
             <tr>
               <td style="width:25%;"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></strong></td>
-              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Catalyst 9105AX: entornos interiores, con antenas internas
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9105AX: entornos interiores, con antenas internas
                 
                 </font></font></strong></p>
                 <ul>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI-x: Cisco Catalyst 9105 Series Punto de acceso Cisco Catalyst 9105AX: placa de pared, con antenas internas</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI-x: Cisco Catalyst 9105 Series Access point Catalyst 9105AX: placa de pared, con antenas internas</font></font></li>
                 </ul>
-                <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXW-x: Cisco Catalyst 9105 Series Punto de acceso para teletrabajadores Cisco Catalyst 9105AX: Entornos interiores, con antenas internas</font></font></strong></p>
+                <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXW-x: Cisco Catalyst 9105 Series access point para teletrabajadores Cisco Catalyst 9105AX: Entornos interiores, con antenas internas</font></font></strong></p>
                 <ul>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXIT-x: Cisco Catalyst serie 9105 (se envía junto con el kit de infraestructura: inyector de alimentación y cables Ethernet) Punto de acceso para teletrabajadores Cisco Catalyst 9105AX: placa de pared, con antenas internas</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXIT-x: Cisco Catalyst serie 9105 (se envía junto con el kit de infraestructura: inyector de alimentación y cables Ethernet) Access Point para teletrabajadores Cisco Catalyst 9105AX: placa de pared, con antenas internas</font></font></li>
                 </ul>
-                <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXWT-x: Cisco Catalyst 9105 Series (se envía junto con el kit de placa de pared, base y cables Ethernet) Punto de acceso Cisco Catalyst 9105AX: entornos interiores, con antenas internas, con controlador inalámbrico incorporado</font></font></strong></p>
+                <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXWT-x: Cisco Catalyst 9105 Series (se envía junto con el kit de placa de pared, base y cables Ethernet) Access Point Cisco Catalyst 9105AX: entornos interiores, con antenas internas, con controlador inalámbrico incorporado</font></font></strong></p>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI-EWC-x: Cisco Catalyst serie 9105</font></font></li>
                 </ul>
@@ -388,7 +388,7 @@
         </table>
                            
                             
-                            <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento</font></font></strong></td>
@@ -510,7 +510,7 @@
                         
                             <div class="tab-pane" id="tab4">
                                 <h2>Potencia de transmisión y sensibilidad de recepción:</h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody><tr>
             <th colspan="3">&nbsp;</th>
             <th colspan="2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio de 5 GHz</font></font></strong></th>
@@ -779,7 +779,7 @@
             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">19</font></font></td>
-            <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></td>
+            <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></td>
             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">19</font></font></td>
             <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-63</font></font></td>
           </tr>
@@ -885,7 +885,7 @@
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
                                     Descargue la <a href="datasheets/C9105AX.pdf" target="_blank">
-                                    hoja de datos de los puntos de acceso de la serie Cisco Catalyst 9105 </a> (PDF)
+                                    hoja de datos de los access point de la serie Cisco Catalyst 9105 </a> (PDF)
                 
                             </div>
                     </div><!-- End default tabs -->

@@ -2,8 +2,8 @@
     <div class="container"> 
     <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h3 class="title-border">Puntos de acceso Cisco Catalyst serie 9115 Wi-Fi 6</h3>
-                <h4>La próxima generación de puntos de acceso empresariales: resistentes, seguros e inteligentes</h4>
+                <h3 class="title-border">Access Point Cisco Catalyst serie 9115 Wi-Fi 6</h3>
+                <h4>La próxima generación de access point empresariales: resistentes, seguros e inteligentes</h4>
                 <center> <img class="img-responsive" src="images/Wireless/Cata9115.png" alt=""></center>
 
     <!--/ Panel Inicio -->
@@ -48,7 +48,7 @@
                                     <h3 class="title-border"></h3></div>
 
                                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-                                    <p align='justify'><strong>Punto de acceso Wi-Fi 6 de la serie Cisco Catalyst C9115AXI-Z con antenas internas
+                                    <p align='justify'><strong>Access Point Wi-Fi 6 de la serie Cisco Catalyst C9115AXI-Z con antenas internas
                                       <br>Nota: se requiere licencia USB
                                     </strong></p>
                                 </div>
@@ -76,9 +76,9 @@
 </div>
                         <div class="tab-content">
                             <div class="tab-pane active" id="tab1">
-                                <h3>Los puntos de acceso Wi-Fi 6 Cisco® Catalyst® serie 9115 son la próxima generación de puntos de acceso empresariales. Son resistentes, seguros e inteligentes.</h3>
-                                <p align="justify">Hiperconectividad con rendimiento constante en entornos exigentes. Crecimiento exponencial de dispositivos de Internet de las cosas (IoT) y aplicaciones de próxima generación. Amenazas de seguridad persistentes avanzadas. Todo esto requiere una red inalámbrica que proporcione resiliencia y conectividad superior, seguridad integrada con clasificación y contención avanzadas e innovaciones de hardware y software para automatizar, proteger y simplificar las redes. Actualizar su infraestructura inalámbrica a una que satisfaga estas necesidades es primordial para el negocio digital actual. La nueva generación de puntos de acceso Cisco Catalyst 9100, con capacidades de Wi-Fi 6 (802.11ax) de alto rendimiento e innovaciones en rendimiento, seguridad y análisis de RF, permite la digitalización de un extremo a otro y ayuda a acelerar la implementación de servicios comerciales al entrega más allá de Wi-Fi.</p>
-                                <p align="justify">Los puntos de acceso de la serie Cisco Catalyst 9115 son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Son el primer paso para actualizar su red y tomar un mejor ejemplo de todas las funciones y beneficios que brinda Wi-Fi 6.</p>
+                                <h3>Los access points Wi-Fi 6 Cisco® Catalyst® serie 9115 son la próxima generación de puntos de acceso empresariales. Son resistentes, seguros e inteligentes.</h3>
+                                <p align="justify">Hiperconectividad con rendimiento constante en entornos exigentes. Crecimiento exponencial de dispositivos de Internet de las cosas (IoT) y aplicaciones de próxima generación. Amenazas de seguridad persistentes avanzadas. Todo esto requiere una red inalámbrica que proporcione resiliencia y conectividad superior, seguridad integrada con clasificación y contención avanzadas e innovaciones de hardware y software para automatizar, proteger y simplificar las redes. Actualizar su infraestructura inalámbrica a una que satisfaga estas necesidades es primordial para el negocio digital actual. La nueva generación de Access Point Cisco Catalyst 9100, con capacidades de Wi-Fi 6 (802.11ax) de alto rendimiento e innovaciones en rendimiento, seguridad y análisis de RF, permite la digitalización de un extremo a otro y ayuda a acelerar la implementación de servicios comerciales al entrega más allá de Wi-Fi.</p>
+                                <p align="justify">Los access points de la serie Cisco Catalyst 9115 son productos de clase empresarial que abordarán sus necesidades actuales y futuras. Son el primer paso para actualizar su red y tomar un mejor ejemplo de todas las funciones y beneficios que brinda Wi-Fi 6.</p>
                                 
                                <h3>Características clave:</h3>
                                <ul>
@@ -88,7 +88,7 @@
                                     <li>Soporte multigigabit</li>
                                     <li>Antena interna o externa</li>
                                 </ul>
-                                <p align="justify">Los puntos de acceso de la serie Cisco Catalyst 9115 admiten acceso múltiple por división de frecuencia ortogonal (OFDMA) y entrada múltiple multiusuario, salida múltiple (MU-MIMO), lo que brinda un rendimiento más predecible para aplicaciones avanzadas e IoT. Además, con hasta 2,5 Gbps con NBASE-T y compatibilidad con Ethernet IEEE 802.3bz, la serie Cisco Catalyst 9115 puede descargar tráfico de red sin problemas y sin cuellos de botella. Con la tecnología Multigigabit de Cisco, puede utilizar su cableado existente de Categoría 5e o 6 para lograr velocidades de hasta 5 Gbps, lo que permite un mayor rendimiento con un costo mínimo. Y con dos opciones de antena diferentes, puede decidir qué opción funciona mejor para usted.</p>
+                                <p align="justify">Los access point de la serie Cisco Catalyst 9115 admiten acceso múltiple por división de frecuencia ortogonal (OFDMA) y entrada múltiple multiusuario, salida múltiple (MU-MIMO), lo que brinda un rendimiento más predecible para aplicaciones avanzadas e IoT. Además, con hasta 2,5 Gbps con NBASE-T y compatibilidad con Ethernet IEEE 802.3bz, la serie Cisco Catalyst 9115 puede descargar tráfico de red sin problemas y sin cuellos de botella. Con la tecnología Multigigabit de Cisco, puede utilizar su cableado existente de Categoría 5e o 6 para lograr velocidades de hasta 5 Gbps, lo que permite un mayor rendimiento con un costo mínimo. Y con dos opciones de antena diferentes, puede decidir qué opción funciona mejor para usted.</p>
 
                             </div>
 
@@ -96,7 +96,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características y beneficios  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
                                 <tbody><tr>
                                     <th style="width:30%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Características</font></font></th>
                                     <th style="width:70%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficios</font></font></th>
@@ -153,7 +153,7 @@
                                 <p align="justify">Wi-Fi 6, con una mejor coordinación del tiempo de tránsito hacia y desde los dispositivos, también traerá una reducción de la latencia y una mayor confiabilidad que permitirá cientos de dispositivos por punto de acceso. Esto permite que los dispositivos IoT se implementen de manera confiable a escala. Y también se verá una experiencia de usuario mejorada en general, ya que 802.11ax mejorará la duración de la batería de dispositivos como teléfonos inteligentes, tabletas e IoT en comparación con los estándares anteriores.</p>
                               
                                   <h3>Infraestructura segura</h3>
-                                <p align="justify">El emparejamiento de los puntos de acceso de la serie Cisco Catalyst 9105 con Cisco DNA permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización. Los puntos de acceso de la serie Cisco Catalyst 9105 son compatibles con SD-Access, la arquitectura empresarial líder de Cisco.</p>
+                                <p align="justify">El emparejamiento de los Access point de la serie Cisco Catalyst 9105 con Cisco DNA permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización. Los access point de la serie Cisco Catalyst 9105 son compatibles con SD-Access, la arquitectura empresarial líder de Cisco.</p>
                                 
                                 <ul>
                                     <li>Firma de imágenes: las imágenes firmadas criptográficamente garantizan que el firmware, el BIOS y otro software son auténticos y no están modificados. A medida que se inicia el sistema, se comprueba la integridad de las firmas de software del sistema.</li>
@@ -161,15 +161,15 @@
                                     <li>Módulo Cisco Trust Anchor: una solución criptográfica fuerte, resistente a manipulaciones y de un solo chip que proporciona garantía de autenticidad de hardware para identificar de forma única el producto de modo que su origen pueda confirmarse a Cisco. Esto proporciona la seguridad de que el producto es genuino.</li>
                                   </ul>
                                   <h3>Inteligencia para perspectivas y análisis proactivos</h3>
-                                <p align="justify">Con soporte multi-RF primordial para dispositivos IoT y asociaciones de ecosistemas ampliados, la cartera Catalyst 9100 brinda una visibilidad sin precedentes desde dispositivos móviles en la red de Cisco. Al permitir la digitalización con Cisco DNA Architecture, la cartera Catalyst 9100 incorpora más innovaciones de Cisco RF para asegurar el aire con telemetría en tiempo real, remediación guiada y optimización para redes Wi-Fi e IOT. Los puntos de acceso de la serie Cisco Catalyst 9100 pueden admitir inteligencia de espectro avanzada, análisis de dispositivos y garantía de red. Con capacidades como Captura inteligente, estos dispositivos sondean la red y brindan a Cisco DNA Center un análisis profundo. El software puede rastrear numerosas anomalías y revisar instantáneamente todos los paquetes a pedido, emulando al administrador de la red en el sitio. 
+                                <p align="justify">Con soporte multi-RF primordial para dispositivos IoT y asociaciones de ecosistemas ampliados, la cartera Catalyst 9100 brinda una visibilidad sin precedentes desde dispositivos móviles en la red de Cisco. Al permitir la digitalización con Cisco DNA Architecture, la cartera Catalyst 9100 incorpora más innovaciones de Cisco RF para asegurar el aire con telemetría en tiempo real, remediación guiada y optimización para redes Wi-Fi e IOT. Los access point de la serie Cisco Catalyst 9100 pueden admitir inteligencia de espectro avanzada, análisis de dispositivos y garantía de red. Con capacidades como Captura inteligente, estos dispositivos sondean la red y brindan a Cisco DNA Center un análisis profundo. El software puede rastrear numerosas anomalías y revisar instantáneamente todos los paquetes a pedido, emulando al administrador de la red en el sitio. 
                                 <h3>Estéticamente rediseñado para la empresa de próxima generación</h3>
-                                <p align="justify">Los puntos de acceso de la serie Catalyst 9100 están construidos desde cero, con una nueva apariencia aerodinámica y un acabado suave, integrando la excelencia de RF y las tecnologías de próxima generación para brindar la mejor experiencia inalámbrica de su clase sin compromiso. Si bien incluye varias características de alto rendimiento, el hardware se rediseñó para ofrecer mayores eficiencias en un factor de forma más compacto para hacer que las implementaciones de Wi-Fi visualmente atractivas sean comunes.
+                                <p align="justify">Los access point de la serie Catalyst 9100 están construidos desde cero, con una nueva apariencia aerodinámica y un acabado suave, integrando la excelencia de RF y las tecnologías de próxima generación para brindar la mejor experiencia inalámbrica de su clase sin compromiso. Si bien incluye varias características de alto rendimiento, el hardware se rediseñó para ofrecer mayores eficiencias en un factor de forma más compacto para hacer que las implementaciones de Wi-Fi visualmente atractivas sean comunes.
                             </div>
                             
                             <div class="tab-pane" id="tab3">
                                 <h3>Soporte de ADN de Cisco</h3>
                                 
-                                <p align="justify">El emparejamiento de los puntos de acceso de la serie Cisco Catalyst 9115 con la arquitectura de red digital de Cisco (Cisco DNA) permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización.
+                                <p align="justify">El emparejamiento de los access point de la serie Cisco Catalyst 9115 con la arquitectura de red digital de Cisco (Cisco DNA) permite una transformación total de la red. Cisco DNA le permite comprender verdaderamente su red con análisis en tiempo real, detectar y contener rápidamente las amenazas de seguridad y proporcionar fácilmente consistencia en toda la red a través de la automatización y la virtualización.
 
                                 <p align="justify">Cisco DNA con acceso definido por software (SD-Access) es el tejido de red que impulsa el negocio. Es una arquitectura abierta y extensible impulsada por software que acelera y simplifica las operaciones de red de su empresa. La arquitectura programable libera a su personal de TI de tareas de configuración de red repetitivas y que consumen mucho tiempo para que puedan concentrarse en la innovación que transforma positivamente su negocio. Al desacoplar las funciones de red del hardware, puede crear y administrar toda su red cableada e inalámbrica desde una sola interfaz de usuario. SD-Access permite la automatización basada en políticas desde el borde hasta la nube con capacidades fundamentales. Éstos incluyen:</p>
                               
@@ -181,7 +181,7 @@
                                  <li>Analítica basada en el contexto</li>
                                </ul>
                                  
-                                <p align="justify">Los puntos de acceso de la serie Cisco Catalyst 9115 son compatibles con el acceso definido por software, la arquitectura empresarial líder de Cisco.
+                                <p align="justify">Los access point de la serie Cisco Catalyst 9115 son compatibles con el acceso definido por software, la arquitectura empresarial líder de Cisco.
 Trabajando juntos, Cisco Catalyst 9115 Series y Cisco DNA ofrecen características tales como:</p>
                                 
                                 <ul>
@@ -197,19 +197,19 @@ Trabajando juntos, Cisco Catalyst 9115 Series y Cisco DNA ofrecen característic
                         
                             <div class="tab-pane" id="tab4">
                                 <h2>Especificaciones del producto:</h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></td>
-              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso Cisco Catalyst 9115AXI: entornos interiores, con antenas internas
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point Cisco Catalyst 9115AXI: entornos interiores, con antenas internas
                 </font></font><ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9115AXI-x: Cisco Catalyst serie 9115</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Punto de acceso Cisco Catalyst 9115AXE: interiores, entornos desafiantes, con antenas externas
+                Access Point Cisco Catalyst 9115AXE: interiores, entornos desafiantes, con antenas externas
                 </font></font><ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9115AXE-x: Cisco Catalyst serie 9115</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -304,7 +304,7 @@ Trabajando juntos, Cisco Catalyst 9115 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones (ancho x largo x alto)</font></font></td>
               <td><ul>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso (sin soportes de montaje): C9115I: 8,0 x 8,0 x 1,5 pulg. (20,3 x 20,3 x 3,8 cm), C9115E: 8,0 x 8,0 x 1,7 pulg. (20,3 x 20,3 x 4,3 cm)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point (sin soportes de montaje): C9115I: 8,0 x 8,0 x 1,5 pulg. (20,3 x 20,3 x 3,8 cm), C9115E: 8,0 x 8,0 x 1,7 pulg. (20,3 x 20,3 x 4,3 cm)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
@@ -363,10 +363,10 @@ Trabajando juntos, Cisco Catalyst 9115 Series y Cisco DNA ofrecen característic
           </tbody>
         </table>
 
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th colspan="7"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
@@ -436,10 +436,10 @@ Trabajando juntos, Cisco Catalyst 9115 Series y Cisco DNA ofrecen característic
           </tbody>
         </table>
 
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
@@ -725,7 +725,7 @@ Trabajando juntos, Cisco Catalyst 9115 Series y Cisco DNA ofrecen característic
                                 <h2>Documentación:</h2>
                                 <span class="feature-icon" >   <i class="fa fa-file-pdf-o" aria-hidden="true"></i></span> 
                                     Descargue la <a href="datasheets/C9115.pdf" target="_blank">
-                                    hoja de datos de los puntos de acceso de la serie Cisco Catalyst 9115 </a> (PDF)
+                                    hoja de datos de los access point de la serie Cisco Catalyst 9115 </a> (PDF)
                 
                             </div>
                     </div><!-- End default tabs -->
