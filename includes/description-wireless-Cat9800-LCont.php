@@ -84,8 +84,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características clave:  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
-          <tbody>
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descripción</font></font></th>
@@ -155,7 +154,7 @@
         </table>
 
 
-                                <h3>siempre encendido</h3>
+                                <h3>Siempre encendido</h3>
                                 <p align="justify">El Cisco Catalyst 9800-L proporciona actualizaciones de software transparentes para una resolución más rápida de problemas críticos, la capacidad de introducir nuevos puntos de acceso sin tiempo de inactividad y actualizaciones de software flexibles. Stateful Switchover (SSO) con espera activa y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados.
                                   
                                 <h3>Seguro</h3>
@@ -167,8 +166,9 @@
                             <div class="tab-pane" id="tab3">
                                 <h3>Detalles</h3>
                                 <div role="tabpanel" class="tab-pane active" id="details">
+
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones físicas:</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%> 
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensión</font></font></th>
@@ -194,7 +194,7 @@
           </tbody>
         </table>
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puertos y sus fines:</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto</font></font></th>
@@ -231,7 +231,7 @@
           </tbody>
         </table>
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED del panel frontal</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DIRIGIÓ</font></font></th>
@@ -361,10 +361,10 @@
 
                             <div class="tab-pane" id="tab5">
                                 <h2>Especificaciones: </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
@@ -377,7 +377,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de datos</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 768 Protocolo de datagramas de usuario (UDP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IP RFC 791</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2460 IPv6</font></font></li>
@@ -394,7 +394,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas de seguridad</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso Wi-Fi Protegido (WPA)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11i (WPA2, RSN)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmo de resumen de mensajes RFC 1321 MD5</font></font></li>
@@ -416,7 +416,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cifrado</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privacidad equivalente por cable estático (WEP) RC4 40, 104 y 128 bits</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES): encadenamiento de bloques de cifrado (CBC), contador con CBC-MAC (CCM), contador con protocolo de código de autenticación de mensajes CBC (CCMP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado de datos (DES): DES-CBC, 3DES</font></font></li>
@@ -428,7 +428,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de autenticación, autorización y contabilidad (AAA)</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.1X</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2548 Atributos de RADIUS específicos del proveedor de Microsoft</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2716 Protocolo punto a punto (PPP) Protocolo de autenticación extensible (EAP)-TLS</font></font></li>
@@ -447,7 +447,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de gestión</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolo simple de administración de redes (SNMP) v1, v2c, v3</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 854 Telnet</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1155 Información de gestión para Internet basadas en TCP/IP</font></font></li>
@@ -479,7 +479,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces de gestión</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Basado en web: HTTP/HTTPS</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de línea de comandos: Telnet, protocolo Secure Shell (SSH), puerto serie</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Infraestructura principal de Cisco</font></font></li>
@@ -487,29 +487,29 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Condiciones ambientales soportadas</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;32° a 104°F (0° a 40°C)</font></font></li>
                   </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Temperatura no operativa:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">–13° a 158°F (–25° a 70°C)</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Humedad de funcionamiento:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5% a 95% sin condensación</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Humedad no operativa:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0% a 95% sin condensación</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Altitud de funcionamiento:
-                  </font></font><ul>
+                  </font></font><ul class="listas"> 
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aparato en funcionamiento: 0 a 3000 m (0 a 10 000 pies)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dispositivo no operativo: 0 a 12 192 m (0 a 40 000 pies)</font></font></li>
                     </ul>
@@ -521,25 +521,25 @@
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Poder maximo:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potencia máxima medida del 9800-LC = 86,9 W (con carga USB de 4,5 W)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potencia máxima medida del 9800-LF = 84,5 W (supone 2 piezas SFP de 2,5 W y con carga USB de 4,5 W)</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Máxima disipación de calor:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9800-LC: 296,4 Btu/h (con carga USB de 4,5 W)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9800-LF: 288,2 Btu/h (supone 2 piezas SFP de 2,5 W y carga USB de 4,5 W)</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Medida del nivel de potencia sonora:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normal: 40 dBA a 25C</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Máximo: 42,9 dBA a 40C</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Adaptador de corriente:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potencia de entrada: 100 a 240 VCA; </font><font style="vertical-align: inherit;">50/60 Hz</font></font></li>
                     </ul>
                 </li>
@@ -547,9 +547,9 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento normativo</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL/CSA 60950-1</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI/EN 60950-1</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 60950.1</font></font></li>
@@ -557,7 +557,7 @@
                     </ul>
                   </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                  CEM - Emisiones:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC 47CFR15</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS CISPR 22</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 22</font></font></li>
@@ -569,7 +569,7 @@
                   </ul>
                   </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                CEM - Emisiones:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-2 Armónicos de línea eléctrica (EMI-3)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-3 Cambios de voltaje, fluctuaciones y parpadeo (EMI-3)</font></font></li>
                   </ul>

@@ -105,7 +105,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características clave:  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Métrico</font></font></th>
@@ -171,7 +171,7 @@
         </table>
         <h5>* Para tráfico con tamaño de paquete grande (1374 bytes)</h5>
         <h5>** Un perfil de alto rendimiento solo es compatible con hipervisores ESXi y KVM. Los números de rendimiento son con NIC habilitadas para SR-IOV.</h5>
-                           <h3>siempre encendido</h3>
+                           <h3>Siempre encendido</h3>
                             <p align="justify">Las actualizaciones de software transparentes permiten una resolución más rápida de problemas críticos, la introducción de nuevos puntos de acceso sin tiempo de inactividad y actualizaciones de software flexibles. La conmutación con estado (SSO) con modo de espera activo 1:1 y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados.</p>
 
                                 <h3>Seguro</h3>
@@ -181,7 +181,7 @@
                                 <h3>Abierto y programable</h3>
                                 <p align="justify">El controlador se basa en el sistema operativo Cisco IOS XE, que ofrece un amplio conjunto de API programables basadas en estándares abiertos y telemetría basada en modelos que brindan una manera fácil de automatizar las operaciones de red del día 0 al día N.</p>
                            <h3>Especificaciones clave</h3>
-                           <table class="table table-bordered table-hover table-responsive">
+                           <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Métrico</font></font></th>
@@ -490,7 +490,7 @@ KVM-i40e</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">—</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">puerta de enlace mDNS</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerta de enlace mDNS</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></td>
@@ -508,7 +508,7 @@ KVM-i40e</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">—</font></font></td>
             </tr>
             <tr>
-              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">controlador extranjero</font></font></strong></td>
+              <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controlador extranjero</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sí</font></font></td>
@@ -563,7 +563,7 @@ KVM-i40e</font></font></td>
                                          <li><b>Visibilidad granular:</b> la telemetría basada en modelos proporciona un mecanismo para transmitir datos desde un controlador inalámbrico a un destino. Los datos que se transmiten se controlan mediante la suscripción a un conjunto de datos en un modelo YANG. El conjunto de datos suscritos se transmite al destino a intervalos configurados. Además, Cisco IOS XE habilita el modelo push, que proporciona un monitoreo de la red casi en tiempo real, lo que lleva a una rápida detección y rectificación de fallas.</li>
                                          <li><b>Actualizaciones y parches de software sin inconvenientes: </b>para mejorar la resiliencia del sistema operativo, Cisco IOS XE admite parches, que proporcionan correcciones para errores críticos y vulnerabilidades de seguridad entre las versiones de mantenimiento regulares. Este soporte permite a los clientes agregar parches sin tener que esperar a la próxima versión de mantenimiento.</li>
 </ul>
-                                    <h3>siempre encendido</h3>
+                                    <h3>Siempre encendido</h3>
                                     <ul>
                                         <li><b>Alta disponibilidad:</b> la conmutación con estado con un modo de espera activo 1:1 y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados.</li>
                                         <li><b>Actualizaciones de mantenimiento de software (SMU, por sus siglas en inglés) con aplicación de parches en caliente y en frío: la aplicación de parches permite instalar un parche como corrección de errores sin desconectar toda la red y elimina la necesidad de volver a calificar una imagen de software completa. La SMU es un paquete que se puede instalar en un sistema para proporcionar una solución de parche o una resolución de seguridad para una imagen publicada. Las SMU le permiten abordar el problema de la red rápidamente mientras reducen el tiempo y el alcance de las pruebas requeridas. La plataforma Cisco IOS XE valida internamente la compatibilidad de SMU y no le permite instalar SMU incompatibles. Todas las SMU están integradas en las versiones posteriores de mantenimiento del software Cisco IOS XE.</li>
@@ -603,10 +603,10 @@ KVM-i40e</font></font></td>
 
                             <div class="tab-pane" id="tab5">
                                 <h2>Especificaciones: </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
@@ -619,7 +619,7 @@ KVM-i40e</font></font></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de datos</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 768 Protocolo de datagramas de usuario (UDP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IP RFC 791</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2460 IPv6</font></font></li>
@@ -636,7 +636,7 @@ KVM-i40e</font></font></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas de seguridad</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso Wi-Fi Protegido (WPA)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11i (WPA2, RSN)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmo de resumen de mensajes RFC 1321 MD5</font></font></li>
@@ -650,7 +650,7 @@ KVM-i40e</font></font></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cifrado</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privacidad equivalente por cable estático (WEP) RC4 40, 104 y 128 bits</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES): encadenamiento de bloques de cifrado (CBC), contador con CBC-MAC (CCM), contador con protocolo de código de autenticación de mensajes CBC (CCMP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado de datos (DES): DES-CBC, 3DES</font></font></li>
@@ -662,7 +662,7 @@ KVM-i40e</font></font></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de autenticación, autorización y contabilidad (AAA)</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.1X</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2548 Atributos de RADIUS específicos del proveedor de Microsoft</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2716 Protocolo punto a punto (PPP) Protocolo de autenticación extensible (EAP)-TLS</font></font></li>
@@ -681,7 +681,7 @@ KVM-i40e</font></font></td>
             </tr>
             <tr>
               <td>Estándares de gestión</td>
-              <td><ul>
+              <td><ul class="listas">
                   <li>Protocolo simple de administración de redes (SNMP) v1, v2c, v3</li>
                   <li>RFC 854 Telnet</li>
                   <li>RFC 1155 Información de gestión para Internet basadas en TCP/IP</li>
@@ -713,7 +713,7 @@ KVM-i40e</font></font></td>
             </tr>
             <tr>
               <td>Interfaces de gestión</td>
-              <td><ul>
+              <td><ul class="listas">
                   <li>Basado en web: HTTP/HTTPS </li>
                   <li>Interfaz de línea de comandos: Telnet, protocolo Secure Shell (SSH), puerto serie </li>
                   <li>SNMP </li>

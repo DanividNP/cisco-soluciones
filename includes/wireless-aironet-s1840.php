@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 heading text-center">
-                <h2 class="title2">Punto de acceso Cisco Aironet 1840<br>
+                <h2 class="title2">Access Point Cisco Aironet 1840<br>
                     <span class="title-desc">Presentación del AP Cisco Aironet 1840 con BLE</span>
                 </h2>
             </div>

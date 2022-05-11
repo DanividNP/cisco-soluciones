@@ -2,15 +2,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 heading text-center">
-                <h2 class="title2">Puntos de acceso de la serie Cisco Business 200 Puntos<br>
-                    <span class="title-desc">de acceso para un rendimiento Wi-Fi rápido y confiable</span>
+                <h2 class="title2">Access Point de la serie Cisco Business 200 <br>
+                    <span class="title-desc">Access Point para un rendimiento Wi-Fi rápido y confiable</span>
                 </h2>
             </div>
        		</div> <!-- Title row end -->
 				<div class="row">
 						<div class="tab-content">
 								<center><img class="img-responsive" src="images/Wireless/Business200.png" alt=""></center>
-                                <p>Los puntos de acceso de la serie Cisco Business 200 ofrecen conectividad inalámbrica de alta densidad para oficinas pequeñas. Diseñados teniendo en cuenta la simplicidad, la flexibilidad y la seguridad, los puntos de acceso de la serie Cisco Business 200 brindan un rendimiento superior y un rango mejorado para una experiencia de usuario óptima.
+                                <p>Los access point de la serie Cisco Business 200 ofrecen conectividad inalámbrica de alta densidad para oficinas pequeñas. Diseñados teniendo en cuenta la simplicidad, la flexibilidad y la seguridad, los access points de la serie Cisco Business 200 brindan un rendimiento superior y un rango mejorado para una experiencia de usuario óptima.
 
 <br>Es compatible con Cisco Business 100 Series Mesh Extenders para expandir rápidamente su red Wi-Fi.</p>
 								<div class="row">
@@ -27,7 +27,7 @@
 						<div class="service-content text-center">
                         <a><img src="images/iconos/Coverage.png" alt=""></a>
 							<h3>Cobertura mejorada</h3>
-							<p>Experimente una conectividad Wi-Fi rápida y confiable en toda su empresa. Amplíe su cobertura con extensores de malla y puntos de acceso inalámbrico Cisco Business adicionales.</p>
+							<p>Experimente una conectividad Wi-Fi rápida y confiable en toda su empresa. Amplíe su cobertura con extensores de malla y access point inalámbrico Cisco Business adicionales.</p>
 						</div>
 						
 					</div><!--/ End Second service -->

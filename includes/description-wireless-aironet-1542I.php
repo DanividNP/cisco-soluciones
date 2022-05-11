@@ -146,7 +146,7 @@
           <tbody>
             <tr>
               <td>Capacidades 802.11ac Wave 1 y 2</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I/D: 2 x 2 MIMO con dos flujos espaciales</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIMO multiusuario y monousuario</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Combinación de relación máxima (MRC)</font></font></li>
@@ -160,7 +160,7 @@
             </tr>
             <tr>
               <td>Capacidades 802.11n (y relacionadas)</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I/D: 2 x 2 MIMO con dos flujos espaciales</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MRC</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Canales de 20 y 40 MHz (40 MHz en 5 GHz)</font></font></li>
@@ -647,14 +647,14 @@
             <tr>
               <td>Número máximo de canales no superpuestos</td>
               <td colspan="5"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b/g:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
@@ -662,18 +662,18 @@
               <td colspan="4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz</font></font></strong>
                 <ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 27</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 27</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 13</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 27</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 13</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">80 MHz: 6</font></font></li>
@@ -687,19 +687,19 @@
             <tr>
               <td>Máxima potencia de transmisión conducida</td>
               <td colspan="5"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz: 27 dBm con 2 antenas</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz: 25 dBm con 2 antenas</font></font></li>
               </ul></td>
               <td colspan="4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542D</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz: 27 dBm con 2 antenas</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz: 25 dBm con 2 antenas</font></font></li>
               </ul></td>
             </tr>
             <tr>
               <td>Interfaz</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto WAN Ethernet 10/100/1000BASE-T, detección automática (RJ-45), entrada PoE</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de gestión (RJ-45)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED multicolor/botón de reinicio</font></font></li>
@@ -719,9 +719,9 @@
             </tr>
             <tr>
               <td>Ambiental</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-40 a 65 °C (-40 a 149 °F) aire ambiente sin carga solar</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-40 a 55 °C (-40 a 131 °F) aire ambiente con carga solar</font></font></li>
                   </ul>
@@ -729,7 +729,7 @@
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de almacenamiento: -50 a 85 °C (-40 a 185 °F)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad: 5 - 95%, sin condensación</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Resistencia al viento:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vientos sostenidos de hasta 100 MPH</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ráfagas de viento de hasta 165 MPH</font></font></li>
                   </ul>
@@ -738,7 +738,7 @@
             </tr>
             <tr>
               <td>Calificaciones Ambientales</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60529 IP67</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protección contra formación de hielo: NEMA 250-2008</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corrosión: NEMA 250-2008 (600 horas)</font></font></li>
@@ -748,7 +748,7 @@
             </tr>
             <tr>
               <td>Antenas</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542I: radomo de antena omnidireccional integrada de doble banda con polarización vertical, 5 dBi (2,4 Ghz) y 5 dBi (5,8 GHz) **</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1542D: radomo de antena direccional integrada de doble banda y doble polarización, polarizada verticalmente 8 dBi (2,4 GHz), 9 dBi (5 GHz)</font></font></li>
                 </ul>
@@ -756,10 +756,10 @@
             </tr>
             <tr>
               <td>Opciones de alimentación</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3af, 802.3at</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inyectores de potencia Cisco:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-PWRINJ-60RGD1= (nominal para exteriores, 60 W, con enchufe de CA NEMA 5-15)</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-PWRINJ-60RGD2= (exterior nominal, 60 W, cable de CA sin terminación)</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-PWRINJ5= (interior, 802.3af)</font></font></li>
@@ -774,9 +774,9 @@
             </tr>
             <tr>
               <td>Cumplimiento</td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL60950, 2.ª edición</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.º 60950, 2ª edición</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC 60950, 2.ª edición</font></font></li>
@@ -784,7 +784,7 @@
                   </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&lt;= 5 mJ para 6kV/3kA a 8/20 ms de forma de onda</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ANSI/IEEE C62.41</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-4-5 Inmunidad a sobretensiones de CA de nivel 4</font></font></li>
@@ -795,7 +795,7 @@
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">aprobaciones de radio
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC Parte 15.247, 15.407</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Boletín de la FCC OET-65C</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-247</font></font></li>
@@ -808,14 +808,14 @@
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EMI y susceptibilidad
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC parte 15.107, 15.109</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CIEM-003</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-1, -17</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puente inalámbrico/malla (disponibilidad futura)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Certificados digitales X.509</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación de direcciones MAC</font></font></li>
@@ -823,7 +823,7 @@
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso inalámbrico
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, acceso protegido Wi-Fi 2 (WPA2) y WPA</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación 802.1X, incluido el Protocolo de autenticación extensible (EAP) y EAP protegido (EAP -PEAP), Seguridad de la capa de transporte EAP (EAP-TLS), TLS tunelizado EAP (EAP-TTLS), Módulo de identidad de suscriptor EAP - (EAP-SIM ) y Cisco LEAP</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">transferencia de VPN</font></font></li>

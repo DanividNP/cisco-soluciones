@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 heading text-center">
                 <h2 class="title2">Cisco Aironet Power Injector<br>
-                    <span class="title-desc">Puntos de acceso inalámbricos de alto rendimiento </span>
+                    <span class="title-desc">Puntos de access inalámbricos de alto rendimiento </span>
                 </h2>
             </div>
        		</div> <!-- Title row end -->

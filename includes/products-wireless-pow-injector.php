@@ -105,19 +105,19 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coneccion LAN</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Longitud máxima del cable de fibra: 2 km</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo: MT-RJ (fibra multimodo)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiqueta: 100BASE-FX a la red</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidad: 100Mbps</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dúplex: Completo</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Longitud máxima del cable Cat 5: 100 m desde el interruptor hasta el dispositivo</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo: RJ-45</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiqueta: 10/100BASE-TX a la red</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Longitud máxima del cable de categoría 5: 100 m desde el interruptor hasta el dispositivo</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo: RJ-45</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiqueta: 10/100/1000 BASE-TX A INTERRUPTOR</font></font></li>
@@ -125,7 +125,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conexión del dispositivo</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Longitud máxima del cable Cat 5: 100 m</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo: RJ-45</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiqueta: 100BASE-TX al dispositivo</font></font></li>
@@ -133,12 +133,12 @@
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dúplex: Completo</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MDI-X automático</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Longitud máxima del cable Cat 5: 100 m desde el interruptor hasta el dispositivo</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo: RJ-45</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiqueta: 10/100BASE-TX al dispositivo</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Longitud máxima del cable Cat 5: 100 m desde el interruptor hasta el dispositivo</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo: RJ-45</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Etiqueta: 10/100/1000BASE-TX a AP</font></font></li>
@@ -146,11 +146,11 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 - Estado de energía</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conectividad de enlace ascendente</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 - Estado de energía</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conectividad del dispositivo</font></font></li>
               </ul></td>
@@ -170,15 +170,15 @@
           </tr>
           <tr>
             <td rowspan="2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eléctrico</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voltaje de entrada (suministrado por una fuente de alimentación externa) 48 V CC ± 10 %, 18 vatios</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voltaje de salida: 48 VCC</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voltaje de entrada (suministrado por una fuente de alimentación externa) 48 V CC ± 10 %, 18 vatios</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voltaje de salida: 48 VCC</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuente de alimentación integrada</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voltaje de entrada: 100-240 VCA, 50/60 Hz</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voltaje de salida: 56 VCC</font></font></li>
@@ -186,15 +186,15 @@
               &nbsp;</td>
           </tr>
           <tr>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corriente de entrada: .380A</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corriente de salida: .320A</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corriente de entrada: .380A</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corriente de salida: .320A</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corriente de entrada: 0.95A</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corriente de salida: 0.550A</font></font></li>
               </ul></td>
@@ -219,16 +219,16 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">32° a 104° F (0° a 40° C)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-90 % de humedad (sin condensación)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Certificación UL 2043 para instalaciones de espacios de aire ambientales cuando se utiliza el cable flexible de suministro de energía suministrado</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">32° a 113° F (0° a 45° C)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-90 % de humedad (sin condensación)</font></font></li>
               </ul></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura sin funcionamiento: -40 a +176 °F (-40 a +85 °C)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: -4 a +131 °F (-20 a +55 °C)</font></font></li>
               </ul></td>

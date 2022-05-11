@@ -163,7 +163,7 @@
                                 <p align="justify">El controlador inalámbrico Cisco 3504 proporciona control, administración y resolución de problemas centralizados para pequeñas y medianas empresas y sucursales. Ofrece flexibilidad para admitir múltiples modos de implementación en el mismo controlador: un modo centralizado para entornos de campus, el modo Cisco FlexConnect® para sucursales eficientes administradas a través de WAN y un modo de malla (puente) para implementaciones en las que no se dispone de cableado Ethernet completo. Como componente de la red inalámbrica unificada de Cisco, el controlador 3504 proporciona comunicaciones en tiempo real entre los puntos de acceso Cisco Aironet®, la infraestructura Cisco Prime® y el motor de servicios de movilidad de Cisco, y es interoperable con los controladores inalámbricos Cisco 5520 y 8540.</p><br>
                                 <p align="justify">La arquitectura de red digital de Cisco (Cisco DNA) es una arquitectura abierta y extensible impulsada por software que acelera y simplifica las operaciones de red de su empresa. La arquitectura programable libera a su personal de TI de tareas de configuración de red repetitivas y que consumen mucho tiempo para que puedan concentrarse en la innovación que transforma positivamente su negocio. SD-Access, como parte de Cisco DNA, permite la automatización basada en políticas desde el borde hasta la nube con capacidades fundamentales. Cisco DNA Assurance, también parte de Cisco DNA, proporciona una fuente única para monitorear, modificar y administrar su red y datos de aplicaciones.</p><br>
                                 <p align="justify">El controlador inalámbrico Cisco 3504 con tecnología Cisco Multigigabit Ethernet está optimizado para el rendimiento 802.11ac Wave 2, alta escala y tiempo de actividad del sistema mejorado. Ofrece:</p><br>
-                                 <ul>
+                                 <ul class="listas">
                                      <li>Telemetría de transmisión y programabilidad impulsada por la intención.</li>
                                      <li>Funcionamiento silencioso, con un factor de forma pequeño y un diseño compacto, ideal para implementaciones con limitaciones de espacio, lo que brinda flexibilidad sin comprometer las características.</li>
                                      <li>Tecnología Cisco Multigigabit Ethernet para admitir implementaciones 802.11ac Wave 2 de próxima generación utilizando la infraestructura de cableado existente.</li>
@@ -184,7 +184,7 @@
                             <div class="tab-pane" id="tab4">
                                 <h2>Características </h2>
                                 <div class="table-responsive">
-          <table class="table table-hover table-bordered">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
             <thead>
               <tr>
                 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></th>
@@ -204,7 +204,7 @@
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Escalabilidad y rendimiento</font></font></td>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Optimizado para permitir redes 802.11ac Wave 2 de próxima generación, compatible con:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rendimiento de 4 Gbps</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">150 puntos de acceso</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3000 clientes</font></font></li>
@@ -214,22 +214,22 @@
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flexibilidad y facilidad de implementación</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Solo 10 pulgadas. </font><font style="vertical-align: inherit;">(25 cm) de profundidad para encajar perfectamente en gabinetes de profundidad reducida o implementaciones de escritorio</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Operación silenciosa y sin ventilador para despliegue en gabinete o escritorio (temperatura ambiente de hasta 86 °F [30 °C]). </font><font style="vertical-align: inherit;">Los ventiladores son utilizados por el controlador solo bajo ciertas condiciones</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Para una implementación rápida y fácil, los puntos de acceso se pueden conectar directamente al controlador a través de dos puertos Power Over Ethernet (PoE)</font></font></li>
                   </ul></td>
               </tr>
               <tr>
-                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gestión de RF</font></font></td>
-                <td><ul>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestión de RF</font></font></td>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Identifica y mitiga proactivamente la interferencia de la señal para un mejor rendimiento</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Proporciona información histórica y en tiempo real sobre la interferencia de RF que afecta el rendimiento de la red en los controladores, a través de la integración de todo el sistema con la tecnología Cisco CleanAir.</font></font></li>
                   </ul></td>
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Multimodo con puntos de acceso de malla interior/exterior</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controlador versátil compatible con implementaciones centralizadas, distribuidas y de malla para su uso en diferentes lugares de la red, lo que ofrece la máxima flexibilidad para redes de campus, empresas y sucursales de tamaño mediano</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Control centralizado, gestión y solución de problemas de clientes</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso de cliente sin inconvenientes en caso de falla del enlace WAN (conmutación de datos locales)</font></font></li>
@@ -240,7 +240,7 @@
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad integral de extremo a extremo</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ofrece control y aprovisionamiento de puntos de acceso inalámbricos (CAPWAP) compatible con cifrado de seguridad de capa de transporte de datos (DTLS) en el plano de control entre puntos de acceso y controladores a través de enlaces WAN remotos</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La protección del marco de administración detecta usuarios maliciosos y alerta a los administradores de red</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detección no autorizada para el cumplimiento de la industria de tarjetas de pago (PCI)</font></font></li>
@@ -249,14 +249,14 @@
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voz de extremo a extremo</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admite Comunicaciones unificadas de Cisco para mejorar la colaboración a través de mensajería, presencia y conferencias</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admite todos los teléfonos IP unificados de Cisco para servicios de voz rentables en tiempo real</font></font></li>
                   </ul></td>
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tolerancia a fallos y alta disponibilidad</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso de subsegundos y conmutación por error del cliente para una disponibilidad ininterrumpida de la aplicación</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conectividad redundante de 1 Gigabit Ethernet o Cisco Multigigabit Ethernet (hasta 5 Gigabit Ethernet)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Almacenamiento basado en dispositivos de estado sólido: sin piezas móviles</font></font></li>
@@ -265,26 +265,26 @@
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Malla inalámbrica empresarial de Cisco</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que los puntos de acceso establezcan dinámicamente conexiones inalámbricas sin necesidad de una conexión física a la red cableada</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disponible en puntos de acceso seleccionados de Cisco Aironet, Enterprise Wireless Mesh es ideal para almacenes, plantas de fabricación, centros comerciales y cualquier otro lugar donde la extensión de una conexión por cable puede resultar difícil o estéticamente poco atractiva.</font></font></li>
                   </ul></td>
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuración exprés de WLAN</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Asistente de GUI simplificado para una configuración rápida y paneles intuitivos para monitorear y solucionar problemas</font></font></li>
                   </ul></td>
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vídeo de alto rendimiento</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La tecnología Cisco VideoStream optimiza la entrega de aplicaciones de video a través de la WLAN</font></font></li>
                   </ul></td>
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Movilidad, seguridad y administración para IPv6 y clientes de doble pila</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conectividad inalámbrica altamente segura y confiable y una experiencia uniforme para el usuario final</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mayor disponibilidad de la red a través del bloqueo proactivo de amenazas conocidas</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Equipa a los administradores para la planificación, solución de problemas y trazabilidad de clientes de IPv6 desde Cisco Prime Infrastructure.</font></font></li>
@@ -292,7 +292,7 @@
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eficiencia energética</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Las organizaciones pueden optar por apagar las radios de los puntos de acceso para reducir el consumo de energía durante las horas de menor actividad.</font></font></li>
                   </ul></td>
               </tr>
@@ -302,14 +302,12 @@
 </div>      
                             
                             <div class="tab-pane" id="tab2">
-                                <h3>Especificaciones Tecnicas:</h3>
+                                <h3>Especificaciones Técnicas:</h3>
                                 <br>
-
-                                <div class="table-responsive">
-          <table class="table table-hover table-bordered">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
             <thead>
               <tr>
-                <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+                <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
                 <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificaciones</font></font></th>
               </tr>
             </thead>
@@ -324,7 +322,7 @@
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Solicitud de datos para comentarios (RFC)</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 768 UDP</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IP RFC 791</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2460 IPv6</font></font></li>
@@ -341,10 +339,10 @@
               </tr>
               <tr>
                 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas de seguridad</font></font></td>
-                <td><ul>
+                <td><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso Wi-Fi Protegido (WPA)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11i (WPA2, RSN)</font></font></li>
-                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmo de resumen de mensajes RFC 1321 MD5</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmo de resumen de mensaje RFC 1321 MD5</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1851 Carga útil de seguridad encapsulada (ESP) Transformación del estándar de cifrado de datos triple (3DES)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2104 HMAC: hash con clave para la autenticación de mensajes</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2246 Protocolo de seguridad de la capa de transporte (TLS) Versión 1.0</font></font></li>
@@ -357,126 +355,124 @@
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2409 Intercambio de claves de Internet (IKE)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmos de cifrado en modo RFC 2451 ESP Cipher Block Chaining (CBC)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 3280 Internet X.509 Certificado de infraestructura de clave pública (PKI) y perfil de lista de revocación de certificados (CRL)</font></font></li>
-                    <li>RFC 4347 Datagram Transport Layer Security</li>
-                    <li>RFC 5426 TLS Protocol Version 1.2</li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 4347 Seguridad de la capa de transporte de datagramas</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 5426 Protocolo TLS Versión 1.2</font></font></li>
                   </ul></td>
               </tr>
               <tr>
-                <td>Encryption</td>
-                <td>Wired Equivalent Privacy (WEP) and Temporal Key Integrity Protocol-Message Integrity Check
-                  (TKIP-MIC):
-                  <ul>
-                    <li>RC4 40, 104 and 128 bits (both static and shared keys)</li>
-                    <li>Advanced Encryption Standard (AES): CBC, Counter with CBC-MAC (CCM), Counter with CBC Message Authentication Code Protocol (CCMP)</li>
-                    <li>Data Encryption Standard (DES): DES-CBC, 3DES</li>
-                    <li>Secure Sockets Layer (SSL) and TLS: RC4 128-bit and RSA 1024- and 2048-bit</li>
-                    <li>DTLS: AES-CBC</li>
-                    <li>IPsec: DES-CBC, 3DES, AES-CBC</li>
-                    <li>802.1AE MACsec encryption</li>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado</font></font></td>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privacidad equivalente por cable (WEP) y Protocolo de integridad de clave temporal-Comprobación de integridad de mensajes (TKIP-MIC):
+                  </font></font><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RC4 40, 104 y 128 bits (tanto claves estáticas como compartidas)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES): CBC, contador con CBC-MAC (CCM), contador con protocolo de código de autenticación de mensajes CBC (CCMP)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado de datos (DES): DES-CBC, 3DES</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capa de sockets seguros (SSL) y TLS: RC4 de 128 bits y RSA de 1024 y 2048 bits</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DTLS: AES-CBC</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IPsec: DES-CBC, 3DES, AES-CBC</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado 802.1AE MACsec</font></font></li>
                   </ul></td>
               </tr>
               <tr>
-                <td>Authentication, Authorization, and Accounting (AAA)</td>
-                <td><ul>
-                    <li>IEEE 802.1X</li>
-                    <li>RFC 2548 Microsoft Vendor-Specific RADIUS Attributes</li>
-                    <li>RFC 2716 Point-to-Point Protocol (PPP) Extensible Authentication Protocol (EAP)-TLS</li>
-                    <li>RFC 2865 RADIUS Authentication</li>
-                    <li>RFC 2866 RADIUS Accounting</li>
-                    <li>RFC 2867 RADIUS Tunnel Accounting</li>
-                    <li>RFC 2869 RADIUS Extensions</li>
-                    <li>RFC 3576 Dynamic Authorization Extensions to RADIUS</li>
-                    <li>RFC 5176 Dynamic Authorization Extensions to RADIUS</li>
-                    <li>RFC 3579 RADIUS Support for EAP</li>
-                    <li>RFC 3580 IEEE 802.1X RADIUS Guidelines</li>
-                    <li>RFC 3748 EAP</li>
-                    <li>Web-based authentication</li>
-                    <li>TACACS support for management users</li>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación, autorización y contabilidad (AAA)</font></font></td>
+                <td><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.1X</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2548 Atributos de RADIUS específicos del proveedor de Microsoft</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2716 Protocolo punto a punto (PPP) Protocolo de autenticación extensible (EAP)-TLS</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2865 RADIUS Autenticación</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2866 RADIUS Contabilidad</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2867 Contabilidad de túnel RADIUS</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2869 RADIUS Extensiones</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Extensiones de autorización dinámica RFC 3576 a RADIUS</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Extensiones de autorización dinámica RFC 5176 a RADIUS</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte RFC 3579 RADIUS para EAP</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pautas RFC 3580 IEEE 802.1X RADIUS</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 3748 PAE</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación basada en web</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soporte TACACS para usuarios de administración</font></font></li>
                   </ul></td>
               </tr>
               <tr>
-                <td>Management</td>
-                <td><ul>
-                    <li>Simple Network Management Protocol (SNMP) v1, v2c, v3</li>
-                    <li>RFC 854 Telnet</li>
-                    <li>RFC 1155 Management Information for TCP/IP-Based Internets</li>
-                    <li>RFC 1156 MIB</li>
-                    <li>RFC 1157 SNMP</li>
-                    <li>RFC 1213 SNMP MIB II</li>
-                    <li>RFC 1350 Trivial File Transfer Protocol (TFTP)</li>
-                    <li>RFC 1643 Ethernet MIB</li>
-                    <li>RFC 2030 Simple Network Time Protocol (SNTP)</li>
-                    <li>RFC 2616 HTTP</li>
-                    <li>RFC 2665 Ethernet-Like Interface Types MIB</li>
-                    <li>RFC 2674 Definitions of Managed Objects for Bridges with Traffic Classes, Multicast Filtering, and Virtual Extensions</li>
-                    <li>RFC 2819 Remote Monitoring RMON MIB</li>
-                    <li>RFC 2863 Interfaces Group MIB</li>
-                    <li>RFC 3164 Syslog</li>
-                    <li>RFC 3414 User-Based Security Model (USM) for SNMPv3</li>
-                    <li>RFC 3418 MIB for SNMP</li>
-                    <li>RFC 3636 Definitions of Managed Objects for IEEE 802.3 MAUs</li>
-                    <li>Cisco private MIBs</li>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración</font></font></td>
+                <td><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolo simple de administración de redes (SNMP) v1, v2c, v3</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 854 Telnet</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1155 Información de gestión para Internet basadas en TCP/IP</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1156 MIB</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1157 SNMP</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1213 SNMP MIBII</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1350 Protocolo trivial de transferencia de archivos (TFTP)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIB Ethernet RFC 1643</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2030 Protocolo de tiempo de red simple (SNTP)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2616 HTTP</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2665 Tipos de interfaz similar a Ethernet MIB</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2674 Definiciones de objetos administrados para puentes con clases de tráfico, filtrado de multidifusión y extensiones virtuales</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2819 Supervisión remota RMON MIB</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIB de grupo de interfaces RFC 2863</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Registro del sistema RFC 3164</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 3414 Modelo de seguridad basado en el usuario (USM) para SNMPv3</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 3418 MIB para SNMP</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 3636 Definiciones de objetos administrados para IEEE 802.3 MAU</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIB privadas de Cisco</font></font></li>
                   </ul></td>
               </tr>
               <tr>
-                <td>Management interfaces</td>
-                <td><ul>
-                    <li>Web-based: HTTP/HTTPS</li>
-                    <li>Command-line interface: Telnet, Secure Shell (SSH) Protocol, serial port</li>
-                    <li>Cisco Prime Infrastructure</li>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces de gestión</font></font></td>
+                <td><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Basado en web: HTTP/HTTPS</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de línea de comandos: Telnet, protocolo Secure Shell (SSH), puerto serie</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Infraestructura principal de Cisco</font></font></li>
                   </ul></td>
               </tr>
               <tr>
-                <td>Interfaces and indicators</td>
-                <td><ul>
-                    <li>1x Multigigabit Ethernet interface (up to 5 Gigabit Ethernet) + 4x 1 Gigabit Ethernet interfaces (RJ-45)</li>
-                    <li>1x service port: 1 Gigabit Ethernet port (RJ-45)</li>
-                    <li>1x redundancy port: 1 Gigabit Ethernet port (RJ-45)</li>
-                    <li>1x console port: Serial port (RJ-45)</li>
-                    <li>1x console port: Serial port (mini-B USB)</li>
-                    <li>1x USB 3.0 port</li>
-                    <li>LED indicators: Network link, diagnostics</li>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces e indicadores</font></font></td>
+                <td><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 interfaz Multigigabit Ethernet (hasta 5 Gigabit Ethernet) + 4 interfaces de 1 Gigabit Ethernet (RJ-45)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 puerto de servicio: 1 puerto Gigabit Ethernet (RJ-45)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 puerto de redundancia: 1 puerto Gigabit Ethernet (RJ-45)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 puerto de consola: puerto serie (RJ-45)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 puerto de consola: puerto serie (mini-B USB)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 puerto USB 3.0</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicadores LED: enlace de red, diagnóstico</font></font></li>
                   </ul></td>
               </tr>
               <tr>
-                <td>Physical and environmental</td>
-                <td>Dimensions: 1.73 x 9.5 x 8.5 in. (43.94 x 214.3 x 215.9 mm)<br>
-                  Weight: 4.4lbs<br>
-                  Temperature:<br>
-                  Operating: 32 to 104 °F (0 to 40°C)<br>
-                  Storage: -4 to 158 °F (-20 to 70°C)<br>
-                  Humidity:<br>
-                  Operating Humidity: 5% to 95% RH non-condensing<br>
-                  Storage Humidity: 0% to 95% RH non-condensing<br>
-                  Power adapter: Input power: 100 to 240 VAC; 50/60 Hz<br>
-                  Heat dissipation(without PoE): 47W, 160BTU/hr<br>
-                  Heat dissipation(with PoE): 98W, 335BTU/hr </td>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Físico y ambiental</font></font></td>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones: 1,73 x 9,5 x 8,5 pulg. (43,94 x 214,3 x 215,9 mm) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Peso: 4,4 libras </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Temperatura: </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  En funcionamiento: 32 a 104 °F (0 a 40 °C) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Almacenamiento: -4 a 158 °F (-20 a 70 °C) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Humedad: </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Humedad de funcionamiento: 5 % a 95 % de HR sin condensación </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Humedad de almacenamiento: 0 % a 95 % de HR sin condensación </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Adaptador de alimentación: Alimentación de entrada: 100 a 240 VCA; </font><font style="vertical-align: inherit;">50/60 Hz </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Disipación de calor (sin PoE): 47 W, 160 BTU/h </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                  Disipación de calor (con PoE): 98 W, 335 BTU/h</font></font></td>
               </tr>
               <tr>
-                <td>Regulatory compliance</td>
-                <td>CE Markings per directives 2004/108/EC and 2006/95/EC Safety:
-                  <ul>
-                    <li>UL 60950-1 Second Edition</li>
-                    <li>CAN/CSA-C22.2 No. 60950-1 Second Edition</li>
-                    <li>EN 60950-1 Second Edition</li>
-                    <li>IEC 60950-1 Second Edition</li>
-                    <li>AS/NZS 60950-1</li>
-                    <li>GB4943 2011 EMC - Emissions:</li>
-                    <li>47CFR Part 15 (CFR 47) Class B</li>
-                    <li>AS/NZS CISPR22 Class B</li>
-                    <li>EN 55032 Class B</li>
-                    <li>ICES003 Class A VCCI Class B</li>
-                    <li>EN 61000-3-2 EN 61000-3-3 KN22 Class B</li>
-                    <li>CNS13438 Class B EMC - Immunity:</li>
-                    <li>EN 55024</li>
-                    <li>CISPR24</li>
-                    <li>EN 300386</li>
-                    <li>KN24</li>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento normativo</font></font></td>
+                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Marcas CE según las directivas 2004/108/EC y 2006/95/EC Seguridad:
+                  </font></font><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1 Segunda edición</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 No. 60950-1 Segunda edición</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1 Segunda edición</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC 60950-1 Segunda edición</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GB4943 2011 CEM - Emisiones:</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47CFR Parte 15 (CFR 47) Clase B</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS CISPR22 Clase B</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 Clase B</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICES003 Clase A VCCI Clase B</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 61000-3-2 EN 61000-3-3 KN22 Clase B</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CNS13438 Clase B EMC - Inmunidad:</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55024</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR24</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ES 300386</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KN24</font></font></li>
                   </ul></td>
               </tr>
             </tbody>
           </table>
-        </div>
 </div>
                             <div class="tab-pane" id="tab3">
                                 <h2>Documentación:</h2>

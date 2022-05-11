@@ -193,7 +193,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9117AXI: entornos interiores, con antenas internas
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9117AXI-x: Cisco Catalyst 9117</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 Dominios reglamentarios: (x = dominio reglamentario) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -202,21 +202,21 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software de red inalámbrica unificada de Cisco, versión 8.9 o posterior</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software Cisco IOS® XE, versión 16.11 o posterior</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores de LAN inalámbrica compatibles</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de la serie Cisco Catalyst 9800</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de las series 3500, 5520 y 8540 de Cisco y controlador inalámbrico virtual de Cisco</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11n versión 2.0 (y relacionadas)</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8x8 MIMO con cuatro flujos espaciales para la banda de 5 GHz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x4 MIMO con cuatro flujos espaciales para la banda de 2,4 GHz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Combinación de relación máxima (MRC)</font></font></li>
@@ -228,7 +228,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MU-MIMO de enlace descendente 8x8 con ocho flujos espaciales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MRC</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">formación de haces 802.11ac</font></font></li>
@@ -240,7 +240,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ax</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8x8 MIMO con ocho flujos espaciales para la banda de 5 GHz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x4 MIMO con cuatro flujos espaciales para la banda de 2,4 GHz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OFDMA de enlace descendente</font></font></li>
@@ -255,14 +255,14 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena integrada</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz, ganancia máxima de 4 dBi, antena interna, omnidireccional en acimut</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia máxima de 6 dBi, antena interna, omnidireccional en acimut</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1x 100, 1000, 2500, 5000 Multigigabit Ethernet (RJ-45) – IEEE 802.3bz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">USB 2.0 con hasta 3,75 W (habilitado mediante software futuro)</font></font></li>
@@ -270,26 +270,26 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicadores</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El LED de estado indica el estado del cargador de arranque, el estado de asociación, el estado operativo, las advertencias del cargador de arranque y los errores del cargador de arranque</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones (ancho x largo x alto)</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point (sin soporte de montaje ni características de montaje): 22 x 22 x 4,93 cm (8,70 x 8,70 x 1,94 pulg.)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access Point (sin soporte de montaje): 22 x 22 x 5,56 cm (8,70 x 8,70 x 2,19 pulg.)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3,02 libras (1,4 kg)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requisitos de potencia de entrada</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3at Alimentación a través de Ethernet Plus (PoE+), Cisco Universal PoE (Cisco UPOE®)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inyector de corriente Cisco, AIR-PWRINJ6=</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PoE 802.3af</font></font></li>
@@ -299,7 +299,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: 32° a 122°F (0° a 50°C)</font></font></li>
@@ -310,7 +310,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memoria del sistema</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2048MB DRAM</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flash de 1024 MB</font></font></li>
                 </ul></td>
@@ -406,7 +406,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuraciones de potencia de transmisión disponibles</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23 dBm (200 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17 dBm (50 mW)</font></font></li>
@@ -420,7 +420,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-6 dBm (0,25 mW)</font></font></li>
                 </ul></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">26 dBm (400 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23 dBm (200 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
@@ -437,98 +437,98 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Banda de frecuencia y canales operativos de 20 MHz</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A (un dominio regulador):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 B (dominio regulador B):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,865 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 C (dominio regulador C):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 D (dominio regulador D):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 E (dominio regulador E):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 F (dominio regulador F):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 G (dominio regulador G):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,865 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 H (dominio regulador H):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">I (I dominio regulador):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 K (dominio regulador K):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.620 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 N (N dominio regulador):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 Q (dominio regulador Q):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 R (dominio regulador R):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,660 a 5825 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.700 a 5.745 GHz)</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 S (dominio regulador S):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 T (dominio regulador T):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">12 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 Z (dominio regulador Z):
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
@@ -538,38 +538,38 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de canales que no se superponen</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b/g:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac/hacha:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
                 </ul></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 12 FCC, 7 UE</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac/hacha:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 12 FCC, 7 UE</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">80 MHz: 5 FCC, 3 UE</font></font></li>
@@ -581,7 +581,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cumplimiento</font></font></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1</font></font></li>
@@ -591,7 +591,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Equipo de clase III</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 32 (rev. 2015)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2012/AC:2013)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2015)</font></font></li>
@@ -608,12 +608,12 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TCVN 7189 (rev. 2009)</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 24 (rev. 2010)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55024/EN 55035 (rev. 2010)</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones e inmunidad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-1 (v2.1.1 2017-02)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-17 (v3.1.1 2017-02)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QCVN (18:2014)</font></font></li>
@@ -622,7 +622,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60601 (1-1:2015)</font></font></li>
                 </ul></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 328 (v2.1.1)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 893 (v2.1.1)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 4268 (rev. 2017)</font></font></li>
@@ -635,7 +635,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">estándar de Japón </font><font style="vertical-align: inherit;">33a, estándar. </font><font style="vertical-align: inherit;">66 y estándar. </font><font style="vertical-align: inherit;">71</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad RF:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 50385 (rev. agosto 2002)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARPANSA</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 2772 (rev. 2016)</font></font></li>
@@ -645,7 +645,7 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-102</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas IEEE:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE802.3</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3ab</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3af/en</font></font></li>
@@ -653,13 +653,13 @@ Trabajando juntos, Cisco Catalyst 9117 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11h, 802.11d</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, Acceso Wi-Fi protegido 2 (WPA2), WPA</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES)</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipos de protocolo de autenticación extensible (EAP):</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Seguridad de la capa de transporte (TLS)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Tunneled TLS (TTLS) o Microsoft Challenge Handshake Authentication Protocol versión 2 (MSCHAPv2)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP protegido (PEAP) v0 o EAP-MSCHAPv2</font></font></li>

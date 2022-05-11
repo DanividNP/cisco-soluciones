@@ -118,7 +118,7 @@
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Captura inteligente</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que los puntos de acceso determinen de forma inteligente el modo de funcionamiento de las radios de servicio en función del entorno de RF. </font><font style="vertical-align: inherit;">Los puntos de acceso pueden operar en los siguientes modos:
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modo de 2,4 GHz y 5 GHz: un radio atenderá a los clientes en el modo de 2,4 GHz, mientras que el otro atenderá a los clientes en el modo de 5 GHz.</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modo dual de 5 GHz: ambas radios dentro del punto de acceso funcionan en la banda de 5 GHz, lo que maximiza los beneficios de Wi-Fi 6 y aumenta la capacidad del dispositivo cliente.</font></font></li>
                 </ul></td>
@@ -213,15 +213,15 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Números de parte</font></font></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9120I: entornos interiores, con antenas internas</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9120AXI-x: Cisco Catalyst serie 9120</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9120E: interiores, entornos desafiantes, con antenas externas</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9120AXE-x: Cisco Catalyst serie 9120</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9120P: instalaciones profesionales para interiores</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9120AXP-x: Cisco Catalyst serie 9120</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 Dominios reglamentarios: (x = dominio reglamentario) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -230,21 +230,21 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software de red inalámbrica unificada de Cisco, versión 8.9 o posterior</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco IOS ® XE Software Release 16.11 con AP Device Pack, o posterior</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores de LAN inalámbrica compatibles</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de la serie Cisco Catalyst 9800</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de las series 3500, 5520 y 8540 de Cisco y controlador inalámbrico virtual de Cisco</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11n versión 2.0 (y relacionadas)</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4x4 MIMO con cuatro secuencias espaciales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Combinación de relación máxima (MRC)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Formación de haces 802.11n y 802.11a/g</font></font></li>
@@ -257,7 +257,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MU-MIMO de enlace descendente 8x8 con ocho flujos espaciales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MRC</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">formación de haces 802.11ac</font></font></li>
@@ -270,7 +270,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ax</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlace descendente 4x4 MU-MIMO con cuatro flujos espaciales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OFDMA de enlace ascendente/descendente</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TWT</font></font></li>
@@ -287,7 +287,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena integrada</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio flexible (ya sea en 2,4 GHz o en 5 GHz)
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz, ganancia máxima de 4 dBi, antena interna, omnidireccional en acimut</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia máxima de 5 dBi, antena interna, omnidireccional en acimut</font></font></li>
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -298,7 +298,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena externa (se vende por separado)</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso Cisco Catalyst 9120E están certificados para su uso con ganancias de antena de hasta 6 dBi (2,4 GHz y 5 GHz)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los puntos de acceso Cisco Catalyst 9120P) están certificados para su uso con ganancias de antena de hasta 13 dBi (2,4 GHz y 5 GHz) con la antena AIR-ANT2513-P4M-N=</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco ofrece la selección de antenas más amplia de la industria, brindando una cobertura óptima para una variedad de escenarios de implementación</font></font></li>
@@ -307,7 +307,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector de antena inteligente</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disponible solo en el 9120E y en el 9120P</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conector multi RF compacto con interfaz DART</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requiere el conector de antena inteligente AIR-CAB002-DART-R= de 2 pies cuando se usa con antenas con conector RP-TNC</font></font></li>
@@ -316,7 +316,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1x 100, 1000, 2500 Multigigabit Ethernet (RJ-45) – IEEE 802.3bz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">USB 2.0 @ 3.75W (habilitado a través de software futuro)</font></font></li>
@@ -324,30 +324,30 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicadores</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El LED de estado indica el estado del cargador de arranque, el estado de asociación, el estado operativo, las advertencias del cargador de arranque y los errores del cargador de arranque</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones (ancho x largo x alto)</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso (sin soportes de montaje): C9120I: 8,5 x 8,5 x 1,7 pulgadas (21,6 x 21,6 x 4,3 cm), C9120E y C9120P: 8,5 x 8,05 x 2,0 pulgadas (21,6 x 21,6 x 5,1 cm)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso</font></font></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco catalizador 9120I</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,87 libras (1,3 kg)</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst 9120E/P</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 libras (1,36 kg)</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requisitos de potencia de entrada</font></font></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3at Alimentación a través de Ethernet Plus (PoE+), Cisco Universal PoE (Cisco UPOE®)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inyector de corriente Cisco, AIR-PWRINJ6=</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PoE 802.3af</font></font></li>
@@ -357,7 +357,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst 9120AXI</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: 32° a 122°F (0° a 50°C)</font></font></li>
@@ -366,7 +366,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                 </ul><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 Nota: cuando la temperatura ambiente de funcionamiento supere los 40 °C, el punto de acceso cambiará de 4x4 a 2x2 en las radios de 2,4 GHz y 5 GHz, el enlace ascendente Ethernet se degradará a 1 Gigabit Ethernet; sin embargo, la interfaz USB permanecerá habilitada </font></font><br>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cisco Catalyst 9120AXE y 9120AXP</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies.</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: -4° a 122°F (-20° a 50°C)</font></font></li>
@@ -395,7 +395,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr>
             <tr>
               <td rowspan="11"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Poder de dibujo</font></font></td>
-              <td colspan="6"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9120AXI</font></font></strong></td>
+              <td colspan="7"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9120AXI</font></font></strong></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Consumo de energía PoE</font></font></strong></td>
@@ -479,7 +479,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuraciones de potencia de transmisión disponibles</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23 dBm (200 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17 dBm (50 mW)</font></font></li>
@@ -492,7 +492,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-4dBm (0,39 mW)</font></font></li>
                 </ul></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">26 dBm (400 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23 dBm (200 mW)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
@@ -610,9 +610,9 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             <tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de canales que no se superponen</font></font></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11b/g:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
@@ -622,7 +622,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ax:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 3</font></font></li>
                     </ul>
                   </li>
@@ -630,18 +630,18 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz
                 </font></font><ul>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11a:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 12 FCC, 7 UE</font></font></li>
                     </ul>
                   </li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac/hacha:
-                    </font></font><ul>
+                    </font></font><ul class="listas">
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 MHz: 26 FCC, 16 UE</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">40 MHz: 12 FCC, 7 UE</font></font></li>
                       <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">80 MHz: 5 FCC, 3 UE</font></font></li>
@@ -652,7 +652,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
             </tr><tr>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cumplimiento</font></font></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1</font></font></li>
@@ -662,7 +662,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Equipo de clase III</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 32 (rev. 2015)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2012/AC:2013)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2015)</font></font></li>
@@ -682,12 +682,12 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TCVN 7189 (rev. 2009)</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 24 (rev. 2010)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55024/EN 55035 (rev. 2010)</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones e inmunidad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-1 (v2.1.1 2017-02)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-17 (v3.1.1 2017-02)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QCVN (18:2014)</font></font></li>
@@ -696,7 +696,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60601 (1-1:2015)</font></font></li>
                 </ul></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 328 (v2.1.1)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 893 (v2.1.1)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 4268 (rev. 2017)</font></font></li>
@@ -709,7 +709,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">estándar de Japón </font><font style="vertical-align: inherit;">33a, estándar. </font><font style="vertical-align: inherit;">66 y estándar. </font><font style="vertical-align: inherit;">71</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad RF:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 50385 (rev. agosto 2002)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARPANSA</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 2772 (rev. 2016)</font></font></li>
@@ -719,7 +719,7 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-102</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas IEEE:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE802.3</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3ab</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3af/en</font></font></li>
@@ -727,13 +727,13 @@ Trabajando juntos, Cisco Catalyst 9120 Series y Cisco DNA ofrecen característic
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11h, 802.11d</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad:</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, Acceso Wi-Fi protegido 2 (WPA2), WPA</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES)</font></font></li>
                 </ul>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipos de protocolo de autenticación extensible (EAP):</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Seguridad de la capa de transporte (TLS)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Tunneled TLS (TTLS) o Microsoft Challenge Handshake Authentication Protocol versión 2 (MSCHAPv2)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP protegido (PEAP) v0 o EAP-MSCHAPv2</font></font></li>

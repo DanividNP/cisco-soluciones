@@ -189,15 +189,15 @@
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Access point Cisco Catalyst 9105AX: entornos interiores, con antenas internas
                 
                 </font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI-x: Cisco Catalyst 9105 Series Access point Catalyst 9105AX: placa de pared, con antenas internas</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXW-x: Cisco Catalyst 9105 Series access point para teletrabajadores Cisco Catalyst 9105AX: Entornos interiores, con antenas internas</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXIT-x: Cisco Catalyst serie 9105 (se envía junto con el kit de infraestructura: inyector de alimentación y cables Ethernet) Access Point para teletrabajadores Cisco Catalyst 9105AX: placa de pared, con antenas internas</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXWT-x: Cisco Catalyst 9105 Series (se envía junto con el kit de placa de pared, base y cables Ethernet) Access Point Cisco Catalyst 9105AX: entornos interiores, con antenas internas, con controlador inalámbrico incorporado</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI-EWC-x: Cisco Catalyst serie 9105</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dominios reglamentarios: (x = dominio reglamentario)</font></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
@@ -210,26 +210,26 @@
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105 AXI
                 
                 </font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Versión de software de red inalámbrica unificada de Cisco 8.10.MR3 o posterior</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software Cisco IOS XE, versión 17.3.1 o posterior</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105AXW</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software de red inalámbrica unificada de Cisco, versión 8.10MR3 o posterior</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Versión de software Cisco IOS XE 17.3.1 o posterior</font></font></li>
                 </ul>                </td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores de LAN inalámbrica compatibles</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de la serie Cisco Catalyst 9800</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Controladores inalámbricos de las series 3500, 5520 y 8540 de Cisco y controlador inalámbrico virtual de Cisco</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacidades 802.11n versión 2.0 (y relacionadas)</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2x2 MIMO con dos flujos espaciales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Combinación de relación máxima (MRC)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11n y 802.11a/g</font></font></li>
@@ -242,7 +242,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlace descendente 2x2 MU-MIMO con dos flujos espaciales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MRC</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">formación de haces 802.11ac</font></font></li>
@@ -256,7 +256,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ax</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MU-MIMO de enlace ascendente/descendente 2x2 con dos flujos espaciales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OFDMA de enlace ascendente/descendente</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TWT</font></font></li>
@@ -274,12 +274,12 @@
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antena integrada</font></font></strong></td>
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105 AXI</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz: ganancia máxima de 3 dBi, antena interna</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz: ganancia máxima de 5 dBi, antena interna</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105AXW</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz: ganancia máxima de 4 dBi, antena interna, omnidireccional en acimut</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz: ganancia máxima de 5 dBi, antena interna, omnidireccional en acimut</font></font></li>
               </ul></td>
@@ -287,7 +287,7 @@
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces</font></font></strong></td>
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105 AXI</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 interfaz de enlace ascendente 100/1000/2500 Base-T (Ethernet)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de enlace descendente 3x 10/100/1000 Base-T (Ethernet) (LAN1, LAN2 y LAN3, LAN1 admite un presupuesto de energía PSE de 10,5 W)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></li>
@@ -295,7 +295,7 @@
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de paso</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105AXW</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 interfaz de enlace ascendente 10/100/1000 Base-T (Ethernet)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (RJ-45)</font></font></li>
               </ul></td>
@@ -306,14 +306,14 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones (ancho x largo x alto)</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXW:</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 3,54 x 6,3 x 1,3 pulg. (90 x 160 x 32,66 mm)</font></font></li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI:</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 5,9 x 5,9 x 1,18 pulg. (150 x 150 x 30 mm)</font></font></li>
               </ul></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXW:</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 0,8 libras (373,2 g)</font></font></li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9105AXI:</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 0,7 libras (329,5 g)</font></font></li>
               </ul></td>
@@ -321,14 +321,14 @@
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requisitos de potencia de entrada</font></font></strong></td>
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105 AXI</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3af (PoE)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio 2x2 de 2,4 GHz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio 2x2 de 5 GHz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Velocidad de enlace 1G</font></font></li>
                 </ul>
                 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105AXW</font></font></strong></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.3af (PoE) y 802.3at (PoE+)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio 2x2 de 2,4 GHz</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio 2x2 de 5 GHz</font></font></li>
@@ -340,7 +340,7 @@
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></strong></td>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105AXW</font></font></strong>
-                <ul>
+                <ul class="listas" >
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies (4600 m)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: 32° a 122°F (0° a 50°C)</font></font></li>
@@ -350,7 +350,7 @@
                 Nota: Cuando la temperatura ambiente de funcionamiento supere los 40 °C, el punto de acceso cambiará de 2x2 a 1x1 en la radio de 2,4 GHz y la interfaz USB y LAN1 PSE se desactivarán. </font></font><br>
                 <br>
                 <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalizador 9105 AXI</font></font></strong>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura no operativa (almacenamiento): -22° a 158°F (-30° a 70°C)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prueba de altitud no operativa (almacenamiento): 25 ˚C, 15 000 pies (4600 m)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento: -4° a 122°F (-20° a 50°C)</font></font></li>
@@ -361,15 +361,15 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuraciones de potencia de transmisión disponibles (Máx./Mín.)</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-7 dBm (0,2 mW)</font></font></li>
                   </ul>
                 </li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 dBm (100 mW)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-7 dBm (0,2 mW)</font></font></li>
                   </ul>
@@ -394,7 +394,7 @@
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento</font></font></strong></td>
               <td style="width:37%;"><ul>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1</font></font></li>
@@ -408,7 +408,7 @@
                   </ul>
                 </li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 32 (rev. 2015)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2012/AC:2013)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55032 (rev. 2015)</font></font></li>
@@ -426,7 +426,7 @@
                   </ul>
                 </li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 24 (rev. 2010)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55024 + AMD 1 (rev. 2010)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 55035: 2017</font></font></li>
@@ -434,7 +434,7 @@
                   </ul>
                 </li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emisiones e inmunidad:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-1 (v2.1.1 2017-02)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 489-17 (v3.1.1 2017-02)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QCVN (18:2014)</font></font></li>
@@ -448,7 +448,7 @@
               </ul>              </td>
               <td style="width:37%;"><ul>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 328 (v2.1.1)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301 893 (v2.1.1)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 4268 (rev. 2017)</font></font></li>
@@ -462,7 +462,7 @@
                   </ul>
                 </li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad RF:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 50385 (rev. agosto 2002)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARPANSA</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 2772 (rev. 2016)</font></font></li>
@@ -473,7 +473,7 @@
                     </ul>
                 </li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas IEEE:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE802.3</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3ab</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.3af/en</font></font></li>
@@ -482,14 +482,14 @@
                     </ul>
                 </li>
                 <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad:</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, Acceso Wi-Fi protegido 2 (WPA2), WPA3</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES)</font></font></li>
                     </ul>
                 </li>
                 <li>                  <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipos de protocolo de autenticación extensible (EAP):</font></font></strong>
-                  <ul>
+                  <ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Seguridad de la capa de transporte (TLS)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Tunneled TLS (TTLS) o Microsoft Challenge Handshake Authentication Protocol (MSCHAP) v2</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP protegido (PEAP) v0 o EAP-MSCHAP v2</font></font></li>

@@ -3,7 +3,7 @@
     <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h3 class="title-border">Controlador inalámbrico Cisco Catalyst 9800-80  </h3>
-                <h5>Basado en Cisco IOS XE e integra la excelencia RF de los puntos de acceso Cisco Aironet</h5>
+                <h5>Basado en Cisco IOS XE e integra la excelencia RF de los access point Cisco Aironet</h5>
                 <center> <img class="img-responsive" src="images/Wireless/Cata9800-80.png" alt=""></center>
 
     <!--/ Panel Inicio -->
@@ -69,7 +69,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características clave:  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Métrico</font></font></th>
@@ -130,7 +130,7 @@
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlaces ascendentes modulares (opcional)</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los módulos de enlace ascendente soportados son:
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-18X1GE(=)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-10X10GE(=)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-1X40GE(=)</font></font></li>
@@ -202,7 +202,7 @@
 
                                 <div role="tabpanel" class="tab-pane active" id="details">
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones físicas:</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensión</font></font></th>
@@ -227,7 +227,7 @@
           </tbody>
         </table>
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puertos y sus fines:</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto</font></font></th>
@@ -267,7 +267,7 @@
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlace ascendente modular</font></font></strong></td>
               <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Los módulos de enlace ascendente soportados son:
-                </font></font><ul>
+                </font></font><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-18X1GE(=)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-10X10GE(=)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C9800-1X40GE(=)</font></font></li>
@@ -280,7 +280,7 @@
           </tbody>
         </table>
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED del panel frontal</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DIRIGIÓ</font></font></th>
@@ -373,7 +373,7 @@
         <p align="justify">El Módulo de Entrada de Energía (PEM) proporciona energía redundante al sistema, y ​​el 9800-80 puede operar continuamente con solo un PEM instalado. Los PEM son intercambiables en caliente y el reemplazo de un solo PEM se puede realizar sin interrumpir la alimentación del sistema. Todas las conexiones externas a los PEM se realizan desde el panel posterior del chasis y se retiran o insertan desde la parte posterior. El interruptor de alimentación principal de la unidad se encuentra justo al lado de los PEM en la parte trasera del chasis.</p>
         <h3>Energía</h3>
 
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estado de la fuente de alimentación</font></font></th>
@@ -410,7 +410,7 @@
                                          <li><b>Visibilidad granular:</b> la telemetría basada en modelos proporciona un mecanismo para transmitir datos desde un controlador inalámbrico a un destino. Los datos que se transmiten se controlan mediante la suscripción a un conjunto de datos en un modelo YANG. El conjunto de datos suscritos se transmite al destino a intervalos configurados. Además, Cisco IOS XE habilita el modelo push, que proporciona un monitoreo de la red casi en tiempo real, lo que lleva a una rápida detección y rectificación de fallas.</li>
                                          <li><b>Actualizaciones y parches de software sin inconvenientes: </b>para mejorar la resiliencia del sistema operativo, Cisco IOS XE admite parches, que proporcionan correcciones para errores críticos y vulnerabilidades de seguridad entre las versiones de mantenimiento regulares. Este soporte permite a los clientes agregar parches sin tener que esperar a la próxima versión de mantenimiento.</li>
 </ul>
-                                    <h3>siempre encendido</h3>
+                                    <h3>Siempre encendido</h3>
                                     <ul>
                                         <li><b>Alta disponibilidad:</b> la conmutación con estado con un modo de espera activo 1:1 y redundancia N+1 mantiene su red, servicios y clientes siempre activos, incluso en eventos no planificados.</li>
                                         <li><b>Actualizaciones de mantenimiento de software (SMU, por sus siglas en inglés) con aplicación de parches en caliente y en frío:</b> la aplicación de parches permite instalar un parche como corrección de errores sin desconectar toda la red y elimina la necesidad de volver a calificar una imagen de software completa. La SMU es un paquete que se puede instalar en un sistema para proporcionar una solución de parche o una resolución de seguridad para una imagen publicada. Las SMU le permiten abordar el problema de la red rápidamente mientras reducen el tiempo y el alcance de las pruebas requeridas. La plataforma Cisco IOS XE valida internamente la compatibilidad de SMU y no le permite instalar SMU incompatibles. Todas las SMU están integradas en las versiones posteriores de mantenimiento del software Cisco IOS XE.</li>
@@ -453,10 +453,10 @@
 
                             <div class="tab-pane" id="tab5">
                                 <h2>Especificaciones: </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
@@ -469,7 +469,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de datos</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 768 Protocolo de datagramas de usuario (UDP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IP RFC 791</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2460 IPv6</font></font></li>
@@ -486,7 +486,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas de seguridad</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso Wi-Fi Protegido (WPA)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11i (WPA2, RSN)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmo de resumen de mensajes RFC 1321 MD5</font></font></li>
@@ -508,7 +508,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cifrado</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privacidad equivalente por cable estático (WEP) RC4 40, 104 y 128 bits</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES): encadenamiento de bloques de cifrado (CBC), contador con CBC-MAC (CCM), contador con protocolo de código de autenticación de mensajes CBC (CCMP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado de datos (DES): DES-CBC, 3DES</font></font></li>
@@ -520,7 +520,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de autenticación, autorización y contabilidad (AAA)</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.1X</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2548 Atributos de RADIUS específicos del proveedor de Microsoft</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2716 Protocolo punto a punto (PPP) Protocolo de autenticación extensible (EAP)-TLS</font></font></li>
@@ -539,7 +539,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de gestión</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolo simple de administración de redes (SNMP) v1, v2c, v3</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 854 Telnet</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1155 Información de gestión para Internet basadas en TCP/IP</font></font></li>
@@ -571,7 +571,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces de gestión</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Basado en web: HTTP/HTTPS</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de línea de comandos: Telnet, protocolo Secure Shell (SSH), puerto serie</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNMP</font></font></li>
@@ -580,44 +580,44 @@
             </tr>
             <tr>
               <td><strong>Unidades de disco duro (HDD)</strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li>Unidad de estado sólido SATA (SSD) </li>
                   <li>240 GB de memoria</li>
                 </ul></td>
             </tr>
             <tr>
               <td><strong>Condiciones ambientales soportadas</strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li> Temperatura de funcionamiento:
-                  <ul>
+                  <ul class="listas">
                     <li>Normal: 0° a 40° C(32° a 104°F) </li>
                     <li>Corto plazo: 0° a 50° C (32° a 122°F) </li>
                   </ul>
                 </li>
                 <li> Temperatura no operativa:
-                  <ul>
+                  <ul class="listas">
                     <li>-40°a 65° C (-104° a 149°F)</li>
                   </ul>
                 </li>
                 <li> Humedad de funcionamiento:
-                  <ul>
+                  <ul class="listas">
                     <li>Nominal: 10% a 90% sin condensación </li>
                     <li>Corto plazo: 10% a 90% sin condensación</li>
                   </ul>
                 </li>
                 <li> Humedad de temperatura no operativa:
-                  <ul>
+                  <ul class="listas">
                     <li>5% a 93% a 82°F (28°C)</li>
                   </ul>
                 </li>
                 <li> Altitud de funcionamiento:
-                  <ul>
+                  <ul class="listas">
                     <li>Aparato en funcionamiento: 0 a 3000 m (0 a 10 000 pies)</li>
                     <li>Dispositivo no operativo: 0 a 12 192 m (0 a 40 000 pies)</li>
                   </ul>
                 </li>
                 <li> Entrada eléctrica:
-                  <ul>
+                  <ul class="listas">
                     <li>Rango de frecuencia de entrada de CA: 47 a 63 Hz</li>
                     <li>Rango de entrada de CA: 90 a 264 VCA con PEM de CA</li>
                     <li>Rango de entrada de CC: -40 a -72 V CC con PEM de CC</li>
@@ -626,7 +626,7 @@
                 <li> Potencia máxima: 600W</li>
                 <li>Disipación de calor: 2047 BTU/hr</li>
                 <li>Medida de nivel de potencia sonora:
-                  <ul>
+                  <ul class="listas">
                     <li>El nivel de potencia de sonido con ponderación A es de 70,5 LpAm (dBA) a 27 °C de funcionamiento nominal</li>
                   </ul>
                 </li>
@@ -634,7 +634,7 @@
             </tr>
             <tr>
               <td><strong>Cumplimiento normativo</strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li> La seguridad:
                   <ul>
                     <li>UL/CSA 60950-1 </li>
@@ -644,7 +644,7 @@
                   </ul>
                 </li>
                 <li>CEM - Emisiones:
-                  <ul>
+                  <ul class="listas">
                     <li>FCC 47CFR15 </li>
                     <li>AS/NZS CISPR 22 </li>
                     <li>CISPR 22 </li>
@@ -656,13 +656,13 @@
                   </ul>
                 </li>
                 <li>CEM - Emisiones:
-                  <ul>
+                  <ul class="listas">
                     <li>EN61000-3-2 Armónicos de línea eléctrica (EMI-3) </li>
                     <li>EN61000-3-3 Cambios de voltaje, fluctuaciones y parpadeo (EMI-3)</li>
                   </ul>
                 </li>
                 <li>CEM – Inmunidad:
-                  <ul>
+                  <ul class="listas">
                     <li>IEC/EN61000-4-2 Inmunidad a descargas electrostáticas</li>
                     <li>Inmunidad radiada IEC/EN61000-4-3</li>
                     <li>Inmunidad IEC/EN61000-4-4 EFT-B (cables de alimentación de CA)</li>
@@ -678,7 +678,7 @@
                   </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM (ETSI/EN)
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 386 Equipo de red de telecomunicaciones (EMC) (EMC-3)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN55022 Equipos de tecnología de la información (emisiones)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN55024/CISPR 24 Equipo de tecnología de la información (inmunidad)</font></font></li>

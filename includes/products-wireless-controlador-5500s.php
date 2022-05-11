@@ -107,7 +107,7 @@
                             <div class="tab-pane active" id="tab1">
                                 <h2>Visión de conjunto:</h2>
                                 <p align="justify">El controlador inalámbrico de la serie Cisco® 5500 es una plataforma altamente escalable y flexible que permite servicios en todo el sistema para redes inalámbricas de misión crítica en entornos de campus y empresas medianas y grandes. Diseñado para el rendimiento 802.11n y la máxima escalabilidad, la serie 5500 ofrece un tiempo de actividad mejorado con:</p><br>
-                                <ul>
+                                <ul class="listas">
                                     <li>Visibilidad y protección RF</li>
                                     <li>La capacidad de administrar simultáneamente hasta 500 puntos de acceso</li>
                                     <li>Rendimiento superior para transmisión de video confiable y voz con calidad de llamada</li>
@@ -125,7 +125,7 @@
 
                             <div class="tab-pane" id="tab4">
                                 <h2>Características </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody><tr>
             <th style="width:30%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></th>
             <th style="width:70%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficios</font></font></th>
@@ -144,7 +144,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OfficeExtend</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admite el servicio inalámbrico corporativo para trabajadores móviles y remotos con túneles cableados seguros a los puntos de acceso de la serie Cisco Aironet® 1130 o 1140</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Extiende la red corporativa a ubicaciones remotas con requisitos mínimos de configuración y mantenimiento (implementación sin intervención)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mejora la productividad y la colaboración en ubicaciones de sitios remotos</font></font></li>
@@ -160,7 +160,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Malla inalámbrica empresarial</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Permite que los puntos de acceso establezcan dinámicamente conexiones inalámbricas sin necesidad de una conexión física a la red cableada</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disponible en puntos de acceso seleccionados de Cisco Aironet, Enterprise Wireless Mesh es ideal para almacenes, plantas de fabricación, centros comerciales y cualquier otro lugar donde la extensión de una conexión por cable puede resultar difícil o estéticamente poco atractiva.</font></font></li>
               </ul></td>
@@ -171,7 +171,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voz de extremo a extremo</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admite comunicaciones unificadas para mejorar la colaboración a través de mensajería, presencia y conferencias</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Admite todos los teléfonos IP unificados de Cisco para servicios de voz rentables en tiempo real</font></font></li>
               </ul></td>
@@ -186,7 +186,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Movilidad, seguridad y administración para clientes IPv6 y de doble pila</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conectividad inalámbrica segura y confiable y experiencia de usuario final uniforme</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mayor disponibilidad de la red mediante el bloqueo proactivo de amenazas conocidas</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Equipa a los administradores para la resolución de problemas, la planificación y la trazabilidad de clientes de IPv6 desde un sistema de gestión inalámbrico y por cable común</font></font></li>
@@ -196,12 +196,12 @@
                             </div>
                             
                             <div class="tab-pane" id="tab2">
-                                <h3>Especificaciones Tecnicas:</h3>
+                                <h3>Especificaciones Técnicas:</h3>
                                 <br>
 
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody><tr>
-            <th style="width:30%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+            <th style="width:30%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
             <th style="width:70%"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
           </tr>
           <tr>
@@ -214,7 +214,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Solicitud de datos para comentarios (RFC)</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 768 UDP</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IP RFC 791</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2460 IPv6 (solo modo puente de paso)</font></font></li>
@@ -231,7 +231,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas de seguridad</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso Wi-Fi Protegido (WPA)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11i (WPA2, RSN)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmo de resumen de mensajes RFC 1321 MD5</font></font></li>
@@ -256,7 +256,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WEP y TKIP-MIC: RC4 40, 104 y 128 bits (tanto claves estáticas como compartidas)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AES: CBC, CCM, CCMP</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DES: DES-CBC, 3DES</font></font></li>
@@ -267,7 +267,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación, autorización y contabilidad (AAA)</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.1X</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2548 Atributos de RADIUS específicos del proveedor de Microsoft</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2716 PPP EAP-TLS</font></font></li>
@@ -284,7 +284,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">administración</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNMP v1, v2c, v3</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 854 Telnet</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1155 Información de gestión para Internet basadas en TCP/IP</font></font></li>
@@ -308,7 +308,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces de gestión</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Basado en web: HTTP/HTTPS</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de línea de comandos: Telnet, protocolo Secure Shell (SSH), puerto serie</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sistema de control inalámbrico de Cisco (WCS)</font></font></li>
@@ -316,7 +316,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces e Indicadores</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enlace ascendente: 8 (5508) ranuras de transceptor 1000BaseT, 1000Base-SX y 1000Base-LH</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opciones conectables de factor de forma pequeño (SFP) (solo se admiten SFP de Cisco): GLC-T, GLC-SX-MM, GLC-LH-SM</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicadores LED: enlace</font></font></li>
@@ -332,14 +332,14 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Físico</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones: 17,30 x 21,20 x 1,75 pulg. (440 x 539 x &ZeroWidthSpace;&ZeroWidthSpace;44,5 mm)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso: 20 libras (9,1 kg) con 2 fuentes de alimentación</font></font></li>
               </ul></td>
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura:
                   </font></font><ul>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">En funcionamiento: 32 a 104 °F (0 a 40 °C)</font></font></li>
@@ -364,7 +364,7 @@
           </tr>
           <tr>
             <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento normativo</font></font></strong></td>
-            <td><ul>
+            <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Marca CE</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL60950-1:2003</font></font></li>

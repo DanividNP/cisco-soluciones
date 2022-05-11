@@ -65,9 +65,9 @@
 
                                 <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rasgo</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beneficio</font></font></p></td>
+            <tr>
+              <th>Rasgo</th>
+              <th>Beneficio</th>
             </tr>
           </thead>
           <tbody>
@@ -86,17 +86,17 @@
                       <div class="tab-pane" id="tab2">
                                 <h3>Especificaciones Técnicas:</h3>
                                 <br> 
-                                <table class="table table-hover table-bordered table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <thead>
-            <tr style="background-color: #2c6c89; font-weight: bold; color: #fff">
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></p></td>
-              <td colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></p></td>
+            <tr>
+              <th>Artículo</th>
+              <th colspan="9">Especificación</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autenticación y seguridad</font></font></strong></p></td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES) para Wi-Fi Protected Access 2 (WPA2)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X, autenticación RADIUS, autorización y contabilidad (AAA)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11r</font></font></li>
@@ -113,7 +113,7 @@
             </tr>
             <tr>
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11ac</font></font></strong></p></td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIMO 2x2 de un solo usuario y multiusuario con dos flujos espaciales</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Combinación de relación máxima (MRC)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Canales de 20, 40 y 80 MHz</font></font></li>
@@ -129,7 +129,7 @@
             </tr>
             <tr>
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bluetooth (disponibilidad futura)</font></font></strong></p></td>
-              <td colspan="9"><ul>
+              <td colspan="9"><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio Bluetooth 4.1 integrado (incluido BLE)</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potencia máxima de transmisión: 4 dBm</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ganancia de antena: 2 dBi</font></font></li>
@@ -187,11 +187,11 @@
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6</font></font></p></td>
               <td colspan="4"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
-              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
             </tr>
             <tr>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7</font></font></p></td>
-              <td colspan="4"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td colspan="4"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td colspan="3"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">72.2</font></font></p></td>
             </tr>
             <tr>
@@ -272,7 +272,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14.4</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></p></td>
@@ -320,14 +320,14 @@
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">121.5</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">263.3</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">292.5</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">135</font></font></p></td>
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">292.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">72.2</font></font></p></td>
@@ -362,7 +362,7 @@
               <td colspan="2"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">58.5</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14.4</font></font></p></td>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30</font></font></p></td>
-              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sesenta y cinco</font></font></p></td>
+              <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">65</font></font></p></td>
             </tr>
             <tr>
               <td><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></p></td>
@@ -457,7 +457,7 @@
             <tr>
               <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Número máximo de canales que no se superponen</font></font></strong></p></td>
               <td colspan="4"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A (un dominio regulador):</font></font></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
@@ -465,7 +465,7 @@
                 </ul>
                 
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">B (dominio regulador B):</font></font></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.720 GHz; </font><font style="vertical-align: inherit;">12 canales</font></font></li>
@@ -473,273 +473,271 @@
                 </ul>
                 
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C (dominio regulador C):</font></font></p>
-                <ul>
+                <ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul>
                 
-                <p>D (D regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li> 5.745 to 5.825 GHz; 5 channels</li>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">D (dominio regulador D):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul>
                 
-                <p>E (E regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.500 to 5.700 GHz; 8 channels (excludes 5.600 to 5.640 GHz)</li>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">E (dominio regulador E):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
                 </ul>
-                <p>F (F regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.745 to 5.805 GHz; 4 channels</li>
-                </ul>
-                
-                <p><span>G (G regulatory domain):</span></p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.745 to 5.865 GHz; 7 channels</li>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">F (dominio regulador F):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></li>
                 </ul>
                 
-                <p><span>H (H regulatory domain):</span></p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
+                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">G (dominio regulador G):</font></font></span></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,865 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
                 </ul>
                 
-                <p>I (I regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
+                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">H (dominio regulador H):</font></font></span></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
+                </ul>
+                
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">I (I dominio regulador):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
                 </ul>
                 </td>
-              <td colspan="5"><p>K (K regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.500 to 5.620 GHz; 7 channels</li>
-                  <li>5.745 to 5.805 GHz; 4 channels</li>
+              <td colspan="5"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K (dominio regulador K):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.620 GHz; </font><font style="vertical-align: inherit;">7 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></li>
                 </ul>
                 
-                <p>N (N regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N (N dominio regulador):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul>
                 
-                <p>Q (Q regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.500 to 5.700 GHz; 11 channels</li>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Q (dominio regulador Q):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
                 </ul>
                 
-                <p><span>R (R regulatory domain):</span></p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.660 to 5.700 GHz; 3 channels</li>
-                  <li>5.745 to 5.805 GHz; 4 channels</li>
+                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">R (dominio regulador R):</font></font></span></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,660 a 5,700 GHz; </font><font style="vertical-align: inherit;">3 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,805 GHz; </font><font style="vertical-align: inherit;">4 canales</font></font></li>
                 </ul>
                 
-                <p><span>S (S regulatory domain):</span></p>
-                <ul>
-                  <li>2.412 to 2.472 GHz; 13 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.500 to 5.700 GHz; 11 channels</li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
+                <p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">S (dominio regulador S):</font></font></span></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,472 GHz; </font><font style="vertical-align: inherit;">13 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul>
                
-                <p>T (T regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels</li>
-                  <li>5.280 to 5.320 GHz; 3 channels</li>
-                  <li>5.500 to 5.700 GHz; 8 channels
-                    (excludes 5.600 to 5.640 GHz)</li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">T (dominio regulador T):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,280 a 5,320 GHz; </font><font style="vertical-align: inherit;">3 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul>
-                <p>Z (Z regulatory domain):</p>
-                <ul>
-                  <li>2.412 to 2.462 GHz; 11 channels</li>
-                  <li>5.180 to 5.320 GHz; 8 channels</li>
-                  <li>5.500 to 5.700 GHz; 8 channels
-                    (excludes 5.600 to 5.640 GHz)</li>
-                  <li>5.745 to 5.825 GHz; 5 channels</li>
+                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Z (dominio regulador Z):</font></font></p>
+                <ul class="listas">
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,412 a 2,462 GHz; </font><font style="vertical-align: inherit;">11 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,180 a 5,320 GHz; </font><font style="vertical-align: inherit;">8 canales</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.500 a 5.700 GHz; </font><font style="vertical-align: inherit;">8 canales (excluye 5.600 a 5.640 GHz)</font></font></li>
+                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5,745 a 5,825 GHz; </font><font style="vertical-align: inherit;">5 canales</font></font></li>
                 </ul></td>
             </tr>
             <tr>
-              <td colspan="10"><p><b>Note:</b> This varies by regulatory domain. Refer to the product documentation for specific details for each regulatory domain.</p></td>
+              <td colspan="10"><p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nota:</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Esto varía según el dominio regulatorio. </font><font style="vertical-align: inherit;">Consulte la documentación del producto para obtener detalles específicos de cada dominio regulatorio.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><strong>Available transmit power settings</strong></p></td>
-              <td colspan="5"><p><strong>2.4 GHz</strong><br>
-                20 dBm (100 mW)<br>
-                17 dBm (50 mW)<br>
-                14 dBm (25 mW)<br>
-                11 dBm (12.5 mW)<br>
-                8 dBm (6.25 mW)<br>
-                5 dBm (3.13 mW)<br>
-                2 dBm (1.56 mW)<br>
-                -1 dBm (0.78 mW)</p></td>
-              <td colspan="4"><p><strong>5 GHz</strong><br>
-                20 dBm (100 mW)<br>
-                17 dBm (50 mW)<br>
-                14 dBm (25 mW)<br>
-                11 dBm (12.5 mW)<br>
-                8 dBm (6.25 mW)<br>
-                5 dBm (3.13 mW)<br>
-                2 dBm (1.56 mW)<br>
-                -1 dBm (0.78mW)</p></td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Configuraciones de potencia de transmisión disponibles</font></font></strong></p></td>
+              <td colspan="5"><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz</font></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+                20 dBm (100 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                17 dBm (50 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                14 dBm (25 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                11 dBm (12,5 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                8 dBm (6,25 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                5 dBm (3,13 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                2 dBm (1,56 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                -1 dBm (0,78 mW ) </font><font style="vertical-align: inherit;">)</font></font></p></td>
+              <td colspan="4"><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz</font></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+                20 dBm (100 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                17 dBm (50 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                14 dBm (25 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                11 dBm (12,5 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                8 dBm (6,25 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                5 dBm (3,13 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                2 dBm (1,56 mW) </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                -1 dBm (0,78 mW) </font><font style="vertical-align: inherit;">)</font></font></p></td>
             </tr>
             <tr>
-              <td colspan="10"><p><b>Note:</b> The maximum power setting will vary by channel and according to individual country regulations. Refer to the product documentation for specific details.</p></td>
+              <td colspan="10"><p><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nota:</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> La configuración de potencia máxima variará según el canal y de acuerdo con las regulaciones de cada país. </font><font style="vertical-align: inherit;">Consulte la documentación del producto para obtener detalles específicos.</font></font></p></td>
             </tr>
             <tr>
-              <td><p><strong>Integrated antennas</strong></p></td>
-              <td colspan="9"><ul>
-                <li>2.4 GHz, gain 2 dBi</li>
-                <li>5 GHz, gain 3 dBi</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Antenas integradas</font></font></strong></p></td>
+              <td colspan="9"><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2,4 GHz, ganancia de 2 dBi</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 GHz, ganancia 3 dBi</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>Interfaces</strong></p></td>
-              <td colspan="9"><ul>
-                <li>1 x 10/100/1000BASE-T autosensing (RJ-45), PoE (optional with AIR-MOD-POE)</li>
-                <li>Management console port (4-pin connector)</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces</font></font></strong></p></td>
+              <td colspan="9"><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 x 10/100/1000BASE-T con detección automática (RJ-45), PoE (opcional con AIR-MOD-POE)</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto de la consola de administración (conector de 4 pines)</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>Indicators</strong></p></td>
-              <td colspan="9">Status LED indicates boot loader status, association status, operating status, boot loader warnings, boot loader errors</td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indicadores</font></font></strong></p></td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El LED de estado indica el estado del cargador de arranque, el estado de asociación, el estado operativo, las advertencias del cargador de arranque, los errores del cargador de arranque</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Dimensions (W&nbsp;x&nbsp;L&nbsp;x&nbsp;H)</strong></p></td>
-              <td colspan="9">Access point (without mounting bracket): 3.5 x 5.5 x 1.25 in (89 x 140 x 31.5 mm)</td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones (ancho x largo x alto)</font></font></strong></p></td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso (sin soporte de montaje): 3,5 x 5,5 x 1,25 pulgadas (89 x 140 x 31,5 mm)</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Weight</strong></p></td>
-              <td colspan="9">Access point without mounting bracket or any other accessories: 10 oz (280 g)</td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peso</font></font></strong></p></td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Punto de acceso sin soporte de montaje ni ningún otro accesorio: 10 oz (280 g)</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Environmental</strong></p></td>
-              <td colspan="9"><ul>
-                <li>Operating
-                  <ul>
-                    <li>Temperature: 32° to 104°F (0° to 40°C)</li>
-                    <li>Humidity: 10% to 90% (noncondensing)</li>
-                    <li>Maximum altitude: 9843 ft (3000 m) @ 104°F (40°C)</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ambiental</font></font></strong></p></td>
+              <td colspan="9"><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Operando
+                  </font></font><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura: 32° a 104°F (0° a 40°C)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad: 10% a 90% (sin condensación)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Altitud máxima: 9843 pies (3000 m) a 104 °F (40 °C)</font></font></li>
                   </ul>
                 </li>
-                <li>Nonoperating (storage and transportation)
-                  <ul>
-                    <li>Temperature: -22° to 158°F (-30° to 70°C)</li>
-                    <li>Humidity: 10% to 90% (noncondensing)</li>
-                    <li>Maximum altitude: 15,000 ft (4500 m) @ 77°F (25°C)</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">No operativo (almacenamiento y transporte)
+                  </font></font><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura: -22° a 158°F (-30° a 70°C)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Humedad: 10% a 90% (sin condensación)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Altitud máxima: 4500 m (15 000 pies) a 25 °C (77 °F)</font></font></li>
                     </ul>
                 </li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>System</strong></p></td>
-              <td colspan="9"><ul>
-                <li>256 MB DRAM</li>
-                <li>128 MB flash</li>
-                <li>710 MHz quad-core</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sistema</font></font></strong></p></td>
+              <td colspan="9"><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">256MB DRAM</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flash de 128 MB</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">710 MHz de cuatro núcleos</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>Input power requirements</strong></p></td>
-              <td colspan="9"><ul>
-                <li>802.3af/at Ethernet switch</li>
-                <li>AIR-MOD-AC-XX</li>
-                <li>AIR-MOD-USB-XX</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Requisitos de potencia de entrada</font></font></strong></p></td>
+              <td colspan="9"><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conmutador Ethernet 802.3af/at</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIRE-MOD-AC-XX</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIRE-MOD-USB-XX</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>Powering options</strong></p></td>
-              <td colspan="9">8.5W (maximum)</td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opciones de alimentación</font></font></strong></p></td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">8,5 W (máximo)</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Power draw</strong></p></td>
-              <td colspan="9">Kensington lock slot to lock device to mounting bracket</td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Poder de dibujo</font></font></strong></p></td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ranura de bloqueo Kensington para bloquear el dispositivo en el soporte de montaje</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Physical security</strong></p></td>
-              <td colspan="9">Included with the access point: mounting bracket AIR-AP-BRACKET-NS or AIR-MOD-AC-XX</td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad física</font></font></strong></p></td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Incluido con el punto de acceso: soporte de montaje AIR-AP-BRACKET-NS o AIR-MOD-AC-XX</font></font></td>
             </tr>
             <tr>
-              <td><p><strong>Mounting</strong></p></td>
-              <td colspan="9"><ul>
-                <li>AIR-MOD-POE for Ethernet and PoE powering</li>
-                <li>AIR-MOD-AC-XX for direct electrical socket powering</li>
-                <li>AIR-MOD-USB-XX for power via USB power source</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Montaje</font></font></strong></p></td>
+              <td colspan="9"><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-MOD-POE para alimentación Ethernet y PoE</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-MOD-AC-XX para alimentación directa de enchufes eléctricos</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-MOD-USB-XX para alimentación mediante fuente de alimentación USB</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>Accessories</strong></p></td>
-              <td colspan="9">
-			  Cisco DNA Endpoint software subscription licenses are required for the Active Sensor
-			  <ul>
-                <li>AIR-DNA-EP-3Y – 3 Year Cisco DNA Endpoint license</li>
-                <li>AIR-DNA-EP-5Y – 5 Year Cisco DNA Endpoint license</li>
-                <li>AIR-DNA-EP-7Y – 7 Year Cisco DNA Endpoint license</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Accesorios</font></font></strong></p></td>
+              <td colspan="9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+			  Se requieren licencias de suscripción del software Cisco DNA Endpoint para Active Sensor
+			  </font></font><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-DNA-EP-3Y: licencia Cisco DNA Endpoint de 3 años</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-DNA-EP-5Y: licencia de Cisco DNA Endpoint de 5 años</font></font></li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AIR-DNA-EP-7Y: licencia de Cisco DNA Endpoint de 7 años</font></font></li>
               </ul></td>
             </tr>
             <tr>
-              <td><p><strong>Warranty</strong></p></td>
-              <td colspan="9"><p>1-year limited hardware warranty</p></td>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía</font></font></strong></p></td>
+              <td colspan="9"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Garantía limitada de hardware de 1 año</font></font></p></td>
             </tr>
             <tr>
-              <td><p><strong>Compliance</strong></p></td>
-              <td colspan="9"><ul>
-                <li> Safety:
-                  <ul>
-                    <li>UL 60950-1</li>
-                    <li>CAN/CSA-C22.2 No. 60950-1</li>
-                    <li>UL 2043</li>
-                    <li>IEC 60950-1</li>
-                    <li>EN 60950-1</li>
+              <td><p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento</font></font></strong></p></td>
+              <td colspan="9"><ul class="listas">
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:
+                  </font></font><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAN/CSA-C22.2 n.º 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL 2043</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI 60950-1</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 60950-1</font></font></li>
                   </ul>
                 </li>
-                <li>Radio approvals:
-                  <ul>
-                    <li>FCC Part 15.247, 15.407</li>
-                    <li>RSS-247 (Canada)</li>
-                    <li>EN 300.328, EN 301.893 (Europe)</li>
-                    <li>ARIB-STD 66 (Japan)</li>
-                    <li>ARIB-STD T71 (Japan)</li>
-                    <li>EMI and susceptibility (Class B)</li>
-                    <li>FCC Part 15.107 and 15.109</li>
-                    <li>ICES-003 (Canada)</li>
-                    <li>VCCI (Japan)</li>
-                    <li>EN 301.489-1 and -17 (Europe)</li>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aprobaciones de radio:
+                  </font></font><ul class="listas">
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC Parte 15.247, 15.407</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-247 (Canadá)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300.328, EN 301.893 (Europa)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARIB-STD 66 (Japón)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARIB-STD T71 (Japón)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EMI y susceptibilidad (Clase B)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC Partes 15.107 y 15.109</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICES-003 (Canadá)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VCCI (Japón)</font></font></li>
+                    <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 301.489-1 y -17 (Europa)</font></font></li>
                   </ul>
                 </li>
-                <li>IEEE standards:
-                  <ul>
+                <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas IEEE:
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11a/b/g, 802.11n, 802.11h, 802.11d</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11ac</font></font></li>
                   </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seguridad:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.11i, WPA2, WPA</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">802.1X ◦ AES</font></font></li>
                   </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipos de protocolo de autenticación extensible (EAP):
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Seguridad de la capa de transporte (TLS)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP protegido (PEAP) v0 o EAP-MSCHAPv2</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EAP-Autenticación flexible mediante túnel seguro (FAST)</font></font></li>
                   </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Otro:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Boletín de la FCC OET-65C</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSS-102</font></font></li>
                   </ul>
@@ -751,7 +749,7 @@
                                 </div>
                                 <div class="tab-pane" id="tab5">
                                 <h2>Potencia de transmisión y sensibilidad de recepción:</h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
 		  <tbody><tr>
 		    <th colspan="2">&nbsp;</th>
 		    <th colspan="2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Radio de 2,4 GHz</font></font></strong></th>
@@ -835,7 +833,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-75</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-75</font></font></td>
 	      </tr>
 		  <tr>
@@ -859,7 +857,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr class="row-header">
@@ -886,7 +884,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr>
@@ -910,7 +908,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-69</font></font></td>
 	      </tr>
 		  <tr class="row-header">
@@ -937,7 +935,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-75</font></font></td>
 	      </tr>
 		  <tr>
@@ -969,7 +967,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr>
@@ -1004,7 +1002,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-72</font></font></td>
 	      </tr>
 		  <tr>
@@ -1044,7 +1042,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-69</font></font></td>
 	      </tr>
 		  <tr>
@@ -1053,7 +1051,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></td>
 	      </tr>
 		  <tr>
 		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></strong></td>
@@ -1087,7 +1085,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-69</font></font></td>
 	      </tr>
 		  <tr>
@@ -1096,7 +1094,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-sesenta y cinco</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-65</font></font></td>
 	      </tr>
 		  <tr>
 		    <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MCS9</font></font></strong></td>
@@ -1127,7 +1125,7 @@
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font></td>
-		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dieciséis</font></font></td>
+		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16</font></font></td>
 		    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-66</font></font></td>
 	      </tr>
 		  <tr>

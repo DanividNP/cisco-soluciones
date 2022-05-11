@@ -4,7 +4,7 @@
             <center><h2>Modelos de la serie Cisco Aironet 1560</h2></center>
             <div class="col-md-12 heading">
                 <span class="title-icon pull-left"><i class="fa fa-server"></i></span>
-                <h3 class="title">Puntos de acceso de la serie Cisco Aironet 1560</h3>
+                <h3 class="title">Access Points de la serie Cisco Aironet 1560</h3>
                         </div>
                         <div class="col-sm-4 portfolio-static-item">
                             <div class="grid">

@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 heading text-center">
                 <h2 class="title2">Cisco Aironet serie 1570<br>
-                    <span class="title-desc">Puntos de acceso industriales y para exteriores Aironet</span>
+                    <span class="title-desc">Access Point industriales y para exteriores Aironet</span>
                 </h2>
             </div>
        		</div> <!-- Title row end -->
@@ -17,7 +17,7 @@
 						<div class="service-content text-center">
                         <a><img src="images/iconos/arrow-up.png" alt=""></a>
 							<h3>Potencia máxima de radiofrecuencia</h3>
-							<p>Estos puntos de acceso también ofrecen la máxima potencia radiada de RF permitida en radios de 2,4 y 5 GHz. Los clientes pueden reducir el costo total de propiedad utilizando la menor cantidad de puntos de acceso para obtener la mayor cobertura de área posible y las tasas de rendimiento más altas.</p>
+							<p>Estos access point también ofrecen la máxima potencia radiada de RF permitida en radios de 2,4 y 5 GHz. Los clientes pueden reducir el costo total de propiedad utilizando la menor cantidad de puntos de acceso para obtener la mayor cobertura de área posible y las tasas de rendimiento más altas.</p>
 						</div>
 					</div><!--/ End first service -->
 

@@ -3,7 +3,7 @@
     <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h3 class="title-border">Controlador inalámbrico Cisco Catalyst 9800-40 </h3>
-                <h5>Basado en Cisco IOS XE e integra la excelencia RF de los puntos de acceso Cisco Aironet</h5>
+                <h5>Basado en Cisco IOS XE e integra la excelencia RF de los access points Cisco Aironet</h5>
                 <center> <img class="img-responsive" src="images/Wireless/Cata9800-40.png" alt=""></center>
 
     <!--/ Panel Inicio -->
@@ -69,7 +69,7 @@
 
                             <div class="tab-pane" id="tab2">
                                 <h2>Características clave:  </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Métrico</font></font></th>
@@ -187,7 +187,7 @@
                                 <h3>Detalles</h3>
                                 <div role="tabpanel" class="tab-pane active" id="details">
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensiones físicas:</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dimensión</font></font></th>
@@ -212,7 +212,7 @@
           </tbody>
         </table>
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puertos y sus fines:</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puerto</font></font></th>
@@ -252,7 +252,7 @@
           </tbody>
         </table>
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED del panel frontal</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DIRIGIÓ</font></font></th>
@@ -333,7 +333,7 @@
           </tbody>
         </table>
         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED del panel trasero</font></font></h3>
-        <table class="table table-bordered table-hover table-responsive">
+        <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LED verde</font></font></th>
@@ -426,10 +426,10 @@
 
                             <div class="tab-pane" id="tab5">
                                 <h2>Especificaciones: </h2>
-                                <table class="table table-bordered table-hover table-responsive">
+                                <table class="tabla" border="1" cellspacing="5" cellpadding="5" width=100%>
           <tbody>
             <tr>
-              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articulo</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Artículo</font></font></th>
               <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Especificación</font></font></th>
             </tr>
             <tr>
@@ -442,7 +442,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de datos</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 768 Protocolo de datagramas de usuario (UDP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IP RFC 791</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2460 IPv6</font></font></li>
@@ -459,7 +459,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normas de seguridad</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acceso Wi-Fi Protegido (WPA)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.11i (WPA2, RSN)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algoritmo de resumen de mensajes RFC 1321 MD5</font></font></li>
@@ -481,7 +481,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de cifrado</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privacidad equivalente por cable estático (WEP) RC4 40, 104 y 128 bits</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado avanzado (AES): encadenamiento de bloques de cifrado (CBC), contador con CBC-MAC (CCM), contador con protocolo de código de autenticación de mensajes CBC (CCMP)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándar de cifrado de datos (DES): DES-CBC, 3DES</font></font></li>
@@ -493,7 +493,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de autenticación, autorización y contabilidad (AAA)</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 802.1X</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2548 Atributos de RADIUS específicos del proveedor de Microsoft</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 2716 Protocolo punto a punto (PPP) Protocolo de autenticación extensible (EAP)-TLS</font></font></li>
@@ -512,7 +512,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estándares de gestión</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Protocolo simple de administración de redes (SNMP) v1, v2c, v3</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 854 Telnet</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RFC 1155 Información de gestión para Internet basadas en TCP/IP</font></font></li>
@@ -544,7 +544,7 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaces de gestión</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Basado en web: HTTP/HTTPS</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz de línea de comandos: Telnet, protocolo Secure Shell (SSH), puerto serie</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNMP</font></font></li>
@@ -553,14 +553,14 @@
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unidades de disco duro (HDD)</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unidad de estado sólido SATA (SSD)</font></font></li>
                   <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">240 GB de memoria</font></font></li>
                 </ul></td>
             </tr>
             <tr>
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Condiciones ambientales soportadas</font></font></strong></td>
-              <td><ul>
+              <td><ul class="listas">
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Temperatura de funcionamiento:
                   </font></font><ul>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normal: 5° a 40° C (41° a 104° F)</font></font></li>
@@ -569,29 +569,29 @@
                     </ul>
                   </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Temperatura no operativa:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-40° a 65° C (-104° a 149° F)</font></font></li>
                     </ul>
                   </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Humedad de funcionamiento:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nominal: 5% a 85% sin condensación</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corto plazo: 5% a 90% sin condensación</font></font></li>
                     </ul>
                   </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Humedad de temperatura no operativa:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5% a 93% a 82°F (28°C)</font></font></li>
                     </ul>
                   </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Altitud de funcionamiento:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aparato en funcionamiento: 0 a 3000 m (0 a 10 000 pies)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dispositivo no operativo: 0 a 12 192 m (0 a 40 000 pies)</font></font></li>
                   </ul>
                   </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Entrada eléctrica:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rango de frecuencia de entrada de CA: 47 a 63 Hz</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rango de entrada de CA: 90 a 264 VCA con PEM de CA</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CA de 1100 W con fuente de alimentación redundante opcional (intercambiable en caliente)</font></font></li>
@@ -600,7 +600,7 @@
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">                Potencia máxima: 381W</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Disipación de calor: 1300 BTU/h</font></font></li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Medida del nivel de potencia sonora: 
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El nivel de potencia de sonido con ponderación A es de 74,1 LpAm (dBA) a 27 °C de funcionamiento nominal</font></font></li>
                   </ul>
                 </li>
@@ -610,7 +610,7 @@
               <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cumplimiento normativo</font></font></strong></td>
               <td><ul>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La seguridad:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UL/CSA 60950-1</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEI/EN 60950-1</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS 60950.1</font></font></li>
@@ -618,7 +618,7 @@
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM - Emisiones:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FCC 47CFR15</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AS/NZS CISPR 22</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISPR 22</font></font></li>
@@ -630,13 +630,13 @@
 </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM - Emisiones:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-2 Armónicos de línea eléctrica (EMI-3)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN61000-3-3 Cambios de voltaje, fluctuaciones y parpadeo (EMI-3)</font></font></li>
                     </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM – Inmunidad:
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEC/EN61000-4-2 Inmunidad a descargas electrostáticas</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad radiada IEC/EN61000-4-3</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inmunidad IEC/EN61000-4-4 EFT-B (cables de alimentación de CA)</font></font></li>
@@ -652,7 +652,7 @@
                   </ul>
                 </li>
                 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CEM (ETSI/ES)
-                  </font></font><ul>
+                  </font></font><ul class="listas">
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN 300 386 Equipo de red de telecomunicaciones (EMC) (EMC-3)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN55022 Equipos de tecnología de la información (emisiones)</font></font></li>
                     <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EN55024/CISPR 24 Equipo de tecnología de la información (inmunidad)</font></font></li>

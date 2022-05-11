@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 heading text-center">
-                <h2 class="title2">Puntos de acceso de la serie Cisco Business 100 Puntos<br>
+                <h2 class="title2">Access Point de la serie Cisco Business 100 Puntos<br>
                     <span class="title-desc">de acceso inalámbricos fáciles de implementar</span>
                 </h2>
             </div>
@@ -10,7 +10,7 @@
 				<div class="row">
 						<div class="tab-content">
 								<center><img class="img-responsive" src="images/Wireless/Business100.png" alt=""></center>
-                                <p>Los puntos de acceso de la serie Cisco Business 100 ofrecen rendimiento empresarial en un factor de forma compacto. Ideal para la cobertura Wi-Fi en interiores, los puntos de acceso Cisco Business 100 Series brindan una conexión inalámbrica altamente segura y confiable en todo el lugar de trabajo de la pequeña empresa.
+                                <p>Los access point de la serie Cisco Business 100 ofrecen rendimiento empresarial en un factor de forma compacto. Ideal para la cobertura Wi-Fi en interiores, los access point Cisco Business 100 Series brindan una conexión inalámbrica altamente segura y confiable en todo el lugar de trabajo de la pequeña empresa.
 
 <br>Estos puntos de acceso son compatibles con Cisco Business 100 Series Mesh Extenders para expandir rápidamente su red Wi-Fi.</p>
 								<div class="row">
@@ -36,7 +36,7 @@
 						<div class="service-content text-center">
 						<a><img src="images/iconos/Flexibility (1).png"></a> 
 							<h3>Flexibilidad</h3>
-							<p>Amplíe su cobertura Wi-Fi simplemente mezclando y combinando extensores de malla y puntos de acceso Cisco Business Wireless adicionales. La alimentación a través de Ethernet (PoE) integrada ofrece flexibilidad adicional.</p>
+							<p>Amplíe su cobertura Wi-Fi simplemente mezclando y combinando extensores de malla y access point Cisco Business Wireless adicionales. La alimentación a través de Ethernet (PoE) integrada ofrece flexibilidad adicional.</p>
 						</div>
 					</div><!--/ End Third service -->
 
