@@ -10,7 +10,7 @@
                             <div class="tab-pane active animated fadeInRight" id="">
                                 <img class="img-responsive pull-right" src="images/incio/NCS_series_500_cisco.png" alt="">
                                 <h2>Routers</h2> 
-                                <font size=4> El routing de Cisco ofrece redes basadas en la intención para la WAN, la LAN y la nube. 
+								<font size=4> El routing de Cisco ofrece redes basadas en la intención para la WAN, la LAN y la nube. 
                                     Nuestros routers de red incluyen analítica avanzada, optimización de aplicaciones, aprovisionamiento 
                                     autorizado y seguridad incorporada para brindar una solución integral y comprobada.</font><br><br>
                                     <a href="#" class="btn btn-primary">Conoce más</a>							 
